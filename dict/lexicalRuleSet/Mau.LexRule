@@ -1,0 +1,804 @@
+! : !	10
+" : "	59
+, : ,	68
+, : .	2
+. : .	91
+... : ...	6
+: : :	4
+; : ;	2
+? : ?	4
+A : Nắng	1
+A : Suốt	1
+A : an toàn	1
+A : bài bản	1
+A : bạc	1
+A : bất trắc	1
+A : bổng	1
+A : bự	1
+A : cao	1
+A : cao độ	1
+A : chung	1
+A : chuyên	1
+A : chuyên nghiệp	1
+A : cháy bỏng	1
+A : chắc	1
+A : con	1
+A : có thể	4
+A : công khai	1
+A : cùng	3
+A : căng thẳng	1
+A : cũ	1
+A : cực kỳ	1
+A : duy nhất	1
+A : dài	1
+A : gan dạ	1
+A : già	1
+A : giả	1
+A : gọn	1
+A : gọn gàng	1
+A : hoàn chỉnh	1
+A : hoàn toàn	1
+A : huyền diệu	1
+A : háo hức	1
+A : hầu hết	1
+A : hỏng	1
+A : khanh khách	1
+A : khác	6
+A : khắp	1
+A : khổ	1
+A : kĩ	1
+A : kịch tính	1
+A : kỳ lạ	1
+A : kỹ	1
+A : liên tục	1
+A : lãng đãng	1
+A : lặng lẽ	1
+A : lề mề	1
+A : lớn	3
+A : lủn củn	1
+A : mạnh	2
+A : mềm mỏng	1
+A : mệt mỏi	1
+A : mới	4
+A : ngoạn mục	1
+A : nguội	1
+A : nhanh	1
+A : nhiều	5
+A : nhàu nát	1
+A : như	3
+A : nhỏ	2
+A : nhỏ bé	1
+A : nắng	1
+A : nổi tiếng	1
+A : quan trọng	1
+A : sau	1
+A : suốt	1
+A : sôi	2
+A : sạch sẽ	1
+A : sẵn	1
+A : tan	1
+A : thiêu thiếu	1
+A : thiếu	2
+A : thích hợp	1
+A : thông thường	1
+A : thấp	1
+A : thật	1
+A : thật sự	2
+A : thẳng	1
+A : thẳng thắn	1
+A : thử thách	1
+A : to	1
+A : trong	1
+A : trên	1
+A : trước	2
+A : trắng	1
+A : tuyệt vời	1
+A : tỉ mỉ	1
+A : tốt	1
+A : xa	1
+A : xuất sắc	1
+A : yếu	1
+A : ít	3
+A : ít nhiều	1
+A : đau khổ	1
+A : được	1
+A : đầu tiên	1
+A : đầy	1
+A : đặc biệt	1
+A : đặc trưng	1
+A : đẹp	1
+A : đẹp đẽ	1
+A : đều	1
+A : ầm ầm	1
+C : Cho nên	1
+C : Nhưng	2
+C : Nếu	2
+C : Số là	1
+C : Và	4
+C : Vì	2
+C : chứ	2
+C : hay	3
+C : hoặc	1
+C : là	4
+C : lẫn	1
+C : mà	3
+C : mà còn	1
+C : như	9
+C : nhưng	3
+C : nên	3
+C : nếu	1
+C : ra	1
+C : rằng	1
+C : rồi	1
+C : thì	12
+C : tuy	2
+C : tức	2
+C : và	12
+C : với	1
+E : Theo	1
+E : Trong	2
+E : Trước	1
+E : bằng	1
+E : bởi	2
+E : cho	14
+E : của	30
+E : dưới	2
+E : qua	1
+E : sang	1
+E : sau	4
+E : trong	6
+E : trên	4
+E : trước	1
+E : tại	3
+E : từ	5
+E : vào	11
+E : vì	2
+E : về	2
+E : với	12
+E : Để	1
+E : đến	4
+E : để	11
+E : Ở	1
+E : ở	7
+L : Các	1
+L : Mọi	1
+L : các	11
+L : cả	1
+L : mọi	1
+L : những	3
+L : toàn thể	1
+L : vài	2
+M : 1	3
+M : 1 . 400	1
+M : 1986	1
+M : 1992	1
+M : 2	1
+M : 20	2
+M : 2000	1
+M : 2001	1
+M : 2003	1
+M : 2004	1
+M : 2005	1
+M : 4	1
+M : 4 triệu	1
+M : 50	1
+M : 6	1
+M : 8	1
+M : Một	1
+M : ba	1
+M : hai	5
+M : mười	1
+M : một	21
+M : nhất	1
+M : năm	2
+M : triệu	3
+M : tỉ	3
+M : đôi	1
+N : Anh	2
+N : Bà	2
+N : Chiều	1
+N : Chương	1
+N : Chỗ	1
+N : Con trâu	1
+N : Cô	5
+N : Công ty	3
+N : Cú	1
+N : Dệt	1
+N : Khi	1
+N : Khoảng	1
+N : Kim ngạch	1
+N : Kinh tế	1
+N : Lúc	3
+N : Mẹ	1
+N : Mệnh đề	1
+N : Mộng	1
+N : Ngôn ngữ	1
+N : Người	1
+N : Nhà máy	1
+N : Năm	1
+N : Nước	1
+N : Nếp	1
+N : Phen	1
+N : Sự	1
+N : Tay	1
+N : Thành phố	1
+N : Thị trường	1
+N : Thị xã	1
+N : Thời gian	1
+N : Tre	1
+N : Trong	1
+N : Tôi	1
+N : Tập làm văn	1
+N : Việc	1
+N : Văn sĩ	1
+N : ai	1
+N : anh	3
+N : ban	2
+N : bao	1
+N : bà	3
+N : bài	1
+N : bài thơ	1
+N : bằng	2
+N : bệnh	1
+N : bệnh viện	1
+N : bộ	1
+N : bộ phận	1
+N : cent	1
+N : chiêu	1
+N : chiều	1
+N : chuyên ngành	3
+N : cháu	1
+N : chân	1
+N : chương	1
+N : chồng	1
+N : chỗ	1
+N : chủ	2
+N : chức	1
+N : chức năng	1
+N : chữ	1
+N : chữ nghĩa	1
+N : con số	3
+N : cuối	1
+N : cuộc	2
+N : cá	1
+N : cách	2
+N : cái	2
+N : cán bộ	1
+N : câu	6
+N : cô	26
+N : công cụ	1
+N : công nhân viên	1
+N : công sức	1
+N : công ty	5
+N : công việc	1
+N : căn	1
+N : cơ hội	2
+N : cảm giác	2
+N : cấu trúc	1
+N : cột	1
+N : cỡ	1
+N : cửa ngõ	1
+N : doanh thu	1
+N : dây	1
+N : dãy	1
+N : dông bão	1
+N : dưới	1
+N : dự án	1
+N : dự đoán	1
+N : giao dịch	1
+N : giá	3
+N : giám đốc	2
+N : giây	1
+N : giấy mời	1
+N : giọng	2
+N : gà	1
+N : gái	1
+N : gánh	1
+N : góc độ	1
+N : gạo	1
+N : hiện nay	1
+N : hiện tại	1
+N : hoạt động	2
+N : hàng	2
+N : hành vi	1
+N : hệ thống	1
+N : học	1
+N : hợp đồng	4
+N : jean	1
+N : kaki	1
+N : khi	4
+N : khách	1
+N : khách hàng	1
+N : không khí	1
+N : khăn	2
+N : khả năng	2
+N : kinh doanh	1
+N : kinh nghiệm	1
+N : kiến thức	2
+N : loài	1
+N : loại	1
+N : lông	1
+N : lúc	4
+N : lúc nào	1
+N : lĩnh vực	2
+N : lưng	1
+N : lời	2
+N : lợi	1
+N : lợn	1
+N : lửa	1
+N : mai	1
+N : máy bay	1
+N : máy móc	1
+N : môi trường	1
+N : măng	1
+N : mạng	2
+N : mặt	2
+N : mặt hàng	1
+N : mẹ	4
+N : mốc	1
+N : mộng	1
+N : một	1
+N : mức	2
+N : nghiệp vụ	2
+N : nghĩa	1
+N : ngoài	2
+N : nguyên liệu	2
+N : nguồn	1
+N : ngành	2
+N : ngày	4
+N : ngày xưa	1
+N : ngân hàng	2
+N : người	11
+N : nhà	5
+N : nhà cung cấp	2
+N : nhà thơ	1
+N : nhà thầu	2
+N : nhà trẻ	1
+N : nhóm	1
+N : năm	9
+N : nơi	3
+N : nước	7
+N : nước ngoài	2
+N : nền	1
+N : nổi tiếng	1
+N : phong cách	1
+N : phát ngôn	1
+N : phích	2
+N : phòng	1
+N : phương ngữ	1
+N : phương án	1
+N : phần	2
+N : phố	1
+N : qui mô	1
+N : quân	1
+N : rặng	1
+N : sau	1
+N : siêu thị	2
+N : sách	2
+N : sáng	1
+N : sản phẩm	3
+N : số lượng	1
+N : sở chỉ	1
+N : sợi	1
+N : sức	3
+N : sức sống	1
+N : sừng	1
+N : sự	5
+N : tay	2
+N : tham vọng	1
+N : thiết bị	1
+N : thun	1
+N : thành quả	1
+N : thái độ	1
+N : tháng	1
+N : thương mại	1
+N : thạc sĩ	1
+N : thị trường	4
+N : thời gian	2
+N : thời khắc	1
+N : thời điểm	1
+N : thứ	3
+N : thử thách	1
+N : thực lực	1
+N : tin	2
+N : tiếng	2
+N : tranh	2
+N : tre là ngà	1
+N : tro	1
+N : trung hạn	1
+N : trình độ	1
+N : trường	1
+N : trưởng phòng	1
+N : trời	1
+N : tài	1
+N : tài chính	5
+N : tình cảm	1
+N : tình huống	2
+N : tí	1
+N : tóc	1
+N : tư duy	2
+N : tư tưởng	1
+N : tập đoàn	4
+N : tật	1
+N : tỉ giá	1
+N : tốc độ	1
+N : tối	1
+N : việc	3
+N : vòng	1
+N : văn sĩ	2
+N : vải	1
+N : vịt	1
+N : vốn	1
+N : xe	2
+N : xuất nhập khẩu	1
+N : xí nghiệp	1
+N : Ông	3
+N : êkip	1
+N : ông	2
+N : ông ta	1
+N : ý	1
+N : ý định	1
+N : Điều	1
+N : Đường	1
+N : Đại học	1
+N : Đại hội	1
+N : Đầu	1
+N : điều	2
+N : điểm	1
+N : điện thoại	1
+N : đàn	1
+N : đêm	1
+N : đích	1
+N : đơn	3
+N : đơn vị	1
+N : đầu	2
+N : đề bài	1
+N : đối thủ	1
+N : đối tác	1
+N : đống	1
+N : đồng hồ	2
+N : đồng nghiệp	1
+N : đồng tiền	1
+N : ước muốn	1
+NP : *E*	5
+NP : *T*	4
+Nc : Chiếc	1
+Nc : Cuốn	1
+Nc : Cô	1
+Nc : Cụ	1
+Nc : anh	2
+Nc : con	1
+Nc : cuốn	1
+Nc : cái	3
+Nc : cô	1
+Np : Anh	1
+Np : Bắc	1
+Np : Cao Bằng	1
+Np : FOB	1
+Np : HCM	3
+Np : Hà Nội	1
+Np : Hàng Bông	1
+Np : Hương	2
+Np : Hồ Chí Minh	1
+Np : Internet	1
+Np : Minh Hương	1
+Np : Mỹ	8
+Np : Nam	3
+Np : Nguyễn Văn Dậu	1
+Np : Phong Phú	10
+Np : Phạm Minh Hương	1
+Np : Quyền	1
+Np : Sài Gòn	1
+Np : Target	4
+Np : Thành Công	2
+Np : Triệu	2
+Np : Tân An	1
+Np : Tú	1
+Np : VN	1
+Nu : USD	4
+Nu : VND	1
+Nu : giờ	3
+Nu : km	1
+Nu : tiếng	1
+Nu : đồng	1
+Ny : TP	4
+P : Cả	1
+P : Họ	1
+P : Mình	3
+P : Nó	1
+P : Sao	1
+P : Tôi	2
+P : ai	2
+P : bao	1
+P : bao giờ	1
+P : cô	1
+P : cả	6
+P : gì	2
+P : họ	1
+P : kia	1
+P : mình	19
+P : nay	1
+P : nhau	3
+P : nào	1
+P : này	8
+P : nó	3
+P : sao	2
+P : thế	2
+P : thế nào	1
+P : tôi	5
+P : tự	4
+P : Đây	1
+P : đâu	2
+P : đây	1
+P : đó	7
+P : đấy	1
+P : ấy	8
+R : Càng	1
+R : Không	1
+R : bất kể	1
+R : chưa	3
+R : chẳng	5
+R : chỉ	8
+R : càng	2
+R : còn	1
+R : cũng	9
+R : cứ	4
+R : dần	3
+R : dần dần	1
+R : hơi	1
+R : hơn	6
+R : hết sức	1
+R : không	19
+R : luôn	4
+R : lên	2
+R : lại	9
+R : lắm	2
+R : mới	1
+R : nhất	8
+R : nữa	2
+R : qua	1
+R : quá	3
+R : ra	12
+R : rõ	1
+R : rất	4
+R : rồi	2
+R : sắp	1
+R : sẽ	5
+R : thật	3
+R : tiếp	1
+R : tiếp tục	1
+R : từng	3
+R : vào	3
+R : vẫn	2
+R : vừa	2
+R : xong	1
+R : xuể	1
+R : Đã	1
+R : đang	4
+R : đi	3
+R : đã	13
+R : được	11
+R : đến	1
+T : chính	1
+T : cả	2
+T : gì	1
+T : hết	1
+T : hề	1
+T : nhé	2
+T : nào	1
+T : rồi	1
+T : thế	1
+T : trời	1
+T : tận	1
+T : vậy	1
+T : à	1
+T : đấy	5
+T : đến	1
+V : Chào mừng	1
+V : Có	2
+V : Muốn	1
+V : Múa may	1
+V : Nghe	1
+V : Nhìn	1
+V : Nói	2
+V : Ra	1
+V : Sôi nổi	1
+V : Vật vờ	1
+V : Về	2
+V : biến động	1
+V : biết	6
+V : bán lẻ	2
+V : bơi	1
+V : bước	1
+V : bật	1
+V : bắn	1
+V : bắt đầu	3
+V : bị	5
+V : bỏ	1
+V : cho	2
+V : chuyên nghiệp	1
+V : chuyển	1
+V : chuyển hướng	1
+V : chuẩn bị	1
+V : chào hàng	1
+V : chỉ định	1
+V : chịu	2
+V : chọn	1
+V : chủ động	1
+V : chứa	1
+V : chứng minh	1
+V : chứng tỏ	1
+V : cung cấp	1
+V : cung ứng	2
+V : cách	1
+V : còn	1
+V : có	10
+V : có mặt	1
+V : căng	1
+V : cười	1
+V : cầm	1
+V : cựa	1
+V : dòm ngó	1
+V : dệt	3
+V : dệt may	1
+V : dịch	1
+V : email	1
+V : ghi	1
+V : giao tiếp	2
+V : giành	1
+V : giả định	1
+V : giải quyết	1
+V : giật mình	1
+V : gãy	1
+V : gói	1
+V : gặp	1
+V : gồm	1
+V : hoàn chỉnh	1
+V : hoàn tất	1
+V : hoạt bát	1
+V : hoạt động	1
+V : học	7
+V : họp	1
+V : hồi âm	1
+V : khiến	1
+V : kinh doanh	3
+V : kiêng nể	1
+V : ký	1
+V : kịp	1
+V : lai	1
+V : lao	2
+V : liên quan	1
+V : là	14
+V : làm	12
+V : làm việc	1
+V : lùng sục	1
+V : lảng	1
+V : lấy	1
+V : lầm	1
+V : lợi	1
+V : lựa chọn	1
+V : mang	2
+V : may	1
+V : muốn	6
+V : mê	1
+V : múa	1
+V : mưa	2
+V : mạt sát	1
+V : mệt mỏi	1
+V : mọc	1
+V : mở	1
+V : mở rộng	2
+V : nghe	1
+V : nghĩ	1
+V : ngó	1
+V : ngồi	1
+V : nhấc	1
+V : nhấn mạnh	1
+V : nhất định	1
+V : nhận	2
+V : nhập khẩu	1
+V : nhắc	1
+V : nhắm nhe	1
+V : nhốt	1
+V : nhộn nhạo	1
+V : nhớ	1
+V : nâng	1
+V : nói	13
+V : nói năng	1
+V : nấp	1
+V : nắm	2
+V : nổi	1
+V : nỗ lực	1
+V : nộp	1
+V : phát triển	2
+V : phê bình	1
+V : phải	8
+V : phấn khích	1
+V : phụ	1
+V : phụ trách	1
+V : quanh	1
+V : quyết định	2
+V : quên	1
+V : quản trị	1
+V : quẩn	1
+V : rơi	1
+V : rượt	1
+V : rủ rê	2
+V : say	1
+V : sinh sống	1
+V : sôi động	2
+V : tham gia	1
+V : thay đổi	1
+V : theo	4
+V : thi đua	1
+V : thua lỗ	1
+V : thuộc	1
+V : thành	2
+V : thêm	1
+V : thích	2
+V : thích thú	1
+V : thú nhận	1
+V : thấy	4
+V : thầu	1
+V : thắng	2
+V : thổi	1
+V : thử	3
+V : thực hiện	2
+V : tin	1
+V : tiếp cận	1
+V : tranh	1
+V : trúng cử	1
+V : trị giá	3
+V : trở dạ	1
+V : trở thành	1
+V : tung	1
+V : tác động	2
+V : tìm	2
+V : tăng	1
+V : tập trung	1
+V : tập trận	1
+V : tới	1
+V : từ	1
+V : vào	2
+V : ví	1
+V : vượt	1
+V : vạch	1
+V : vẫy vùng	1
+V : về	7
+V : vỡ	1
+V : xem	1
+V : xin	3
+V : xuất	1
+V : xuất khẩu	1
+V : xây dựng	1
+V : xảy	1
+V : xầm xì	1
+V : xử lý	1
+V : yêu	1
+V : áp dụng	1
+V : ôm	2
+V : ăn mặc	1
+V : Đến	1
+V : đau	1
+V : đi	5
+V : điều phối	1
+V : đào tạo	1
+V : đánh	4
+V : đáo để	1
+V : đáp ứng	1
+V : đâm	1
+V : đưa	4
+V : được	12
+V : đấu thầu	2
+V : đấu trí	1
+V : đầu quân	1
+V : đầu tư	1
+V : đặt	1
+V : đến	3
+V : đọc	1
+V : đối phó	1
+V : đứng	2
+V : ới	1
+X : hình như	1
+X : ngày một	1
+X : nhất là	1

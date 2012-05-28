@@ -1,0 +1,684 @@
+! : !	10
+" : "	33
+, : ,	102
+- : -	6
+. : .	59
+... : ...	10
+: : :	17
+? : ?	3
+A : Cùng	1
+A : Hạ bạc	1
+A : Kinh khủng	1
+A : Nghèo khó	1
+A : Thường	1
+A : buồn	1
+A : bình tĩnh	1
+A : bạc đầu	2
+A : bằng	1
+A : cao	1
+A : chung	1
+A : chòng chành	3
+A : cân bằng	1
+A : có giá	1
+A : cô đơn	2
+A : cô độc	3
+A : cùng	1
+A : cũ	1
+A : cỏn con	2
+A : cực	1
+A : cực khổ	1
+A : dài	2
+A : gian nan	1
+A : già	1
+A : giả	1
+A : giống	1
+A : gần	4
+A : háo hức	1
+A : hơn	5
+A : hẳn	1
+A : hẻo	1
+A : khác	2
+A : khó khăn	1
+A : khủng khiếp	1
+A : kinh khủng	1
+A : kịp	1
+A : lâu	1
+A : lạ	1
+A : lớn	2
+A : lừ đừ	1
+A : may	1
+A : mênh mông	2
+A : mù mịt	1
+A : mạnh	1
+A : ngay ngắn	1
+A : nghiêng	1
+A : nghèo khó	1
+A : nguy hiểm	2
+A : ngột ngạt	1
+A : nhanh	2
+A : nhanh chóng	2
+A : nhiều	5
+A : nhẹ	1
+A : nhỏ	2
+A : phồng	1
+A : quen	1
+A : quen biết	1
+A : quẩn	1
+A : rộp	1
+A : sáng	1
+A : sâu	1
+A : sạm	2
+A : thành thạo	1
+A : thường ngày	1
+A : to	1
+A : tròn	2
+A : trước	2
+A : tận cùng	1
+A : tối	1
+A : vù vù	1
+A : vất vả	1
+A : vội	2
+A : xa	3
+A : xa khơi	1
+A : xa xa	1
+A : xanh	1
+A : êm	2
+A : ít	4
+A : ùm	1
+A : Đúng	1
+A : đen	2
+A : đen kịt	1
+A : đăm chiêu	1
+A : đơn giản	2
+A : đầu tiên	2
+A : đầy đủ	1
+A : đậm	1
+A : đủ	2
+A : đứng bóng	1
+C : Nhưng	1
+C : Nếu	2
+C : Và	1
+C : còn	2
+C : cùng	1
+C : hay	2
+C : là	3
+C : lẫn	1
+C : mà	4
+C : như	12
+C : nhưng	4
+C : nên	2
+C : rồi	2
+C : thì	5
+C : và	14
+C : vả lại	1
+C : vậy mà	1
+C : với	1
+E : Do	1
+E : Dưới	1
+E : Qua	1
+E : Sau	3
+E : Trên	1
+E : Từ	1
+E : bởi	1
+E : cho	13
+E : của	23
+E : dù	1
+E : dưới	3
+E : giữa	8
+E : lỡ	1
+E : qua	3
+E : sau	1
+E : theo	1
+E : trong	2
+E : trên	6
+E : trước	1
+E : tới	1
+E : từ	9
+E : vào	4
+E : vì	2
+E : về	5
+E : với	8
+E : xuống	2
+E : đến	4
+E : để	5
+E : Ở	1
+E : ở	1
+I : Thôi	1
+I : ạ	2
+L : Các	1
+L : Hầu hết	1
+L : Những	2
+L : các	2
+L : một số	2
+L : những	7
+L : vài	4
+LBKT : LBKT	2
+M : 05	1
+M : 1	1
+M : 1/3	1
+M : 1/6	1
+M : 10	2
+M : 15	2
+M : 16	6
+M : 19	1
+M : 2	2
+M : 3	2
+M : 30	2
+M : 4	2
+M : 5	1
+M : Mỗi	1
+M : Một	2
+M : ba	1
+M : chục	2
+M : hai	3
+M : mười	1
+M : mỗi	4
+M : một	22
+M : năm	3
+M : triệu	1
+M : đôi	1
+N : Anh	1
+N : Bộ	1
+N : Cuộc đời	1
+N : Giờ	1
+N : Mặt trời	2
+N : Nghề	2
+N : Ngư phủ	1
+N : Người	1
+N : Nhà báo	1
+N : Phận	1
+N : Quả	1
+N : Số	1
+N : Sự	1
+N : Trời	1
+N : Văn Bé	1
+N : Vốn liếng	1
+N : anh	3
+N : anh em	1
+N : balô	1
+N : ban	1
+N : biển	16
+N : biển cả	1
+N : biển khơi	2
+N : buồm	3
+N : bàn tay	1
+N : bãi	1
+N : bão	3
+N : bên	2
+N : bình	1
+N : búa	1
+N : bạn	11
+N : bạn bè	1
+N : bệnh nghề nghiệp	1
+N : bộ	3
+N : chiếc	1
+N : chiều	3
+N : chuyến	4
+N : chân	1
+N : chì	1
+N : chú	1
+N : chấm	1
+N : chủ	10
+N : chừng	2
+N : con	1
+N : cuộc sống	1
+N : cuộc ðời	1
+N : cuộc đời	1
+N : cá	1
+N : cá mập	1
+N : cách	1
+N : cái	2
+N : câu	1
+N : cây số	1
+N : công việc	1
+N : cơ ngơi	1
+N : cảm giác	1
+N : cố nhân	1
+N : cỡ	1
+N : cực	1
+N : da	1
+N : dây	6
+N : dông	4
+N : dông tố	1
+N : dấu	1
+N : em	1
+N : ghe	5
+N : gia tài	1
+N : gia đình	1
+N : giá trị	1
+N : gió	2
+N : giờ	1
+N : gương mặt	1
+N : hàng	1
+N : hình	1
+N : hôm qua	1
+N : hướng	1
+N : hải hành	1
+N : hồi	1
+N : khi	4
+N : khoang	2
+N : không khí	1
+N : khơi	2
+N : kinh nghiệm	2
+N : kỳ	1
+N : ly	2
+N : lá	1
+N : lái	1
+N : lão	1
+N : lòng	1
+N : lúc	2
+N : lưới	3
+N : lưỡi	1
+N : lưỡi búa	1
+N : lần	2
+N : lỗ	1
+N : lứa	1
+N : miền	4
+N : màn	1
+N : mành	2
+N : máy	2
+N : máy bộ đàm	2
+N : mì	1
+N : mì tôm	1
+N : môi	1
+N : mùa	2
+N : măng xông	2
+N : mũi	2
+N : mạng	2
+N : mặt	1
+N : mặt mày	1
+N : mồi	3
+N : mực	12
+N : mực lá	2
+N : nam	1
+N : nay	1
+N : neo	1
+N : nghề	13
+N : ngày	2
+N : ngày mai	1
+N : ngư phủ	6
+N : người	12
+N : người lớn	1
+N : người ta	1
+N : ngọn	1
+N : nhau	2
+N : nhiệt đới	1
+N : nhà	2
+N : năm	5
+N : nơi	1
+N : nước	2
+N : nước da	1
+N : nắng	1
+N : nỗi	1
+N : phía	2
+N : phổ thông	1
+N : quanh	1
+N : quê	3
+N : quần đảo	2
+N : rượu	1
+N : sao	1
+N : sáng	2
+N : sóng	4
+N : sóng thần	1
+N : sải	1
+N : số	1
+N : sợi	1
+N : sự cố	3
+N : tai nạn	1
+N : tay	6
+N : thuyền trưởng	2
+N : thành phố	1
+N : thân phận	1
+N : thân xác	1
+N : thép	1
+N : thông tin	1
+N : thúng	53
+N : thần kinh	1
+N : thỉnh thoảng	1
+N : thời	1
+N : tiền	2
+N : trái đất	1
+N : trùng dương	1
+N : trời	1
+N : tuổi	1
+N : tàu	12
+N : tân binh	1
+N : tây	3
+N : tôm	1
+N : tầng	1
+N : tốc độ	1
+N : vàng	1
+N : vòng	1
+N : vùng biển	1
+N : vốn liếng	1
+N : vợ	1
+N : xã	1
+N : xứ	1
+N : ý định	1
+N : Đêm	2
+N : Đời	1
+N : điều	1
+N : điều kiện	1
+N : đàn	1
+N : đáy	4
+N : đèn	2
+N : đêm	6
+N : đông	1
+N : đường kính	1
+N : đại dương	3
+N : đảo	4
+N : đằng	1
+N : đốm	1
+N : đồ nghề	3
+N : động tác	1
+N : đợt	1
+NP : *E*	10
+NP : *T*	5
+Nc : Anh	2
+Nc : Chiếc	1
+Nc : anh	2
+Nc : chiếc	17
+Nc : chuyến	2
+Nc : con	4
+Nc : cái	5
+Nc : cú	1
+Nc : cơn	8
+Nc : hòn	5
+Nc : lão	1
+Nc : người	1
+Nc : sợi	2
+Nc : tòa	1
+Np : An Sơn	1
+Np : Biên	3
+Np : Bình Dương	1
+Np : Bình Thuận	1
+Np : Côn Đảo	1
+Np : Hoàng	11
+Np : Hùng	18
+Np : Kiên Giang	1
+Np : Kiên Hải	1
+Np : Lớn	1
+Np : Nam	3
+Np : Nam Du	2
+Np : Ngang	1
+Np : Nghệ An	1
+Np : Phan Thanh Hoàng	1
+Np : Phú Quốc	1
+Np : Quảng Bình	1
+Np : Quảng Ngãi	1
+Np : Sơn	1
+Np : Thanh Hóa	1
+Np : Thổ Chu	2
+Np : Tre	1
+Np : Trung	2
+Np : Tôi	1
+Np : Tần	2
+Np : Tổ quốc	1
+Np : Văn Bé	2
+Np : Xuân	5
+Nu : cây số	2
+Nu : g	2
+Nu : kg	2
+Nu : m	1
+Nu : phút	2
+Nu : tuổi	1
+Nu : đồng	1
+P : Hắn	1
+P : Sao	1
+P : Tôi	4
+P : ai	1
+P : anh	1
+P : bao giờ	1
+P : bao nhiêu	1
+P : chúng tôi	3
+P : cả	4
+P : gì	3
+P : hắn	2
+P : họ	1
+P : mình	4
+P : nay	4
+P : nhau	4
+P : này	6
+P : tao	1
+P : thế	8
+P : tui	1
+P : tôi	25
+P : đây	2
+P : đấy	1
+P : ấy	1
+R : Chưa	1
+R : Chỉ	1
+R : Không	2
+R : Vừa	1
+R : bất chợt	1
+R : bỗng	1
+R : chưa	1
+R : chẳng	1
+R : chỉ	13
+R : chợt	1
+R : có thể	2
+R : cùng	1
+R : cũng	5
+R : cứ	2
+R : dần dần	1
+R : giữa chừng	1
+R : hay	1
+R : hàng	3
+R : hơn	2
+R : khá	2
+R : không	10
+R : lên	3
+R : lại	6
+R : lắm	4
+R : mới	8
+R : ngay	1
+R : nhất	2
+R : qua	1
+R : quá	3
+R : ra	1
+R : rất	3
+R : rồi	3
+R : sẽ	2
+R : thường	1
+R : thật	1
+R : thỉnh thoảng	1
+R : tới	1
+R : từng	1
+R : vào	2
+R : vô cùng	1
+R : vẫn	3
+R : về	1
+R : vừa	1
+R : đang	2
+R : đi	1
+R : đã	13
+R : được	14
+R : đều	2
+RBKT : RBKT	2
+T : gì	1
+T : sao	1
+T : thay	1
+T : thật	1
+T : đâu	1
+T : đến	3
+V : *E*	3
+V : Biết	1
+V : Bán	1
+V : Bắt	1
+V : Cho	1
+V : Có	2
+V : Gặp	1
+V : Nhìn	2
+V : Sắm	1
+V : Thấy	1
+V : bao	1
+V : biết	2
+V : bán	1
+V : bảo	5
+V : bắt	3
+V : bắt đầu	3
+V : bị	1
+V : bỏ	2
+V : cho	3
+V : chuẩn bị	2
+V : chào hỏi	1
+V : cháy	1
+V : chơi	2
+V : chơi vơi	1
+V : chết	3
+V : chỉ	1
+V : chở	1
+V : chụp	2
+V : cách	2
+V : câu	9
+V : còn	2
+V : có	20
+V : căng	1
+V : cười	1
+V : cạnh tranh	1
+V : cải	1
+V : cảm giác	1
+V : cầm	1
+V : cặp	1
+V : cứu	1
+V : dành dụm	1
+V : dính	1
+V : dò hỏi	1
+V : giúp	1
+V : giảm	1
+V : giật	1
+V : giới thiệu	1
+V : gặp	1
+V : gặp mặt	1
+V : gửi	1
+V : hiểu	1
+V : hoang mang	1
+V : hướng	1
+V : hề	2
+V : học	3
+V : hỏi	2
+V : hứa hẹn	1
+V : im	1
+V : khiến	1
+V : khỏi	1
+V : kiếm	1
+V : kéo	5
+V : kêu	1
+V : kể	1
+V : kịp	1
+V : là	12
+V : làm	9
+V : làm bạn	1
+V : làm quen	1
+V : lên	1
+V : lênh đênh	1
+V : lấy	3
+V : lẫn	1
+V : lật	3
+V : lắc đầu	2
+V : mang	1
+V : muốn	5
+V : mưu sinh	2
+V : mất mạng	1
+V : mắc	1
+V : nghe	1
+V : nghĩ	2
+V : nghỉ tay	1
+V : ngồi	2
+V : nhoài	1
+V : nhìn	4
+V : nhảy	1
+V : nhổ neo	1
+V : nhớ	3
+V : nhỡ	1
+V : nhử	1
+V : nói	2
+V : nấu	2
+V : nẩy	1
+V : nắm	1
+V : nằm	2
+V : nếm trải	1
+V : nứt nẻ	1
+V : phiêu bạt	1
+V : phải	2
+V : qua	1
+V : quan sát	1
+V : quyết định	1
+V : quẩy	1
+V : ra	1
+V : rách	1
+V : rò rỉ	1
+V : rùng mình	1
+V : rơi	1
+V : sung sướng	1
+V : suy nghĩ	1
+V : sống	1
+V : theo	6
+V : thiêu	1
+V : thành công	1
+V : thả	4
+V : thấy	3
+V : thẻ	1
+V : thủng	1
+V : toạc	1
+V : trang bị	1
+V : trôi	4
+V : trông	2
+V : trùng	1
+V : trúng	1
+V : trả	1
+V : trở thành	1
+V : tung	1
+V : tuột	1
+V : tâm sự	1
+V : tưởng	1
+V : tưởng chừng	1
+V : tới	1
+V : tử nạn	1
+V : uống	2
+V : vay	1
+V : vào	1
+V : vây	2
+V : vơi	1
+V : vật vờ	1
+V : vồn vã	1
+V : xa khơi	1
+V : xem	1
+V : xoay	1
+V : xuất hiện	1
+V : xuống	7
+V : xây xẩm	1
+V : xóa	1
+V : xếp	1
+V : ào	1
+V : ép uổng	1
+V : úp	4
+V : ăn	3
+V : ăn chia	1
+V : Định thần	1
+V : Đối diện	1
+V : đi	18
+V : đánh	1
+V : được	4
+V : đếm	1
+V : đến	2
+V : định vị	1
+V : đối diện	1
+V : đốt	1
+V : động viên	1
+V : đỡ	1
+V : đứng	1
+V : đứt	1
+V : ước lượng	1
+V : ập	1
+V : ở	1
+X : biết đâu	1
+X : chẳng hạn	1
+X : một mình	1
+X : nghèo rớt mồng tơi	1
+X : ngược lại	1
+X : nói chung	1
+X : nói riêng	1
+X : vậy mà	1
+“ : “	5
+… : ...	1

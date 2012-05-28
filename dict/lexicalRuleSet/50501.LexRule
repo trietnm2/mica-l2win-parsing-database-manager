@@ -1,0 +1,659 @@
+" : "	58
+, : ,	59
+- : -	6
+. : .	57
+... : ...	7
+/ : /	3
+: : :	6
+? : ?	1
+A : Bình quân	1
+A : Dày	1
+A : Hơn	1
+A : Khắp	1
+A : bạc màu	1
+A : bạo phổi	1
+A : bất thường	1
+A : bất tiện	1
+A : cao	2
+A : chín	1
+A : chắc	2
+A : cái	1
+A : dài	1
+A : dọc	1
+A : dở	2
+A : gan	1
+A : giống	1
+A : gần	2
+A : hiện đại	1
+A : hơn	3
+A : khoảng	2
+A : khá giả	1
+A : khác	2
+A : khắp	1
+A : lâu	2
+A : lạ	4
+A : lớn	1
+A : mới	3
+A : ngao ngán	1
+A : nghèo	1
+A : nhiều	5
+A : nhoi	1
+A : như	1
+A : nhỏ	1
+A : no	1
+A : phải	1
+A : rách	1
+A : rộng	1
+A : sai	1
+A : sạch	2
+A : sần	1
+A : thân thuộc	1
+A : thẳng	2
+A : to	1
+A : to đùng	1
+A : trên	1
+A : tuốt	1
+A : tốt	1
+A : vanh vách	1
+A : ít	1
+A : đúng	1
+A : đơn giản	1
+A : đầy đủ	1
+A : đậm	1
+A : đực	2
+A : ế	1
+C : Hễ	1
+C : Không những	1
+C : Thế là	1
+C : Và	1
+C : chứ	3
+C : còn	1
+C : hay	4
+C : là	3
+C : làm	1
+C : mà	9
+C : như	2
+C : như thế	1
+C : nhưng	1
+C : nên	1
+C : rồi	3
+C : thì	2
+C : và	13
+C : vậy mà	1
+C : với	1
+E : Theo	1
+E : Từ	1
+E : Về	1
+E : bằng	2
+E : bởi	1
+E : cho	9
+E : của	9
+E : do	2
+E : dưới	1
+E : giữa	1
+E : lên	1
+E : qua	4
+E : ra	2
+E : sau	1
+E : trong	5
+E : trên	7
+E : tại	3
+E : tận	1
+E : từ	5
+E : vào	4
+E : về	4
+E : với	4
+E : đến	8
+E : để	16
+E : đối với	1
+E : ở	3
+Eb : to	1
+L : Các	1
+L : các	10
+L : mấy	2
+L : mỗi	2
+L : một số	1
+L : những	8
+L : nửa	1
+L : vài	1
+LBKT : LBKT	7
+M : 1 . 300	1
+M : 11	1
+M : 2000	1
+M : 2002	1
+M : 2004 - 2005	1
+M : 26	1
+M : 28 - 9 - 2004	1
+M : 300 triệu	1
+M : 40	1
+M : 400 triệu	1
+M : 5	1
+M : 5 triệu	1
+M : 50	1
+M : 7	2
+M : Mỗi	1
+M : Một	1
+M : ba	3
+M : chục triệu	1
+M : hai	1
+M : mỗi	1
+M : một	7
+M : ngàn	1
+M : nửa	1
+M : tỉ	1
+N : *T*	1
+N : Anh	3
+N : Diện tích	1
+N : Dân	1
+N : Dây	1
+N : Hồi	3
+N : Khoa học	1
+N : Lần	1
+N : Nhà	1
+N : Nhà trường	1
+N : Nông dân	1
+N : Năm	3
+N : Phân viện	1
+N : Phòng mạch	1
+N : Ruộng	1
+N : Rễ	1
+N : Trường	2
+N : Trời	1
+N : Viện	1
+N : Vụ	1
+N : anh	32
+N : biện pháp	2
+N : bà con	1
+N : bác sĩ	1
+N : bí quyết	1
+N : bút	1
+N : bẫy	1
+N : bệnh	10
+N : bọ hà	4
+N : bố mẹ	1
+N : bữa	1
+N : chiều	1
+N : chuyên ngành	1
+N : chuyện	3
+N : chế phẩm	1
+N : chỗ	1
+N : chợ	1
+N : cách	3
+N : cánh	1
+N : cây	10
+N : cây số	1
+N : cây trồng	1
+N : côn trùng	1
+N : công nghệ	1
+N : công thức hóa học	1
+N : cộng sự	1
+N : cộng tác viên	1
+N : củ	2
+N : diện tích	1
+N : dân	1
+N : dưa	2
+N : dưa hấu	6
+N : dưới	2
+N : gang	1
+N : gia đình	1
+N : giá cả	2
+N : giáo sư	1
+N : giấy	1
+N : giống	1
+N : giờ	1
+N : gốc	1
+N : gỗ	1
+N : hiện tượng	1
+N : huyện	1
+N : hàng	1
+N : hình thù	1
+N : hóa chất	2
+N : hôm	1
+N : họ hàng	1
+N : hồi	1
+N : hội thảo	1
+N : hợp chất	1
+N : khi	1
+N : khoa	1
+N : khoa học	3
+N : khoai	15
+N : khoai lang	5
+N : khách hàng	1
+N : khách sạn	1
+N : khóa	1
+N : kinh tế	1
+N : kênh	1
+N : kính hiển vi	5
+N : kế hoạch	1
+N : kết quả	1
+N : làng	2
+N : lá	2
+N : lái buôn	1
+N : lân	1
+N : lãi	1
+N : lúa	5
+N : lý thuyết	1
+N : lần	3
+N : lọ	1
+N : lộ	1
+N : lớp	3
+N : máy bộ đàm	1
+N : môi	1
+N : mùa	7
+N : mùi	1
+N : mầm	1
+N : mẫu	3
+N : mặt	2
+N : mặt đất	1
+N : mực	1
+N : nghiên cứu	1
+N : nguyên liệu	1
+N : nguồn	1
+N : ngày	3
+N : người	5
+N : nhiệt tình	1
+N : nhà	5
+N : nhân công	3
+N : nhựa	1
+N : nông dân	3
+N : nông nghiệp	2
+N : nút	1
+N : năm	4
+N : năng suất	3
+N : nước	1
+N : nước ngoài	1
+N : nốt	1
+N : phân	2
+N : phân bón	1
+N : phân viện trưởng	1
+N : phân xanh	1
+N : phía	1
+N : phòng thí nghiệm	3
+N : phương pháp	1
+N : ruộng	5
+N : sau	1
+N : sinh học	1
+N : sinh viên	2
+N : sách	1
+N : sâu bệnh	2
+N : sản lượng	1
+N : sản phẩm	1
+N : số	1
+N : sức	1
+N : tay	3
+N : thiên nhiên	1
+N : thu hoạch	1
+N : thuốc	1
+N : tháng	1
+N : thân	2
+N : thương hiệu	1
+N : thương lái	1
+N : thầy	1
+N : thị trường	3
+N : thời	1
+N : thủ công	1
+N : thứ	1
+N : thực tế	1
+N : tiến sĩ khoa học	1
+N : tiền	3
+N : trang web	1
+N : trên	1
+N : trình độ	1
+N : trò	2
+N : trước	1
+N : trường	3
+N : trời	1
+N : tuyến	1
+N : tác giả	1
+N : tên	1
+N : tối	1
+N : vi tính	1
+N : việc	1
+N : viện	2
+N : vách	1
+N : vùng	2
+N : vỏ	2
+N : vụ	5
+N : xe	1
+N : xung quanh	2
+N : xã	1
+N : xóm	1
+N : ông	1
+N : Điên điển	1
+N : Điều	1
+N : đa	1
+N : điên điển	3
+N : đông xuân	1
+N : đơn	1
+N : đơn vị	1
+N : đại học	1
+N : đạm	1
+N : đất	7
+N : đầu	6
+N : đầu tiên	1
+N : địa chỉ	1
+N : đọt	1
+N : đồng	1
+N : đồng hồ	1
+N : đồng ruộng	3
+N : đời	1
+N : ước mơ	1
+N : ấp	1
+N : ống nhòm	2
+N : ổ	1
+NP : *E*	11
+NP : *T*	2
+NP : Ba Hạo	2
+Nb : investment	1
+Nb : mission	1
+Nb : pheromon	2
+Nb : samsonite	1
+Nb : virus	4
+Nb : web	1
+Nb : website	2
+Nc : Sự	1
+Nc : anh	3
+Nc : buổi	1
+Nc : bức	1
+Nc : chiếc	2
+Nc : chuỗi	1
+Nc : con	2
+Nc : cây	1
+Nc : căn	1
+Nc : loài	2
+Nc : loại	4
+Nc : nhà	2
+Nc : thửa	1
+Nc : ông	1
+Nc : đám	2
+Np : Ba Hạo	7
+Np : Cần Thơ	2
+Np : Effective Microrganism SM	1
+Np : Hai Lúa	2
+Np : Hiệp Lợi	1
+Np : Hào	2
+Np : Hòn Đất	1
+Np : Hóa học	1
+Np : Hạo	3
+Np : Kiên Giang	3
+Np : Mỹ Hiệp Sơn	3
+Np : Nguyễn Công Hào	3
+Np : Nhật	1
+Np : Nông lâm	1
+Np : Sheraton	1
+Np : Singapore	1
+Np : Sài Gòn	2
+Np : Đỗ Quý Hạo	1
+Nu : ha	4
+Nu : kg	1
+Nu : tiếng	1
+Nu : tấn	3
+Nu : đồng	5
+Ny : &	1
+Ny : EM	1
+Ny : GSTS	5
+Ny : GSTSKH	1
+Ny : NPK	1
+Ny : TP . HCM	3
+Ny : TP .HCM	1
+Ny : VN	2
+Ny : ĐH	4
+P : Cả	1
+P : Người ta	1
+P : Tôi	1
+P : ai	2
+P : bao giờ	1
+P : cả	4
+P : gì	4
+P : mình	10
+P : nay	1
+P : người ta	1
+P : nào	3
+P : này	6
+P : nó	2
+P : tôi	7
+P : tất	1
+P : tự	3
+P : Đó	2
+P : đây	1
+P : đó	3
+P : đấy	1
+R : Chắc	1
+R : Cũng	3
+R : Không	1
+R : cho	1
+R : chưa	2
+R : chẳng	3
+R : chỉ	4
+R : còn	5
+R : có thể	1
+R : cũng	12
+R : cứ	3
+R : hơn	2
+R : hằng	1
+R : hết	1
+R : không	9
+R : luôn	1
+R : lên	3
+R : lại	4
+R : mới	2
+R : nổi	1
+R : nữa	2
+R : quả là	1
+R : rất	1
+R : rồi	2
+R : sẽ	3
+R : thêm	1
+R : thường	1
+R : vào	1
+R : về	6
+R : vừa	1
+R : xuống	1
+R : Đâu	1
+R : đang	3
+R : đã	2
+R : được	2
+R : đến	2
+R : đều	1
+RBKT : RBKT	7
+S : thất	1
+T : Riêng	1
+T : chính	1
+T : chứ	1
+T : cả	1
+T : gì	1
+T : ngay	1
+T : nữa	1
+T : thôi	2
+T : đâu	1
+T : đây	1
+V : Chuẩn bị	1
+V : Có	1
+V : Hết	1
+V : Khai thác	1
+V : Nhờ	2
+V : biết	4
+V : bày	2
+V : bán	2
+V : bón	1
+V : bảo	3
+V : bất ngờ	1
+V : bắt mạch	1
+V : bị	2
+V : bỏ	4
+V : bồi bổ	1
+V : bổ sung	1
+V : canh tác	1
+V : cho	4
+V : chui	2
+V : chấm	1
+V : chắc mẩm	1
+V : chặn	1
+V : chế	1
+V : chết	1
+V : chỉ	1
+V : chống	1
+V : chữa	1
+V : chữa trị	1
+V : cung cấp	2
+V : cào	1
+V : có	6
+V : công tác	1
+V : cười	1
+V : cải tạo	1
+V : cảm kích	1
+V : cầm	1
+V : cần	3
+V : cắp	1
+V : cố định	1
+V : cứu	1
+V : diệt	1
+V : dám	3
+V : dùng	2
+V : dạo	1
+V : dạy	1
+V : dự thính	2
+V : ghi	1
+V : ghi chép	2
+V : giúp	1
+V : giết	1
+V : giới thiệu	1
+V : gây	2
+V : gắn	1
+V : gặp	3
+V : gọi	1
+V : ham	1
+V : hiểu biết	1
+V : hé	1
+V : hướng dẫn	1
+V : hảo	1
+V : hết	1
+V : học	2
+V : hỏi	3
+V : khiến	1
+V : khóc	1
+V : khỏi	1
+V : kết hợp	1
+V : leo	1
+V : liên hệ	1
+V : liên quan	1
+V : luộc	1
+V : là	7
+V : làm	6
+V : lãi	1
+V : lên	7
+V : lút	1
+V : lướt	1
+V : lấy	3
+V : lắc đầu	1
+V : lời	1
+V : mang	5
+V : mua	5
+V : muốn	1
+V : mòn	1
+V : mơ	1
+V : mời	1
+V : mở	1
+V : nghiên cứu	1
+V : nghĩ	1
+V : ngắt	1
+V : ngồi	1
+V : ngửi	1
+V : nhiễm	1
+V : nhờ	1
+V : nuôi	1
+V : nói	4
+V : nắm	2
+V : phát hiện	1
+V : phân tích	1
+V : phòng bệnh	1
+V : phòng chống	1
+V : phòng trừ	1
+V : phóng	1
+V : phải	3
+V : phấn đấu	1
+V : qua	1
+V : quen biết	1
+V : ra	1
+V : ra đời	1
+V : say mê	1
+V : sinh bệnh	1
+V : sinh sản	1
+V : sạ	1
+V : sống	1
+V : sử dụng	1
+V : thao tác	1
+V : theo dõi	1
+V : thu	1
+V : thu hoạch	2
+V : thuê	4
+V : thuộc	1
+V : thêm	2
+V : thí nghiệm	1
+V : thương	1
+V : thấy	2
+V : thọ giáo	1
+V : thối	1
+V : thực hành	1
+V : tiếp thị	1
+V : trang trí	1
+V : triệt tiêu	1
+V : trúng	1
+V : trả lời	1
+V : trồng	9
+V : trở thành	1
+V : tâm đắc	1
+V : tìm	3
+V : tìm tòi	1
+V : tính	1
+V : tăng	1
+V : tưởng	1
+V : tẩm	1
+V : tậu	1
+V : tổ chức	1
+V : tụ	1
+V : tự tin	2
+V : vào	4
+V : ví von	1
+V : vẽ	2
+V : xem	3
+V : xin	2
+V : xuất khẩu	1
+V : xuống	1
+V : xâm hại	1
+V : xì xầm	1
+V : xúc động	1
+V : xộc	1
+V : áp dụng	1
+V : ăn	1
+V : Đi	1
+V : Điều khiển	1
+V : Được	1
+V : đem	3
+V : đi	6
+V : điều khiển	1
+V : đào	1
+V : đánh dấu	1
+V : đón	1
+V : đăng ký	1
+V : đưa	2
+V : được	6
+V : được giá	1
+V : đầu tư	1
+V : đặt	1
+V : đến	2
+V : để	1
+V : định giá	1
+V : đọc	2
+V : đổ	1
+V : đụng	1
+V : ới	1
+Vb : trade	1
+X : Thay vì	1
+X : chẳng hạn	1
+X : dội	1
+X : khoailangbahao. com. vn	1
+X : khoailangbahao.com	1
+X : nào ngờ	1
+X : tầm sư học đạo	1
+X : tới nỗi	1

@@ -1,0 +1,3512 @@
+<s id = "1">
+S
+	NP(TMP)
+		N(H)
+			 Ngày
+		NP
+			N(H)
+				 thứ
+			M
+				 ba
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 phúc thẩm
+		NP(DOB)
+			N(H)
+				 vụ án
+			NP
+				Np(H)
+					 Lã Thị Kim Oanh
+	:
+		 :
+	.
+		 .
+</s>
+<s id = "2">
+S
+	NP(SUB)
+		N(H)
+			 Bộ trưởng
+	VP
+		V(H)
+			 ra
+		NP(LOC)
+			N(H)
+				 tòa
+		VP(PRP)
+			V(H)
+				 làm
+			NP(DOB)
+				N(H)
+					 nhân chứng
+	.
+		 .
+</s>
+<s id = "3">
+S
+	NP(TMP)
+		N(H)
+			 Chiều
+		M
+			 24
+		-
+			 -
+		M
+			 3
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 bộ trưởng
+		NP
+			N(H)
+				 Bộ
+			N
+				 Nông nghiệp
+			C
+				 và
+			V
+				 phát triển
+			N
+				 nông thôn
+			LBKT
+				 LBKT
+			NP
+				Ny(H)
+					 NN
+				Ny
+					 &
+				Ny(H)
+					 PTNT
+			RBKT
+				 RBKT
+		NP
+			Np(H)
+				 Lê Huy Ngọ
+	VP
+		R
+			 đã
+		V(H)
+			 xuất hiện
+		PP(LOC)
+			E(H)
+				 tại
+			NP
+				N(H)
+					 trụ sở
+				NP
+					N(H)
+						 Tòa án
+					N
+						 Nhân dân
+					AP
+						A(H)
+							 Tối cao
+		PP(PRP)
+			E(H)
+				 để
+			VP
+				V(H)
+					 làm chứng
+				PP(TMP)
+					E(H)
+						 trong
+					NP
+						N(H)
+							 phiên
+						V
+							 phúc thẩm
+						VP
+							V(H)
+								 xét xử
+							NP(DOB)
+								N(H)
+									 bị cáo
+								NP
+									Np(H)
+										 Lã Thị Kim Oanh
+									C
+										 và
+									N(H)
+										 đồng phạm
+	.
+		 .
+</s>
+<s id = "4">
+S
+	VP(SUB)
+		V(H)
+			 Tháp tùng
+		NP(DOB)
+			N(H)
+				 bộ trưởng
+			Np
+				 Ngọ
+	VP
+		VP
+			V(H)
+				 là
+			NP
+				L
+					 một số
+				N(H)
+					 cán bộ
+				NP
+					N(H)
+						 cấp
+					NP
+						N(H)
+							 vụ
+				PP
+					E(H)
+						 của
+					NP
+						N(H)
+							 Bộ
+						Ny
+							 NN
+						Y
+							 &
+						Ny
+							 PTNT
+		,
+			 ,
+		VP
+			R
+				 cũng
+			V(H)
+				 là
+			NP
+				N(H)
+					 nhân chứng
+				PP
+					E(H)
+						 của
+					NP
+						N(H)
+							 vụ án
+	.
+		 .
+</s>
+<s id = "5">
+S
+	NP(SUB)
+		Nc(H)
+			 Vị
+		N
+			 nhân chứng
+		AP
+			A(H)
+				 đặc biệt
+		P
+			 này
+	VP
+		VP
+			A
+				 vội vã
+			V(H)
+				 lên
+			NP(LOC)
+				N(H)
+					 cầu thang
+		C
+			 và
+		VP
+			V(H)
+				 đi
+			V
+				 vào
+			NP(LOC)
+				N(H)
+					 bên
+				N
+					 trong
+				NP
+					N(H)
+						 phòng
+					V
+						 xử
+			AP
+				R
+					 rất
+				A(H)
+					 nhanh
+		PP(PRP)
+			E(H)
+				 để
+			VP
+				V(H)
+					 tránh
+				NP(DOB)
+					N(H)
+						 ống kính
+					N
+						 máy ảnh
+					PP
+						E(H)
+							 của
+						NP
+							L
+								 các
+							N(H)
+								 phóng viên
+	.
+		 .
+</s>
+<s id = "6">
+S
+	VP(PRP)
+		V(H)
+			 Muốn
+		VP
+			V(H)
+				 biết
+			AP
+				A(H)
+					 đúng
+				C
+					 hay
+				A(H)
+					 sai
+	NP(SUB)
+		N(H)
+			 tòa
+	VP
+		V(H)
+			 phải
+		VP
+			V(H)
+				 nhờ
+			...
+				 ...
+			NP(DOB)
+				N(H)
+					 hội đồng
+				VP
+					V(H)
+						 thẩm định
+	.
+		 .
+</s>
+<s id = "7">
+S
+	NP(SUB)
+		N(H)
+			 Hội đồng
+		V
+			 xét xử
+		LBKT
+			 LBKT
+		NP
+			Ny(H)
+				 HĐXX
+		RBKT
+			 RBKT
+	VP
+		V(H)
+			 hỏi
+		NP(DOB)
+			N(H)
+				 bị cáo
+			Np
+				 Nguyễn Quang Hà
+			NP
+				S
+					 nguyên
+				N(H)
+					 thứ trưởng
+				NP
+					N(H)
+						 Bộ
+					Ny
+						 NN
+					Ny
+						 &
+					Ny
+						 PTNT
+		:
+			 :
+		"
+			 "
+		SBAR
+			SQ
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 Muốn
+					VP
+						V(H)
+							 đối chất
+						PP
+							E(H)
+								 với
+							NP
+								N(H)
+									 bộ trưởng
+								Np
+									 Lê Huy Ngọ
+						PP
+							E(H)
+								 về
+							NP
+								L
+									 những
+								N(H)
+									 vấn đề
+								P
+									 gì
+		?
+			 ?
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "8">
+S
+	S
+		"
+			 "
+		NP(SUB)
+			P(H)
+				 Tôi
+		VP
+			V(H)
+				 muốn
+			SBAR
+				S
+					NP(SUB)
+						Nc(H)
+							 anh
+						Np
+							 Ngọ
+					VP
+						V(H)
+							 đánh giá
+						PP
+							E(H)
+								 về
+							NP
+								N(H)
+									 công việc
+								C
+									 và
+								N(H)
+									 trách nhiệm
+								PP
+									E(H)
+										 của
+									NP
+										P(H)
+											 tôi
+								PP(LOC)
+									PP
+										E(H)
+											 ở
+										NP
+											N(H)
+												 Bộ
+											Ny
+												 NN
+											Ny
+												 &
+											Ny
+												 PTNT
+									,
+										 ,
+									R
+										 cũng
+									C
+										 như
+									PP
+										E(H)
+											 trong
+										NP
+											N(H)
+												 sự việc
+											P
+												 này
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 bị cáo
+			Np
+				 Hà
+		VP
+			V(H)
+				 trình bày
+	.
+		 .
+</s>
+<s id = "9">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Nhân chứng
+			Np
+				 Lê Huy Ngọ
+		VP
+			V(H)
+				 xác nhận
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					NP(SUB)
+						Nc(H)
+							 Anh
+						Np
+							 Hà
+					VP
+						V(H)
+							 là
+						NP
+							N(H)
+								 người
+							VP
+								V(H)
+									 làm việc
+								VP
+									V(H)
+										 có
+									NP(DOB)
+										N(H)
+											 trách nhiệm
+			"
+				 "
+	,
+		 ,
+	C
+		 nhưng
+	S
+		AP(ADV)
+			A(H)
+				 cụ thể
+			PP
+				E(H)
+					 trong
+				NP
+					N(H)
+						 sự việc
+					P
+						 này
+					LBKT
+						 LBKT
+					NP
+						N(H)
+							 vụ
+						Np
+							 Lã Thị Kim Oanh
+					RBKT
+						 RBKT
+		C
+			 thì
+		"
+			 "
+		NP(TMP)
+			N(H)
+				 thời gian
+			NP
+				M
+					 5
+				-
+					 -
+				M
+					 6
+				N(H)
+					 năm
+				R
+					 rồi
+		,
+			 ,
+		PPADV
+			E(H)
+				 với
+			NP
+				N(H)
+					 khối lượng
+				N
+					 công việc
+				PP
+					E(H)
+						 của
+					NP
+						N(H)
+							 bộ trưởng
+		,
+			 ,
+		NP(SUB)
+			P(H)
+				 tôi
+		VP
+			R
+				 không thể nào
+			V(H)
+				 nhớ
+			T
+				 hết
+			R
+				 được
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "10">
+S
+	S
+		"
+			 "
+		NP(SUB)
+			N(H)
+				 Ông
+		VP
+			V(H)
+				 nhận thức
+			XP
+				C
+					 như
+				X(H)
+					 thế nào
+				PP
+					E(H)
+						 về
+					NP
+						N(H)
+							 công văn
+						M
+							 327
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 Chính phủ
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 đại diện
+			Np
+				 Viện Kiểm sát
+		VP
+			V(H)
+				 đặt
+			NP(DOB)
+				N(H)
+					 câu hỏi
+			PP(IOB)
+				E(H)
+					 cho
+				NP
+					N(H)
+						 nhân chứng
+					-
+						 -
+					NP
+						N(H)
+							 bộ trưởng
+						Np
+							 Lê Huy Ngọ
+	.
+		 .
+</s>
+<s id = "11">
+S
+	NP(SUB)
+		Nc(H)
+			 Ông
+		Np
+			 Ngọ
+	VP
+		V(H)
+			 giải trình
+		:
+			 :
+		SBAR
+			S
+				NP(SUB)
+					P(H)
+						 Đây
+				VP
+					V(H)
+						 là
+					NP
+						Nc(H)
+							 sự
+						V
+							 trả lời
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 Chính phủ
+						,
+							 ,
+						PP
+							E(H)
+								 trong
+							NP
+								P(H)
+									 đó
+								VP
+									V(H)
+										 chủ trương
+									VP
+										V(H)
+											 đồng ý
+										PP(PRP)
+											E(H)
+												 cho
+											VP
+												V(H)
+													 tăng
+												N
+													 vốn
+												PP(TMP)
+													E(H)
+														 trong
+													NP
+														M
+															 6
+														N(H)
+															 tháng
+														NP
+															N(H)
+																 đầu
+															NP
+																N(H)
+																	 năm
+																M
+																	 1998
+												SBAR(PRP)
+													E(H)
+														 để
+													S
+														NP(SUB)
+															N(H)
+																 Công ty
+															Np
+																 Tiếp thị
+														VP
+															R
+																 có thể
+															V(H)
+																 hoàn thành
+															NP(DOB)
+																N(H)
+																	 nhiệm vụ
+	.
+		 .
+</s>
+<s id = "12">
+S
+	NP(SUB)
+		P(H)
+			 Đó
+	VP
+		VP
+			R
+				 vừa
+			V(H)
+				 là
+			NP
+				M
+					 một
+				N(H)
+					 quyết định
+				"
+					 "
+				AP
+					A(H)
+						 đúng
+					NP(DOB)
+						N(H)
+							 thẩm quyền
+				"
+					 "
+		,
+			 ,
+		VP
+			R
+				 vừa
+			V(H)
+				 là
+			NP
+				N(H)
+					 chủ trương
+				"
+					 "
+				VP(PRP)
+					V(H)
+						 tháo gỡ
+					NP(DOB)
+						N(H)
+							 khó khăn
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 công trình
+								NP
+									N(H)
+										 nhóm
+									Ny
+										 A
+				"
+					 "
+	.
+		 .
+</s>
+<s id = "13">
+S
+	NP(SUB)
+		N(H)
+			 Công văn
+		M
+			 327
+	VP
+		R
+			 có
+		V(H)
+			 ghi
+		VP
+			V(H)
+				 đồng ý
+			C
+				 như
+			NP
+				N(H)
+					 đề nghị
+				PP
+					E(H)
+						 của
+					NP
+						N(H)
+							 Bộ
+						Ny
+							 KHĐT
+		VP
+			V(H)
+				 cho phép
+			NP(DOB)
+				N(H)
+					 Công ty
+				Np
+					 Tiếp thị
+				VP
+					V(H)
+						 vay
+					NP(DOB)
+						N(H)
+							 vốn
+						N
+							 tín dụng
+					PP(MNR)
+						E(H)
+							 theo
+						NP
+							N(H)
+								 kế hoạch
+							N
+								 Nhà nước
+							NP(TMP)
+								N(H)
+									 năm
+								M
+									 1998
+	.
+		 .
+</s>
+<s id = "14">
+S
+	SQ
+		"
+			 "
+		NP(SUB)
+			N(H)
+				 Ông
+		VP
+			V(H)
+				 hiểu
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 vốn
+						N
+							 tín dụng
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								N(H)
+									 đây
+					VP
+						V(H)
+							 là
+						NP
+							N(H)
+								 vốn
+							...
+								 ...
+							WHNP
+								P(H)
+									 gì
+			?
+				 ?
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 đại diện
+			Np
+				 Viện Kiểm sát
+		VP
+			V(H)
+				 hỏi
+			R
+				 tiếp
+			NP(DOB)
+				Nc(H)
+					 ông
+				Np
+					 Ngọ
+	.
+		 .
+</s>
+<s id = "15">
+S
+	S
+		"
+			 "
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 Là
+			NP
+				N(H)
+					 tín dụng
+				VP
+					V(H)
+						 ưu đãi
+				PP
+					E(H)
+						 theo
+					NP
+						N(H)
+							 kế hoạch
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 Chính phủ
+		...
+			 ...
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			Nc(H)
+				 ông
+			N
+				 bộ trưởng
+		VP
+			V(H)
+				 trả lời
+	.
+		 .
+</s>
+<s id = "16">
+S
+	NP(SUB)
+		R
+			 Vẫn
+		N(H)
+			 Viện Kiểm sát
+	VP
+		V(H)
+			 *E*
+		:
+			 :
+		"
+			 "
+		SBAR
+			SQ
+				NP(SUB)
+					N(H)
+						 Bộ
+				VP
+					V(H)
+						 có
+					NP(DOB)
+						N(H)
+							 chủ trương
+					VP
+						V(H)
+							 cho
+						NP(DOB)
+							N(H)
+								 thứ trưởng
+							VP
+								V(H)
+									 ký
+								NP(DOB)
+									N(H)
+										 xác nhận
+								PP(LOC)
+									E(H)
+										 vào
+									NP
+										N(H)
+											 công văn
+										NP
+											N(H)
+												 Công ty
+											Np
+												 tiếp thị
+								R
+									 không
+		?
+			 ?
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "17">
+S
+	S
+		"
+			 "
+		NP(SUB)
+			N(H)
+				 Bộ
+		VP
+			R
+				 không
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 chủ trương
+				P
+					 này
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 bộ trưởng
+			NP
+				N(H)
+					 Bộ
+				Ny
+					 NN
+				Ny
+					 &
+				Ny
+					 PTNT
+		VP
+			V(H)
+				 khẳng định
+	,
+		 ,
+	C
+		 mà
+	S
+		NP(SUB)
+			 *E*
+		VP
+			R
+				 chỉ
+			V(H)
+				 là
+			NP
+				N(H)
+					 đề nghị
+				PP
+					E(H)
+						 của
+					NP
+						Ny(H)
+							 DN
+	C
+		 và
+	S
+		SBAR(CND)
+			C
+				 nếu
+			S
+				NP(SUB)
+					 *E*
+				VP
+					VP
+						V(H)
+							 xem xét
+					VP
+						"
+							 "
+						V(H)
+							 thấy
+						AP
+							A(H)
+								 đúng
+		C
+			 thì
+		S
+			NP(SUB)
+				 *E*
+			VP
+				V(H)
+					 giao
+				NP(DOB)
+					N(H)
+						 người
+					VP
+						V(H)
+							 phụ trách
+						NP(DOB)
+							N(H)
+								 lĩnh vực
+							VP
+								V(H)
+									 ký
+								"
+									 "
+	.
+		 .
+</s>
+<s id = "18">
+S
+	X
+		 Như vậy
+	,
+		 ,
+	SQ
+		"
+			 "
+		NP(SUB)
+			Nc(H)
+				 việc
+			V
+				 xác nhận
+			PP
+				E(H)
+					 của
+				NP
+					N(H)
+						 thứ trưởng
+					Np
+						 Hà
+		VP
+			V(H)
+				 có
+			AP
+				A(H)
+					 cần thiết
+			R
+				 không
+		?
+			 ?
+		LBKT
+			 LBKT
+		S
+			NP(SUB)
+				Nc(H)
+					 ông
+				Np
+					 Hà
+			VP
+				V(H)
+					 ký
+				V
+					 xác nhận
+				NP(DOB)
+					NP
+						M
+							 6
+						N(H)
+							 văn bản
+						PP(TMP)
+							E(H)
+								 dưới
+							NP
+								N(H)
+									 thời
+								NP
+									N(H)
+										 bộ trưởng
+									Np
+										 Ngọ
+					,
+						 ,
+					NP
+						M
+							 1
+						N(H)
+							 văn bản
+						PP(TMP)
+							E(H)
+								 dưới
+							NP
+								N(H)
+									 thời
+								NP
+									N(H)
+										 bộ trưởng
+									Np
+										 Tạn
+		RBKT
+			 RBKT
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 luật gia
+			Np
+				 Trần Đình Triển
+			LBKT
+				 LBKT
+			VP
+				V(H)
+					 bào chữa
+				PP
+					E(H)
+						 cho
+					NP
+						N(H)
+							 bị cáo
+						Np
+							 Nguyễn Quang Hà
+			RBKT
+				 RBKT
+		VP
+			"
+				 "
+			V(H)
+				 xoay
+			"
+				 "
+			NP(DOB)
+				N(H)
+					 nhân chứng
+				Np
+					 Lê Huy Ngọ
+	.
+		 .
+</s>
+<s id = "19">
+S
+	NP(SUB)
+		Nc(H)
+			 Ông
+		Np
+			 Ngọ
+	VP
+		V(H)
+			 lúng túng
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				NP(SUB)
+					Nc(H)
+						 Cái
+					P
+						 này
+				VP
+					V(H)
+						 đề nghị
+					NP(DOB)
+						Ny(H)
+							 HĐXX
+						VP
+							V(H)
+								 cho
+							VP
+								V(H)
+									 thẩm định
+								PP(LOC)
+									E(H)
+										 ở
+									NP
+										NP
+											M
+												 một
+											N(H)
+												 hội đồng
+											A
+												 chuyên môn
+										C
+											 hoặc
+										NP
+											M
+												 một
+											N(H)
+												 cơ quan
+											VP
+												V(H)
+													 có
+												NP(DOB)
+													N(H)
+														 trách nhiệm
+											C
+												 như
+											NP
+												N(H)
+													 ngân hàng
+												...
+													 ...
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "20">
+S
+	NP(SUB)
+		N(H)
+			 Ông
+	VP
+		V(H)
+			 giải thích
+		V
+			 thêm
+		:
+			 :
+		SBAR
+			S
+				S
+					NP(TMP)
+						N(H)
+							 Khi
+						SBAR
+							S
+								NP(SUB)
+									M
+										 ba
+									N(H)
+										 bộ
+									NP
+										Np(H)
+											 Nông nghiệp
+										,
+											 ,
+										Np(H)
+											 Lâm nghiệp
+										,
+											 ,
+										Np(H)
+											 Thủy lợi
+								VP
+									V(H)
+										 sáp nhập
+									VP
+										V(H)
+											 thành
+										QP(DOB)
+											M(H)
+												 một
+					,
+						 ,
+					NP(SUB)
+						N(H)
+							 Bộ
+					VP
+						V(H)
+							 có
+						NP(DOB)
+							T
+								 tới
+							M
+								 18
+							N(H)
+								 tổng
+							N
+								 công ty
+							PP
+								E(H)
+									 với
+								AP
+									A(H)
+										 gần
+									NP
+										M
+											 400
+										Ny(H)
+											 DN
+							,
+								 ,
+							PP
+								E(H)
+									 trong
+								NP
+									N(H)
+										 khi
+									P
+										 đó
+									VP
+										R
+											 lại
+										R
+											 không
+										V(H)
+											 có
+										NP(DOB)
+											N(H)
+												 tổ chức
+											A
+												 chuyên sâu
+											PP
+												E(H)
+													 về
+												VP
+													V(H)
+														 quản lý
+													NP(DOB)
+														Ny(H)
+															 DN
+				,
+					 ,
+				S(PV)
+					NP(SUB)
+						Nc(H)
+							 việc
+						V
+							 thực hiện
+						NP
+							N(H)
+								 chế độ
+							VP
+								V(H)
+									 báo cáo
+								,
+									 ,
+								V(H)
+									 kiểm tra
+								,
+									 ,
+								V(H)
+									 quyết toán
+					...
+						 ...
+					VP
+						V(H)
+							 bị
+						SBAR
+							S
+								NP(SUB)
+									 *E*
+								VP
+									V(H)
+										 buông lỏng
+	.
+		 .
+</s>
+<s id = "21">
+S
+	"
+		 "
+	VP(PRP)
+		V(H)
+			 Mong
+		SBAR
+			S
+				NP(SUB)
+					Ny(H)
+						 HĐXX
+				VP
+					V(H)
+						 xem xét
+					NP(DOB)
+						N(H)
+							 hoàn cảnh
+						PP
+							PP
+								E(H)
+									 của
+								NP
+									L
+										 các
+									N(H)
+										 đồng nghiệp
+							PP
+								E(H)
+									 của
+								NP
+									P(H)
+										 tôi
+							NP(TMP)
+								N(H)
+									 lúc
+								NP
+									N(H)
+										 đó
+	"
+		 "
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 bộ trưởng
+		Np
+			 Ngọ
+	VP
+		VP
+			V(H)
+				 nói
+			PP
+				E(H)
+					 với
+				NP
+					Ny(H)
+						 HĐXX
+		C
+			 nhưng
+		XP(MDP)
+			X(H)
+				 dường như
+		VP
+			R
+				 cũng
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 ý
+				VP
+					"
+						 "
+					V(H)
+						 chia sẻ
+					"
+						 "
+					PP
+						E(H)
+							 với
+						NP
+							M
+								 hai
+							Nc(H)
+								 cấp
+							A
+								 dưới
+							PP
+								E(H)
+									 của
+								NP
+									P(H)
+										 mình
+							PP(LOC)
+								E(H)
+									 trên
+								NP
+									Nc(H)
+										 hàng
+									N
+										 ghế
+									NP
+										N(H)
+											 bị cáo
+	.
+		 .
+</s>
+<s id = "22">
+S
+	NP(SUB)
+		N(H)
+			 Bị cáo
+		Np
+			 Nguyễn Thiện Luân
+		LBKT
+			 LBKT
+		NP
+			S
+				 nguyên
+			N(H)
+				 thứ trưởng
+			NP
+				Np(H)
+					 Bộ
+				Ny
+					 NN
+				Ny
+					 &
+				Ny
+					 PTNT
+		RBKT
+			 RBKT
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				AP(PRD)
+					"
+						 "
+					R
+						 không
+					A(H)
+						 cần thiết
+					"
+						 "
+					VP
+						V(H)
+							 đối chất
+						PP
+							E(H)
+								 với
+							NP
+								"
+									 "
+								N(H)
+									 cấp
+								A
+									 trên
+								"
+									 "
+								PP
+									E(H)
+										 của
+									NP
+										P(H)
+											 mình
+	.
+		 .
+</s>
+<s id = "23">
+S
+	PP(TMP)
+		E(H)
+			 Trước
+		NP
+			N(H)
+				 khi
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 kết thúc
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 bộ trưởng
+		NP
+			N(Hp)
+				 Lê Huy Ngọ
+	VP
+		VP
+			"
+				 "
+			V(H)
+				 tranh thủ
+			"
+				 "
+			VP(PRP)
+				V(H)
+					 xin
+				NP(DOB)
+					Ny(H)
+						 HĐXX
+				VP(IOB)
+					V(H)
+						 cho
+					VP
+						"
+							 "
+						V(H)
+							 phát biểu
+						NP(DOB)
+							L
+								 vài
+							N(H)
+								 lời
+						"
+							 "
+		,
+			 ,
+		VP
+			V(H)
+				 cho
+			V
+				 hay
+			S
+				NP(SUB)
+					N(H)
+						 ông
+				VP
+					V(H)
+						 về
+					NP(DOB)
+						N(H)
+							 bộ
+						NP(TMP)
+							N(H)
+								 tháng
+							M
+								 10
+							-
+								 –
+							M
+								 1997
+					,
+						 ,
+					NP(TMP)
+						N(H)
+							 khi
+						SBAR
+							S
+								NP(SUB)
+									N(H)
+										 dự án
+									NP(LOC)
+										N(H)
+											 khu
+										VP
+											V(H)
+												 triển lãm
+											NP
+												N(H)
+													 nông nghiệp
+								VP
+									R
+										 đã
+									V(H)
+										 triển khai
+									R
+										 được
+									NP(TMP)
+										M
+											 2
+										-
+											 -
+										M
+											 3
+										N(H)
+											 năm
+	.
+		 .
+</s>
+<s id = "24">
+S
+	"
+		 "
+	S
+		NP(SUB)
+			P(H)
+				 Tôi
+		VP
+			R
+				 không
+			V(H)
+				 được
+			VP
+				V(H)
+					 bàn giao
+				PP
+					E(H)
+						 từ
+					NP
+						N(H)
+							 bộ trưởng
+						A
+							 cũ
+	,
+		 ,
+	S
+		NP(SUB)
+			L
+				 những
+			N(H)
+				 cái
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 bộ trưởng
+						A
+							 cũ
+					VP
+						R
+							 đã
+						V(H)
+							 quyết định
+		C
+			 thì
+		S(PRD)
+			NP(SUB)
+				N(H)
+					 anh em
+			VP
+				R
+					 cứ
+				V(H)
+					 tiếp tục
+				VP
+					V(H)
+						 làm
+	,
+		 ,
+	S
+		VP(SUB)
+			V(H)
+				 có
+			NP(DOB)
+				P(H)
+					 gì
+				VP
+					V(H)
+						 phát sinh
+		VP
+			R
+				 mới
+			V(H)
+				 hỏi
+			NP(DOB)
+				N(H)
+					 ý kiến
+				P
+					 tôi
+	...
+		 ...
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "25">
+S
+	NP(SUB)
+		N(H)
+			 Ông
+	VP
+		R
+			 cũng
+		V(H)
+			 đề nghị
+		SBAR
+			S
+				NP(SUB)
+					Ny(H)
+						 HĐXX
+				VP
+					V(H)
+						 phân định
+					A
+						 rõ
+					"
+						 "
+					SBAR
+						S
+							S
+								NP(SUB)
+									P(H)
+										 đâu
+								VP
+									V(H)
+										 là
+									NP
+										N(H)
+											 trách nhiệm
+										VP
+											V(H)
+												 quản lý
+											NP(DOB)
+												N(H)
+													 nhà nước
+												PP
+													E(H)
+														 của
+													NP
+														N(H)
+															 bộ
+														PP
+															E(H)
+																 đối với
+															NP
+																Ny(H)
+																	 DN
+							,
+								 ,
+							S
+								NP(SUB)
+									P(H)
+										 đâu
+								VP
+									V(H)
+										 là
+									NP
+										N(H)
+											 trách nhiệm
+										VP
+											V(H)
+												 tự chủ
+											PP
+												E(H)
+													 trong
+												VP
+													V(H)
+														 sản xuất
+													V(H)
+														 kinh doanh
+													PP
+														E(H)
+															 của
+														NP
+															Ny(H)
+																 DN
+											,
+												 ,
+											AP(PRD)
+												A(H)
+													 đặc biệt
+												PP
+													E(H)
+														 trong
+													NP
+														N(H)
+															 bối cảnh
+														VP
+															V(H)
+																 thực hiện
+															AP
+																"
+																	 "
+																S
+																	 phi
+																A(H)
+																	 chủ quản
+																"
+																	 "
+																PP
+																	E(H)
+																		 đối với
+																	NP
+																		L
+																			 các
+																		Ny(H)
+																			 DN
+																		N
+																			 nhà nước
+					"
+						 "
+	.
+		 .
+</s>
+<s id = "26">
+S
+	PP(TMP)
+		T
+			 Ngay
+		E(H)
+			 sau
+		NP
+			N(H)
+				 khi
+			VP
+				V(H)
+					 trả lời
+				V
+					 xong
+				NP(DOB)
+					N(H)
+						 câu
+					V
+						 hỏi
+					PP
+						E(H)
+							 của
+						NP
+							L
+								 các
+							N(H)
+								 luật sư
+			,
+				 ,
+			VP
+				V(H)
+					 được
+				SBAR
+					S
+						NP(SUB)
+							Ny(H)
+								 HĐXX
+						VP
+							V(H)
+								 chấp thuận
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 bộ trưởng
+		Np
+			 Lê Huy Ngọ
+	VP
+		VP
+			V(H)
+				 rời
+			A
+				 vội vã
+			NP(DOB)
+				N(H)
+					 phòng
+				V
+					 xử
+		C
+			 và
+		VP
+			V(H)
+				 ra
+			R
+				 về
+			PP(MNR)
+				E(H)
+					 theo
+				NP
+					N(H)
+						 lối
+					NP
+						N(H)
+							 cổng
+						A
+							 sau
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 tòa án
+		PP(PRP)
+			E(H)
+				 để
+			VP
+				V(H)
+					 tiếp tục
+				...
+					 ...
+				VP
+					V(H)
+						 tránh mặt
+					NP(DOB)
+						N(H)
+							 báo chí
+	.
+		 .
+</s>
+<s id = "27">
+S
+	NP(SUB)
+		 *E*
+	VP
+		VP
+			V(H)
+				 Có
+			NP(DOB)
+				N(H)
+					 thiếu sót
+		,
+			 ,
+		C
+			 nhưng
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 thiếu sót
+				A
+					 hành chính
+	...
+		 ...
+	.
+		 .
+</s>
+<s id = "28">
+S
+	SBAR(CNC)
+		C
+			 Dù
+		S
+			NP(SUB)
+				N(H)
+					 Công ty
+				Np
+					 Tiếp thị
+			VP
+				V(H)
+					 được
+				SBAR
+					S
+						NP(SUB)
+							 *E*
+						VP
+							V(H)
+								 ưu đãi
+	C
+		 nhưng
+	S
+		NP(SUB)
+			N(H)
+				 vốn
+			VP
+				V(H)
+					 cấp
+		VP
+			R
+				 vẫn
+			V(H)
+				 thiếu
+			PP(TMP)
+				E(H)
+					 trong
+				NP
+					R
+						 từng
+					N(H)
+						 giai đoạn
+	.
+		 .
+</s>
+<s id = "29">
+S
+	NP(SUB)
+		N(H)
+			 Bị cáo
+	VP
+		VP
+			R
+				 có
+			V(H)
+				 ký
+			VP
+				V(H)
+					 xác nhận
+				NP(DOB)
+					M
+						 2
+					N(H)
+						 công văn
+		VP
+			V(H)
+				 giúp
+			S
+				NP(SUB)
+					N(H)
+						 Công ty
+					Np
+						 Tiếp thị
+				VP
+					"
+						 "
+					V(H)
+						 vay
+					NP(DOB)
+						N(H)
+							 đệm
+					"
+						 "
+					PP
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								N(H)
+									 Ngân hàng
+								VP
+									V(H)
+										 Đầu tư
+									V(H)
+										 phát triển
+								NP
+									Np(H)
+										 Hà Nội
+						PP(PRP)
+							E(H)
+								 để
+							VP
+								V(H)
+									 thanh toán
+								PP(IOB)
+									E(H)
+										 cho
+									NP
+										N(H)
+											 bên
+										V
+											 thi công
+								NP(TMP)
+									N(H)
+										 khi
+									SBAR
+										S
+											NP(SUB)
+												N(H)
+													 vốn
+												N
+													 ngân sách
+											VP
+												R
+													 chưa
+												A
+													 kịp
+												V(H)
+													 cấp phát
+	”
+		 “
+	.
+		 .
+</s>
+<s id = "30">
+S
+	NP(SUB)
+		N(H)
+			 Bị cáo
+		Np
+			 Nguyễn Thiện Luân
+	VP
+		V(H)
+			 trình bày
+		PP
+			E(H)
+				 về
+			NP
+				"
+					 "
+				N(H)
+					 xuất xứ
+				"
+					 "
+				NP
+					N(H)
+						 bút tích
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 ông
+							VP
+								V(H)
+									 để
+								R
+									 lại
+								PP(LOC)
+									E(H)
+										 trên
+									NP
+										L
+											 các
+										N(H)
+											 công văn
+										VP(PRP)
+											V(H)
+												 xin
+											VP
+												V(H)
+													 vay
+												NP(DOB)
+													N(H)
+														 tiền
+													PP
+														E(H)
+															 của
+														NP
+															Np(H)
+																 Lã Thị Kim Oanh
+	.
+		 .
+</s>
+<s id = "31">
+S
+	NP(SUB)
+		N(H)
+			 Việc
+		VP
+			V(H)
+				 ký
+			VP(PRP)
+				V(H)
+					 xác nhận
+		P
+			 này
+	,
+		 ,
+	PP(ADV)
+		E(H)
+			 theo
+		NP
+			Nc(H)
+				 ông
+			Np
+				 Luân
+	,
+		 ,
+	VP
+		V(H)
+			 diễn
+		R
+			 ra
+		"
+			 "
+		PP(TMP)
+			E(H)
+				 sau
+			NP
+				N(H)
+					 khi
+				SBAR
+					S
+						NP(SUB)
+							N(H)
+								 vụ trưởng
+							NP
+								N(H)
+									 Vụ
+								NP
+									N(H)
+										 Tài chính
+									N
+										 kế toán
+							Np
+								 Phan Văn Quán
+						VP
+							R
+								 đã
+							V(H)
+								 xác nhận
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "32">
+S
+	NP(SUB)
+		Ny(H)
+			 HĐXX
+	VP
+		V(H)
+			 thắc mắc
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 Bị cáo
+				VP
+					V(H)
+						 nói
+					SBAR
+						SQ
+							NP(SUB)
+								N(H)
+									 việc
+								V
+									 xác nhận
+							VP
+								V(H)
+									 là
+								VP
+									V(H)
+										 có
+									NP(DOB)
+										N(H)
+											 chủ trương
+										PP
+											E(H)
+												 của
+											NP
+												N(H)
+													 bộ
+		?
+			 ?
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "33">
+S
+	NP(SUB)
+		Nc(H)
+			 ông
+		Np
+			 Luân
+	VP
+		V(H)
+			 *E*
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				S
+					NP(SUB)
+						 *E*
+					VP
+						R
+							 Có
+						V(H)
+							 thể hiện
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								N(H)
+									 công văn
+								M
+									 999
+								NP(TMP)
+									N(H)
+										 ngày
+									M
+										 26
+									-
+										 -
+									M
+										 2
+									-
+										 –
+									M
+										 1998
+				C
+					 mà
+				S
+					AP(TMP)
+						A(H)
+							 gần
+						P
+							 đây
+					NP(SUB)
+						N(H)
+							 bị cáo
+					VP
+						R
+							 mới
+						V(H)
+							 tìm
+						V
+							 thấy
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "34">
+S
+	SQ
+		"
+			 "
+		NP(SUB)
+			P(H)
+				 Đó
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 chủ trương
+				WHNP
+					P(H)
+						 gì
+		?
+			 ?
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			Ny(H)
+				 HĐXX
+		VP
+			V(H)
+				 muốn
+			VP
+				V(H)
+					 làm
+				AP
+					A(H)
+						 rõ
+					R
+						 hơn
+	.
+		 .
+</s>
+<s id = "35">
+S
+	S
+		"
+			 "
+		VP(VOC)
+			V(H)
+				 Thưa
+		,
+			 ,
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 *E*
+			NP
+				N(H)
+					 chủ trương
+				VP
+					V(H)
+						 xin
+					NP(DOB)
+						N(H)
+							 Chính phủ
+						VP
+							V(H)
+								 cho
+							VP
+								V(H)
+									 vay
+								NP(DOB)
+									N(H)
+										 vốn
+						PP(PRP)
+							E(H)
+								 để
+							VP
+								V(H)
+									 hoàn thành
+								NP(DOB)
+									N(H)
+										 khu
+									V
+										 triển lãm
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 bị cáo
+			Np
+				 Luân
+		VP
+			V(H)
+				 khai
+	.
+		 .
+</s>
+<s id = "36">
+S
+	NP(SUB)
+		R
+			 Vẫn
+		Ny(H)
+			 HĐXX
+	VP
+		V(H)
+			 *E*
+		:
+			 :
+		"
+			 "
+		SBAR
+			SQ
+				P
+					 Vậy
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 có
+					NP(DOB)
+						N(H)
+							 chủ trương
+						SBAR(PRP)
+							E(H)
+								 để
+							S
+								NP(SUB)
+									N(H)
+										 bị cáo
+								VP
+									V(H)
+										 ký
+									VP
+										V(H)
+											 xác nhận
+						R
+							 không
+		?
+			 ?
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "37">
+S
+	NP(SUB)
+		Nc(H)
+			 ông
+		Np
+			 Luân
+	VP
+		V(H)
+			 *E*
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				SBAR(CNC)
+					S
+						NP(SUB)
+							 *E*
+						VP
+							R
+								 Không
+							V(H)
+								 có
+							NP(DOB)
+								N(H)
+									 quy định
+								A
+									 rõ
+				,
+					 ,
+				C
+					 nhưng
+				S
+					PP(TPC)
+						E(H)
+							 theo
+						NP
+							N(H)
+								 quy chế
+							VP
+								V(H)
+									 làm việc
+					C
+						 thì
+					S
+						NP(SUB)
+							N(H)
+								 thứ trưởng
+							V
+								 thường trực
+						VP
+							V(H)
+								 đi
+							AP
+								A(H)
+									 vắng
+					,
+						 ,
+					S
+						NP(SUB)
+							N(H)
+								 thứ trưởng
+							VP
+								V(H)
+									 ở
+								NP(DOB)
+									N(H)
+										 nhà
+						VP
+							V(H)
+								 ký
+							V
+								 thay
+	.
+		 .
+</s>
+<s id = "38">
+S
+	S
+		XP(MDP)
+			X(H)
+				 Lẽ ra
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 có
+				NP(DOB)
+					N(H)
+						 văn bản
+					A
+						 riêng
+	,
+		 ,
+	S
+		NP(SUB)
+			P(H)
+				 đây
+		VP
+			VP
+				V(H)
+					 là
+				NP
+					N(H)
+						 thiếu sót
+					PP
+						E(H)
+							 của
+						NP
+							N(H)
+								 bị cáo
+			,
+				 ,
+			C
+				 nhưng
+			VP
+				R
+					 chỉ
+				V(H)
+					 là
+				NP(DOB)
+					N(H)
+						 thiếu sót
+					A
+						 hành chính
+					...
+						 ...
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "39">
+S
+	PP(TMP)
+		E(H)
+			 Đến
+		NP
+			P(H)
+				 đây
+	,
+		 ,
+	NP(SUB)
+		Ny(H)
+			 HĐXX
+	VP
+		VP
+			"
+				 "
+			V(H)
+				 lật
+			"
+				 "
+			V
+				 trở lại
+		,
+			 ,
+		VP
+			V(H)
+				 khẳng định
+			A
+				 rõ
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 công văn
+						M
+							 999
+					VP
+						VP
+							R
+								 mới
+							R
+								 chỉ
+							V(H)
+								 là
+							"
+								 "
+							VP
+								V(H)
+									 xin
+								NP(DOB)
+									N(H)
+										 ý kiến
+									N
+										 Chính phủ
+						,
+							 ,
+						C
+							 còn
+						VP
+							V(H)
+								 phải
+							VP
+								V(H)
+									 chờ
+								NP(DOB)
+									N(H)
+										 Chính phủ
+									VP
+										V(H)
+											 cho phép
+						"
+							 "
+					,
+						 ,
+					VP
+						R
+							 không
+						V(H)
+							 phải
+						NP(DOB)
+							Nc(H)
+								 sự
+							V
+								 thể hiện
+							NP
+								N(H)
+									 chủ trương
+								PP
+									E(H)
+										 của
+									NP
+										N(H)
+											 bộ
+	.
+		 .
+</s>
+<s id = "40">
+S
+	VP(ADV)
+		R
+			 Không
+		V(H)
+			 đồng tình
+	NP(SUB)
+		N(H)
+			 bị cáo
+		Np
+			 Luân
+	VP
+		V(H)
+			 nại
+		SBAR
+			C
+				 rằng
+			S
+				PP(TPC)
+					E(H)
+						 với
+					NP
+						N(H)
+							 công văn
+						M
+							 999
+				S
+					XP(MNR)
+						X(H)
+							 một mặt
+					"
+						 "
+					NP(SUB)
+						N(H)
+							 bộ
+					VP
+						V(H)
+							 xác nhận
+						SBAR
+							S
+								NP(SUB)
+									N(H)
+										 dự án
+								VP
+									R
+										 đang
+									V(H)
+										 thiếu
+									NP(DOB)
+										N(H)
+											 vốn
+					"
+						 "
+				,
+					 ,
+				S
+					XP(MNR)
+						X(H)
+							 mặt khác
+					"
+						 "
+					NP(SUB)
+						 *T*
+					VP
+						V(H)
+							 có
+						NP(DOB)
+							N(H)
+								 chủ trương
+							VP
+								V(H)
+									 cho
+								NP(DOB)
+									Ny(H)
+										 DN
+								VP
+									V(H)
+										 vay
+									NP(DOB)
+										N(H)
+											 vốn
+										N
+											 tín dụng
+					"
+						 "
+	.
+		 .
+</s>
+<s id = "41">
+S
+	S
+		SBAR(CND)
+			C
+				 Nếu
+			S
+				NP(SUB)
+					 *E*
+				AP(PRD)
+					R
+						 chưa
+					A(H)
+						 rõ
+		,
+			 ,
+		S
+			"
+				 "
+			NP(SUB)
+				Ny(H)
+					 HĐXX
+			VP
+				R
+					 có thể
+				V(H)
+					 thẩm vấn
+				NP(DOB)
+					NP
+						N(H)
+							 bộ trưởng
+						Np
+							 Ngọ
+					C
+						 và
+					NP
+						N(H)
+							 thứ trưởng
+						VP
+							V(H)
+								 phụ trách
+							VP
+								V(H)
+									 Xây dựng
+								A
+									 cơ bản
+						-
+							 -
+						NP
+							Nc(H)
+								 ông
+							Np
+								 Phạm Hồng Giang
+			"
+				 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 bị cáo
+		VP
+			V(H)
+				 gợi ý
+	.
+		 .
+</s>
+<s id = "42">
+S
+	SQ
+		"
+			 "
+		NP(SUB)
+			N(H)
+				 Bị cáo
+		VP
+			VP
+				V(H)
+					 ký
+				V
+					 xác nhận
+				PP(LOC)
+					E(H)
+						 vào
+					NP
+						N(H)
+							 công văn
+			C
+				 nhưng
+			VP
+				R
+					 lại
+				R
+					 không
+				V(H)
+					 kiểm tra
+				NP(DOB)
+					N(H)
+						 việc
+					VP
+						V(H)
+							 sử dụng
+						NP(DOB)
+							N(H)
+								 vốn
+			,
+				 ,
+			VP
+				V(H)
+					 để
+				VP
+					V(H)
+						 xảy
+					R
+						 ra
+					NP(DOB)
+						N(H)
+							 hậu quả
+						A
+							 nghiêm trọng
+		,
+			 ,
+		AP(PRD)
+			X
+				 như thế
+			R
+				 có
+			A(H)
+				 phải
+			VP
+				V(H)
+					 thiếu
+				NP(DOB)
+					N(H)
+						 trách nhiệm
+			R
+				 không
+		?
+			 ?
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 chủ tọa
+			Np
+				 Nguyễn Hùng Cường
+		VP
+			V(H)
+				 hỏi
+			NP(DOB)
+				Nc(H)
+					 ông
+				Np
+					 Luân
+	.
+		 .
+</s>
+<s id = "43">
+S
+	S
+		"
+			 "
+		NP(SUB)
+			N(H)
+				 Tiền
+		VP
+			R
+				 không
+			V(H)
+				 mất
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 bị cáo
+		VP
+			V(H)
+				 khẳng định
+			C
+				 như
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 đinh
+					VP
+						V(H)
+							 đóng
+						NP(DOB)
+							N(H)
+								 cột
+	.
+		 .
+</s>
+<s id = "44">
+S
+	S
+		"
+			 "
+		S
+			NP(SUB)
+				N(H)
+					 Ngân hàng
+			VP
+				R
+					 không
+				V(H)
+					 thu hồi
+				R
+					 được
+				NP(DOB)
+					N(H)
+						 vốn
+		,
+			 ,
+		S
+			NP(SUB)
+				Np(H)
+					 Lã Thị Kim Oanh
+			VP
+				R
+					 không
+				V(H)
+					 còn
+				NP(DOB)
+					N(H)
+						 khả năng
+					V
+						 chi trả
+		,
+			 ,
+		C
+			 như vậy
+		SQ
+			NP(SUB)
+				 *E*
+			VP
+				R
+					 không
+				V(H)
+					 thất thoát
+			C
+				 thì
+			VP
+				V(H)
+					 là
+				WHNP
+					P(H)
+						 gì
+			?
+				 ?
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 tòa
+		VP
+			V(H)
+				 truy
+			R
+				 tiếp
+	.
+		 .
+</s>
+<s id = "45">
+S
+	NP(SUB)
+		Np(H)
+			 Luân
+	VP
+		V(H)
+			 trình bày
+		"
+			 "
+		SBAR
+			S
+				S
+					NP(SUB)
+						P(H)
+							 đó
+					VP
+						V(H)
+							 là
+						NP
+							N(H)
+								 hoạt động
+							PP
+								E(H)
+									 của
+								NP
+									M
+										 hai
+									N(H)
+										 đơn vị
+									VP
+										V(H)
+											 có
+										NP(DOB)
+											N(H)
+												 tư cách
+											N
+												 pháp nhân
+				,
+					 ,
+				S
+					NP(SUB)
+						Nc(H)
+							 việc
+						V
+							 thanh toán
+					VP
+						V(H)
+							 *E*
+						PP(PRD)
+							E(H)
+								 do
+							NP
+								M
+									 hai
+								N(H)
+									 bên
+				,
+					 ,
+				S
+					NP(SUB)
+						N(H)
+							 bộ
+					VP
+						R
+							 không
+						V(H)
+							 chịu
+						NP(DOB)
+							N(H)
+								 trách nhiệm
+		...
+			 ...
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "46">
+S
+	AP(ADV)
+		R
+			 cũng
+		A(H)
+			 tương tự
+		NP
+			N(H)
+				 trường hợp
+			NP
+				Nc(H)
+					 ông
+				Np
+					 Lê Huy Ngọ
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 bị cáo
+		Np
+			 Nguyễn Thiện Luân
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				AP(PRD)
+					"
+						 "
+					R
+						 không
+					A(H)
+						 cần thiết
+					"
+						 "
+					VP
+						V(H)
+							 công bố
+						NP(DOB)
+							N(H)
+								 nội dung
+							V
+								 đối chất
+							PP
+								E(H)
+									 giữa
+								NP
+									NP
+										N(H)
+											 ông
+									C
+										 với
+									NP
+										N(H)
+											 nhân chứng
+										Np
+											 Nguyễn Công Tạn
+										LBKT
+											 LBKT
+										NP
+											S
+												 nguyên
+											N(H)
+												 bộ trưởng
+											NP
+												N(H)
+													 Bộ
+												Ny
+													 NN
+												Ny
+													 &
+												Ny
+													 PTNT
+										RBKT
+											 RBKT
+							PP(LOC)
+								E(H)
+									 tại
+								NP
+									N(H)
+										 phiên tòa
+	.
+		 .
+</s>
+<s id = "47">
+S
+	C
+		 Tuy nhiên
+	,
+		 ,
+	NP(SUB)
+		Ny(H)
+			 HĐXX
+	VP
+		R
+			 vẫn
+		V(H)
+			 quyết định
+		VP
+			V(H)
+				 công bố
+			A
+				 công khai
+			NP(DOB)
+				NP
+					N(H)
+						 băng
+					V
+						 ghi hình
+				C
+					 và
+				NP
+					N(H)
+						 biên bản
+					NP
+						Nc(H)
+							 cuộc
+						V
+							 đối chất
+				P
+					 này
+			SBAR(PRP)
+				E(H)
+					 để
+				S
+					NP(SUB)
+						L
+							 các
+						N(H)
+							 luật sư
+						,
+							 ,
+						N(H)
+							 cử tọa
+					VP
+						V(H)
+							 theo dõi
+	.
+		 .
+</s>
+<s id = "48">
+S
+	NP(SUB)
+		Ny(H)
+			 HĐXX
+	VP
+		R
+			 cũng
+		R
+			 đã
+		V(H)
+			 thẩm vấn
+		NP(DOB)
+			N(H)
+				 bị cáo
+			Np(H)
+				 Phan Văn Quán
+		PP
+			E(H)
+				 về
+			NP
+				N(H)
+					 trách nhiệm
+				PP
+					PP
+						E(H)
+							 trong
+						NP
+							Nc(H)
+								 việc
+							VP
+								VP
+									V(H)
+										 thẩm định
+								,
+									 ,
+								VP
+									V(H)
+										 ký
+									V
+										 nháy
+									NP(DOB)
+										N(H)
+											 công văn
+										VP(PRP)
+											V(H)
+												 xin
+											VP
+												V(H)
+													 vay
+												NP(DOB)
+													N(H)
+														 tiền
+										PP
+											E(H)
+												 của
+											NP
+												N(H)
+													 Công ty
+												Np
+													 Tiếp thị
+								PP(PRP)
+									E(H)
+										 để
+									VP
+										V(H)
+											 trình
+										SBAR
+											S
+												NP(SUB)
+													N(H)
+														 lãnh đạo
+													N
+														 bộ
+												VP
+													V(H)
+														 ký
+													AP
+														A(H)
+															 chính thức
+					,
+						 ,
+					R
+						 cũng
+					C
+						 như
+					PP
+						E(H)
+							 trong
+						NP
+							Nc(H)
+								 việc
+							VP
+								V(H)
+									 thiếu
+								VP
+									V(H)
+										 kiểm tra
+									,
+										 ,
+									V(H)
+										 theo dõi
+									NP(DOB)
+										N(H)
+											 tình hình
+										Np
+											 Công ty Tiếp thị
+	.
+		 .
+</s>

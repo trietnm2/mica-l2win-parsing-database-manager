@@ -1,0 +1,623 @@
+! : !	1
+" : "	40
+, : ,	90
+- : -	6
+. : .	70
+... : ...	11
+/ : /	5
+: : :	9
+; : ;	1
+A : Bình thường	1
+A : Gần	1
+A : Nhiều	2
+A : Sâu	1
+A : Vắng lặng	1
+A : bóng lộn	1
+A : bạc	1
+A : bạt ngàn	1
+A : bất hiếu	1
+A : bận	1
+A : bậy	1
+A : bằng	1
+A : bệnh	1
+A : cao	4
+A : cao tuổi	3
+A : chung	1
+A : chậm	1
+A : cô độc	1
+A : cùng	1
+A : cũ	1
+A : cố hữu	1
+A : già	8
+A : gần	1
+A : hoàn thiện	1
+A : hoàn toàn	1
+A : hơn	2
+A : hồng hào	1
+A : khoẻ	1
+A : khác	2
+A : khép kín	1
+A : khó tính	1
+A : khổ	2
+A : kinh tế	1
+A : liều	1
+A : lạnh	1
+A : lớn	2
+A : minh mẫn	1
+A : móm mém	1
+A : mệt mỏi	1
+A : mới	2
+A : mới mẻ	1
+A : ngẫu nhiên	1
+A : ngặt	1
+A : nhanh nhạy	1
+A : nhiều	4
+A : như	2
+A : nhẹ nhàng	1
+A : nhỏ	1
+A : phải	4
+A : quen	1
+A : rẻ	1
+A : rộng	1
+A : sai	1
+A : sang	1
+A : sang trọng	1
+A : sau	2
+A : song song	1
+A : suốt	3
+A : sẵn sàng	2
+A : sớm	1
+A : thuận lợi	1
+A : thật	1
+A : thẳng	1
+A : thẳng tay	1
+A : thừa	1
+A : tiện ích	1
+A : trái	1
+A : trên	1
+A : trước	1
+A : trắng	1
+A : trọn	1
+A : tất bật	1
+A : tốt	3
+A : vui vẻ	2
+A : vô duyên	1
+A : vương giả	1
+A : vật vã	1
+A : y như	1
+A : yên tâm	3
+A : yếu	1
+A : út	2
+A : đúng	1
+A : đắt	1
+A : đủ	1
+C : Mà	1
+C : Nhưng	1
+C : Nếu	3
+C : hay	1
+C : là	5
+C : mà	6
+C : ngược lại	2
+C : như	2
+C : nhưng	5
+C : nên	3
+C : nếu	1
+C : rồi	2
+C : thì	7
+C : và	8
+E : Theo	1
+E : Trong	2
+E : Vì	1
+E : Với	1
+E : bên	1
+E : bằng	1
+E : cho	10
+E : của	19
+E : do	1
+E : dù	1
+E : theo	2
+E : trong	4
+E : trên	3
+E : từ	4
+E : vào	11
+E : vì	5
+E : với	10
+E : đến	6
+E : để	10
+E : Ở	1
+E : ở	10
+L : Các	1
+L : Những	1
+L : các	14
+L : mấy	3
+L : mọi	1
+L : mỗi	2
+L : những	7
+LBKT : LBKT	1
+M : 1	2
+M : 1 , 2	1
+M : 1,6	1
+M : 2	3
+M : 25	1
+M : 3	4
+M : 3, 5	1
+M : 4	1
+M : 50	1
+M : 7	1
+M : 80	1
+M : 850.000	1
+M : Hai	1
+M : Một	3
+M : ba	5
+M : bốn	3
+M : hai	2
+M : mỗi	2
+M : một	15
+M : ngàn	1
+M : năm	1
+M : triệu	7
+M : tỉ	2
+N : Công ty	2
+N : Cụ	5
+N : Hôm	2
+N : Khách sạn	1
+N : Kinh nghiệm	1
+N : Mẹ	1
+N : Nhà nước	1
+N : Tiếng	1
+N : Tiền	1
+N : Trung tâm	2
+N : Tương lai	1
+N : Tết	1
+N : anh	4
+N : bà	4
+N : bên	4
+N : bưởi	1
+N : bạc	1
+N : bếp	1
+N : bệnh	2
+N : bệnh tật	1
+N : bệnh viện	1
+N : bố mẹ	1
+N : bộ trưởng	1
+N : cha mẹ	3
+N : chuông	1
+N : chày	2
+N : chế độ	2
+N : chỗ	1
+N : chủ	1
+N : chức vụ	1
+N : con	11
+N : con cháu	2
+N : con cái	4
+N : con gái	1
+N : con nuôi	1
+N : con trai	2
+N : cách	1
+N : cây	1
+N : công ty	3
+N : công việc	1
+N : cạnh	2
+N : cổng	1
+N : cụ	29
+N : cụ già	2
+N : da	2
+N : da mồi	1
+N : dãy	2
+N : dư luận	1
+N : dịch vụ	4
+N : gia đình	1
+N : giá	2
+N : giá trị	1
+N : giám đốc	7
+N : giường	1
+N : heo may	1
+N : huyện	1
+N : hạng	1
+N : hội trường	1
+N : hợp đồng	1
+N : khi	4
+N : khoảng	2
+N : khu	6
+N : khuỷu	1
+N : khách sạn	3
+N : không gian	1
+N : khả năng	1
+N : khẩu	1
+N : kệ	1
+N : loại hình	1
+N : lòng	1
+N : lúc	1
+N : lý do	1
+N : lĩnh vực	1
+N : lối	1
+N : lời	1
+N : lợi nhuận	1
+N : lợi ích	1
+N : mô hình	1
+N : mặt	1
+N : mẹ	6
+N : mồm	2
+N : một cách	1
+N : mức	2
+N : mức độ	1
+N : nghịch lý	1
+N : ngày	5
+N : người	21
+N : nhau	3
+N : nhà	8
+N : nhà hàng	1
+N : nhà nước	1
+N : nhân viên	1
+N : nhãn	1
+N : núi	1
+N : năm	5
+N : nơi	1
+N : nền	1
+N : nỗi	1
+N : phí	1
+N : phía	1
+N : phòng	13
+N : phản xạ	1
+N : phố	1
+N : phục vụ	1
+N : quan niệm	2
+N : quyền	1
+N : quà	1
+N : quân đội	1
+N : quãng	1
+N : quả	1
+N : quần áo	1
+N : sân	1
+N : số	1
+N : sức khoẻ	1
+N : sức lực	1
+N : tay	2
+N : tháng	7
+N : thầy	1
+N : thứ	1
+N : thứ trưởng	2
+N : tivi	1
+N : tiền	8
+N : trong	1
+N : trung tâm	14
+N : trình độ	1
+N : trước hết	1
+N : trước mắt	1
+N : trời	1
+N : trợ lý	1
+N : tuổi	1
+N : tài sản	1
+N : tên	1
+N : tóc	1
+N : tỉ	1
+N : tủ lạnh	1
+N : uy tín	1
+N : viện	1
+N : vòng	1
+N : vùng	1
+N : vườn	1
+N : vấn đề	1
+N : vốn	1
+N : vợ chồng	1
+N : xalông	1
+N : xe	1
+N : xe hơi	2
+N : xã	1
+N : y tá	1
+N : ông	11
+N : ôtô	1
+N : ý	1
+N : ý tưởng	1
+N : điều hòa nhiệt độ	1
+N : điều kiện	2
+N : đà	1
+N : đêm ngày	1
+N : đòi hỏi	1
+N : đòn bẩy	1
+N : đường	1
+N : đại tá	1
+N : đầu	2
+N : đồi	1
+N : đời	3
+NP : *E*	18
+NP : *T*	2
+Nb : VIP	2
+Nb : vip	2
+Nc : Cụ	1
+Nc : anh	3
+Nc : bà	1
+Nc : bộ	1
+Nc : chiếc	4
+Nc : con	1
+Nc : cái	2
+Nc : căn	1
+Nc : cậu	1
+Nc : cụ	4
+Nc : dãy	1
+Nc : khu	1
+Nc : món	1
+Nc : người	3
+Nc : nỗi	2
+Nc : thằng	1
+Nc : Ông	1
+Nc : ông	6
+Nc : đứa	1
+Np : Canada	1
+Np : Chữ	1
+Np : Hà Nội	1
+Np : Hàng Bạc	1
+Np : Minh Khai	1
+Np : Mỹ	2
+Np : Nguyễn Tuấn Ngọc	2
+Np : Ngô Hy	1
+Np : Ngọc	8
+Np : Thanh Nhàn	1
+Np : Từ Liêm	2
+Np : VIP	1
+Np : Việt kiều	3
+Np : Xuân	2
+Np : alzheimer	1
+Nu : USD	1
+Nu : m2	1
+Nu : đ	1
+Nu : đồng	3
+Ny : B.	1
+Ny : D.	1
+Ny : G.	1
+Ny : GS.	1
+Ny : H.	1
+Ny : M.	1
+Ny : T .	1
+Ny : T.	2
+Ny : V.	1
+Ny : VN	1
+Ny : Y.	1
+P : Chúng tôi	1
+P : Cả	1
+P : Họ	1
+P : Nay	1
+P : Nó	1
+P : Tôi	1
+P : Tất cả	1
+P : ai	3
+P : bao nhiêu	1
+P : gì	1
+P : họ	2
+P : mình	1
+P : nay	2
+P : này	6
+P : nó	1
+P : tôi	10
+P : tự	3
+P : vậy	1
+P : Đây	2
+P : Đó	1
+P : Đấy	2
+P : đây	10
+R : Chỉ	1
+R : Có lẽ	1
+R : Cũng	1
+R : Không	1
+R : chẳng	1
+R : chỉ	9
+R : còn	5
+R : có khi	1
+R : có thể	2
+R : cũng	9
+R : cả	1
+R : cứ	4
+R : dở chừng	1
+R : hơi	1
+R : hơn	2
+R : hết	1
+R : khá	2
+R : không	13
+R : không thể	2
+R : luôn	4
+R : lại	9
+R : mới	3
+R : ngay	1
+R : ngay lập tức	1
+R : nhất	3
+R : nữa	1
+R : qua	1
+R : quá	1
+R : ra	6
+R : rất	6
+R : rồi	1
+R : sẽ	3
+R : thi thoảng	1
+R : thật	1
+R : toàn	1
+R : từng	1
+R : vào	1
+R : vẫn	2
+R : về	1
+R : xuống	1
+R : đang	4
+R : đã	9
+R : được	4
+R : đều	2
+RBKT : RBKT	1
+T : Cả	1
+T : chán	1
+T : chính	1
+T : có	1
+T : có vẻ	1
+T : cả	2
+T : ngay	1
+T : thôi	3
+T : thế	1
+T : tới	1
+T : đến	3
+T : ấy	1
+V : *E*	1
+V : Bước	1
+V : Cách	1
+V : Có	1
+V : Gửi	1
+V : Nói	1
+V : Phải	1
+V : Qua	1
+V : Reng	1
+V : Tùy	1
+V : bao cấp	1
+V : biết	1
+V : bàn bạc	2
+V : bán	2
+V : báo hiếu	6
+V : bước	1
+V : bảo	2
+V : bầu bạn	1
+V : bị	6
+V : bỏ	1
+V : bớt	1
+V : bực	2
+V : chi tiêu	1
+V : chia	1
+V : chia sẻ	1
+V : cho	2
+V : chuyển	2
+V : chép miệng	1
+V : chăm sóc	10
+V : chơi	1
+V : chấp nhận	1
+V : chịu	1
+V : chống chọi	1
+V : chở	1
+V : chửi	1
+V : chữa	1
+V : chực	1
+V : cách	1
+V : cân nhắc	1
+V : còn	1
+V : có	17
+V : cướp	1
+V : cười	1
+V : cảm	1
+V : cầm	1
+V : cần	2
+V : di chuyển	1
+V : dám	1
+V : dưỡng lão	4
+V : dịch vụ	1
+V : giao	1
+V : giúp	1
+V : giúp việc	1
+V : giải quyết	1
+V : giữ	1
+V : gom	1
+V : góp	1
+V : gọi	2
+V : gửi	3
+V : hiến	1
+V : hiện	1
+V : hoạt động	1
+V : hưu	1
+V : hưởng	1
+V : hỏi	1
+V : khoe	1
+V : khảo sát	1
+V : khỏi	2
+V : kêu	1
+V : ký kết	1
+V : kể	1
+V : lo	2
+V : là	21
+V : làm	5
+V : lát	1
+V : lãi	1
+V : lên	1
+V : lạc	1
+V : lấy	2
+V : lẫn	1
+V : mua	1
+V : muốn	2
+V : mãn nguyện	1
+V : mất	3
+V : mở	1
+V : nghe	1
+V : nghiện	1
+V : nghỉ dưỡng	1
+V : ngược đãi	1
+V : ngủ	2
+V : nuôi	1
+V : nuôi dưỡng	2
+V : nín nhịn	1
+V : nói	4
+V : nói chuyện	2
+V : nằm	1
+V : phát triển	1
+V : phải	7
+V : phục vụ	3
+V : quay	1
+V : quyết	1
+V : quặt	1
+V : reng	1
+V : ruồng bỏ	1
+V : sống	4
+V : tan	1
+V : thay	2
+V : thay đổi	1
+V : thiết kế	1
+V : thiếu	1
+V : thoát	2
+V : thu hồi	1
+V : thuê	3
+V : thành	1
+V : thành công	1
+V : thích	1
+V : thăm	3
+V : thấy	3
+V : thống nhất	1
+V : tránh	1
+V : trói	1
+V : trườn	2
+V : trả	3
+V : trấn	1
+V : trấn lột	1
+V : tuyên bố	1
+V : tìm	1
+V : tích góp	1
+V : tính	1
+V : tương ứng	1
+V : tắm rửa	1
+V : tắm táp	1
+V : tặng	1
+V : vay	1
+V : vào	13
+V : về	5
+V : xung đột	1
+V : xây	2
+V : xé	1
+V : yêu cầu	1
+V : ăn	4
+V : Đi	1
+V : Đến	1
+V : Đứng	1
+V : đi	3
+V : đánh	2
+V : đáp ứng	2
+V : đòi	1
+V : đóng	1
+V : đưa	4
+V : được	13
+V : đấm	1
+V : đầu tư	2
+V : đến	2
+V : đề nghị	1
+V : để	1
+V : đồng ý	2
+V : đổ	1
+V : ở	4
+X : Có lẽ	1
+X : Có vẻ	1
+X : Khổ nỗi	1
+X : Làm gì	1
+X : chẳng qua	1
+X : có điều	1
+X : hay sao	1
+X : như vậy	1
+X : tối mắt tối mũi	1
+X : Đến nỗi	1

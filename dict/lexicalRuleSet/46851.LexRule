@@ -1,0 +1,831 @@
+! : !	6
+" : "	35
+, : ,	107
+- : -	14
+. : .	85
+... : ...	2
+: : :	6
+; : ;	5
+A : Ngon	1
+A : Nhiều	2
+A : Núng	1
+A : Rạng	1
+A : Suốt	1
+A : Tờ mờ	1
+A : anh dũng	1
+A : anh hùng	2
+A : buồn	1
+A : bình dị	2
+A : bí mật	1
+A : bối rối	1
+A : chính xác	1
+A : chết	1
+A : chủ yếu	1
+A : cong	1
+A : cuối	1
+A : diệt	1
+A : dày	2
+A : dày đặc	2
+A : dũng cảm	1
+A : dễ chịu	1
+A : dớn da dớn dác	1
+A : gan dạ	1
+A : già	1
+A : gãy	1
+A : gạt	1
+A : gần	2
+A : ha hả	1
+A : hiếm	1
+A : hoan hỉ	1
+A : hỏng	1
+A : khoảng	1
+A : khác	1
+A : khô	1
+A : khắp	1
+A : khốc liệt	1
+A : khổng lồ	1
+A : lấp lánh	1
+A : lầy lội	1
+A : lắm	1
+A : lẻ tẻ	1
+A : lịch sử	1
+A : lỗ chỗ	1
+A : may mắn	2
+A : mạnh	2
+A : nguyên	1
+A : nhanh	1
+A : nhiều	8
+A : như	1
+A : nhỏ	1
+A : nhừ	1
+A : nát	1
+A : nặng	1
+A : nặng nề	2
+A : nổi tiếng	2
+A : nức lòng	1
+A : oai hùng	2
+A : phải	1
+A : ròng rã	2
+A : rộng	1
+A : rộng lớn	1
+A : suốt	1
+A : sáng ngời	1
+A : sát nách	1
+A : sướng	1
+A : sớm	1
+A : thanh bình	1
+A : thiện chiến	1
+A : thất bại	1
+A : thầm lặng	1
+A : thẳng	1
+A : thọt	1
+A : toàn	2
+A : toác	1
+A : trên	5
+A : tàn bạo	1
+A : tột độ	1
+A : tự tạo	2
+A : ung dung	1
+A : vô hạn	1
+A : vững vàng	1
+A : xanh	1
+A : xưa	2
+A : ác liệt	1
+A : âm	1
+A : êm	1
+A : Đúng	1
+A : Đầu	1
+A : đầu tiên	3
+A : đầy	1
+A : đặc biệt	2
+A : đỏ	1
+A : độc	1
+A : đủ	1
+A : ồ ạt	1
+C : Nhưng	2
+C : Tuy nhiên	1
+C : Vì	1
+C : Vậy mà	1
+C : còn	1
+C : hoặc	5
+C : huống hồ	1
+C : là	5
+C : mà	2
+C : mà còn	2
+C : như	6
+C : nhưng	3
+C : nên	1
+C : rồi	1
+C : thì	9
+C : và	18
+C : vì thế	1
+C : với	1
+E : Trong	1
+E : Trên	1
+E : Từ	1
+E : Với	2
+E : bằng	3
+E : bởi	3
+E : cho	4
+E : của	17
+E : dưới	6
+E : giữa	2
+E : ngoài	1
+E : sau	4
+E : trong	13
+E : trên	10
+E : trước	1
+E : tại	2
+E : tận	1
+E : từ	5
+E : vào	5
+E : về	2
+E : với	11
+E : xuống	1
+E : đến	1
+E : để	2
+E : Ở	1
+E : ở	7
+L : Các	2
+L : Những	5
+L : Toàn bộ	2
+L : các	6
+L : hầu hết	1
+L : mấy	2
+L : mỗi	4
+L : một số	1
+L : những	13
+L : toàn bộ	3
+L : vài	1
+L : vài ba	1
+LBKT : LBKT	6
+LBKT : TBKT	1
+M : 1	5
+M : 1 . 600	1
+M : 1 . 800	1
+M : 10	1
+M : 10 . 000	1
+M : 11	1
+M : 111	1
+M : 12 . 000	1
+M : 13	1
+M : 130	1
+M : 19	1
+M : 1961	2
+M : 1962	1
+M : 1963	1
+M : 1965	1
+M : 1966	5
+M : 1967	3
+M : 1969	1
+M : 1972	1
+M : 2	2
+M : 2 , 5	1
+M : 20	1
+M : 20 . 000	1
+M : 2002	1
+M : 21	1
+M : 25	1
+M : 28	2
+M : 3	1
+M : 3 . 500	1
+M : 30 . 000	1
+M : 4	1
+M : 44 . 000	1
+M : 50	1
+M : 59	1
+M : 600	1
+M : 70	1
+M : 715	1
+M : 77	1
+M : 8	2
+M : 84	1
+M : 9	1
+M : Một	1
+M : Tám	1
+M : ba	1
+M : bảy	1
+M : bốn	1
+M : chục	1
+M : hai	2
+M : một	14
+M : năm	1
+M : sáu	1
+M : tám	1
+M : đôi	1
+N : 1966	1
+N : Anh em	2
+N : Bom đạn	1
+N : Bà con	1
+N : Bẫy	1
+N : Bộ tư lệnh	1
+N : Cách mạng	1
+N : Du kích	1
+N : Giai đoạn	1
+N : Giải phóng	1
+N : Huyện ủy	1
+N : Khi	1
+N : Khu ủy	1
+N : Lúc	1
+N : Lần	1
+N : Lối	1
+N : Máu	1
+N : Mùa	2
+N : Nòng	1
+N : Năm	1
+N : Quân	1
+N : Quân khu	1
+N : Quốc khánh	1
+N : Súng	1
+N : Sốt rét	1
+N : Tháng	3
+N : Tia	1
+N : Tuổi	1
+N : Tổ	1
+N : Xung quanh	1
+N : anh em	3
+N : anh hùng	10
+N : biển	1
+N : bom	2
+N : bà mẹ	1
+N : bàn	1
+N : bàn chông	1
+N : bùn	1
+N : bạn	1
+N : bạn bè	1
+N : bẫy	5
+N : bắc	2
+N : bệnh tật	1
+N : bộ binh	3
+N : bộ đội	1
+N : cha đẻ	1
+N : chiến dịch	8
+N : chiến hào	1
+N : chiến lợi phẩm	2
+N : chiến sĩ	2
+N : chiến tranh	4
+N : chiến trường	6
+N : chiến tích	1
+N : chuột cống	1
+N : chân	1
+N : châu mai	2
+N : chông	9
+N : chất nổ	1
+N : chỗ	1
+N : chớp	1
+N : chủ lực	1
+N : chứng nhân	1
+N : con	1
+N : cuốc	1
+N : cuộc	1
+N : cuộc chiến	1
+N : cây	3
+N : căn cứ	4
+N : cơm	1
+N : cầu gai	1
+N : cỏ	1
+N : cửa ngõ	1
+N : danh hiệu	1
+N : dao	2
+N : du kích	25
+N : dũng sĩ	1
+N : giày	1
+N : giặc	5
+N : giờ	3
+N : gò	1
+N : gạo	1
+N : gốc	1
+N : huyện lỵ	1
+N : hài cốt	1
+N : hàm răng	1
+N : hào	1
+N : hè	1
+N : hình chóp	1
+N : hầm	4
+N : hầm hào	1
+N : hệ thống	3
+N : hố	1
+N : hốc	1
+N : hồi	1
+N : khi	6
+N : kho	1
+N : khoảng cách	1
+N : khu công nghiệp	1
+N : khí	1
+N : không quân	1
+N : kiểu	1
+N : ký ức	1
+N : lao	1
+N : liệt sĩ	4
+N : loại	2
+N : làng	1
+N : lê	1
+N : lính	1
+N : lòng	11
+N : lôcôt	1
+N : lúc	2
+N : lưng	1
+N : lưỡi câu	1
+N : lần	4
+N : lịch sử	3
+N : lớp	1
+N : lợi	1
+N : lửa	1
+N : lực lượng	2
+N : lực lượng vũ trang	2
+N : lựu đạn	3
+N : miền	1
+N : màu	1
+N : máy	1
+N : máy bay	3
+N : máy bay lên thẳng	1
+N : mã tấu	2
+N : mìn	3
+N : mũi	1
+N : mạng	1
+N : mắt	1
+N : mặt đất	3
+N : mối	1
+N : mồi	1
+N : mục tiêu	1
+N : nghĩa trang	1
+N : ngày	9
+N : ngày xưa	1
+N : ngóc ngách	1
+N : ngón	1
+N : người	9
+N : ngạnh	1
+N : ngụy	1
+N : ngực	1
+N : nhau	1
+N : nhiệt đới	1
+N : nhà	3
+N : nhà máy	1
+N : nhân dân	2
+N : niềm	1
+N : nòng	1
+N : nón	1
+N : năm	12
+N : năm kia	1
+N : năm xưa	1
+N : nơi	1
+N : nước	8
+N : nền	1
+N : pháo binh	2
+N : phía	3
+N : phản lực	1
+N : quân	14
+N : quân binh	1
+N : quân dân	3
+N : quãng	1
+N : quê	1
+N : quả	1
+N : răng	1
+N : rơm	1
+N : rắn rết	1
+N : rọ	1
+N : rừng	1
+N : sau	3
+N : sáng	2
+N : sông	3
+N : súng	5
+N : sư đoàn	2
+N : sắt	4
+N : số	1
+N : sử	1
+N : tam giác	1
+N : tay	4
+N : thiết giáp	2
+N : thuổng	1
+N : thành lũy	1
+N : thành phố	1
+N : tháng	1
+N : thân	1
+N : thép	1
+N : thương tích	1
+N : thương vong	1
+N : thắt lưng	1
+N : thế	4
+N : thế giới	1
+N : thời	1
+N : thời điểm	1
+N : trang	1
+N : tre	1
+N : trái	1
+N : trái đất	2
+N : trê	1
+N : trận	7
+N : tuyến	1
+N : tuýp	1
+N : tuổi đời	1
+N : tài	1
+N : tài sản	1
+N : tên	7
+N : túi	1
+N : tơ	1
+N : tầm	1
+N : tầm vông	4
+N : tối	1
+N : tổ	2
+N : tổn thất	2
+N : từ điển	1
+N : viên	1
+N : vùng	2
+N : vũ khí	2
+N : vườn tược	1
+N : vật liệu	2
+N : vết thương	1
+N : vỏ	2
+N : xe	1
+N : xe bọc thép	1
+N : xe cơ giới	1
+N : xe tăng	8
+N : xe đạp	1
+N : ximăng	1
+N : xung quanh	1
+N : xã	4
+N : xích	1
+N : xương sống	1
+N : xưởng	1
+N : Ông	1
+N : ông	8
+N : ý đồ	1
+N : Đêm	1
+N : Đền	1
+N : Địch	1
+N : Đội	1
+N : đòn	1
+N : đường	1
+N : đất	11
+N : đất nước	1
+N : đất trời	1
+N : đầu	1
+N : đế	1
+N : địa đạo	22
+N : địch	16
+N : đồn bót	1
+N : đội	2
+N : đợt	1
+N : ấp	3
+N : ống	3
+N : ổ	5
+N : ổ đề kháng	1
+NP : *E*	21
+NP : *T*	3
+Nc : Anh	1
+Nc : Bà	1
+Nc : Cái	5
+Nc : Người	1
+Nc : bìa	1
+Nc : bọn	2
+Nc : bụi	1
+Nc : chiếc	1
+Nc : con	1
+Nc : cuộc	5
+Nc : cái	1
+Nc : cây	1
+Nc : khúc	1
+Nc : loạt	1
+Nc : ngọn	1
+Nc : nỗi	1
+Nc : quả	2
+Nc : sợi	1
+Nc : sự	3
+Nc : thằng	2
+Nc : tên	1
+Nc : tụi	3
+Nc : Ông	5
+Nc : ông	5
+Nc : đoạn	4
+Nc : đứa	3
+Nc : ụ	2
+Np : Ba Rô	1
+Np : Bàu Cạp	2
+Np : Bàu Tròn	1
+Np : Bình Dương	1
+Np : Bến Cát	1
+Np : Bến Dược	2
+Np : Bến Đình	2
+Np : Cedar Fall	1
+Np : Chín	1
+Np : Chín Lan	1
+Np : Chín Ảnh	5
+Np : Chợ Lớn	1
+Np : Crimp	2
+Np : Cả Đỏ	1
+Np : Củ Chi	17
+Np : Muỗi mòng	1
+Np : Mỹ	12
+Np : Nguyễn Văn Tập	1
+Np : Nhuận Đức	3
+Np : Pháp	2
+Np : Phạm Văn Chệ	1
+Np : Phạm Văn Cội	5
+Np : Sài Gòn	4
+Np : Tô Văn Đực	1
+Np : Tư	1
+Np : Tư Cậm	2
+Np : Võ Văn Cậm	1
+Np : bắc	1
+Np : xã	1
+Np : Út	1
+Np : Út Kang	3
+Np : Út Lắm	1
+Np : Đồng Dù	2
+Nu : m	2
+Ny : UBND	1
+Ny : VN	1
+P : Chúng	2
+P : Cả	1
+P : Giờ đây	1
+P : Họ	1
+P : Vậy	1
+P : ai	1
+P : bao giờ	1
+P : bao nhiêu	1
+P : chúng	4
+P : chúng ta	1
+P : chúng tôi	1
+P : gì	2
+P : hôm nay	1
+P : mình	5
+P : nào	3
+P : này	11
+P : nó	1
+P : nọ	1
+P : ta	2
+P : toàn	1
+P : tui	3
+P : tất cả	1
+P : từng	1
+P : Đâu	1
+P : Đây	1
+P : Đó	2
+P : đâu	2
+P : đâu đó	1
+P : đây	1
+P : đó	3
+R : Chỉ	2
+R : Cũng	1
+R : Cứ	1
+R : Không	1
+R : Mới	1
+R : Thường	1
+R : bất cứ	1
+R : bất kỳ	1
+R : cho	1
+R : chí chết	1
+R : chỉ	5
+R : càng	1
+R : còn	3
+R : có thể	1
+R : cũng	9
+R : gần như	1
+R : hơn	4
+R : hết	1
+R : không	10
+R : lâu lâu	1
+R : lên	4
+R : lại	7
+R : lắm	1
+R : mới	4
+R : nguyên	1
+R : quá	2
+R : ra	3
+R : rất	1
+R : rằng	1
+R : sẽ	1
+R : thỉnh thoảng	1
+R : toàn	1
+R : từng	5
+R : vào	2
+R : vô kể	1
+R : vẫn	2
+R : về	2
+R : vừa	4
+R : xuống	1
+R : đang	2
+R : đi	1
+R : đã	9
+R : được	5
+R : đều	3
+RBKT : RBKT	7
+T : chính	2
+T : cả	1
+T : hết	1
+T : hề	1
+T : ngay	2
+T : riêng	1
+T : rồi	1
+T : thật	1
+T : trời	1
+T : tận	1
+T : đó	1
+V : *E*	3
+V : Bóc	1
+V : Bẻ	1
+V : Căm thù	1
+V : Gặp	1
+V : Hỏi	1
+V : Kết thúc	1
+V : Kỷ niệm	1
+V : Lần	1
+V : Thấy	1
+V : Tổn thất	1
+V : Về	1
+V : bao vây	1
+V : biết	3
+V : buồn thiu	1
+V : buộc	2
+V : bám	1
+V : bèn	1
+V : bê	1
+V : bóc	1
+V : băm	1
+V : bơm	2
+V : bắn	6
+V : bắn tỉa	1
+V : bắt đầu	1
+V : bị	6
+V : bị thương	1
+V : bỏ	1
+V : bỏ mạng	1
+V : bỏ xác	1
+V : bố trí	2
+V : bứt	1
+V : chen	1
+V : chiêu tập	1
+V : chiến đấu	4
+V : chung	1
+V : chơi	1
+V : chặt	1
+V : chế tạo	1
+V : chết	1
+V : chết ngạt	1
+V : chỉ	1
+V : chỉ huy	2
+V : chống	2
+V : coi	1
+V : cài	1
+V : càn	1
+V : càn quét	2
+V : còn	2
+V : có	10
+V : cưa	1
+V : cười	2
+V : cấp	1
+V : cố thủ	1
+V : diệt	2
+V : dính	1
+V : dùng	5
+V : dừng	1
+V : giày xéo	1
+V : giúp	1
+V : giơ	1
+V : giải phẫu	1
+V : giấu	1
+V : giới thiệu	1
+V : gài	2
+V : gây	1
+V : góp phần	1
+V : gạt	1
+V : gấp	2
+V : gặp	1
+V : hi sinh	2
+V : hoang mang	1
+V : hoàn thành	1
+V : huy động	1
+V : hy sinh	1
+V : hành quân	2
+V : hất	1
+V : hết	2
+V : hủy diệt	1
+V : khiến	4
+V : khỏi	1
+V : khống chế	1
+V : kết thúc	1
+V : liên thông	1
+V : lui	2
+V : là	16
+V : làm	3
+V : làm nên	1
+V : làm vườn	1
+V : làm đồng	1
+V : lên	2
+V : ló	1
+V : lôi	1
+V : lưu danh	1
+V : lần	1
+V : lẩn	1
+V : lập	1
+V : lật	1
+V : mang	2
+V : mưa	1
+V : mọc	1
+V : mở	2
+V : nao núng	1
+V : ngã	1
+V : ngồi	1
+V : ngụy trang	1
+V : nhe	1
+V : nhuộm	1
+V : nhân	1
+V : nhìn	1
+V : nhô	1
+V : nhớ	4
+V : nuôi	1
+V : nói	3
+V : nói chuyện	1
+V : nện	1
+V : nối	1
+V : phong	1
+V : phá	1
+V : phá hủy	5
+V : phát hiện	1
+V : phát triển	1
+V : phải	6
+V : phản kích	1
+V : phối hợp	2
+V : qua lại	1
+V : quy tập	1
+V : quyết định	1
+V : rang	1
+V : rung chuyển	1
+V : rèn	1
+V : rút	1
+V : rơi	2
+V : rơi rụng	1
+V : rải thảm	1
+V : sập	1
+V : sống	4
+V : sục	1
+V : thiết kế	1
+V : thiếu	1
+V : thoi thóp	1
+V : thu	2
+V : thành	1
+V : thêm	2
+V : thôi	1
+V : thông	2
+V : thương vong	1
+V : thấy	3
+V : thực hiện	1
+V : tiêu diệt	1
+V : tiến	1
+V : toác	1
+V : trang bị	1
+V : treo	1
+V : truy	1
+V : tràn	1
+V : trét	1
+V : trả	1
+V : trộn	2
+V : trở	2
+V : trở thành	1
+V : tung	2
+V : tìm	3
+V : tạo	2
+V : tấn công	3
+V : tập kích	1
+V : tập kết	1
+V : tắm	1
+V : tặng	1
+V : tỏa	1
+V : tổ chức	1
+V : tổn thất	1
+V : vùi	1
+V : vượt	1
+V : về	2
+V : xong	1
+V : xuống	1
+V : xăm	1
+V : xối	1
+V : xới	1
+V : yểm hộ	1
+V : yểm trợ	1
+V : ăn	1
+V : Đánh	1
+V : Đẻ	1
+V : Đến	1
+V : đi	2
+V : đào	1
+V : đào bới	1
+V : đánh	8
+V : đánh phá	3
+V : đưa	2
+V : được	13
+V : đạp	1
+V : đặt	1
+V : đến	1
+V : đối diện	1
+V : đổ	1
+V : đổ bộ	1
+V : đột kích	1
+V : ở	2
+X : khù	1
+X : kinh hồn bạt vía	1
+X : một mình	1
+X : nhất là	1
+X : thoắt ẩn thoắt hiện	1
+X : xuất quỉ nhập thần	2
+… : ...	15

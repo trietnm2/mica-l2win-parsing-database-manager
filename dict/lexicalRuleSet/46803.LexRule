@@ -1,0 +1,490 @@
+" : "	23
+, : ,	54
+- : -	5
+. : .	38
+... : ...	10
+/ : /	4
+: : :	5
+A : Cuối cùng	1
+A : Khác	1
+A : Rạng	1
+A : buồn	2
+A : chung	1
+A : chủ yếu	1
+A : cùng	1
+A : cũ	2
+A : dài	1
+A : dọc	1
+A : giận	1
+A : gần	1
+A : khác	4
+A : liên tục	1
+A : lạnh	1
+A : lẻ	1
+A : ngay	1
+A : nhiều	1
+A : nhẹ nhàng	1
+A : nhộn nhịp	1
+A : rôm rả	1
+A : rảnh	1
+A : rụt rè	1
+A : trung tâm	1
+A : trên	1
+A : trước	1
+A : trẻ	2
+A : tình cảm	1
+A : tình cờ	1
+A : tập thể	1
+A : tốc hành	1
+A : xa	1
+A : ù ù	1
+A : Đời thường	1
+A : đau lòng	1
+A : đông	3
+A : đặc biệt	1
+A : đủ	1
+C : Nhưng	1
+C : Nếu	1
+C : còn	1
+C : dù	1
+C : dường như	1
+C : hoặc	2
+C : là	3
+C : mà	3
+C : như	3
+C : nhưng	1
+C : nên	2
+C : nếu	1
+C : rồi	2
+C : thì	4
+C : và	10
+E : Tại	2
+E : Vào	1
+E : bằng	2
+E : cho	2
+E : của	11
+E : ngoài	2
+E : qua	2
+E : ra	1
+E : theo	3
+E : trong	6
+E : trên	1
+E : trước	3
+E : tại	4
+E : từ	3
+E : vào	6
+E : vì	1
+E : về	2
+E : với	6
+E : đến	1
+E : để	5
+E : Ở	3
+E : ở	6
+I : nè	1
+I : ơi	1
+L : Những	2
+L : các	6
+L : mấy	1
+L : mọi	2
+L : mỗi	2
+L : một chút	1
+L : một ít	2
+L : những	3
+L : vài	3
+LBKT : LBKT	9
+M : 1 . 000	1
+M : 1 triệu	1
+M : 15	1
+M : 18	2
+M : 2	1
+M : 2 . 000	1
+M : 20	1
+M : 20 . 000	2
+M : 22	1
+M : 23	1
+M : 24	2
+M : 25	2
+M : 300	1
+M : 321	1
+M : 5	1
+M : 50	2
+M : 7	1
+M : 80 . 000	1
+M : Một	2
+M : Năm	2
+M : bốn	1
+M : chục	1
+M : hai	4
+M : một	10
+M : ngàn	1
+M : năm	1
+M : nửa	1
+M : trăm	3
+M : tám	1
+M : đôi	1
+N : Bà	1
+N : Cánh	1
+N : Công ty	2
+N : Công việc	1
+N : Hàng quán	1
+N : Hành khách	1
+N : Hải Phòng	1
+N : Khi	1
+N : LĐ	2
+N : Nhóm	1
+N : Nơi	1
+N : Thời gian	1
+N : Tối qua	1
+N : ba	1
+N : ban	1
+N : ban ngày	1
+N : bài	1
+N : bánh trái	1
+N : bạn	3
+N : bạn bè	1
+N : bảo vệ	1
+N : bến	1
+N : bến xe	1
+N : bốn phương	1
+N : bộ đồ	1
+N : ca	5
+N : chiếu	1
+N : chuyến	1
+N : chuyện	5
+N : chân	1
+N : chùa	1
+N : chỗ	3
+N : chợ	2
+N : chợ phiên	3
+N : chủ	1
+N : chủ nhật	2
+N : cách	1
+N : cánh	1
+N : câu chuyện	1
+N : cô	5
+N : công ty	3
+N : công viên	1
+N : công xưởng	1
+N : cạnh	1
+N : cớ	1
+N : cửa	3
+N : dịch vụ	1
+N : gia đình	1
+N : gió	1
+N : giấy	1
+N : giờ	1
+N : gái	4
+N : gói	1
+N : gốc	1
+N : hàng	1
+N : hàng xóm	1
+N : hành lang	1
+N : hôm	1
+N : hướng	1
+N : hội	1
+N : khi	3
+N : khu	2
+N : khu vực	4
+N : kilômet	1
+N : lao động	3
+N : lon	1
+N : loại	1
+N : lòng	1
+N : lượng	1
+N : lần	2
+N : lời	1
+N : máy	1
+N : mì	1
+N : môi giới	1
+N : mối	1
+N : nam	2
+N : ngày	3
+N : người	11
+N : nhau	5
+N : nhu cầu	1
+N : nhà	4
+N : nhà máy	2
+N : nhân viên	1
+N : nhóm	2
+N : nhạc	1
+N : nơi	5
+N : nước ngoài	2
+N : nước ngọt	2
+N : nỗi	1
+N : nữ	7
+N : phép	1
+N : phép tính	1
+N : phòng	8
+N : phố	1
+N : quanh	1
+N : quán	1
+N : quê	2
+N : quản lý	1
+N : quần áo	1
+N : rượu đế	1
+N : rừng	1
+N : sách báo	1
+N : sáng	1
+N : sản vật	1
+N : sự việc	1
+N : thuốc lào	1
+N : thuốc lá	1
+N : thói quen	1
+N : thùng	1
+N : thị trấn	3
+N : thời trang	1
+N : thủ công	1
+N : thứ ba	1
+N : thứ bảy	2
+N : tin	1
+N : tivi	1
+N : tiếng	5
+N : trai	1
+N : trai gái	1
+N : tuần	1
+N : tuổi	2
+N : tình cảm	2
+N : tích tắc	1
+N : tối	1
+N : vòng	1
+N : vốn	1
+N : xe	2
+N : xá	1
+N : xứ	2
+N : Đêm	1
+N : Đồng hương	1
+N : điểm	3
+N : điện tử	2
+N : đêm	3
+N : đĩa	4
+N : đường	2
+N : đầu	1
+N : đằng	1
+N : đề tài	1
+N : địa phương	1
+N : đối tượng	1
+N : đồng hương	2
+N : độ	1
+N : ở	1
+NP : *E*	14
+NP : *T*	1
+Nb : Internet	1
+Nb : cassette	1
+Nb : karaoke	2
+Nc : Con	1
+Nc : Người	1
+Nc : chiếc	1
+Nc : chị	1
+Nc : con	1
+Nc : cái	1
+Nc : căn	1
+Nc : người	3
+Nc : Đứa	1
+Nc : đứa	1
+Np : A Muối	1
+Np : Azit	1
+Np : Bùi Thanh Hiền	1
+Np : Bắc Giang	1
+Np : Cao Văn Hùng	1
+Np : Coopimex	1
+Np : Hoa	3
+Np : Hà Tĩnh	1
+Np : Johor	1
+Np : Kuala Lumpur	1
+Np : Kualang	1
+Np : Lod	1
+Np : LĐ	1
+Np : Malaysia	6
+Np : Moa	2
+Np : Mour	3
+Np : Nghệ An	1
+Np : Nguyễn Thanh Tùng	1
+Np : Nilai	2
+Np : Nilan	1
+Np : Tampoi	3
+Np : Tracimexco	2
+Np : VN	1
+Np : Việt	3
+Np : Đồng Tháp	2
+Nu : RM	1
+Nu : g	3
+Nu : giờ	2
+Nu : kilômet	2
+Nu : mét	1
+Nu : phút	1
+Nu : sen	1
+Nu : tiếng	1
+Nu : đồng	1
+Ny : KTX	3
+Ny : LĐ	22
+Ny : ST	1
+Ny : VN	11
+Ny : XKLĐ	1
+P : Chúng tôi	1
+P : Họ	1
+P : ai	1
+P : bao lâu	1
+P : chúng tôi	7
+P : cả	3
+P : gì	2
+P : họ	1
+P : nào	1
+P : này	2
+P : thế	1
+P : tui	1
+P : tự	1
+P : Đó	1
+P : đây	6
+P : đó	2
+R : Chỉ	1
+R : Chợt	1
+R : Từng	1
+R : Vừa	1
+R : chẳng	2
+R : chỉ	3
+R : có	1
+R : cũng	2
+R : cứ	2
+R : hàng	4
+R : hơn	1
+R : hẳn	1
+R : khá	1
+R : không	5
+R : nhất	2
+R : quá	1
+R : rất	3
+R : từng	1
+R : về	1
+R : vừa	2
+R : xuống	1
+R : đang	5
+R : đã	3
+R : được	1
+RBKT : RBK	1
+RBKT : RBKT	8
+T : cả	1
+T : hết	1
+T : là	1
+T : ngay	1
+T : đến	3
+V : Bắt đầu	1
+V : Hoạt động	1
+V : Nhớ	1
+V : Tan	1
+V : Theo	1
+V : Thèm	1
+V : biết	1
+V : bán	1
+V : bảo	1
+V : bảo vệ	1
+V : bắt mắt	1
+V : bị	1
+V : cam kết	1
+V : chia	1
+V : chuẩn bị	2
+V : chát chít	1
+V : chạy	1
+V : chạy chợ	1
+V : chọn	1
+V : chứng kiến	1
+V : cách	1
+V : còn	2
+V : có	9
+V : có mặt	1
+V : dẫn	1
+V : giao lưu	1
+V : giới thiệu	1
+V : gắt	1
+V : gặp	1
+V : hàn huyên	1
+V : hát	1
+V : hò hẹn	2
+V : hẹn hò	1
+V : họp	1
+V : khiêng	1
+V : khiến	1
+V : khóc	1
+V : khỏi	1
+V : kinh doanh	2
+V : kéo	3
+V : kéo dài	1
+V : kết bạn	1
+V : lao động	1
+V : là	4
+V : làm	3
+V : làm quen	3
+V : làm quà	1
+V : làm việc	3
+V : lên đường	1
+V : lưu	1
+V : lấy	2
+V : lội	1
+V : mang	2
+V : mạnh dạn	1
+V : mất	1
+V : mắng	1
+V : nghe	2
+V : nguôi	1
+V : ngất xỉu	1
+V : nhận	1
+V : nhớ	3
+V : nhờ	1
+V : nói	3
+V : nắng	1
+V : nối đuôi	1
+V : phá	1
+V : phải	1
+V : phụ trách	1
+V : phục vụ	1
+V : qua	1
+V : qua lại	1
+V : quản lý	1
+V : ra	1
+V : rao	1
+V : rời	1
+V : tan	1
+V : thay đổi	1
+V : thuộc	2
+V : thành	2
+V : thèm	1
+V : thăm	1
+V : thổi	1
+V : tiếp thị	1
+V : tranh thủ	1
+V : trao đổi	1
+V : trò chuyện	1
+V : trải	1
+V : trọ	1
+V : tung	1
+V : tìm	5
+V : tập trung	2
+V : tới	1
+V : tụ hội	1
+V : tụm	1
+V : viết	1
+V : vào	2
+V : về	3
+V : xa	1
+V : xen lẫn	1
+V : xin	1
+V : xin lỗi	1
+V : xin phép	1
+V : áp giải	1
+V : ôm	2
+V : Được	1
+V : đi	4
+V : đánh	1
+V : đưa	1
+V : được	3
+V : đại diện	1
+V : đạp	1
+V : đến	3
+V : đổ	2
+V : đổ bộ	1
+V : đổi	1
+V : ưa	1
+V : ước chừng	1
+V : ở	1
+X : bẻ gãy sừng trâu	1
+X : có vẻ	1
+X : thượng vàng hạ cám	1

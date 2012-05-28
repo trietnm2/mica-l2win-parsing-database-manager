@@ -1,0 +1,569 @@
+" : "	25
+, : ,	68
+- : -	15
+. : .	55
+... : ...	5
+: : :	6
+; : ;	1
+A : Ròng rã	1
+A : bạc màu	1
+A : bằng	1
+A : bằng phẳng	1
+A : cao	1
+A : chung	1
+A : chếch	1
+A : chủ yếu	1
+A : dài	3
+A : dày đặc	1
+A : giảm	1
+A : giống	1
+A : hoang dã	1
+A : hoang dại	2
+A : hoang hóa	2
+A : hoang sơ	1
+A : hơn	2
+A : im ắng	1
+A : khoảng	1
+A : khép kín	2
+A : khô	1
+A : khả quan	1
+A : lâu đời	1
+A : líu lo	1
+A : mấu chốt	1
+A : nghiêm ngặt	1
+A : nghèo	1
+A : nghèo đói	1
+A : nhiều	2
+A : non	1
+A : phong phú	1
+A : quí	1
+A : quí hiếm	2
+A : ruột thịt	1
+A : rõ	1
+A : rộng	1
+A : sát	2
+A : sạch	1
+A : sẵn	1
+A : thiếu	1
+A : tình cờ	1
+A : tĩnh mịch	1
+A : tương đương	1
+A : tốt	1
+A : tốt tươi	1
+A : tự động	1
+A : um tùm	1
+A : xanh rì	1
+A : Đặc biệt	1
+A : điển hình	1
+A : đầu tiên	1
+A : đủ	5
+A : ổn định	1
+C : Và	1
+C : còn	1
+C : cùng	1
+C : là	1
+C : mà	2
+C : như	6
+C : rằng	1
+C : thì	2
+C : và	10
+C : với	1
+E : Nhờ	1
+E : Sau	1
+E : Theo	1
+E : Trong	2
+E : Trên	1
+E : bằng	2
+E : cho	8
+E : của	6
+E : ngoài	2
+E : sau	4
+E : theo	2
+E : trong	9
+E : trên	10
+E : tại	3
+E : tận	1
+E : tới	3
+E : từ	5
+E : vào	2
+E : vô	2
+E : về	3
+E : với	5
+E : xuống	1
+E : đến	2
+E : để	4
+E : Ở	1
+E : ở	4
+L : các	4
+L : những	6
+L : phần lớn	1
+L : vài	1
+L : đa số	1
+LBKT : LBKT	11
+M : 1	2
+M : 10	3
+M : 112	1
+M : 15 . 000	1
+M : 1993	1
+M : 1995	1
+M : 2	1
+M : 20 . 000	1
+M : 2001	1
+M : 3	2
+M : 4	2
+M : 5	3
+M : 50	1
+M : 6	1
+M : 700	1
+M : 9	1
+M : Một	1
+M : bảy	2
+M : bốn	1
+M : hai	4
+M : mỗi	3
+M : một	19
+M : ngàn	1
+M : năm	1
+M : triệu	2
+N : A	1
+N : Cánh	1
+N : Dân nghèo	1
+N : Hiện nay	2
+N : Khu	2
+N : Lúa	1
+N : Lúc	2
+N : Máy	1
+N : Nguồn	1
+N : Người	1
+N : Năm	2
+N : Nơi	1
+N : Nước	1
+N : Phòng	1
+N : Quá trình	1
+N : Sáng sớm	1
+N : Tiến sĩ	5
+N : Trung tâm	3
+N : Tràm	1
+N : Trường	3
+N : Tổ chức	1
+N : Z	1
+N : ao	2
+N : ba khía	1
+N : biogas	1
+N : bên	3
+N : bước	1
+N : bản địa	1
+N : bảo tồn	1
+N : bờ	1
+N : chim	1
+N : chua	1
+N : chuồng	1
+N : chuồng trại	1
+N : chân	1
+N : chương trình	2
+N : chỗ	1
+N : chủ	1
+N : chức năng	1
+N : con	1
+N : con người	1
+N : cá	5
+N : cánh	2
+N : cây	6
+N : cây cỏ	1
+N : cây cối	1
+N : côn trùng	1
+N : cấp	1
+N : cỏ	1
+N : cỏ lác	1
+N : cỏ năn	3
+N : củ	1
+N : củi	1
+N : diện tích	1
+N : dân	4
+N : dân nghèo	2
+N : dưới	1
+N : dịp	1
+N : gia đình	1
+N : giám đốc	2
+N : giáo sư	3
+N : giường	1
+N : gà	1
+N : góc	2
+N : hiện nay	1
+N : huyện	2
+N : hàng	1
+N : hệ sinh thái	4
+N : hệ thống	4
+N : hộ	3
+N : khi	5
+N : khoa học	1
+N : khu	13
+N : khu vực	1
+N : khả năng	1
+N : kênh	3
+N : kênh mương	1
+N : kênh rạch	1
+N : ký túc xá	1
+N : kết quả	1
+N : kỹ sư	1
+N : kỹ thuật	1
+N : loài	2
+N : luận án	3
+N : lá	1
+N : lâm	1
+N : lính	1
+N : lô	2
+N : lúa	5
+N : lần	2
+N : lợi	3
+N : máy	1
+N : máy bơm	1
+N : mép	2
+N : món	1
+N : mô hình	5
+N : mưa	1
+N : mạ	1
+N : mật ong	2
+N : mặt nước	1
+N : mức	1
+N : nghiên cứu sinh	1
+N : nghề	1
+N : ngoài	1
+N : ngoại lệ	1
+N : nguồn	5
+N : ngày	1
+N : ngón	1
+N : ngư	1
+N : người	2
+N : nhau	2
+N : nhiệm vụ	1
+N : nhà	3
+N : nông	1
+N : nông hộ	2
+N : năm	5
+N : nơi	1
+N : nước	12
+N : phèn	10
+N : phía	1
+N : phương cách	1
+N : quan	1
+N : quanh	4
+N : qui trình	1
+N : rau	2
+N : rau cỏ	1
+N : ruộng	3
+N : rùa	1
+N : rạch	1
+N : rắn	1
+N : rễ	1
+N : rừng	15
+N : sinh quyển	1
+N : sinh thái	2
+N : sinh thái học	1
+N : sinh viên	2
+N : sách đỏ	1
+N : sông	1
+N : sản xuất	2
+N : tay	1
+N : thiên nhiên	2
+N : thành viên	1
+N : tháng	2
+N : thạc sĩ	1
+N : thế giới	2
+N : thời gian	2
+N : thứ	5
+N : thực tiễn	1
+N : thực vật	1
+N : thực địa	1
+N : tiến sĩ	6
+N : tiếng	4
+N : trong	2
+N : trung tâm	1
+N : tràm	19
+N : trách nhiệm	1
+N : trái	2
+N : trên	1
+N : trước kia	1
+N : trại	2
+N : tuần	1
+N : tuổi	1
+N : tài nguyên	1
+N : tép	2
+N : tên	1
+N : tôm cá	1
+N : tạp chất	1
+N : tầng	1
+N : tỉnh	1
+N : tốc độ	1
+N : uy tín	1
+N : ven	1
+N : vàng	1
+N : vòng	1
+N : vùng	6
+N : vùng đất	3
+N : vườn	2
+N : vườn quốc gia	1
+N : vốn	1
+N : vợ chồng	1
+N : Ông	7
+N : ông	7
+N : Điều	1
+N : Đêm	1
+N : điểm	1
+N : đê	1
+N : đê bao	3
+N : đường	1
+N : đất	10
+N : đầu	2
+N : đặc sản	1
+N : đề tài	3
+N : đồng	4
+N : đồng ruộng	2
+N : đồng sự	1
+N : độ	1
+N : động vật	1
+NP : *E*	10
+NP : *T*	1
+NP : U Minh Thượng	1
+Nc : Vị	1
+Nc : bộ	1
+Nc : chiếc	1
+Nc : con	1
+Nc : cọng	1
+Nc : dãy	2
+Nc : loại	2
+Nc : lớp	1
+Nc : người	1
+Nc : nhà	1
+Nc : sự	1
+Nc : Ông	1
+Nc : ông	6
+Nc : đứa	1
+Np : Anh	2
+Np : Cà Mau	1
+Np : Cần Giờ	1
+Np : Cần Thơ	2
+Np : Dương Văn Ni	3
+Np : Edward Maltby	1
+Np : Huỳnh Văn Nghiêm	1
+Np : Hòa An	5
+Np : Hậu Giang	1
+Np : Kiên Giang	1
+Np : London	2
+Np : Long An	3
+Np : Láng Sen	1
+Np : Maltby	1
+Np : Ngô Thanh Bình	1
+Np : Ni	11
+Np : Philippines	1
+Np : Phụng Hiệp	1
+Np : Tam Nông	1
+Np : Thạnh Hóa	1
+Np : Tiền Giang	1
+Np : Tràm Chim	1
+Np : Tràm Chim Tam Nông	1
+Np : Trần Duy Phát	1
+Np : Trần Văn Lộc	1
+Np : Võ Lâm	1
+Np : Võ Tòng Xuân	1
+Np : Đông Nam Á	1
+Np : Đồng Tháp	3
+Np : Đồng Tháp Mười	1
+Nu : công	5
+Nu : ha	4
+Nu : km	1
+Nu : đồng	3
+Ny : GSTS	1
+Ny : TP .HCM	1
+Ny : VACB	1
+Ny : VN	2
+Ny : ĐBSCL	2
+Ny : ĐH	3
+P : Chúng ta	1
+P : Chúng tôi	1
+P : Nó	1
+P : ai	1
+P : chúng tôi	1
+P : gì	1
+P : mình	1
+P : nào	1
+P : này	8
+P : tôi	1
+P : tất cả	1
+P : vậy	1
+P : Đó	2
+P : đây	3
+P : đó	6
+P : ấy	1
+R : Cứ	1
+R : Hằng	1
+R : Thậm chí	1
+R : chưa	1
+R : chỉ	3
+R : còn	3
+R : có thể	3
+R : cũng	2
+R : cứ	2
+R : hoàn toàn	1
+R : hàng	1
+R : hết sức	1
+R : không	4
+R : lạ thường	1
+R : lại	2
+R : nữa	2
+R : ra	3
+R : rất	3
+R : sẽ	2
+R : toàn	1
+R : vô cùng	1
+R : vốn	1
+R : đang	4
+R : đã	1
+R : được	2
+R : đều	2
+RBKT : RBKT	11
+T : Cả	1
+T : Ngay	1
+T : chính	3
+T : cả	1
+T : ngay	1
+T : trời	1
+V : Bảo vệ	1
+V : Muốn	1
+V : Nghiên cứu	1
+V : Tính	1
+V : Xây dựng	1
+V : bao	1
+V : biết	5
+V : bán	2
+V : bó	1
+V : bơm	1
+V : bảo tồn	5
+V : bảo vệ	4
+V : bắt	1
+V : bắt đầu	2
+V : canh tác	1
+V : chia	1
+V : cho	9
+V : chóng mặt	1
+V : chạy	1
+V : chết	1
+V : chủ động	1
+V : cung cấp	1
+V : còn	3
+V : có	8
+V : cắt	1
+V : dành	1
+V : dẫn	2
+V : dự trữ	1
+V : dựa	1
+V : giao	1
+V : giải quyết	1
+V : giảng dạy	1
+V : gáy	1
+V : gắn bó	1
+V : hái	1
+V : hót	1
+V : hỗ trợ	1
+V : khai thác	1
+V : kiếm	1
+V : kê	1
+V : kêu	1
+V : kể	1
+V : len lỏi	1
+V : là	15
+V : làm	6
+V : làm mướn	1
+V : làm việc	1
+V : lên	1
+V : lên đời	1
+V : lý luận	1
+V : lại	3
+V : lệ thuộc	1
+V : lọc	4
+V : mệnh danh	1
+V : mọc	2
+V : nghe	1
+V : nghiên cứu	5
+V : nghĩ	1
+V : ngạc nhiên	1
+V : ngập	4
+V : ngủ	2
+V : nhìn	1
+V : nhận	1
+V : nhổ	1
+V : nuôi	1
+V : nên	1
+V : nói	3
+V : nảy nở	2
+V : nằm	2
+V : phát hiện	1
+V : phát triển	1
+V : phân	1
+V : phơi	1
+V : phải	1
+V : quản lý	4
+V : ra	2
+V : rơi	1
+V : rồng	1
+V : sang	1
+V : sinh	1
+V : sinh sôi	2
+V : sót	1
+V : sắm sửa	1
+V : sống	3
+V : sử dụng	1
+V : tha hồ	1
+V : tham gia	2
+V : thi	1
+V : thoát	1
+V : thu	2
+V : thu hoạch	2
+V : thuộc	1
+V : thành	1
+V : thành công	3
+V : thích thú	1
+V : thăm	1
+V : thấy	1
+V : thực nghiệm	3
+V : tiếp xúc	1
+V : trú ngụ	1
+V : trở	1
+V : tình nguyện	1
+V : tích lũy	1
+V : tư vấn	1
+V : tưới	1
+V : tắm giặt	1
+V : tới	1
+V : vào	1
+V : vô	2
+V : về	2
+V : về về	1
+V : vọng	1
+V : xem	1
+V : xuống	1
+V : xây dựng	2
+V : xả	2
+V : xẻ	1
+V : áp dụng	2
+V : ô nhiễm	1
+V : ăn	1
+V : Đứng	1
+V : đi	2
+V : đi đi	1
+V : đào	1
+V : đưa	1
+V : được	8
+V : đặc cách	1
+V : đặc trách	1
+V : đếm	1
+V : đề nghị	1
+V : để	1
+V : để dành	1
+V : ước tính	1
+V : ở	1
+X : Ngoài ra	1
+X : kể cả	1
+X : làm sao	1
+X : thế này	1
+X : đa dạng sinh học	1

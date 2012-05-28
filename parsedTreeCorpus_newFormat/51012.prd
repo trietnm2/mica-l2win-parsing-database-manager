@@ -1,0 +1,4238 @@
+<s id = "1">
+S(TTL)
+	NP
+		Np(H)
+			 Sài Gòn
+		NP
+			N(H)
+				 hàng hiệu
+			N
+				 thể thao
+	.
+		 .
+</s>
+<s id = "2">
+S()
+	NP
+		NP
+			N(H)
+				 Quần soóc
+		,
+			 ,
+		NP
+			N(H)
+				 áo thun
+			Np
+				 Adidas
+		,
+			 ,
+		NP
+			N(H)
+				 giày
+			Np
+				 Nike
+		,
+			 ,
+		NP
+			N(H)
+				 túi
+			NP
+				N(H)
+					 vợt
+				Np
+					 Wilson
+		,
+			 ,
+		NP
+			N(H)
+				 đồng hồ
+			Np(H)
+				 Rolex
+		,
+			 ,
+		NP
+			N(H)
+				  điện thoại
+			Np
+				 Nokia
+	...
+		 ...
+</s>
+<s id = "3">
+S
+	VP(SUB)
+		R
+			 Chỉ
+		V(H)
+			 còn
+		NP(DOB)
+			M
+				 mỗi
+			N(H)
+				 da
+			C
+				 và
+			...
+				 ...
+			N(H)
+				 mũi
+	VP
+		V(H)
+			 là
+		AP
+			A(H)
+				 chính hiệu
+			NP
+				Ny(H)
+					 VN
+	.
+		 .
+</s>
+<s id = "4">
+S
+	NP(SUB)
+		P(H)
+			 Đó
+	VP
+		V(H)
+			 là
+		NP
+			"
+				 "
+			N(H)
+				 chân dung
+			"
+				 "
+			PP
+				E(H)
+					 của
+				AP
+					R
+						 khá
+					A(H)
+						 nhiều
+					NP
+						Nc(H)
+							 người
+						Np
+							 Sài Gòn
+						NP(TMP)
+							N(H)
+								 hôm nay
+						,
+							 ,
+						AP
+							A(H)
+								 trẻ
+							R
+								 cũng
+							C
+								 như
+							AP
+								A(H)
+									 sồn sồn
+	...
+		 ...
+</s>
+<s id = "5">
+S(SPL)
+	NP
+		N(H)
+			 Khách  hàng
+	.
+		 .
+</s>
+<s id = "6">
+S
+	NP(SUB)
+		Ny(H)
+			 Kh.
+	VP
+		VP
+			V(H)
+				 học
+			NP(DOB)
+				N(H)
+					 lớp
+				M
+					 10
+		,
+			 ,
+		VP
+			V(H)
+				 *E*
+			NP
+				N(H)
+					 thành viên
+				NP
+					N(H)
+						 đội tuyển
+					N
+						 bóng rổ
+					NP
+						N(H)
+							 Trường
+						Ny
+							 NTMK
+	.
+		 .
+</s>
+<s id = "7">
+S
+	NP(ADV)
+		N(H)
+			 Vai
+		VP
+			V(H)
+				 mang
+			NP(DOB)
+				N(H)
+					 túi xách
+				A
+					 to đùng
+				AP
+					A(H)
+						 như
+					NP
+						N(H)
+							 dân
+						A
+							 chuyên nghiệp
+	,
+		 ,
+	NP(SUB)
+		Ny(H)
+			 Kh.
+	VP
+		VP
+			V(H)
+				 bước
+			PP(LOC)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 cửa hàng
+					Np
+						 Nike
+					PP(LOC)
+						E(H)
+							 trên
+						NP
+							N(H)
+								 đường
+							Np
+								 Hai Bà Trưng
+		C
+			 và
+		VP
+			V(H)
+				 đi
+			A
+				 thẳng
+			PP(LOC)
+				E(H)
+					 đến
+				NP
+					N(H)
+						 quầy
+					N
+						 giày
+	.
+		 .
+</s>
+<s id = "8">
+SQ
+	"
+		 "
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 Không
+		V(H)
+			 có
+		NP(DOB)
+			N(H)
+				 giày
+			N
+				 bóng rổ
+		T
+			 à
+	?
+		 ?
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "9">
+S
+	NP(SUB)
+		Nc(H)
+			 Cô
+		N
+			 nhân viên
+	VP
+		VP
+			V(H)
+				 lắc đầu
+		"
+			 "
+		VP
+			V(H)
+				 hết
+			R
+				 rồi
+			NP(VOC)
+				N(H)
+					 em
+				T
+					 ạ
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "10">
+S
+	S
+		NP(SUB)
+			P(H)
+				 Tôi
+		VP
+			V(H)
+				 tranh thủ
+			VP
+				V(H)
+					 chặn
+				NP(DOB)
+					Ny(H)
+						 Kh.
+				R
+					 lại
+	,
+		 ,
+	SQ
+		"
+			 "
+		NP(SUB)
+			N(H)
+				 Em
+		VP
+			V(H)
+				 thích
+			NP(DOB)
+				N(H)
+					 giày
+				Np
+					 Nike
+			T
+				 à
+		?
+			 ?
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "11">
+S
+	S
+		NP(SUB)
+			Ny(H)
+				 Kh.
+		VP
+			V(H)
+				 quay
+			NP(DOB)
+				Nc(H)
+					 cái
+				N
+					 túi xách
+				PP
+					E(H)
+						 về
+					NP
+						N(H)
+							 phía
+						P
+							 tôi
+	S
+		PP(LOC)
+			E(H)
+				 trên
+			NP
+				P(H)
+					 đó
+		VP
+			V(H)
+				 có
+			NP(DOB)
+				Nc(H)
+					 cái
+				N
+					 tên
+				VP
+					V(H)
+						 được
+					SBAR
+						S
+							NP(SUB)
+								 *E*
+							VP
+								V(H)
+									 viết
+								PP(MNR)
+									E(H)
+										 bằng
+									NP
+										N(H)
+											 bút bi
+										AP
+											R
+												 khá
+											A(H)
+												 to
+				NP
+					Np(H)
+						 Allen Iverson
+	.
+		 .
+</s>
+<s id = "12">
+S
+	"
+		 "
+	S
+		NP(SUB)
+			N(H)
+				 Em
+		VP
+			V(H)
+				 thích
+			NP(DOB)
+				N(H)
+					 cầu thủ
+				LBKT
+					 LBKT
+				NP
+					N(H)
+						 bóng rổ
+				RBKT
+					 RBKT
+				NP
+					Np(H)
+						 Mỹ
+				P
+					 này
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 anh
+			P
+				 ấy
+		VP
+			R
+				 thường
+			V(H)
+				 mang
+			NP(DOB)
+				N(H)
+					 giày
+				Np
+					 Nike
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "13">
+SQ
+	"
+		 "
+	C
+		 Thế
+	NP(SUB)
+		L
+			 các
+		N(H)
+			 bạn
+		A
+			 khác
+		PP(LOC)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 đội
+	VP
+		V(H)
+			 *E*
+	?
+		 ?
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "14">
+S
+	"
+		 "
+	S
+		NP(SUB)
+			L
+				 Mỗi
+			Nc(H)
+				 đứa
+		NP(PRD)
+			M
+				 một
+			N(H)
+				 kiểu
+	,
+		 ,
+	C
+		 nhưng
+	S
+		NP(SUB)
+			 *E*
+		NP(PRD)
+			R
+				 chỉ
+			R
+				 toàn
+			N(H)
+				 hàng hiệu
+		,
+			 ,
+		S(PRD)
+			NP(SUB)
+				R
+					 không
+				N(H)
+					 đôi
+				P
+					 nào
+			AP(PRD)
+				A(H)
+					 dưới
+				QP
+					M
+						 1
+					M(H)
+						 triệu
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "15">
+SQ
+	"
+		 "
+	VP
+		V(H)
+			 Chắc
+		SBAR
+			C
+				 là
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 cưng
+					NP(DOB)
+						M
+							 đôi
+						N(H)
+							 giày
+					NP
+						R
+							 hết
+						N(H)
+							 cỡ
+		?
+			 ?
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "16">
+S
+	NP(SUB)
+		Ny(H)
+			 Kh.
+	VP
+		V(H)
+			 bật
+		V
+			 cười
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				NP(TMP)
+					N(H)
+						 Hồi
+					SBAR
+						S
+							NP(SUB)
+								 *E*
+							VP
+								V(H)
+									 mua
+								NP(TMP)
+									N(H)
+										 lần
+									N
+										 đầu
+								T
+									 thôi
+				,
+					 ,
+				S
+					NP(TMP)
+						N(H)
+							 lúc
+						P
+							 đó
+					NP(SUB)
+						 *E*
+					VP
+						VP
+							R
+								 không
+							V(H)
+								 dám
+							VP
+								V(H)
+									 chạy
+								A
+									 mạnh
+						VP
+							V(H)
+								 sợ
+							SBAR
+								S
+									NP(SUB)
+										 *E*
+									AP(PRD)
+										A(H)
+											 hư
+				,
+					 ,
+				S
+					NP(TMP)
+						N(H)
+							 ngày
+						P
+							 nào
+						VP
+							V(H)
+								 chơi
+							R
+								 về
+					NP(SUB)
+						 *E*
+					VP
+						R
+							 cũng
+						V(H)
+							 lau
+						A
+							 kỹ
+	.
+		 .
+</s>
+<s id = "17">
+S(EXC)
+	C
+		 Còn
+	NP(TMP)
+		P(H)
+			 bây giờ
+	AP(TMP)
+		A(H)
+			 gần
+		NP
+			M
+				 một
+			N(H)
+				 năm
+			T
+				 rồi
+	NP(SUB)
+		N(H)
+			 em
+	VP
+		R
+			 chẳng
+		V(H)
+			 thèm
+		VP
+			V(H)
+				 chùi
+			V
+				 rửa
+	!
+		 !
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "18">
+SQ
+	NP(SUB)
+		P(H)
+			 Tôi
+	VP
+		VP
+			V(H)
+				 chỉ
+			NP(DOB)
+				N(H)
+					 tay
+			PP(LOC)
+				E(H)
+					 vào
+				NP
+					Nc(H)
+						 quả
+					N
+						 bóng
+		VP
+			V(H)
+				 *E*
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 Em
+					VP
+						V(H)
+							 chơi
+						NP
+							Nc(H)
+								 loại
+							N
+								 bóng
+							P
+								 nào
+			?
+				 ?
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "19">
+S
+	"
+		 "
+	S
+		NP(SUB)
+			N(H)
+				 Trường
+		VP
+			V(H)
+				 phát
+			T
+				 cho
+			NP(DOB)
+				N(H)
+					 bóng
+				Np
+					 Động Lực
+			VP(PRP)
+				V(H)
+					 thi đấu
+	C
+		 nhưng
+	S
+		NP(SUB)
+			Nc(H)
+				 bọn
+			N
+				 em
+		VP
+			V(H)
+				 hùn
+			NP(DOB)
+				N(H)
+					 tiền
+				VP(PRP)
+					V(H)
+						 mua
+					A
+						 riêng
+					NP(DOB)
+						N(H)
+							 bóng
+						Np
+							 Nike
+	.
+		 .
+</s>
+<s id = "20">
+S
+	S
+		NP(SUB)
+			 *E*
+		AP(PRD)
+			A(H)
+				 Đắt
+			VP
+				V(H)
+					 gấp
+				NP(EXT)
+					M
+						 3
+					-
+						 -
+					M
+						 4
+					N(H)
+						 lần
+	C
+		 nhưng
+	S
+		VP(SUB)
+			V(H)
+				 nhìn
+			V
+				 thấy
+			NP(DOB)
+				Nc(H)
+					 cái
+				N
+					 biểu tượng
+				NP
+					Np(H)
+						 Nike
+				PP(LOC)
+					E(H)
+						 trên
+					NP
+						Nc(H)
+							 trái
+						N
+							 bóng
+		AP(PRD)
+			R
+				 cũng
+			...
+				 ...
+			A(H)
+				 oai
+	"
+		 "
+	-
+		 -
+	S
+		NP(SUB)
+			Ny(H)
+				 Kh.
+		VP
+			V(H)
+				 trả lời
+	.
+		 .
+</s>
+<s id = "21">
+S(SPL)
+	NP
+		N(H)
+			 cô
+		VP
+			V(H)
+				 bán
+			N
+				 hàng
+	.
+		 .
+</s>
+<s id = "22">
+S
+	NP(SUB)
+		Ny(H)
+			 T.
+	AP(PRD)
+		A(H)
+			 đúng
+		VP
+			V(H)
+				 là
+			NP
+				Nc(H)
+					 cô
+				N
+					 nhân viên
+				AP
+					A(H)
+						 may mắn
+				PP
+					PP
+						E(H)
+							 của
+						NP
+							N(H)
+								 đại lý
+							Np
+								 Adidas
+					PP(LOC)
+						E(H)
+							 trên
+						NP
+							N(H)
+								 đường
+							Np
+								 Hai Bà Trưng
+	.
+		 .
+</s>
+<s id = "23">
+S
+	NP(SUB)
+		Nc(H)
+			 Chiếc
+		N
+			 áo
+		VP
+			R
+				 có
+			V(H)
+				 in
+			NP(DOB)
+				N(H)
+					 tên
+				Np
+					 Beckham
+		NP
+			N(H)
+				 giá
+			NP
+				M
+					 1.725 . 000
+				Nu(H)
+					 đồng
+		VP
+			V(H)
+				 nhập
+			R
+				 về
+			AP(TMP)
+				A(H)
+					 gần
+				NP(DOB)
+					M
+						 bốn
+					N(H)
+						 tháng
+					P
+						 nay
+	VP
+		VP
+			R
+				 đã
+			V(H)
+				 bán
+			R
+				 được
+			...
+				 ...
+			NP(DOB)
+				M
+					 hai
+				Nc(H)
+					 cái
+		C
+			 và
+		VP
+			R
+				 đều
+			V(H)
+				 trúng
+			PP(TMP)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 ca
+					V
+						 bán
+					PP
+						E(H)
+							 của
+						NP
+							Ny(H)
+								 T.
+	.
+		 .
+</s>
+<s id = "24">
+SQ
+	"
+		 "
+	NP(SUB)
+		N(H)
+			 Khách hàng
+		P
+			 nào
+	VP
+		V(H)
+			 mua
+		NP(DOB)
+			N(H)
+				 áo
+			P
+				 đó
+	?
+		 ?
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "25">
+S
+	"
+		 "
+	NP(TPC)
+		M
+			 Một
+		Nc(H)
+			 anh
+		Np
+			 Việt kiều
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 anh
+		P
+			 ấy
+	VP
+		V(H)
+			 nói
+		SBAR
+			S
+				S
+					NP(SUB)
+						N(H)
+							 giá
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								P(H)
+									 đây
+					AP(PRD)
+						A(H)
+							 rẻ
+						A
+							 hơn
+				,
+					 ,
+				S
+					NP(LOC)
+						N(H)
+							 bên
+						P
+							 kia
+					NP(SUB)
+						N(H)
+							 giá
+					NP(PRD)
+						T
+							 đến
+						M
+							 150
+						Ny(H)
+							 USD
+	.
+		 .
+</s>
+<s id = "26">
+S
+	NP(SUB)
+		N(H)
+			 Khách hàng
+		NP
+			N(H)
+				 thứ
+			M
+				 hai
+	VP
+		V(H)
+			 là
+		NP
+			M
+				 một
+			Nc(H)
+				 nhóm
+			N
+				 người
+	.
+		 .
+</s>
+<s id = "27">
+S
+	NP(SUB)
+		P(H)
+			 Họ
+	VP
+		VP
+			V(H)
+				 đến
+			VP(PRP)
+				V(H)
+					 nhìn
+		,
+			 ,
+		VP
+			V(H)
+				 hỏi
+		,
+			 ,
+		VP
+			V(H)
+				 bàn tán
+			AP
+				A(H)
+					 kỹ
+				R
+					 lắm
+		C
+			 rồi
+		...
+			 ...
+		VP
+			V(H)
+				 về
+	.
+		 .
+</s>
+<s id = "28">
+S
+	S
+		NP(TMP)
+			N(H)
+				 Ngày
+			NP
+				N(H)
+					 hôm
+				A
+					 sau
+		NP(SUB)
+			P(H)
+				 họ
+		VP
+			R
+				 lại
+			V(H)
+				 đến
+	C
+		 và
+	S
+		NP(TMP)
+			N(H)
+				 lần
+			P
+				 này
+		C
+			 thì
+		NP(SUB)
+			 *T*
+		VP
+			V(H)
+				 mua
+	.
+		 .
+</s>
+<s id = "29">
+S(EXC)
+	VP(MNR)
+		V(H)
+			 Nghe
+		SBAR
+			S
+				NP(SUB)
+					P(H)
+						 họ
+				VP
+					V(H)
+						 trao đổi
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 mới
+		V(H)
+			 biết
+		SBAR
+			C
+				 rằng
+			S
+				NP(SUB)
+					P(H)
+						 họ
+				VP
+					VP
+						V(H)
+							 góp
+						NP(DOB)
+							N(H)
+								 tiền
+					VP
+						V(H)
+							 mua
+						PP(PRP)
+							E(H)
+								 để
+							VP
+								V(H)
+									 làm quà
+								VP
+									V(H)
+										 tặng
+									...
+										 ...
+									NP(DOB)
+										N(H)
+											 con trai
+										N
+											 sếp
+									C
+										 nhân
+									NP(TMP)
+										M
+											 một
+										N(H)
+											 dịp
+										NP
+											P(H)
+												 gì
+											P
+												 đấy
+	!
+		 !
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "30">
+S(SPL)
+	PP(LOC)
+		R
+			 Cũng
+		E(H)
+			 ở
+		NP
+			M
+				 một
+			N(H)
+				 đại lý
+			PP
+				PP
+					E(H)
+						 của
+					NP
+						Np(H)
+							 Adidas
+				PP(LOC)
+					E(H)
+						 trên
+					NP
+						N(H)
+							 đường
+						Np
+							 Lê Lợi
+	.
+		 .
+</s>
+<s id = "31">
+S
+	NP(SUB)
+		N(H)
+			 Cô
+		VP
+			V(H)
+				 bán
+			N
+				 hàng
+	VP
+		VP
+			V(H)
+				 có
+			NP(DOB)
+				Nc(H)
+					 nụ
+				V
+					 cười
+				AP
+					A(H)
+						 duyên dáng
+		VP
+			V(H)
+				 kể
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					S(SUB)
+						NP(SUB)
+							 *E*
+						VP
+							V(H)
+								 Bán
+							NP(DOB)
+								N
+									 hàng hiệu
+					AP(PRD)
+						A(H)
+							 nhiều
+						NP
+							N(H)
+								 chuyện
+							AP
+								A(H)
+									 vui
+								C
+									 và
+								A(H)
+									 bất ngờ
+							R
+								 lắm
+							NP(VOC)
+								N(H)
+									 anh
+								T
+									 à
+	.
+		 .
+</s>
+<s id = "32">
+S
+	S
+		NP(TMP)
+			N(H)
+				 Hôm
+			A
+				 trước
+		VP
+			V(H)
+				 có
+			SBAR
+				S
+					NP(SUB)
+						M
+							 một
+						Nc(H)
+							 ông
+						N
+							 khách
+					VP
+						VP
+							V(H)
+								 đến
+							PP(MNR)
+								E(H)
+									 bằng
+								NP
+									Nc(H)
+										 chiếc
+									N
+										 xe
+									VP
+										R
+											 không
+										V(H)
+											 có
+										"
+											 "
+										NP(DOB)
+											N(H)
+												 đề
+											"
+												 "
+						,
+							 ,
+						VP
+							V(H)
+								 ăn mặc
+							C
+								 thì
+							AP
+								A(H)
+									 lùi xùi
+							...
+								 ...
+							AP
+								T
+									 đến
+								A(H)
+									 tội nghiệp
+	,
+		 ,
+	S
+		NP(SUB)
+			 *E*
+		VP
+			R
+				 cứ
+			V(H)
+				 tưởng
+			SBAR
+				C
+					 là
+				S
+					NP(SUB)
+						N(H)
+							 ông
+						P
+							 ta
+					VP
+						V(H)
+							 vô
+						VP
+							V(H)
+								 lộn
+							NP(LOC)
+								N(H)
+									 chỗ
+	.
+		 .
+</s>
+<s id = "33">
+S
+	NP(SUB)
+		 *E*
+	VP
+		VP
+			V(H)
+				 vào
+			NP(LOC)
+				N(H)
+					 cửa hàng
+		VP
+			V(H)
+				 ngó nghiêng
+			NP(TMP)
+				M
+					 một
+				N(H)
+					 hồi
+		C
+			 rồi
+		VP
+			V(H)
+				 mua
+			...
+				 ...
+			NP(DOB)
+				A
+					 tùm lum
+				N(H)
+					 thứ
+				,
+					 ,
+				NP
+					R
+						 toàn
+					C
+						 là
+					N(H)
+						 hàng hiệu
+			,
+				 ,
+			VP
+				V(H)
+					 hết
+				NP(DOB)
+					A
+						 hơn
+					M
+						 3
+					M
+						 triệu
+					Nu(H)
+						 đồng
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "34">
+S
+	SQ
+		"
+			 "
+		C
+			 Rồi
+		NP(SUB)
+			N(H)
+				 ông
+			P
+				 ta
+		VP
+			V(H)
+				 trả
+			PP(MNR)
+				E(H)
+					 bằng
+				NP
+					Nu(H)
+						 đôla
+					C
+						 hay
+					Nu(H)
+						 euro
+		?
+			 ?
+		"
+			 "
+	-
+		 -
+	S
+		NP(SUB)
+			P(H)
+				 tôi
+		VP
+			V(H)
+				 hỏi
+			V
+				 đùa
+	.
+		 .
+</s>
+<s id = "35">
+S
+	"
+		 "
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 *E*
+		PP(MNR)
+			E(H)
+				 Bằng
+			NP
+				N(H)
+					 tiền
+				Ny
+					 VN
+				T
+					 thôi
+	.
+		 .
+</s>
+<s id = "36">
+S
+	NP(SUB)
+		N(H)
+			 Ông
+		P
+			 ta
+	VP
+		V(H)
+			 mua
+		NP(DOB)
+			N(H)
+				 đồ
+		PP(PRP)
+			E(H)
+				 để
+			VP
+				V(H)
+					 chạy
+				N
+					 bộ
+				NP(TMP)
+					N(H)
+						 buổi
+					N
+						 sáng
+	.
+		 .
+</s>
+<s id = "37">
+S
+	S
+		VP
+			R
+				 Lại
+			V(H)
+				 có
+			SBAR
+				S
+					NP(SUB)
+						A
+							 nhiều
+						N(H)
+							 khách hàng
+					VP
+						V(H)
+							 tới
+						VP
+							V(H)
+								 mua
+							R
+								 hoài
+	,
+		 ,
+	S
+		NP(SUB)
+			 *E*
+		AP(PRD)
+			R
+				 không
+			A(H)
+				 rõ
+			SBAR
+				S
+					NP(SUB)
+						P(H)
+							 họ
+					VP
+						V(H)
+							 xài
+						NP(MNR)
+							N(H)
+								 cách
+							P
+								 nào
+						PP(PRP)
+							E(H)
+								 cho
+							VP
+								V(H)
+									 hết
+	.
+		 .
+</s>
+<s id = "38">
+S(SPL)
+	C
+		 Mà
+	NP
+		R
+			 toàn
+		Nc(H)
+			 loại
+		AP
+			A(H)
+				 xịn
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "39">
+S
+	"
+		 "
+	AP(MDP)
+		A(H)
+			 Chắc
+		C
+			 là
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 tiền
+				AP(PRD)
+					A(H)
+						 dư
+					AP
+						A(H)
+							 nhiều
+						R
+							 quá
+	NP(SUB)
+		 *E*
+	VP
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 kiếm
+				NP(DOB)
+					N(H)
+						 cách
+					VP(PRP)
+						V(H)
+							 xài
+						PP
+							E(H)
+								 cho
+							AP
+								A(H)
+									 mau
+								V
+									 hết
+		C
+			 hoặc
+		C
+			 là
+		VP
+			V(H)
+				 lấy
+			NP(DOB)
+				N(H)
+					 cớ
+				VP
+					V(H)
+						 đến
+					V
+						 mua
+					PP(PRP)
+						E(H)
+							 để
+						VP
+							V(H)
+								 được
+							V
+								 thấy
+							SBAR
+								S
+									NP(SUB)
+										Nc(H)
+											 cô
+										VP
+											V(H)
+												 bán
+											N
+												 hàng
+									VP
+										V(H)
+											 cười duyên
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "40">
+S(EXC)
+	"
+		 "
+	X
+		 Xí
+	!
+		 !
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "41">
+S
+	NP(SUB)
+		Ny(H)
+			 Ph.
+	VP
+		VP
+			R
+				 cũng
+			V(H)
+				 có
+			NP(DOB)
+				Nc(H)
+					 nụ
+				V
+					 cười
+				AP
+					R
+						 rất
+					A(H)
+						 duyên
+		VP
+			R
+				 lại
+			V(H)
+				 kèm
+			NP(DOB)
+				M
+					 hai
+				N(H)
+					 lúm đồng tiền
+	.
+		 .
+</s>
+<s id = "42">
+S
+	NP(SUB)
+		Nc(H)
+			 Quầy
+		N
+			 hàng
+		NP
+			N(H)
+				 trang phục
+			N
+				 thể thao
+		PP
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					Nc(H)
+						 tầng
+					M
+						 2
+					NP
+						N(H)
+							 siêu thị
+						Np
+							 Diamond Plaza
+			PP(LOC)
+				E(H)
+					 trên
+				NP
+					N(H)
+						 đường
+					Np
+						 Lê Duẩn
+	VP
+		V(H)
+			 có
+		NP(DOB)
+			A
+				 nhiều
+			N(H)
+				 hiệu
+			:
+				 :
+			NP
+				NP
+					Np(H)
+						 Babolat
+				,
+					 ,
+				NP
+					Np(H)
+						 Puma
+				,
+					 ,
+				NP
+					Np(H)
+						 Spalding
+				,
+					 ,
+				NP
+					Np(H)
+						 Speedo
+				,
+					 ,
+				NP
+					Np(H)
+						 Nike
+	...
+		 ...
+	C
+		 và
+	AP(PRD)
+		R
+			 khá
+		A(H)
+			 đông
+		NP
+			N(H)
+				 khách
+	.
+		 .
+</s>
+<s id = "43">
+S
+	VP(ADV)
+		V(H)
+			 Bán
+		N
+			 hàng
+		AP(ADV)
+			R
+				 không
+			A(H)
+				 kịp
+			VP
+				V(H)
+					 trở tay
+	C
+		 nhưng
+	NP(SUB)
+		Ny(H)
+			 Ph.
+	VP
+		R
+			 vẫn
+		V(H)
+			 tranh thủ
+		VP(PRP)
+			V(H)
+				 giải thích
+			PP(IOB)
+				E(H)
+					 cho
+				NP
+					P(H)
+						 tôi
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					S
+						NP(SUB)
+							Np(H)
+								 Spalding
+						VP
+							V(H)
+								 là
+							NP
+								N(H)
+									 hãng
+								PP
+									E(H)
+										 của
+									NP
+										Np(H)
+											 Mỹ
+								VP
+									V(H)
+										 chuyên
+									PP
+										E(H)
+											 về
+										NP
+											N(H)
+												 trang phục
+											PP
+												E(H)
+													 cho
+												NP
+													N(H)
+														 bóng chày
+					,
+						 ,
+					S
+						NP(SUB)
+							Np(H)
+								 Speedo
+						VP
+							V(H)
+								 là
+							NP
+								N(H)
+									 hãng
+								NP
+									N(H)
+										 trang phục
+									V(H)
+										 bơi
+								AP
+									A(H)
+										 nổi tiếng
+									PP
+										E(H)
+											 của
+										NP
+											Np(H)
+												 Úc
+	.
+		 .
+</s>
+<s id = "44">
+S
+	NP(SUB)
+		L
+			 Các
+		Ny(H)
+			 VĐV
+		V
+			 bơi lội
+		NP
+			Ny(H)
+				 VN
+		VP
+			V(H)
+				 dự
+			NP(DOB)
+				Np(H)
+					 SEA Games
+				X
+					 vừa rồi
+	VP
+		R
+			 cũng
+		V(H)
+			 mua
+		PP(LOC)
+			E(H)
+				 ở
+			NP
+				P(H)
+					 đây
+	.
+		 .
+</s>
+<s id = "45">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Vợt
+			N
+				 tennis
+			NP
+				Np
+					 Babolat
+		VP
+			V(H)
+				 bán chạy
+			R
+				 nhất
+			NP(TMP)
+				N(H)
+					 hiện nay
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					Np(H)
+						 Sài Gòn
+	,
+		 ,
+	C
+		 còn
+	S
+		NP(TPC)
+			Np(H)
+				 Puma
+			C
+				 với
+			Np(H)
+				 Nike
+		C
+			 thì
+		NP(SUB)
+			N(H)
+				 anh
+		VP
+			V(H)
+				 biết
+			R
+				 rồi
+			T
+				 đấy
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "46">
+S
+	NP(SUB)
+		Ny(H)
+			 Ph.
+	VP
+		V(H)
+			 ngừng
+		V
+			 nói
+		PP(PRP)
+			E(H)
+				 để
+			VP
+				V(H)
+					 tính
+				NP(DOB)
+					N(H)
+						 hóa đơn
+				PP(IOB)
+					E(H)
+						 cho
+					NP
+						M
+							 hai
+						N(H)
+							 khách hàng
+						N
+							 nữ
+						VP
+							V(H)
+								 thuộc
+							NP(DOB)
+								N(H)
+									 loại
+								NP
+									Ny(H)
+										 U
+									-
+										 -
+									M
+										 40
+	.
+		 .
+</s>
+<s id = "47">
+S
+	NP(SUB)
+		M
+			 Hai
+		Nc(H)
+			 vị
+		N
+			 khách
+		P
+			 này
+	VP
+		V(H)
+			 mua
+		NP(DOB)
+			A
+				 nhiều
+			N(H)
+				 trang phục
+			Nb
+				 tennis
+		C
+			 và
+		AP(MNR)
+			A(H)
+				 nhanh
+			C
+				 như
+			NP
+				N(H)
+					 kiểu
+				VP
+					V(H)
+						 mua
+					...
+						 ...
+					NP(DOB)
+						N(H)
+							 tạp hóa
+						T
+							 vậy
+	.
+		 .
+</s>
+<s id = "48">
+S(PV)
+	NP(SUB)
+		N(H)
+			 Hóa đơn
+		VP
+			V(H)
+				 tính
+			NP(DOB)
+				N(H)
+					 tiền
+		AP
+			A(H)
+				 tròm trèm
+			QP
+				M
+					 3
+				M(H)
+					 triệu
+	VP
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 thanh toán
+					PP(MNR)
+						E(H)
+							 bằng
+						NP
+							L
+								 những
+							Nc(H)
+								 tờ
+							NP
+								M
+									 500 . 000
+								Nu(H)
+									 đồng
+							AP(PRD)
+								R
+									 mới
+								A(H)
+									 cáu
+	.
+		 .
+</s>
+<s id = "49">
+S
+	VP(ADV)
+		R
+			 Có
+		V(H)
+			 đi
+		VP
+			V(H)
+				 xem
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 người ta
+					VP
+						V(H)
+							 sắm
+						NP(DOB)
+							N(H)
+								 hàng hiệu
+							N
+								 thể thao
+						C
+							 như
+						NP
+							P(H)
+								 thế
+							P
+								 này
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 mới
+		V(H)
+			 thấy
+		AP
+			A(H)
+				 tự hào
+			PP
+				E(H)
+					 cho
+				NP
+					T
+						 cái
+					N(H)
+						 sự
+					A
+						 khấm khá
+					PP
+						E(H)
+							 của
+						NP
+							N(H)
+								 dân
+							Ny(H)
+								 VN
+	.
+		 .
+</s>
+<s id = "50">
+S
+	NP(SUB)
+		Ny(H)
+			 Th.
+	VP
+		R
+			 lại
+		R
+			 không
+		V(H)
+			 có
+		NP(DOB)
+			Nc(H)
+				 cái
+			A
+				 may mắn
+			VP
+				V(H)
+					 bán
+				A
+					 đắt
+				C
+					 như
+				NP
+					Ny(H)
+						 Ph
+	.
+		 .
+</s>
+<s id = "51">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Cửa hàng
+			SBAR
+				S
+					NP(SUB)
+						Nc(H)
+							 cô
+					VP
+						R
+							 đang
+						V(H)
+							 làm việc
+						PP(LOC)
+							E(H)
+								 trên
+							NP
+								N(H)
+									 đường
+								Np
+									 Hai Bà Trưng
+		AP(PRD)
+			A(H)
+				 vắng
+			C
+				 như
+			...
+				 ...
+			NP
+				N(H)
+					 sân
+				N
+					 bóng đá
+				NP
+					Np(H)
+						 Thành Long
+				NP(TMP)
+					L
+						 mấy
+					N(H)
+						 ngày
+					VP
+						V(H)
+							 tổ chức
+						NP(DOB)
+							N(H)
+								 giải
+							NP
+								N(H)
+									 bóng đá
+								N
+									 nữ
+					X
+						 vừa qua
+	:
+		 :
+	S(PV)
+		NP(SUB)
+			Nc(H)
+				 đoạn
+			N
+				 đường
+			PP(LOC)
+				E(H)
+					 trước
+				NP
+					N(H)
+						 cửa hàng
+		VP
+			R
+				 đang
+			V(H)
+				 được
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 đào
+						R
+							 lên
+						PP(PRP)
+							E(H)
+								 để
+							VP
+								V(H)
+									 đặt
+								NP(DOB)
+									N(H)
+										 đường ống
+	.
+		 .
+</s>
+<s id = "52">
+S
+	PP(TMP)
+		E(H)
+			 Vào
+		NP
+			Nc(H)
+				 cái
+			N
+				 giờ
+			AP
+				R
+					 quá
+				A(H)
+					 đẹp
+				PP
+					E(H)
+						 cho
+					NP
+						N(H)
+							 chuyện
+						V
+							 mua sắm
+				LBKT
+					 LBKT
+				NP
+					M
+						 19
+					Ny(H)
+						 g
+				RBKT
+					 RBKT
+	C
+		 mà
+	NP(SUB)
+		P
+			 cả
+		M
+			 bốn
+		Nc(H)
+			 cô
+		N
+			 nhân viên
+	VP
+		A
+			 thong thả
+		V(H)
+			 ngồi
+		VP(PRP)
+			V(H)
+				 xem
+			NP(DOB)
+				Np(H)
+					 Vui cùng Hugo
+	.
+		 .
+</s>
+<s id = "53">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Cửa hàng
+		AP(PRD)
+			A(H)
+				 thoáng đãng
+			PP
+				E(H)
+					 với
+				VP
+					A
+						 vô số
+					L
+						 những
+					V(H)
+						 là
+					NP
+						NP
+							N(H)
+								 giày
+							N
+								 bóng đá
+						,
+							 ,
+						NP
+							N(H)
+								 giày
+							VP
+								V(H)
+									 chạy
+								N
+									 bộ
+						,
+							 ,
+						NP
+							N(H)
+								 áo quần
+							N
+								 thể thao
+						,
+							 ,
+						NP
+							L
+								 các
+							Nc(H)
+								 loại
+							NP
+								NP
+									N(H)
+										 bóng rổ
+								,
+									 ,
+								NP
+									N(H)
+										 bóng chuyền
+								,
+									 ,
+								NP
+									N(H)
+										 bóng đá
+								,
+									 ,
+								NP
+									N(H)
+										 vợt
+									N
+										 cầu lông
+								,
+									 ,
+								NP
+									N(H)
+										 vợt
+									N
+										 tennis
+						...
+							 ...
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 hàng loạt
+								NP
+									N(H)
+										 tên tuổi
+									NP
+										Np(H)
+											 Dunlop
+										,
+											 ,
+										Np(H)
+											 Yonex
+										,
+											 ,
+										Np(H)
+											 Reebok
+										,
+											 ,
+										Np(H)
+											 Fila
+										,
+											 ,
+										Np(H)
+											 Carton
+										,
+											 ,
+										Np(H)
+											 Mitre
+										,
+											 ,
+										Np(H)
+											 Ultra
+		...
+			 ...
+	C
+		 và
+	S
+		NP(SUB)
+			N(H)
+				 giá cả
+		VP
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 phần
+				AP
+					A(H)
+						 mềm
+					R
+						 hơn
+					NP
+						L
+							 các
+						N(H)
+							 nhãn hiệu
+						AP
+							A(H)
+								 nổi tiếng
+							A
+								 khác
+	.
+		 .
+</s>
+<s id = "54">
+S
+	PP(LOC)
+		E(H)
+			 Ở
+		NP
+			N(H)
+				 lối
+			VP
+				V(H)
+					 ra
+				V(H)
+					 vào
+	VP
+		V(H)
+			 là
+		NP
+			Nc(H)
+				 tấm
+			N
+				 hình
+			AP
+				A(H)
+					 to tướng
+			PP
+				E(H)
+					 của
+				NP
+					Np(H)
+						 Michel Owen
+	.
+		 .
+</s>
+<s id = "55">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Cầu thủ
+			P
+				 này
+		AP(PRD)
+			A(H)
+				 đúng
+			C
+				 là
+			AP
+				A(H)
+					 xui xẻo
+	,
+		 ,
+	S
+		PP(LOC)
+			E(H)
+				 ở
+			NP
+				N(H)
+					 bên
+				NP
+					Np(H)
+						 Real Madrid
+		C
+			 thì
+		NP(SUB)
+			 *T*
+		VP
+			V(H)
+				 ngồi
+			A
+				 dự bị
+			AP
+				A(H)
+					 suốt
+	,
+		 ,
+	C
+		 còn
+	S
+		VP(ADV)
+			V(H)
+				 sang
+			NP(LOC)
+				Ny(H)
+					 VN
+		NP(SUB)
+			 *T*
+		VP
+			R
+				 lại
+			R
+				 chẳng
+			V(H)
+				 có
+			NP(DOB)
+				L
+					 mấy
+				N(H)
+					 khách hàng
+			C
+				 mà
+			VP(PRP)
+				V(H)
+					 trò chuyện
+	!
+		 !
+</s>
+<s id = "56">
+S(TTL)
+	NP
+		NP
+			N(H)
+				  Hàng họ
+		C
+			 và
+		NP
+			N(H)
+				 cửa hàng
+	.
+		 .
+</s>
+<s id = "57">
+S
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 Có thể
+		V(H)
+			 phân
+		NP(DOB)
+			L
+				 các
+			N(H)
+				 cửa hàng
+			VP
+				V(H)
+					 bán
+				NP(DOB)
+					N(H)
+						 trang phục
+					N
+						 thể thao
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					N(H)
+						 TP. HCM
+		R
+			 ra
+		NP(DOB)
+			L
+				 các
+			N(H)
+				 dạng
+			C
+				 như
+			NP
+				N(H)
+					 sau
+				:
+					 :
+				NP
+					NP
+						N(H)
+							 đại lý
+						A
+							 chính thức
+						LBKT
+							 LBKT
+						C
+							 như
+						PP
+							E(H)
+								 của
+							NP
+								Np(H)
+									 Adidas
+								,
+									 ,
+								Np(H)
+									 Nike
+								PP
+									PP(LOC)
+										E(H)
+											 trên
+										NP
+											N(H)
+												 đường
+											NP
+												Np(H)
+													 Hai Bà Trưng
+												,
+													 ,
+												Np(H)
+													 Lê Lợi
+												,
+													 ,
+												Np(H)
+													 Nguyễn Trãi
+									,
+										 ,
+									PP(LOC)
+										E(H)
+											 trong
+										NP
+											N(H)
+												 siêu thị
+											Np
+												 Diamond
+						...
+							 ...
+						RBKT
+							 RBKT
+					;
+						 ;
+					NP
+						N(H)
+							 đại lý
+						A
+							 độc quyền
+						LBKT
+							 LBKT
+						C
+							 như
+						PP
+							PP
+								E(H)
+									 của
+								NP
+									Np(H)
+										 Prince
+									PP(LOC)
+										E(H)
+											 ở
+										NP
+											Np(H)
+												 Trang Sports
+							,
+								 ,
+							PP
+								E(H)
+									 của
+								NP
+									Np(H)
+										 Wilson
+									PP(LOC)
+										E(H)
+											 ở
+										NP
+											Np(H)
+												 Thu Sports
+							PP(LOC)
+								R
+									 đều
+								E(H)
+									 trên
+								NP
+									N(H)
+										 đường
+									Np
+										 Phạm Hồng Thái
+						RBKT
+							 RBKT
+					,
+						 ,
+					NP
+						L
+							 các
+						N(H)
+							 nhãn hiệu
+						A
+							 khác
+						LBKT
+							 LBKT
+						C
+							 như
+						NP
+							Np(H)
+								 Sports World
+							PP(LOC)
+								E(H)
+									 ở
+								NP
+									N(H)
+										 đường
+									Np
+										 Hai Bà Trưng
+						RBKT
+							 RBKT
+					C
+						 và
+					NP
+						L
+							 các
+						N(H)
+							 quầy
+						NP
+							N(H)
+								 trang phục
+							N
+								 thể thao
+						LBKT
+							 LBKT
+						C
+							 như
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								N(H)
+									 siêu thị
+								Np
+									 Diamond
+						RBKT
+							 RBKT
+	.
+		 .
+</s>
+<s id = "58">
+S
+	C
+		 Ngoài ra
+	,
+		 ,
+	VP
+		R
+			 còn
+		V(H)
+			 có
+		SBAR
+			S
+				NP(SUB)
+					L
+						 các
+					N(H)
+						 cửa hàng
+					"
+						 "
+					X
+						 tạp pí lù
+					"
+						 "
+				VP
+					V(H)
+						 tập trung
+					AP
+						A(H)
+							 chủ yếu
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								N(H)
+									 đường
+								Np
+									 Nguyễn Thị Minh Khai
+				,
+					 ,
+				NP(PRD)
+					N(H)
+						 quanh
+					NP
+						N(H)
+							 công viên
+						N
+							 văn hóa
+						Np
+							 Tao Đàn
+	...
+		 ...
+	.
+		 .
+</s>
+<s id = "59">
+S
+	S
+		S(SUB)
+			VP(SUB)
+				V(H)
+					 Chơi
+				N
+					 thể thao
+			VP
+				V(H)
+					 phải
+				VP
+					V(H)
+						 tốn kém
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 lẽ
+				A
+					 tất nhiên
+	C
+		 nhưng
+	S
+		XP(MDP)
+			X(H)
+				 có lẽ
+		NP(SUB)
+			N(H)
+				 dân chơi
+			Nb
+				 tennis
+		C
+			 là
+		VP
+			V(H)
+				 tốn
+			R
+				 hơn
+			T
+				 cả
+	.
+		 .
+</s>
+<s id = "60">
+S
+	VP(ADV)
+		V(H)
+			 Vào
+		NP(LOC)
+			N(H)
+				 sân
+			Nb
+				 tennis
+	NP(SUB)
+		P(H)
+			 tôi
+	VP
+		V
+			 được
+		V(H)
+			 biết
+		NP(DOB)
+			NP
+				L
+					 những
+				N(H)
+					 chuyện
+				A
+					 vui
+				C
+					 như
+				SBAR
+					S
+						NP(SUB)
+							 *E*
+						VP
+							VP
+								V(H)
+									 thua
+								N
+									 độ
+								NP
+									Nc(H)
+										 cái
+									N(H)
+										 lẩu
+									N
+										 dê
+							VP
+								V(H)
+									 tức
+								R
+									 quá
+								VP
+									V(H)
+										 đập
+									V
+										 gãy
+									NP(DOB)
+										Nc(H)
+											 cái
+										N
+											 vợt
+										NP
+											A
+												 hơn
+											M
+												 2
+											M
+												 triệu
+											Nu(H)
+												 đồng
+			C
+				 và
+			NP
+				N(H)
+					 chuyện
+				VP
+					V(H)
+						 săn
+					NP(DOB)
+						N(H)
+							 vợt
+						AP
+							A(H)
+								 đắt
+							R
+								 nhất
+	.
+		 .
+</s>
+<s id = "61">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Quán quân
+			NP
+				N(H)
+					 giá
+				NP
+					N(H)
+						 vợt
+					Nb
+						 tennis
+		VP
+			V(H)
+				 thuộc
+			PP
+				E(H)
+					 về
+				NP
+					Np(H)
+						 Wilson
+					PP
+						E(H)
+							 với
+						NP
+							Np(H)
+								 model
+							Np
+								 Ncode
+							NP
+								N(H)
+									 giá
+								NP
+									M
+										 3,4
+									M
+										 triệu
+									Nu(H)
+										 đồng
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 á quân
+		VP
+			V(H)
+				 là
+			NP
+				Nc(H)
+					 cây
+				N
+					 vợt
+				NP
+					Np(H)
+						 Babolat VS Nanotube Power
+					PP
+						E(H)
+							 với
+						NP
+							N(H)
+								 giá
+							AP
+								A(H)
+									 thiếu
+								M
+									 1 . 000
+								AP
+									A(H)
+										 đầy
+									QP
+										M
+											 3
+										M(H)
+											 triệu
+	.
+		 .
+</s>
+<s id = "62">
+S
+	S
+		NP(SUB)
+			P(H)
+				 Đấy
+		VP
+			V(H)
+				 là
+			VP
+				R
+					 chưa
+				V(H)
+					 kể
+				PP
+					E(H)
+						 theo
+					NP
+						N(H)
+							 lời
+						PP
+							E(H)
+								 của
+							NP
+								M
+									 một
+								Nc(H)
+									 ông
+								N
+									 chủ
+								NP
+									N(H)
+										 cửa hàng
+									N
+										 thể thao
+								AP
+									R
+										 khá
+									A(H)
+										 nổi tiếng
+	,
+		 ,
+	S
+		NP(SUB)
+			T
+				 chính
+			N(H)
+				 tay
+			N
+				 ông
+		VP
+			R
+				 đã
+			V(H)
+				 bán
+			R
+				 ra
+			PP(LOC)
+				E(H)
+					 trên
+				NP
+					N(H)
+						 thị trường
+					Ny
+						 VN
+			NP(DOB)
+				M
+					 144
+				Nc(H)
+					 cây
+				N
+					 vợt
+				Nb
+					 tennis
+				NP
+					N(H)
+						 hiệu
+					Np
+						 W
+				VP
+					V(H)
+						 dành
+					PP(IOB)
+						E(H)
+							 cho
+						NP
+							Ny(H)
+								 VIP
+				VP
+					V(H)
+						 có
+					VP
+						V(H)
+							 mạ
+						NP(DOB)
+							N(H)
+								 vàng
+							PP(LOC)
+								E(H)
+									 ở
+								NP
+									N(H)
+										 tay cầm
+				PP
+					E(H)
+						 với
+					NP
+						N(H)
+							 giá
+						NP
+							M
+								 1 . 200
+							Nu(H)
+								 USD
+							/
+								 /
+							NP
+								Nc(H)
+									 cây
+	.
+		 .
+</s>
+<s id = "63">
+S
+	PP(ADV)
+		R
+			 Cũng
+		E(H)
+			 theo
+		NP
+			N(H)
+				 lời
+			V
+				 kể
+			PP
+				E(H)
+					 của
+				NP
+					Nc(H)
+						 ông
+					N
+						 chủ
+			P
+				 này
+	,
+		 ,
+	VP
+		V(H)
+			 có
+		SBAR
+			S
+				NP(SUB)
+					M
+						 một
+					N(H)
+						 tay
+					NP
+						"
+							 "
+						N(H)
+							 công tử
+						...
+							 ...
+						Np
+							 Bến Tre
+						"
+							 "
+				VP
+					VP
+						V(H)
+							 mua
+						NP(DOB)
+							M
+								 một
+							Nc(H)
+								 cây
+					C
+						 và
+					VP
+						R
+							 đã
+						...
+							 ...
+						V(H)
+							 đập
+						V
+							 gãy
+						PP(TMP)
+							E(H)
+								 trong
+							NP
+								M
+									 một
+								N(H)
+									 lần
+								VP
+									V(H)
+										 thua
+									N
+										 độ
+									NP(DOB)
+										N(H)
+											 chầu
+										V
+											 nhậu
+	.
+		 .
+</s>
+<s id = "64">
+S
+	VP(ADV)
+		T
+			 Riêng
+		V(H)
+			 chơi
+		NP(DOB)
+			N(H)
+				 cầu lông
+	C
+		 mà
+	VP(PRP)
+		V(H)
+			 có
+		AP
+			A(H)
+				 nhiều
+			NP(DOB)
+				N(H)
+					 tiền
+			R
+				 quá
+	C
+		 thì
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 nên
+		VP
+			V(H)
+				 đi
+			VP
+				V(H)
+					 sắm
+				A
+					 ngay
+				NP(DOB)
+					M
+						 cặp
+					N(H)
+						 vợt
+					Np
+						 Babolat
+					PP
+						E(H)
+							 với
+						NP
+							N(H)
+								 giá
+							AP
+								A(H)
+									 thiếu
+								QP
+									M(H)
+										 1 . 000
+									AP
+										A(H)
+											 đủ
+										NP
+											M
+												 2
+											M(H)
+												 triệu
+					SBAR(PRP)
+						E(H)
+							 để
+						S
+							NP(SUB)
+								N(H)
+									 vợ chồng
+							VP
+								V(H)
+									 đánh
+								PP
+									E(H)
+										 cho
+									AP
+										A(H)
+											 êm
+										N
+											 tay
+	.
+		 .
+</s>
+<s id = "65">
+S
+	NP(SUB)
+		N(H)
+			 Bóng đá
+	VP
+		R
+			 lại
+		V(H)
+			 là
+		NP
+			N(H)
+				 chuyện
+			A
+				 khác
+			:
+				 :
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 môn
+						N
+							 thể thao
+						NP
+							N(H)
+								 vua
+							P
+								 này
+					NP(PRD)
+						R
+							 chẳng
+						N(H)
+							 vua
+						NP
+							N(H)
+								 tí
+							P
+								 nào
+						PP
+							E(H)
+								 trong
+							NP(DOB)
+								Nc(H)
+									 cái
+								N
+									 khoản
+								NP
+									N(H)
+										 trang phục
+									N
+										 hàng hiệu
+	.
+		 .
+</s>
+<s id = "66">
+S
+	VP(SUB)
+		R
+			 Chỉ
+		V(H)
+			 cần
+		QP(DOB)
+			L
+				 vài
+			M
+				 chục
+			M(H)
+				 ngàn
+		PP(IOB)
+			E(H)
+				 cho
+			NP
+				NP
+					Nc(H)
+						 đôi
+					N
+						 giày
+					AP
+						A(H)
+							 dỏm
+					VP
+						V(H)
+							 có
+						NP
+							NP
+								N(H)
+									 chữ
+								Np
+									 Adidas
+							C
+								 hay
+							NP
+								N(H)
+									 biểu tượng
+								Np
+									 Nike
+				,
+					 ,
+				NP
+					M
+						 một
+					Nc(H)
+						 bộ
+					NP
+						"
+							 "
+						NP
+							N(H)
+								 quần đùi
+						NP
+							N(H)
+								 áo
+							N
+								 số
+						"
+							 "
+						AP
+							A(H)
+								 làng nhàng
+				R
+					 nữa
+	VP
+		V(H)
+			 là
+		VP
+			R
+				 có thể
+			A
+				 trịnh trọng
+			V(H)
+				 ra
+			NP(DOB)
+				N(H)
+					 sân
+			R
+				 ngay
+	.
+		 .
+</s>
+<s id = "67">
+S
+	PP(PRP)
+		E(H)
+			 Bởi
+		PP
+			E(H)
+				 trong
+			NP
+				N(H)
+					 trò
+				VP
+					V(H)
+						 đá
+					NP(DOB)
+						N(H)
+							 bóng
+	NP(SUB)
+		N(H)
+			 thiên hạ
+	VP
+		R
+			 chỉ
+		V(H)
+			 ăn
+		N
+			 nhau
+		NP(DOB)
+			N(H)
+				 chuyện
+			VP
+				VP
+					V(H)
+						 đá
+					A
+						 hay
+				VP
+					V(H)
+						 đá
+					A
+						 dở
+	.
+		 .
+</s>
+<s id = "68">
+S
+	NP(SUB)
+		N(H)
+			 Anh
+	VP
+		VP
+			R
+				 có
+			V(H)
+				 mang
+			NP(DOB)
+				M
+					 đôi
+				N(H)
+					 giày
+				NP
+					Np(H)
+						 Beckham
+				NP
+					N(H)
+						 giá
+					NP
+						M
+							 2,95
+						M
+							 triệu
+						Nu(H)
+							 đồng
+				VP
+					V(H)
+						 vào
+					NP(DOB)
+						N(H)
+							 sân
+		C
+			 mà
+		VP
+			V(H)
+				 đá
+			...
+				 ...
+			C
+				 như
+			V(H)
+				 hạch
+			C
+				 là
+			SBAR
+				S
+					NP(SUB)
+						 *T*
+					VP
+						V(H)
+							 bị
+						SBAR
+							S
+								NP(SUB)
+									"
+										 "
+									P(H)
+										 chúng
+									"
+										 "
+								VP
+									V(H)
+										 chửi
+									R
+										 ngay
+	.
+		 .
+</s>
+<s id = "69">
+S
+	C
+		 Thành ra
+	PP(LOC)
+		E(H)
+			 ở
+		NP
+			N(H)
+				 quầy
+			N
+				 thể thao
+	S
+		NP(SUB)
+			N(H)
+				 hàng hiệu
+		VP
+			R
+				 chỉ
+			V(H)
+				 thấy
+			NP
+				L
+					 toàn
+				N(H)
+					 giày
+				NP
+					Nb(H)
+						 tennis
+				,
+					 ,
+				VP
+					V(H)
+						 chạy
+					NP
+						N(H)
+							 bộ
+				,
+					 ,
+				NP
+					N(H)
+						 bóng rổ
+	...
+		 ...
+	C
+		 còn
+	S
+		NP(SUB)
+			N(H)
+				 giày
+			N
+				 bóng đá
+			AP
+				A(H)
+					 xịn
+		AP(PRD)
+			R
+				 chỉ
+			A(H)
+				 lèo tèo
+			NP
+				L
+					 vài
+				N(H)
+					 đôi
+				PP(PRP)
+					E(H)
+						 để
+					VP
+						V(H)
+							 chờ
+						NP(DOB)
+							N(H)
+								 dân
+							A
+								 chuyên nghiệp
+						VP(IOB)
+							V(H)
+								 đến
+							V
+								 mua
+	.
+		 .
+</s>
+<s id = "70">
+S
+	AP(TMP)
+		A(H)
+			 Cuối cùng
+	C
+		 nếu
+	SBAR(PRP)
+		C
+			 nếu
+		S(CND)
+			NP(SUB)
+				N(H)
+					 bạn
+			VP
+				VP
+					V(H)
+						 muốn
+					VP
+						V(H)
+							 sở hữu
+						NP(DOB)
+							M
+								 một
+							Nc(H)
+								 chiếc
+							N
+								 áo
+							PP
+								E(H)
+									 của
+								NP
+									Np(H)
+										 Arsenal
+									C
+										 hay
+									Ny(H)
+										 M . U
+				C
+					 mà
+				VP
+					R
+						 không
+					V(H)
+						 cần
+					VP
+						V(H)
+							 phải
+						VP
+							V(H)
+								 mua
+							NP(DOB)
+								N(H)
+									 vé
+								N
+									 máy bay
+								VP(PRP)
+									V(H)
+										 sang
+									NP(LOC)
+										Np(H)
+											 Anh
+	C
+		 thì
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 xin
+			VP
+				V(H)
+					 mách
+				NP(DOB)
+					N(H)
+						 bạn
+				VP(IOB)
+					R
+						 hãy
+					V(H)
+						 đến
+					NP(LOC)
+						N(H)
+							 đường
+						Np
+							 Huyền Trân Công Chúa
+						NP(LOC)
+							N(H)
+								 bên
+							N
+								 hông
+							NP
+								N(H)
+									 công viên
+								Np
+									 Tao Đàn
+	LBKT
+		 LBKT
+	S
+		PP(PRP)
+			R
+				 cũng
+			R
+				 đừng
+			E(H)
+				 vì
+			VP
+				V(H)
+					 nghe
+				V
+					 đồn
+		C
+			 mà
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 chạy
+			R
+				 xuống
+			NP(LOC)
+				N(H)
+					 siêu thị
+				Np
+					 Supper Bowl
+			SBAR(PRP)
+				E(H)
+					 vì
+				S
+					PP(LOC)
+						E(H)
+							 ở
+						NP
+							P(H)
+								 đó
+					VP
+						R
+							 chỉ
+						"
+							 "
+						R
+							 đã
+						R
+							 từng
+						"
+							 "
+						T
+							 có
+						V(H)
+							 bán
+						NP(DOB)
+							L
+								 các
+							N(H)
+								 trang phục
+							AP
+								A(H)
+									 chính hiệu
+							PP
+								E(H)
+									 của
+								NP
+									Ny(H)
+										 M . U
+	RBKT
+		 RBKT
+	.
+		 .
+</s>
+<s id = "71">
+S
+	S
+		PP(TMP)
+			E(H)
+				 Sau
+			NP
+				N(H)
+					 khi
+				SABR
+					S
+						NP(SUB)
+							N(H)
+								 bạn
+						VP
+							R
+								 đã
+							V(H)
+								 chọn
+							NP(DOB)
+								Nc(H)
+									 chiếc
+								N
+									 áo
+								VP
+									V(H)
+										 có
+									NP(DOB)
+										N(H)
+											 biểu trưng
+										NP
+											Ny(H)
+												 M . U
+										AP
+											A(H)
+												 yêu quí
+		,
+			 ,
+		S(SUB)
+			NP(SUB)
+				 *T*
+			VP(SUB)
+				V(H)
+					 muốn
+				VP
+					V(H)
+						 có
+					NP(DOB)
+						N(H)
+							 tên
+						NP
+							N(H)
+								 cầu thủ
+							P
+								 nào
+					PP(LOC)
+						E(H)
+							 sau
+						NP
+							N(H)
+								 lưng
+		C
+			 thì
+		VP
+			R
+				 cứ
+			V(H)
+				 yêu cầu
+	,
+		 ,
+	S
+		NP(TMP)
+			N(H)
+				 cỡ
+			NP
+				N(H)
+					 chừng
+				NP
+					R
+						 hơn
+					M
+						 hai
+					Nu(H)
+						 tiếng
+					NP
+						N(H)
+							 đồng hồ
+					AP
+						A(H)
+							 sau
+		C
+			 là
+		NP(SUB)
+			N(H)
+				 nhân viên
+			N
+				 cửa hàng
+		VP
+			V(H)
+				 in
+			AP
+				A(H)
+					 xong
+				R
+					 ngay
+	.
+		 .
+</s>
+<s id = "72">
+S
+	NP(SUB)
+		N(H)
+			 Giá cả
+	AP(PRD)
+		R
+			 cực kỳ
+		A(H)
+			 mềm
+		:
+			 :
+		NP
+			M
+				 75 . 000
+			Nu(H)
+				 đồng
+			/
+				 /
+			NP
+				N(H)
+					 áo
+		,
+			 ,
+		SBAR
+			S
+				C
+					 còn
+				NP(SUB)
+					R
+						 nguyên
+					N(H)
+						 bộ
+				C
+					 thì
+				NP(PRD)
+					M
+						 98 . 000
+					Nu(H)
+						 đồng
+	.
+		 .
+</s>
+<s id = "73">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Bảo đảm
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 hàng
+				VP
+					V(H)
+						 được
+					V
+						 may
+					PP(LOC)
+						E(H)
+							 ở
+						...
+							 ...
+						NP
+							Nc(H)
+								 khu
+							N
+								 công nghiệp
+					AP
+						A(H)
+							 hẳn hoi
+	.
+		 .
+</s>
+<s id = "74">
+S
+	C
+		 Và
+	SBAR(PRP)
+		C
+			 nếu
+		S(CND)
+			NP(SUB)
+				N(H)
+					 bạn
+			VP
+				V(H)
+					 có
+				NP(DOB)
+					N(H)
+						 lòng
+					VP
+						V(H)
+							 yêu
+						NP(DOB)
+							N(H)
+								 đội tuyển
+							Ny(H)
+								 VN
+	C
+		 thì
+	S
+		NP(LOC)
+			T
+				 ngay
+			N(H)
+				 bên cạnh
+		NP(SUB)
+			P(H)
+				 đó
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 áo
+				NP
+					L
+						 các
+					N(H)
+						 tuyển thủ
+					AP
+						A(H)
+							 thân yêu
+					PP
+						E(H)
+							 của
+						NP
+							P(H)
+								 mình
+				PP
+					E(H)
+						 với
+					NP
+						N(H)
+							 giá
+						VP
+							R
+								 cũng
+							R
+								 chẳng
+							T
+								 hề
+							V(H)
+								 thua kém
+							NP(DOB)
+								N(H)
+									 giá
+								NP
+									N(H)
+										 áo
+									Np
+										 M . U
+	!
+		 !
+</s>

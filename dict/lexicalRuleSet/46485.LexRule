@@ -1,0 +1,561 @@
+! : !	2
+" : "	22
+, : ,	63
+- : -	8
+. : .	38
+... : ...	6
+... : ....	3
+/ : /	2
+: : :	3
+A : Bất ngờ	1
+A : Hiếm	1
+A : Trước	1
+A : bình dị	1
+A : băn khoăn	1
+A : cao cấp	1
+A : chuyên	1
+A : có thể	1
+A : cùng	1
+A : duy nhất	2
+A : dài	1
+A : e lệ	1
+A : e ngại	1
+A : gian khổ	1
+A : gần	1
+A : hay	1
+A : hoàn toàn	1
+A : hơn	1
+A : khác	2
+A : khó	1
+A : không thể	5
+A : khổ	1
+A : kém	1
+A : lặng lẽ	1
+A : lớn	1
+A : may mắn	1
+A : mù	13
+A : mới	2
+A : nghèo	3
+A : nhiều	5
+A : nặng nề	1
+A : nổi tiếng	1
+A : riêng	2
+A : sau	3
+A : sáng mắt	1
+A : tha thiết	1
+A : thiệt thòi	1
+A : trung ương	1
+A : trước	1
+A : trẻ	1
+A : tật nguyền	1
+A : tốt bụng	1
+A : tự nhiên	1
+A : xuất sắc	1
+A : ác liệt	1
+A : đẫm	1
+C : Nhưng	1
+C : Rồi	2
+C : Và	1
+C : Vì thế	1
+C : còn	1
+C : duy	1
+C : hoặc	3
+C : là	1
+C : mà	5
+C : mặc dù	1
+C : như	1
+C : nhưng	6
+C : nhất là	1
+C : nên	3
+C : rằng	2
+C : rồi	2
+C : thì	4
+C : và	11
+C : vì	2
+C : với	7
+E : Sau	4
+E : Theo	1
+E : Trong	3
+E : bằng	2
+E : bởi	2
+E : cho	10
+E : của	11
+E : theo	1
+E : trong	5
+E : trên	2
+E : tại	6
+E : tới	2
+E : từ	3
+E : vào	4
+E : vì	3
+E : về	3
+E : để	12
+E : ở	4
+I : Ấy	1
+L : Những	1
+L : các	4
+L : mỗi	1
+L : những	10
+L : toàn bộ	1
+L : tất cả	1
+L : vài	2
+L : đôi	1
+LBKT : LBKT	11
+M : 1.000	1
+M : 1971	1
+M : 1973	1
+M : 1974	1
+M : 1990	1
+M : 1996	1
+M : 2000	1
+M : 26	1
+M : 3	1
+M : 30.000	2
+M : 5	1
+M : 58	1
+M : 6	2
+M : 6.000	1
+M : 8	1
+M : 88.000	1
+M : 9	1
+M : Hai	1
+M : Một	1
+M : ba	1
+M : hai	5
+M : mỗi	2
+M : một	17
+M : nhì	1
+M : nhất	2
+M : Đôi	1
+M : đôi	1
+N : Anh	1
+N : Ban đầu	1
+N : Bệnh viện	1
+N : Cha	1
+N : Cha mẹ	1
+N : Cô	1
+N : Hà Tây	1
+N : Hồi	1
+N : Hội	1
+N : Khi	4
+N : Lần	1
+N : Mắt	1
+N : Năm	2
+N : Sáng	1
+N : Sự	2
+N : Thứ sáu	1
+N : Trường	1
+N : Tên	1
+N : Tờ	1
+N : ban	2
+N : buổi	1
+N : bà	5
+N : bà già	1
+N : bài	2
+N : bàn phím	1
+N : báo	1
+N : bên	2
+N : băng	3
+N : bước	1
+N : bạn	1
+N : bạn bè	1
+N : bảng	1
+N : bến	2
+N : cha	2
+N : chiến trường	1
+N : chiều	2
+N : chuyện	2
+N : chất độc	2
+N : chị	1
+N : chị em	1
+N : chống	1
+N : chữ nổi	8
+N : chữ viết	1
+N : con	3
+N : câu chuyện	1
+N : cô	29
+N : cô giáo	3
+N : công	1
+N : cạnh	1
+N : cấp	1
+N : da cam	2
+N : dòng	1
+N : gia đình	1
+N : giao tiếp	1
+N : giáo dục	1
+N : giáo sư	1
+N : giáo viên	2
+N : giải	3
+N : giảng	1
+N : giảng đường	1
+N : giọng	1
+N : gái	6
+N : gương mặt	2
+N : gậy	1
+N : hiện	2
+N : hiệu trưởng	1
+N : hoàn cảnh	1
+N : hàng loạt	1
+N : hè	1
+N : hôm	1
+N : hậu quả	1
+N : học cụ	1
+N : học phí	1
+N : học sinh	1
+N : khi	7
+N : khoản	1
+N : khu	1
+N : khó khăn	1
+N : kiến thức	2
+N : ký túc xá	1
+N : kỳ	3
+N : loại	1
+N : làng	2
+N : lính	1
+N : lòng	3
+N : lúc	1
+N : lệ	1
+N : lớp	1
+N : lớp học	1
+N : máy ghi âm	1
+N : môi trường	1
+N : mảnh	1
+N : mật mã	1
+N : mắt	4
+N : nghĩa	1
+N : nghị lực	3
+N : ngoại ô	1
+N : nguyên tắc	1
+N : nguồn	1
+N : ngày	2
+N : người	9
+N : nhau	2
+N : nhà	1
+N : nhà thơ	1
+N : nhà trường	1
+N : nông dân	1
+N : năm	9
+N : năm học	1
+N : năm tháng	1
+N : nơi	2
+N : nước	3
+N : nước ngoài	1
+N : nạn nhân	2
+N : nội trú	1
+N : phó chủ tịch	1
+N : phóng viên	1
+N : phần	1
+N : phụ nữ	2
+N : quận	1
+N : quốc tịch	1
+N : sau này	1
+N : sinh viên	10
+N : sách	5
+N : sáng	2
+N : sân bay	1
+N : sông	1
+N : số	1
+N : sức	1
+N : tai	1
+N : thanh niên	1
+N : thuở	1
+N : thành	1
+N : thành phố	2
+N : thành tích	1
+N : thành viên	1
+N : tháng	2
+N : thân phận	1
+N : thép	1
+N : thạc sĩ	1
+N : thầy	1
+N : thế giới	1
+N : thị xã	1
+N : thứ	1
+N : tin	1
+N : tiếng	6
+N : tiền	2
+N : trang	1
+N : tri thức	1
+N : trước hết	1
+N : trường	11
+N : tuần	1
+N : tác phẩm	2
+N : tên	2
+N : tình nguyện viên	1
+N : tư	1
+N : tư liệu	1
+N : tấm	1
+N : tỉnh	1
+N : tổ chức	1
+N : tờ	1
+N : vi tính	4
+N : vé	1
+N : võng mạc	1
+N : vùng	1
+N : văn	1
+N : văn chương	1
+N : văn học	5
+N : văn khoa	3
+N : vợ chồng	1
+N : xe buýt	1
+N : xã	1
+N : xứ	1
+N : ông	3
+N : đi lại	1
+N : điện	1
+N : đêm	1
+N : đơn vị	1
+N : đường	1
+N : đại cương	1
+N : đại học	5
+N : đất	3
+N : đầu	1
+N : đền	1
+N : đồng hồ	1
+N : độc tố	1
+N : đời	1
+NP : *E*	3
+NP : *T*	1
+Nc : Bà	2
+Nc : Cô	1
+Nc : bà	4
+Nc : chiếc	1
+Nc : cuộn	1
+Nc : cô	5
+Nc : người	6
+Nc : nụ	1
+Nc : ông	3
+Np : Anh	4
+Np : Bụt	1
+Np : Hà Nội	2
+Np : Hà Tây	1
+Np : John	3
+Np : John Woodward	1
+Np : Loan	1
+Np : Mai	19
+Np : Mỹ	12
+Np : Nam Lào	1
+Np : Nguyễn Thị Loan	1
+Np : Nguyễn Thị Thanh Mai	1
+Np : Nguyễn Trọng Nhân	1
+Np : Nguyễn Văn Phúc	1
+Np : Nguyễn Đình Chiểu	1
+Np : Olympian Newspaper	1
+Np : Olympic	1
+Np : Pacific Lutherial University	1
+Np : Philadelphia	1
+Np : Quang Dũng	1
+Np : Quảng Bình	1
+Np : Quảng Trị	1
+Np : Susan	4
+Np : Susan Gilbert	1
+Np : Sơn	1
+Np : Sơn Tây	3
+Np : Trung Hưng	1
+Np : Tích	1
+Np : VN	9
+Np : Và	1
+Np : Vân Gia	1
+Np : Washington	1
+Np : Đoài	1
+Nu : USD	3
+Nu : tuổi	2
+Nu : đồng	1
+Ny : UBND	1
+P : Tôi	1
+P : ai	2
+P : cả	3
+P : họ	4
+P : mình	2
+P : nào	4
+P : này	2
+P : thế nào	1
+P : tôi	11
+P : tự	2
+P : vậy	1
+P : đó	7
+P : ấy	1
+R : Chỉ	2
+R : chưa	1
+R : chỉ	4
+R : cũng	5
+R : cứ	3
+R : hằng	1
+R : không	8
+R : kịp	1
+R : lên	3
+R : lại	7
+R : mới	3
+R : nhất	5
+R : nổi	1
+R : nữa	1
+R : ra	3
+R : rất	3
+R : sắp	1
+R : sẽ	2
+R : thật	1
+R : tiếp tục	1
+R : toàn	1
+R : từng	2
+R : vẫn	3
+R : về	4
+R : xuống	1
+R : đang	1
+R : đã	12
+R : được	2
+R : đều	4
+RBKT : RBKT	11
+T : chính	4
+T : gì	1
+T : ngay	4
+T : tới	2
+V : *E*	1
+V : Bảo trợ	1
+V : Thương	1
+V : bay	1
+V : biết	4
+V : bõ	1
+V : bật	1
+V : bắt	1
+V : bắt buộc	1
+V : bị	1
+V : bỏ	1
+V : chiến đấu	1
+V : cho	3
+V : chu cấp	1
+V : chuyển	4
+V : chào đời	1
+V : chép	1
+V : chép chép	1
+V : chói	1
+V : chọn lựa	1
+V : còn	1
+V : có	6
+V : công nhận	1
+V : cõng	1
+V : cưu mang	1
+V : cưới	1
+V : cười	1
+V : cảm nhận	1
+V : cảm phục	1
+V : cảm động	1
+V : cầm	1
+V : cần	1
+V : cần mẫn	1
+V : cộng	1
+V : day dứt	1
+V : dò	1
+V : dùng	1
+V : dạy	2
+V : dẫn	1
+V : ghi ghi	1
+V : ghép	1
+V : giành	2
+V : giám khảo	1
+V : giúp	4
+V : giảng	1
+V : gật	1
+V : gặp	2
+V : gọi	1
+V : hì hục	1
+V : hưu	1
+V : học	23
+V : học tập	1
+V : hỏng	1
+V : hứa	1
+V : in	3
+V : khiếm khuyết	1
+V : khiếm thị	1
+V : khóc	1
+V : khứ hồi	1
+V : kiệt	1
+V : kể	2
+V : lo	2
+V : lo âu	1
+V : là	12
+V : làm	2
+V : lãnh đạo	1
+V : lên	1
+V : lưu	1
+V : lặn lội	1
+V : mang	1
+V : miễn phí	2
+V : mong	1
+V : mua	1
+V : mày mò	1
+V : mù	1
+V : nghe	1
+V : nghiên cứu	3
+V : nghỉ	1
+V : ngồi	1
+V : nhận	1
+V : nhờ	3
+V : nép	1
+V : nói	3
+V : nắm bắt	1
+V : nằm	1
+V : phát hiện	1
+V : phải	5
+V : ra	4
+V : rải	1
+V : rời	1
+V : sang	6
+V : sinh	1
+V : sinh đôi	1
+V : sống	3
+V : tham gia	2
+V : theo	1
+V : thi	5
+V : thu	2
+V : thuật	1
+V : thành	1
+V : thêm	1
+V : thông qua	1
+V : thương	1
+V : thừa kế	1
+V : tiếp cận	1
+V : tiếp tục	2
+V : truyền	1
+V : trả bài	1
+V : trọ	1
+V : trở	4
+V : trở thành	2
+V : trợ cấp	1
+V : trừ	1
+V : trực tiếp	1
+V : tài trợ	2
+V : tìm	2
+V : tình nguyện	1
+V : tôi luyện	1
+V : tắt thở	1
+V : tặng	2
+V : tốt nghiệp	1
+V : tổ chức	1
+V : tới	3
+V : viết	1
+V : vào	2
+V : văn học	1
+V : vượt	1
+V : vắt	1
+V : về	4
+V : vừa qua	1
+V : xin	3
+V : xung phong	1
+V : xuôi	1
+V : xúc động	1
+V : ăn học	1
+V : đem	1
+V : đành	2
+V : đáng	1
+V : đáp	1
+V : đón	1
+V : đùm bọc	1
+V : đưa	7
+V : được	7
+V : đậu	1
+V : đến	1
+V : đề nghị	1
+V : đọc	6
+V : ở	1
+X : đã đành	1
+X : địa linh nhân kiệt	1

@@ -1,0 +1,503 @@
+<s>
+(S 
+     (NP-SUB 
+          (NP (N-H Chủ tịch)
+               (NP (Ny-H UBND) (Ny TP .HCM)))
+          (NP (Np-H Lê Thanh Hải)))
+     (VP (V-H *E*) (: :)
+          (SBAR 
+               (S 
+                    (NP-TMP 
+                         (NP (L Mỗi) (N-H ngày))
+                         (, ,)
+                         (NP (L mỗi) (N-H tháng)))
+                    (NP-SUB *E*)
+                    (VP (R đều) (V-H phải)
+                         (AP (A-H an toàn)
+                              (NP (" ") (N-H giao thông) (" ")))))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-TPC (N-H Tai nạn) (N giao thông))
+     (S 
+          (VP-SUB (V-H chết)
+               (NP-DOB (N-H người) (C mà)
+                    (VP (V-H đưa) (R ra)
+                         (NP-DOB (N-H chỉ tiêu)))))
+          (C thì)
+          (VP (V-H nghe)
+               (AP (A-H xót xa) (R quá))))
+     (, ,)
+     (C nhưng)
+     (S 
+          (SBAR-CND (C nếu)
+               (S (NP-SUB *E*)
+                    (VP (R không) (V-H đưa) (R ra)
+                         (NP-DOB (N-H chỉ tiêu)
+                              (VP-PRP (V-H phấn đấu))))))
+          (S 
+               (NP-SUB (N-H tình trạng))
+               (VP (R sẽ) (R không) (V-H tiến triển)
+                    (AP (A-H tốt)))))
+     (. .))
+</s>
+<s>
+(S 
+     (S 
+          (PP-TMP (E-H Trong)
+               (NP (N-H năm) (M 2004)))
+          (, ,)
+          (AP-ADV (A-H ít) (R nhất))
+          (NP-SUB *E*)
+          (VP (V-H phải)
+               (VP (V-H giảm)
+                    (VP (R cho) (V-H được)
+                         (QP-DOB (M-H 40%)
+                              (PP (T cả) (E-H về)
+                                   (NP 
+                                        (NP (N-H người)
+                                             (VP (V-H chết)))
+                                        (C lẫn)
+                                        (NP (N-H số)
+                                             (NP (N-H vụ)
+                                                  (VP (N-H tai nạn) (N giao thông))))
+                                        (C và)
+                                        (NP-LOC (L các) (N-H điểm)
+                                             (VP (V-H ùn tắc))))))))))
+     (- -)
+     (S 
+          (NP-SUB 
+               (NP (N-H Chủ tịch)
+                    (NP (Ny-H UBND) (Ny TP HCM)))
+               (NP (Np-H Lê Thanh Hải)))
+          (VP (V-H nhấn mạnh) (X như vậy)
+               (PP-TMP (E-H trong)
+                    (NP (Nc-H cuộc) (V họp)
+                         (PP (E-H với)
+                              (NP (N-H Ban)
+                                   (AP (A-H An toàn)
+                                        (NP (N-H giao thông) (Ny TP)))))
+                         (NP-TMP (N-H sáng) (M 23) (M 3))))))
+     (. .))
+</s>
+<s>
+(S 
+     (VP-ADV (V-H Theo)
+          (NP (Nc-H ông) (Np Hải)))
+     (, ,)
+     (NP-SUB (P-H đây))
+     (VP (V-H là)
+          (NP (N-H vấn đề) (A bức xúc)
+               (PP (E-H của)
+                    (NP (Ny-H TP.)))))
+     (. .))
+</s>
+<s>
+(S 
+     (PP-PRP (E-H Để)
+          (VP (V-H làm) (R được) (C như)
+               (NP-DOB (N-H mục tiêu)
+                    (VP (V-H đề) (V ra)))))
+     (, ,)
+     (VP-ADV (R không) (V-H phải)
+          (VP (V-H đợi)
+               (PP-TMP (E-H đến)
+                    (NP 
+                         (NP (N-H tháng)
+                              (AP (A-H an toàn)
+                                   (NP (N-H giao thông))))
+                         (NP (N-H tháng) (M chín)
+                              (NP (R hằng) (N-H năm)))
+                         (VP (R mới) (V-H hành động))))))
+     (C mà)
+     (NP-SUB (Ny-H TP))
+     (VP (V-H phải)
+          (VP (V-H xem)
+               (NP-TMP 
+                    (NP (L mỗi) (N-H tháng))
+                    (, ,)
+                    (NP (L mỗi) (N-H ngày))
+                    (VP (R đều) (V-H là)
+                         (AP (" ") (A-H an toàn)
+                              (NP (N-H giao thông))
+                              (" "))))))
+     (. .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-TMP (N-H Hiện))
+          (AP-SUB (A-H bình quân)
+               (NP-TMP (L mỗi) (N-H ngày)
+                    (PP-LOC (E-H trên)
+                         (NP (N-H địa bàn) (Ny TP)))))
+          (VP (V-H có)
+               (NP-DOB (M ba) (N-H người)
+                    (VP (V-H chết)
+                         (PP-PRP (E-H do)
+                              (NP (N-H tai nạn) (N giao thông)))))))
+     (, ,)
+     (S 
+          (NP-TMP (M-H một) (N năm))
+          (NP-SUB *E*)
+          (VP (V-H có)
+               (NP-DOB (A khoảng) (M 1.000) (N-H người) (, ,)
+                    (VP (V-H chiếm)
+                         (NP-DOB (A khoảng) (M 10%) (N-H số) (N người)
+                              (VP (V-H thiệt mạng)
+                                   (PP-PRP (E-H do)
+                                        (NP (N-H tai nạn) (N giao thông)
+                                             (PP-LOC (E-H trong)
+                                                  (NP (P cả) (N-H nước)))))))))))
+     (, ,)
+     (S 
+          (NP-SUB (N-H tỉ lệ) (P này))
+          (VP (V-H còn)
+               (AP (R rất) (A-H cao))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Chủ tịch)
+          (NP (Ny-H UBND) (Ny TP)))
+     (VP (V-H chỉ đạo)
+          (NP-DOB (N-H Sở) (Ny GTCC))
+          (, ,)
+          (NP-TMP (N-H trước)
+               (QP (M 30 - 4 – 2004)))
+          (VP- (V-H phải)
+               (VP (V-H làm) (R xong)
+                    (NP (N-H dải phân cách)
+                         (PP-LOC (E-H ở)
+                              (NP (L các) (N-H tuyến) (N cửa ngõ)
+                                   (VP (V-H ra) (V-H vào)
+                                        (NP-DOB (Ny-H TP)))))))
+               (; ;)
+               (VP (V-H đẩy) (A nhanh)
+                    (NP-DOB (N-H tiến độ)
+                         (VP (V-H thi công)
+                              (NP-DOB (L các) (N-H dự án) (N-H xa lộ)
+                                   (VP (V-H song hành)
+                                        (NP-LOC 
+                                             (NP (Np-H Hà Nội))
+                                             (NP (Np-H Trường Chinh))
+                                             (NP (Np-H quốc lộ) (M 13))))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-SUB (Nc-H Ông) (Np Hải))
+     (VP (V-H đề nghị)
+          (SBAR 
+               (S 
+                    (S 
+                         (NP-SUB (N-H Công an) (Ny TP))
+                         (VP (V-H nên)
+                              (VP 
+                                   (VP (V-H đấu thầu))
+                                   (VP (V-H giao)
+                                        (NP-IOB (N-H tư nhân))
+                                        (VP (V-H giữ)
+                                             (NP-DOB (N-H xe)
+                                                  (VP (V-H vi phạm)
+                                                       (NP-DOB (N-H giao thông))
+                                                       (LBKT LBKT)
+                                                       (S 
+                                                            (PP-ADV (E-H theo)
+                                                                 (NP (N-H Công an) (Ny TP)))
+                                                            (, ,)
+                                                            (NP-TMP (N-H mỗi) (N ngày))
+                                                            (NP-SUB *E*)
+                                                            (NP-PRD (A khoảng) (M 100) (Nc-H chiếc)))
+                                                       (RBKT RBKT))))))))
+                    (, ,)
+                    (S 
+                         (NP-SUB (N-H người) (V vi phạm))
+                         (VP (R sẽ) (V-H đóng)
+                              (NP-DOB (N-H tiền))
+                              (PP-IOB (E-H cho)
+                                   (NP (L các) (N-H chủ)
+                                        (NP (N-H bãi) (N xe) (P này)))))))))
+     (. .))
+</s>
+<s>
+(S (X Như vậy) (, ,)
+     (S 
+          (NP-SUB (N-H người) (V vi phạm))
+          (VP (V-H đỡ)
+               (VP (V-H lo)
+                    (SBAR 
+                         (S 
+                              (NP-SUB (N-H xe))
+                              (VP (V-H bị)
+                                   (AP (A-H hư))))))))
+     (C mà)
+     (S 
+          (NP-SUB (N-H lực lượng) (N công an))
+          (VP (R cũng) (R không) (V-H phải)
+               (VP (V-H mất sức))))
+     (. .))
+</s>
+<s>
+(S (X Mặt khác) (, ,) (NP-SUB *E*)
+     (VP (R có thể) (V-H xem xét) (V-H khuyến khích)
+          (SBAR 
+               (S 
+                    (NP-SUB (L các) (Nc-H hộ) (N dân)
+                         (VP (V-H có)
+                              (NP-DOB (N-H mặt bằng)
+                                   (PP-LOC (E-H ở)
+                                        (NP (L các) (N-H khu) (A trung tâm))))))
+                    (VP (V-H làm)
+                         (NP-DOB (N-H bãi) (V giữ) (N xe)))))
+          (PP-MNR (E-H với)
+               (NP (L những) (N-H chính sách) (A ưu đãi) (C như)
+                    (VP 
+                         (VP (V-H giảm)
+                              (NP-DOB (N-H thuế)))
+                         (, ,)
+                         (VP (V-H hạn chế)
+                              (NP-DOB (N-H tình trạng)
+                                   (SBAR 
+                                        (S 
+                                             (NP-SUB 
+                                                  (NP (L các) (N-H đơn vị)
+                                                       (VP (V-H kinh doanh)))
+                                                  (, ,)
+                                                  (NP (N-H công ty)))
+                                             (VP (V-H để)
+                                                  (NP-DOB (N-H xe máy)
+                                                       (VP (V-H lấn chiếm)
+                                                            (NP-DOB (N-H lề đường)))
+                                                       (, ,)
+                                                       (VP (V-H mất)
+                                                            (NP (N-H trật tự)))))))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (PP-ADV (E-H Theo)
+          (NP (Nc-H ông) (Np Hải)))
+     (, ,)
+     (VP (V-H có)
+          (SBAR 
+               (S-PV 
+                    (NP-SUB (R rất) (A nhiều) (N-H giải pháp))
+                    (VP (V-H được)
+                         (SBAR 
+                              (S (NP-SUB *E*)
+                                   (VP (V-H đưa) (R ra)
+                                        (PP-PRP (E-H để)
+                                             (VP (V-H giảm)
+                                                  (NP-DOB (N-H tai nạn) (N giao thông))))
+                                        (, ,)
+                                        (PP-ADV (E-H trong)
+                                             (NP (P-H đó)
+                                                  (VP (V-H có)
+                                                       (SBAR 
+                                                            (S 
+                                                                 (NP-SUB (L những) (N-H giải pháp))
+                                                                 (VP 
+                                                                      (VP (R không) (V-H tốn)
+                                                                           (NP-DOB (N-H tiền)))
+                                                                      (, ,)
+                                                                      (VP (R chỉ) (V-H cần)
+                                                                           (VP (V-H điều chỉnh)
+                                                                                (PP-PRP (E-H cho)
+                                                                                     (VP (V-H phù hợp))))))))))))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Vấn đề)
+          (AP (A-H quan trọng)))
+     (VP 
+          (VP (V-H là)
+               (PP-PRP (X làm sao) (E-H để)
+                    (VP (" ") (V-H tiêu hóa) (" ")
+                         (NP-DOB (L các) (N-H giải pháp) (P này))
+                         (PP (E-H trên)
+                              (NP (N-H thực tế))))))
+          (, ,)
+          (VP (R không thể) (V-H đưa) (R ra)
+               (QP-DOB (M-H 10))
+               (C nhưng)
+               (VP (R chỉ) (V-H thực hiện)
+                    (QP-DOB (T có) (M-H 1) (, ,) (M-H 2)))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-ADV (N-H Băn khoăn)
+          (PP (E-H về)
+               (NP (N-H thực trạng)
+                    (SBAR 
+                         (S 
+                              (NP-SUB (N-H tai nạn) (N giao thông))
+                              (VP (V-H có)
+                                   (NP-DOB (N-H chiều hướng)
+                                        (VP (V-H tăng) (V trở lại)))))))))
+     (, ,)
+     (NP-SUB (S Phó) (N-H chủ tịch)
+          (NP (Ny-H UBND) (Ny TP))
+          (NP (Np-H Nguyễn Văn Đua)))
+     (VP (V-H cho) (V biết)
+          (SBAR 
+               (S 
+                    (NP-TMP (N-H quí) (M 1) (- -) (M 2004))
+                    (NP-SUB (N-H tai nạn) (N giao thông))
+                    (VP (V-H tăng)
+                         (AP (A-H hơn)
+                              (NP-TMP (N-H quí) (M 4) (- -) (M 2003)))))))
+     (. .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB-1 (T Riêng) (N-H số) (N tiền)
+               (VP (V-H xử phạt)
+                    (VP (V-H vi phạm)
+                         (NP-DOB (N-H giao thông)))
+                    (PP-TMP (N-H trong)
+                         (NP (N-H năm) (M 2003)))))
+          (VP (V-H là)
+               (NP (M 100) (M tỉ) (Nu-H đồng))))
+     (C thì)
+     (S 
+          (NP-TMP (N-H quí) (M 1) (- -) (M 2004))
+          (NP-SUB-1 *T*)
+          (VP (R chỉ) (V-H có)
+               (NP-DOB (M 10) (M tỉ) (Nu-H đồng))))
+     (. .))
+</s>
+<s>
+(SQ-SPL 
+     (VP (V-H Liệu)
+          (VP (V-H có)
+               (NP-DOB (N-H tình trạng)
+                    (VP (V-H lơi lỏng))
+                    (, ,)
+                    (AP (A-H chủ quan))
+                    (PP (E-H trong)
+                         (VP (V-H xử phạt)
+                              (PP-TMP (E-H sau)
+                                   (NP (Np-H Sea Games 22))))))))
+     (? ?))
+
+</s>
+<s>
+(S 
+     (NP-SUB (Nc-H Ông) (Np Đua))
+     (VP (V-H đề nghị)
+          (SBAR 
+               (S (NP-SUB *E*)
+                    (VP (V-H nên)
+                         (VP 
+                              (VP (V-H xác định)
+                                   (NP-DOB (N-H trách nhiệm)
+                                        (PP (E-H đối với)
+                                             (NP 
+                                                  (NP (L những) (N-H cán bộ))
+                                                  (, ,)
+                                                  (NP (N-H cảnh sát) (N giao thông))
+                                                  (VP (V-H để)
+                                                       (VP (V-H xảy) (V ra)
+                                                            (NP-DOB (A nhiều) (N-H vụ) (N tai nạn) (N giao thông)
+                                                                 (PP-LOC (E-H trên)
+                                                                      (NP (N-H địa bàn)
+                                                                           (SBAR 
+                                                                                (S 
+                                                                                     (NP-SUB (P-H mình))
+                                                                                     (VP (V-H phụ trách)))))))))))))
+                              (; ;)
+                              (VP (V-H xây dựng)
+                                   (NP-DOB (N-H lộ trình)
+                                        (VP (V-H thay thế) (R dần)
+                                             (NP-DOB (M 701) (N-H xe) (Np Daihatsu)
+                                                  (VP (R đã) (V-H được)
+                                                       (VP (V-H cải tạo) (V thành)
+                                                            (NP-DOB (N-H xe) (V chở) (N khách))))))))
+                              (SBAR-PRP (E-H vì)
+                                   (S 
+                                        (NP-SUB (P-H đây))
+                                        (VP (R cũng) (V-H là)
+                                             (NP (N-H hiểm họa)
+                                                  (PP (E-H về)
+                                                       (NP (N-H tai nạn) (N giao thông))))))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (PP-ADV (E-H Đối với)
+          (NP (L những) (N-H đơn vị) (V kinh doanh)
+               (VP (V-H để)
+                    (NP-DOB (N-H xe)
+                         (VP (V-H lấn chiếm)
+                              (NP-LOC (N-H lòng) (N lề đường)))))))
+     (, ,)
+     (PP-TMP (E-H sau)
+          (NP (M ba) (N-H lần) (V vi phạm)))
+     (NP-SUB *E*)
+     (VP (V-H phải) (A cương quyết)
+          (VP (V-H rút)
+               (NP-DOB (N-H giấy phép) (V kinh doanh))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-SUB (L Các) (N-H ngành) (V liên quan)
+          (NP-TMP (N-H khi)
+               (VP (V-H cấp)
+                    (NP-DOB (N-H phép) (V kinh doanh)))))
+     (VP (V-H nên)
+          (VP (V-H xem)
+               (SBAR 
+                    (S 
+                         (NP-SUB (N-H địa điểm)
+                              (VP (V-H đậu)
+                                   (NP-DOB (N-H xe))))
+                         (VP (V-H là)
+                              (NP (M một) (E trong) (L những) (N-H điều kiện)
+                                   (VP (V-H bắt buộc))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (PP-PRP (E-H Trước)
+          (NP (N-H ý kiến)
+               (VP (V-H cho)
+                    (SBAR (C rằng)
+                         (S 
+                              (NP-TMP (N-H thời gian)
+                                   (AP (A-H gần)
+                                        (NP (P-H đây))))
+                              (NP-SUB (A nhiều) (N-H tài xế) (Nb taxi)
+                                   (PP-PRP (E-H do)
+                                        (VP 
+                                             (VP (V-H tranh thủ)
+                                                  (NP-DOB (N-H thời gian)))
+                                             (, ,)
+                                             (VP (V-H giành)
+                                                  (NP-DOB (N-H khách))))))
+                              (C nên)
+                              (VP (V-H chạy)
+                                   (AP (A-H ẩu))))))))
+     (C thì)
+     (NP-SUB (Nc-H ông) (Np Đua))
+     (VP (V-H đề nghị)
+          (SBAR 
+               (S 
+                    (NP-SUB (N-H Công an) (Ny TP))
+                    (PP-TMP (T ngay) (E-H trong)
+                         (NP (N-H tuần) (P này)))
+                    (VP (V-H tăng cường)
+                         (VP (V-H kiểm tra) (, ,) (V-H xử phạt) (, ,) (C nếu)
+                              (AP (A-H cần thiết)
+                                   (VP (V-H xác định)
+                                        (NP-DOB (N-H trách nhiệm)
+                                             (PP (E-H của)
+                                                  (NP (L các) (N-H đơn vị) (A chủ quản)))))))))))
+     (. .))
+</s>

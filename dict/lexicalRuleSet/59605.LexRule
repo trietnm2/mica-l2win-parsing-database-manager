@@ -1,0 +1,479 @@
+" : "	4
+, : ,	44
+- : -	9
+. : .	40
+... : ...	2
+/ : /	1
+: : :	1
+; : ;	1
+? : ?	2
+A : Nhiều	3
+A : bình quân	1
+A : bận	1
+A : cao	4
+A : chuyên	1
+A : có tiếng	1
+A : dễ	1
+A : dễ dàng	1
+A : dọc	1
+A : gần	4
+A : hoàn toàn	1
+A : hơn	2
+A : khoái khẩu	1
+A : khoảng	2
+A : khó	1
+A : kỹ	1
+A : lớn	6
+A : lợi	1
+A : ngon	1
+A : nhiều	14
+A : quan trọng	2
+A : quen thuộc	2
+A : rẻ	1
+A : sẵn sàng	1
+A : thuận lợi	2
+A : thấp	1
+A : trệt	1
+A : tốt	6
+A : xa	1
+A : xong	1
+A : ít	1
+A : Đặc biệt	1
+A : đông	2
+A : đầu tiên	1
+C : Bởi	1
+C : Còn	2
+C : Không những	2
+C : Tuy nhiên	1
+C : Và	1
+C : Vì vậy	1
+C : còn	1
+C : hoặc	3
+C : là	3
+C : mà	1
+C : như	5
+C : nhưng	2
+C : nên	1
+C : nếu	1
+C : rằng	2
+C : thì	3
+C : và	21
+C : vì vậy	1
+C : với	1
+E : Theo	3
+E : Với	2
+E : bằng	1
+E : bởi	2
+E : cho	10
+E : của	5
+E : do	1
+E : giữa	1
+E : nhằm	1
+E : sang	1
+E : theo	1
+E : trong	7
+E : trên	8
+E : tại	4
+E : từ	4
+E : vào	1
+E : vì	4
+E : về	4
+E : với	5
+E : Để	1
+E : đến	3
+E : để	7
+E : Ở	1
+E : ở	27
+L : Một số	1
+L : Những	1
+L : các	16
+L : một	1
+L : một số	2
+L : những	1
+L : vài	1
+LBKT : LBKT	4
+M : 1	2
+M : 1 . 300	1
+M : 1 . 500	1
+M : 10 . 000	1
+M : 105	2
+M : 11	1
+M : 120	1
+M : 150	1
+M : 2	1
+M : 200	1
+M : 2000	1
+M : 2003	1
+M : 2005	1
+M : 274	1
+M : 310	1
+M : 40	1
+M : 443	1
+M : 50	2
+M : 500	2
+M : 70	1
+M : hai	1
+M : mỗi	4
+M : một	4
+M : một nửa	1
+M : sáu	1
+M : trăm	1
+N : Bí quyết	1
+N : Câu lạc bộ	2
+N : Công ty	6
+N : Công ty cổ phần	1
+N : Doanh nghiệp	1
+N : Hiện nay	1
+N : Hàng	2
+N : Khi	1
+N : Nhà nước	1
+N : Siêu thị	1
+N : Việc	2
+N : bia	1
+N : biệt thự	1
+N : buổi	2
+N : bà con	1
+N : bàn	2
+N : bánh kẹo	1
+N : bánh phở	2
+N : bãi	1
+N : bên	1
+N : bảng hiệu	1
+N : chiều	1
+N : chương trình	2
+N : chất lượng	6
+N : chị	1
+N : chữ	2
+N : cà phê	1
+N : cách	1
+N : cô	1
+N : công ty	4
+N : cơ sở	1
+N : da	1
+N : diện tích	3
+N : doanh nghiệp	1
+N : doanh số	1
+N : doanh thu	1
+N : gia vị	1
+N : giá cả	1
+N : giá thành	1
+N : giám đốc	2
+N : gái	1
+N : gỗ	1
+N : hiện nay	1
+N : hoàng cung	1
+N : hàng	20
+N : hàng hóa	3
+N : hãng	1
+N : hôm nay	1
+N : hông	1
+N : học viên	2
+N : hội chợ	4
+N : khi	2
+N : kho	1
+N : khu vực	1
+N : khách	2
+N : khách hàng	1
+N : khách sạn	1
+N : kênh	1
+N : kệ	1
+N : linh kiện	1
+N : lòng	1
+N : lúc	1
+N : lần	1
+N : lợi thế	1
+N : máy tính	5
+N : máy vi tính	4
+N : món	3
+N : mặt bằng	1
+N : mặt hàng	2
+N : mặt đường	1
+N : một cách	1
+N : ngoài	1
+N : ngày	4
+N : người	7
+N : nhà	1
+N : nhà hàng	3
+N : nhân viên	1
+N : năm	4
+N : nước	2
+N : nước mắm	1
+N : nước tương	1
+N : phở	2
+N : qui mô	2
+N : quán	1
+N : quê	1
+N : quận	2
+N : siêu thị	9
+N : sáng	1
+N : sân bay	1
+N : sông	1
+N : sản phẩm	6
+N : sản xuất	1
+N : số	4
+N : sức	2
+N : sữa	1
+N : sự nghiệp	1
+N : tham tán	1
+N : thiếu sót	1
+N : thành viên	1
+N : tháng	2
+N : thùng	1
+N : thương hiệu	2
+N : thương mại	2
+N : thầy	1
+N : thị trường	7
+N : tiền	1
+N : tiệm	1
+N : trung tâm	1
+N : truyền hình	1
+N : trâu bò	1
+N : trên	1
+N : trưa	1
+N : trường	2
+N : trẻ	1
+N : tính	1
+N : tường	1
+N : tầng	4
+N : tỉnh	3
+N : tổng giám đốc	1
+N : vi tính	6
+N : việc	5
+N : văn phòng	3
+N : vấn đề	1
+N : vụ	1
+N : yêu cầu	1
+N : ôtô	1
+N : điêu khắc	1
+N : điều	1
+N : điều kiện	3
+N : đài truyền hình	1
+N : đường	4
+N : đường bộ	1
+N : đường sông	1
+N : đại diện	1
+N : đại lý	3
+N : đại lộ	1
+N : đất	2
+N : đất nước	1
+N : đầu	1
+N : đầu bếp	1
+N : đầu mối	3
+N : đặc sản	1
+N : địa chỉ	2
+N : đồ	1
+N : đời mới	1
+N : ấn tượng	1
+NNy : DN	1
+NP : *E*	14
+NP : *T*	4
+Nb : logo	2
+Nc : Anh	5
+Nc : Chị	2
+Nc : anh	4
+Nc : bộ	1
+Nc : bờ	2
+Nc : chị	4
+Nc : cuộc	1
+Nc : dòng	2
+Nc : giới	1
+Nc : loại	1
+Nc : người	2
+Nc : sự	1
+Nc : tòa	1
+Np : AnAnA	2
+Np : AnAnA Computer	1
+Np : Angkor	2
+Np : Angkor Europa Diffusion	2
+Np : Battambang	1
+Np : Biên Hòa	1
+Np : Bình Định	1
+Np : Campuchia	2
+Np : Chămkamoom	1
+Np : Diana	3
+Np : Dung	3
+Np : Fan Sài Gòn	1
+Np : Hà Nội	1
+Np : Kinh Đô	1
+Np : Kompong Som	1
+Np : Long An	1
+Np : Lê Quang Ninh	3
+Np : Lê Trọng Nhân	1
+Np : Monivong	2
+Np : Ninh	4
+Np : Phnom Penh	9
+Np : Phạm Phương Dung	3
+Np : Pochentong	1
+Np : Pray Veng	1
+Np : Siem Reap	1
+Np : Sihanouk	1
+Np : Thái Lan	4
+Np : Tonle Sap	1
+Np : Trung Nguyên	1
+Np : Trung Quốc	3
+Np : Tân Bình	1
+Np : Vinamilk	1
+Np : Việt	4
+Np : Việt kiều	1
+Np : World Heritage	1
+Np : Đỗ Ngọc Nhân	1
+Nu : kg	2
+Nu : m2	4
+Nu : tấn	1
+Ny : 30 %	1
+Ny : CPC	20
+Ny : DN	17
+Ny : Phnom Penh	1
+Ny : TP . HCM	2
+Ny : TP .HCM	1
+Ny : VN	29
+P : gì	2
+P : họ	1
+P : nay	1
+P : nào	1
+P : này	3
+P : từng	1
+P : vậy	1
+P : Đó	1
+P : đâu	1
+P : đây	4
+P : đó	1
+R : chỉ	3
+R : càng	2
+R : còn	7
+R : cũng	3
+R : hơn	9
+R : hằng	1
+R : hẳn	1
+R : không	5
+R : luôn	2
+R : lên	1
+R : mới	2
+R : ngày càng	1
+R : nhất	3
+R : quá	1
+R : ra	4
+R : rất	7
+R : sẽ	2
+R : trên	1
+R : từng	2
+R : Đồng thời	1
+R : đang	2
+R : đã	7
+R : được	1
+R : đến	1
+R : đều	1
+R : đồng thời	1
+R : đừng	1
+RBKT : RBKT	4
+T : Thế	1
+T : chính	2
+T : gì	1
+T : vậy	1
+T : đến	2
+V : Bước	1
+V : Làm	1
+V : biết	7
+V : bán	6
+V : bật	1
+V : chiếu	1
+V : cho	6
+V : chế biến	1
+V : chứa	1
+V : cung cấp	2
+V : cung ứng	1
+V : có	17
+V : có mặt	1
+V : cười	1
+V : cạnh tranh	1
+V : cần	5
+V : dùng	1
+V : dạy	3
+V : dẫn	1
+V : dự định	2
+V : giao khoán	1
+V : giám sát	2
+V : giúp	1
+V : giới thiệu	1
+V : gặp	1
+V : hiểu	1
+V : hoạt động	1
+V : hướng	2
+V : học	1
+V : hỗ trợ	1
+V : khắc phục	1
+V : khẳng định	1
+V : khởi đầu	1
+V : kinh doanh	3
+V : là	7
+V : làm	4
+V : làm ăn	6
+V : lập	1
+V : mong muốn	1
+V : mua	1
+V : máy tính	1
+V : mời	1
+V : mở	5
+V : mở rộng	2
+V : ngạc nhiên	1
+V : nhìn	1
+V : nhậu	1
+V : nói	3
+V : nằm	1
+V : phát triển	2
+V : phân phối	3
+V : phù hợp	2
+V : phải	4
+V : quản lý	1
+V : quảng cáo	2
+V : ra	1
+V : sang	3
+V : so	2
+V : sản xuất	1
+V : sử dụng	1
+V : tham gia	3
+V : thua	1
+V : thành đạt	2
+V : thúc đẩy	1
+V : thấy	2
+V : tin dùng	1
+V : tiêu dùng	3
+V : tiêu thụ	7
+V : tiếp cận	3
+V : tiếp thị	1
+V : tiếp xúc	1
+V : triển lãm	3
+V : trưng	1
+V : trở nên	1
+V : tìm	1
+V : tính toán	1
+V : tăng	4
+V : tư vấn	1
+V : tạo	3
+V : tổ chức	2
+V : tới	1
+V : vào	1
+V : vận chuyển	1
+V : về	1
+V : xuất khẩu	1
+V : xuất nhập khẩu	1
+V : xảy	1
+V : ăn	2
+V : ăn uống	1
+V : Đứng	1
+V : đi	1
+V : đào tạo	1
+V : đòi	1
+V : đưa	5
+V : được	6
+V : đại diện	3
+V : đạt	1
+V : đầu tư	2
+V : đậu	1
+V : đặt	1
+V : đặt chân	1
+V : đến	4
+V : đứng	1
+X : Ngoài ra	1
+X : có khi	1
+X : ngày càng	1

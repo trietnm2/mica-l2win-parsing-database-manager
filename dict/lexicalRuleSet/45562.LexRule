@@ -1,0 +1,539 @@
+! : !	7
+" : "	48
+, : ,	55
+- : -	3
+. : .	85
+... : ...	11
+: : :	18
+? : ?	10
+A : Chắc	1
+A : Lâu	1
+A : Tốt	1
+A : bâng quơ	1
+A : béo	1
+A : bất ngờ	1
+A : cao thượng	1
+A : chuyên nghiệp	1
+A : chắc	1
+A : chắc chắn	1
+A : chặt	1
+A : cố định	3
+A : duy nhất	1
+A : dễ	1
+A : già	2
+A : giống	1
+A : gấp gáp	1
+A : gần	3
+A : hào hoa	1
+A : hơn	1
+A : hạnh phúc	1
+A : khoảng	2
+A : khó	1
+A : liên hồi	1
+A : lành	1
+A : lễ độ	1
+A : lớn	1
+A : mưu lược	1
+A : nghiệp dư	1
+A : ngoan ngoãn	1
+A : nhiều	2
+A : như	1
+A : nhỏ	1
+A : nóng	1
+A : phóng khoáng	1
+A : phải	3
+A : rõ	1
+A : rối rít	1
+A : thiếu	1
+A : thẳng	1
+A : thỏ thẻ	1
+A : thừa	1
+A : trong sạch	2
+A : trẻ	2
+A : tạm	1
+A : tối đa	1
+A : vất vả	1
+A : vụng	1
+A : yên tĩnh	1
+A : đen	1
+A : đúng	1
+A : đủ	1
+C : Dù vậy	1
+C : Nhưng	4
+C : Rồi	1
+C : Và	2
+C : Vì vậy	1
+C : là	7
+C : mà	2
+C : như	1
+C : nhưng	1
+C : nên	5
+C : nếu	1
+C : rồi	3
+C : thì	7
+C : và	18
+E : Theo	1
+E : Trước	1
+E : bên	2
+E : bởi	2
+E : cho	2
+E : của	22
+E : dưới	1
+E : ngoài	1
+E : qua	1
+E : theo	1
+E : trong	6
+E : trên	1
+E : vào	8
+E : với	5
+E : đến	3
+E : để	3
+E : ở	8
+I : Ôi	1
+L : Các	1
+L : các	6
+L : mỗi	2
+L : những	4
+L : vài	1
+LBKT : LBKT	3
+M : 091	1
+M : 1	2
+M : 10	1
+M : 108	1
+M : 1080	1
+M : 12	1
+M : 2	1
+M : 30	1
+M : 555	1
+M : 9	2
+M : Ba	2
+M : Bảy	1
+M : Hai	2
+M : Một	4
+M : U30	1
+M : ba	3
+M : hai	9
+M : một	20
+M : tư	1
+N : Anh	2
+N : Bà	2
+N : Bước đầu	1
+N : Chuông	1
+N : Chị	2
+N : Chồng	1
+N : Cuộc đời	1
+N : Công việc	1
+N : Em	2
+N : Khi	1
+N : Kinh nghiệm	1
+N : Kết quả	1
+N : Màn kịch	1
+N : Người ta	1
+N : Nhà	1
+N : Phương án	3
+N : Quý	1
+N : Sau	1
+N : Sáng	1
+N : Số	1
+N : Tháng	1
+N : Thời	1
+N : Việc	2
+N : Vấn đề	1
+N : Y	4
+N : anh	2
+N : biểu hiện	1
+N : buồng	1
+N : buổi	1
+N : bà	1
+N : báo	1
+N : bên	2
+N : bưu điện	3
+N : bảo hiểm	1
+N : bề dày	1
+N : bề trên	1
+N : bồ	1
+N : bồ bịch	1
+N : bộ phận	2
+N : cao thủ	1
+N : chi tiết	1
+N : chuyện	1
+N : chuông	2
+N : chìa khóa	1
+N : chính cung	1
+N : chỉ số	1
+N : chị	7
+N : chồng	4
+N : chủ	2
+N : chủ nhân	1
+N : chữ	1
+N : con	2
+N : con gái	1
+N : cuộc	1
+N : cà phê	1
+N : cá	1
+N : câu chuyện	1
+N : cô	1
+N : công việc	1
+N : cơm	1
+N : cước	5
+N : cửa hàng	2
+N : da	1
+N : danh bạ	1
+N : di động	1
+N : dân cư	1
+N : dây	3
+N : giám đốc	1
+N : giọng	1
+N : gái	4
+N : hàng	1
+N : hàng phố	1
+N : hóa đơn	1
+N : hôm	2
+N : khi	2
+N : khu	4
+N : khu vực	2
+N : không gian	1
+N : khăn	1
+N : khả năng	1
+N : kinh nghiệm	2
+N : kết quả	1
+N : kịch bản	1
+N : lúc	3
+N : lần	3
+N : màn hình	1
+N : máy	11
+N : mũ	1
+N : mẹ	1
+N : nghề	1
+N : ngoài	5
+N : ngày	1
+N : ngày mai	1
+N : ngã	2
+N : ngôi	1
+N : ngõ	1
+N : người	4
+N : người ta	1
+N : nhau	1
+N : nhiệm vụ	1
+N : nhà	9
+N : nhân viên	1
+N : nhóm	1
+N : nhật ký	1
+N : não	1
+N : năm	2
+N : nước	1
+N : nửa đêm	1
+N : nữ	1
+N : phu nhân	1
+N : phương án	3
+N : phường	3
+N : quán	1
+N : rau	1
+N : sim	4
+N : sách	1
+N : số	26
+N : tai	1
+N : thám tử	10
+N : tháng	1
+N : thời điểm	1
+N : thứ	1
+N : tinh thần	1
+N : tiêu chí	1
+N : tiếng	3
+N : tiền	1
+N : trên	1
+N : trước	4
+N : trả lời	1
+N : trục trặc	1
+N : tuần	2
+N : tên	2
+N : tình địch	1
+N : tôi	1
+N : tỉ phú	1
+N : tối	2
+N : vai	1
+N : việc	2
+N : vành	1
+N : ví	2
+N : vùng	2
+N : vấn đề	1
+N : vợ	1
+N : xe	1
+N : áo	1
+N : Điện thoại	1
+N : điều	1
+N : điện thoại	19
+N : điện thoại di động	5
+N : đêm	3
+N : đòn	1
+N : đầu	6
+N : địa chỉ	3
+N : địa ốc	1
+N : đồng minh	1
+N : đồng nghiệp	1
+NP : *E*	11
+NP : *T*	1
+Nc : Chiếc	1
+Nc : Chị	1
+Nc : Cuộc	1
+Nc : Câu	1
+Nc : Nỗi	1
+Nc : anh	1
+Nc : bao	1
+Nc : bà	2
+Nc : chiếc	1
+Nc : chị	1
+Nc : cô	4
+Nc : loại	1
+Nc : ngôi	1
+Nc : người	1
+Nc : ông	2
+Nc : đứa	1
+Np : Anh	1
+Np : Hà Nội	1
+Np : Hàng Hành	1
+Np : Hùng	1
+Np : Khâm Thiên	1
+Np : Lam	1
+Np : Lan	7
+Np : Liên	6
+Np : Loan	1
+Np : Lâm	1
+Np : Nam	14
+Np : Ngọc Hà	1
+Np : Nhi	13
+Np : Thảo	2
+Np : Thắng	15
+Np : Tuyết	5
+Np : Tú	1
+Np : Đống Đa	1
+Nu : g	3
+Nu : giờ	1
+Ny : K	2
+Ny : L	9
+Ny : VN	1
+Ny : X	2
+Ny : Y	6
+Ny : Y2	1
+P : Ai	1
+P : Chúng ta	1
+P : Hùng	1
+P : Họ	1
+P : Thế	1
+P : Tôi	4
+P : ai	2
+P : bao nhiêu	1
+P : bây giờ	1
+P : gì	3
+P : họ	2
+P : kia	2
+P : nay	1
+P : nào	5
+P : này	9
+P : nó	2
+P : sao	1
+P : ta	1
+P : tôi	3
+P : Đó	1
+P : Đấy	1
+P : đâu	1
+P : đây	3
+P : đó	11
+P : đấy	4
+P : ấy	1
+R : Có lẽ	1
+R : Hình như	1
+R : Không	4
+R : chính	1
+R : chưa	1
+R : chỉ	6
+R : có	1
+R : có thể	2
+R : cũng	4
+R : cứ	1
+R : hãy	1
+R : hơi	1
+R : hết sức	1
+R : khá	1
+R : không	12
+R : lại	3
+R : lắm	1
+R : mới	2
+R : ngay	2
+R : nhất	3
+R : quá	1
+R : ra	1
+R : rất	3
+R : rồi	2
+R : sẽ	2
+R : thường	1
+R : toàn	1
+R : tọt	1
+R : từng	1
+R : vẫn	1
+R : vừa	1
+R : xem	1
+R : đang	4
+R : đã	3
+R : được	6
+RBKT : RBKT	3
+T : Thôi	1
+T : chính	1
+T : cả	2
+T : mà	2
+T : nhá	1
+T : nhỉ	1
+T : quả	1
+T : rồi	1
+T : thế	3
+T : à	2
+T : ạ	1
+V : *E*	6
+V : Biết	2
+V : Bấm	1
+V : Bắt đầu	1
+V : Cầm	1
+V : Gọi	1
+V : Hoảng	1
+V : Mua	1
+V : Mệt	1
+V : Xâu chuỗi	1
+V : biến	1
+V : biết	3
+V : báo hiệu	1
+V : bó tay	1
+V : bảo	1
+V : bấm	8
+V : bị	4
+V : canh	1
+V : chia	1
+V : cho	1
+V : chui	1
+V : chuyển	1
+V : cháy	1
+V : chép	1
+V : chép miệng	1
+V : chú ý	1
+V : chấm dứt	1
+V : chập	1
+V : chịu	1
+V : chờ	1
+V : chữa	1
+V : cuốn	1
+V : cách	1
+V : cân	1
+V : còn	1
+V : có	11
+V : cảnh giác	3
+V : cất	1
+V : cần	1
+V : di động	3
+V : dùng	1
+V : dạy	1
+V : dập	1
+V : dắt	1
+V : dừng	1
+V : ghen tuông	1
+V : giao lưu	1
+V : giúp việc	2
+V : giải đáp	1
+V : giấu	1
+V : giật mình	1
+V : giống	1
+V : gặp	1
+V : gọi	10
+V : hiện	1
+V : hoài nghi	1
+V : hình thành	1
+V : hỏi	3
+V : hỏi dò	1
+V : im lặng	1
+V : khiến	2
+V : khoanh	2
+V : kêu	1
+V : la cà	1
+V : lao	1
+V : liệt kê	1
+V : là	19
+V : làm	4
+V : lưu	1
+V : lấy	4
+V : lắp	1
+V : mang	1
+V : mua	2
+V : móc	1
+V : mượn	1
+V : mất	1
+V : mời	1
+V : nghe	4
+V : nghi	1
+V : ngoại giao	1
+V : ngập ngừng	1
+V : ngờ	1
+V : ngủ	2
+V : nhấp nháy	1
+V : nhầm	2
+V : nhớ	1
+V : nhờ	1
+V : nói	9
+V : nộp	1
+V : phát hiện	1
+V : phải	6
+V : phục kích	1
+V : quan hệ	1
+V : quá	1
+V : quảng cáo	1
+V : ra	5
+V : reo	2
+V : sinh	1
+V : sửa	1
+V : thanh toán	1
+V : thay	1
+V : theo	1
+V : theo dõi	1
+V : thi hành	2
+V : thu	2
+V : thuộc	1
+V : thành	1
+V : thành công	1
+V : thêm	1
+V : thôi	1
+V : thưa	1
+V : thấy	4
+V : tiếp cận	1
+V : tiếp theo	3
+V : tra	1
+V : truy nhập	1
+V : trót	1
+V : trả	2
+V : trả lời	3
+V : tâm sự	1
+V : tìm	3
+V : tập	1
+V : tắm	2
+V : uống	1
+V : về	1
+V : xem	1
+V : xem lại	2
+V : xin	1
+V : xong	1
+V : xóa sổ	1
+V : Đợi	1
+V : đi	4
+V : đoán	1
+V : đàm thoại	1
+V : đánh	1
+V : đón	1
+V : đóng	1
+V : đăng ký	1
+V : được	2
+V : đến	2
+V : để	1
+V : đổ	1
+V : đứng	1
+V : ở	5
+X : hình như	1
+X : ngày một	1
+X : như thế nào	2
+X : như vậy	2
+X : vâng vâng dạ dạ	1

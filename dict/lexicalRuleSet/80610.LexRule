@@ -1,0 +1,473 @@
+! : !	3
+" : "	34
+, : ,	47
+- : -	10
+. : .	35
+... : ..	1
+... : ...	11
+/ : /	2
+: : :	6
+A : Nhiều	2
+A : Suốt	1
+A : béo tròn	1
+A : bất thường	1
+A : bằng	1
+A : cao hứng	1
+A : chúa chát	1
+A : chất phác	1
+A : chừng	2
+A : cong	1
+A : dài	2
+A : dĩ nhiên	1
+A : dịu	1
+A : gần	2
+A : hơn	1
+A : hấp dẫn	1
+A : hữu hiệu	1
+A : khó khăn	1
+A : khắp	1
+A : lâu	1
+A : lê thê	1
+A : lạc quan	1
+A : lộng lẫy	1
+A : mới	1
+A : nghèo	2
+A : ngập ngụa	1
+A : nhiều	6
+A : nặng	1
+A : nổi tiếng	2
+A : phổ biến	1
+A : quái lạ	1
+A : quí giá	1
+A : rối rít	1
+A : tiện nghi	1
+A : tràn ngập	1
+A : trẻ	2
+A : tươi rói	1
+A : xinh đẹp	1
+A : ùn ùn	1
+A : đôi	3
+A : đông	1
+A : đầu tiên	1
+A : đầy	1
+A : đặc biệt	1
+A : đẹp	1
+A : đủ	1
+C : Nhưng	1
+C : Tuy nhiên	2
+C : Và	4
+C : cho dù	2
+C : cho nên	1
+C : chả thế mà	1
+C : cùng	1
+C : lẫn	1
+C : mà	6
+C : như	1
+C : như thế này	1
+C : nhưng	2
+C : rồi	3
+C : thì	10
+C : thế là	1
+C : thế mà	1
+C : tức	1
+C : và	1
+C : với	1
+E : Ngoài	1
+E : Sau	1
+E : Vì	1
+E : bên	1
+E : bằng	3
+E : bởi	2
+E : cho	6
+E : của	11
+E : giữa	3
+E : lên	4
+E : ngoài	1
+E : trong	3
+E : trên	4
+E : trước	1
+E : tại	1
+E : từ	6
+E : vào	1
+E : về	1
+E : với	3
+E : Để	1
+E : đến	1
+E : để	7
+E : ở	12
+I : ơi	1
+L : Các	1
+L : Mấy	1
+L : Mỗi	1
+L : các	2
+L : mấy	3
+L : một	1
+L : những	4
+L : nửa	1
+L : vài	1
+L : ít nhất	1
+LBKT : LBKT	8
+M : 1	1
+M : 10	1
+M : 10 . 000	1
+M : 11 A	1
+M : 15	2
+M : 2 , 1	1
+M : 2 , 8 triệu	1
+M : 2,1 triệu	1
+M : 20	1
+M : 3,5	1
+M : 30	1
+M : 30 triệu	1
+M : 40	1
+M : 45	1
+M : 5	1
+M : 5 - 2005	1
+M : 5.000	1
+M : 500	1
+M : 7	1
+M : ba	1
+M : hai	1
+M : mỗi	1
+M : một	6
+M : đôi	3
+N : *T*	1
+N : Cận cảnh	1
+N : Dân	1
+N : Hình ảnh	1
+N : Học sinh	1
+N : Khi	1
+N : Nhân vật	1
+N : Trường	1
+N : anh	1
+N : buổi	1
+N : bà con	1
+N : bên	1
+N : bạn	2
+N : cao nguyên	3
+N : cha	1
+N : chiếc	1
+N : chị	1
+N : chỗ	2
+N : chợ	1
+N : chủ	1
+N : chứng minh	1
+N : con	1
+N : con người	1
+N : cuối	1
+N : cuộc sống	1
+N : cà phê	1
+N : cách	1
+N : câu thơ	1
+N : cô	1
+N : công cụ	1
+N : cửa	1
+N : du khách	2
+N : dân	1
+N : dưới	1
+N : dốc	2
+N : gia đình	3
+N : giá	2
+N : gió mây	1
+N : giới	1
+N : giờ	2
+N : hãng	2
+N : hình	1
+N : hình dáng	1
+N : hình thức	1
+N : hẻm	1
+N : họ	1
+N : học sinh	3
+N : học trò	5
+N : hồ	4
+N : khi	2
+N : khu vực	1
+N : khách sạn	3
+N : khối	1
+N : kinh tế	1
+N : kinh tế thị trường	1
+N : kiểu dáng	1
+N : lưng	1
+N : lần	1
+N : lớp	3
+N : lớp học	1
+N : mô hình	1
+N : mù sương	1
+N : mạng	2
+N : mắt	1
+N : mẹ	3
+N : mỡ	1
+N : ngoài	1
+N : nguồn	1
+N : ngày	2
+N : ngày xưa	1
+N : ngân hàng	1
+N : người	11
+N : người ta	1
+N : nhau	5
+N : nhà	6
+N : nhân dân	1
+N : nông dân	2
+N : núi	4
+N : năm	1
+N : nơi	1
+N : nữ sinh	1
+N : phòng	1
+N : phương tiện	1
+N : phố	4
+N : phố phường	2
+N : phụ nữ	1
+N : quanh	1
+N : quà	1
+N : quán	3
+N : sau	1
+N : sinh viên	2
+N : sáng	1
+N : sạp	1
+N : số	1
+N : số lượng	2
+N : sự kiện	1
+N : thiên hạ	3
+N : thành phố	2
+N : tháng	1
+N : thẻ	1
+N : thể thao	1
+N : thời buổi	1
+N : thời gian	1
+N : thứ	1
+N : tiền	1
+N : tiệm	3
+N : trên	2
+N : trò chơi	1
+N : trưa	1
+N : tuần	2
+N : tuổi	1
+N : tên	1
+N : tình yêu	2
+N : tờ rơi	1
+N : ven	1
+N : vòng	1
+N : vải	1
+N : vất vả	1
+N : vốn	1
+N : vợ chồng	1
+N : xe	19
+N : xe máy	4
+N : xe đạp	31
+N : áo dài	1
+N : ôtô	2
+N : ý muốn	1
+N : ý tưởng	1
+N : Địa chỉ	1
+N : điểm	5
+N : đô thị	1
+N : đường	2
+N : đầu	1
+N : đề can	1
+N : ảnh	1
+NP : *E*	6
+NP : *T*	1
+Nb : bida	1
+Nb : catalogue	1
+Nb : karaoke	1
+Nb : slogan	1
+Nc : Cô	1
+Nc : chiếc	20
+Nc : con	3
+Nc : cái	1
+Nc : cô	3
+Nc : căn	1
+Nc : loại	1
+Nc : ngôi	1
+Nc : người	1
+Nc : nụ	1
+Nc : thứ	1
+Nc : ông	1
+Np : Bùi Thị Xuân	2
+Np : HCM	1
+Np : Hằng	7
+Np : Martin	2
+Np : Mỹ	1
+Np : Phụng Hoàng	2
+Np : Sinh Café	1
+Np : Sài Gòn	1
+Np : Tây	2
+Np : Xuân Hương	2
+Np : Đà Lạt	11
+Np : Đỗ Hữu Khương	1
+Np : Đỗ Thị Thu Hằng	1
+Np : Đội Có	1
+Nu : g	1
+Nu : giờ	2
+Nu : kg	1
+Nu : m	1
+Nu : đồng	5
+Ny : THPT	1
+Ny : TP	2
+P : Cả	1
+P : Giờ đây	1
+P : ai	5
+P : bây giờ	1
+P : cả	2
+P : giờ đây	1
+P : họ	1
+P : mình	2
+P : nay	1
+P : người ta	1
+P : nào	1
+P : này	3
+P : thế	2
+P : tự	1
+P : đâu	1
+P : đó	7
+P : đấy	1
+R : Chỉ	1
+R : Cứ	1
+R : Không	2
+R : Thường	1
+R : bỗng dưng	1
+R : chưa	4
+R : chẳng	2
+R : chỉ	1
+R : càng	1
+R : còn	2
+R : cùng	1
+R : cũng	1
+R : cứ	2
+R : hơn	3
+R : không	6
+R : luôn	2
+R : lên	1
+R : lại	4
+R : mãi	1
+R : ra	1
+R : rất	2
+R : sẽ	3
+R : thêm	1
+R : thường	1
+R : vẫn	2
+R : vốn	1
+R : đang	1
+R : đi	1
+R : đã	2
+R : được	2
+RBKT : RBKT	8
+T : đến	1
+V : *E*	1
+V : *T*	1
+V : Có	2
+V : Giấu	1
+V : Lang thang	1
+V : biết	1
+V : bị	1
+V : bỏ	1
+V : cho	7
+V : chuyên trị	1
+V : chơi	1
+V : chạy	2
+V : chấp nhận	2
+V : chịu	1
+V : chụp	1
+V : coi	5
+V : còn	1
+V : có	5
+V : cười	1
+V : cưỡi	1
+V : cảm thấy	1
+V : cần	1
+V : cứu	1
+V : du nhập	1
+V : dành	1
+V : dám	3
+V : dựng	1
+V : ghiền	2
+V : giùm	1
+V : giải phóng	1
+V : giải tỏa	1
+V : gào	1
+V : gặp	1
+V : gọi	1
+V : hiểu	1
+V : hàn	1
+V : hết	1
+V : học	1
+V : in	2
+V : kháo	1
+V : khởi đầu	1
+V : kinh doanh	1
+V : kiếm	1
+V : kéo	3
+V : kể	1
+V : là	9
+V : làm	3
+V : làm việc	1
+V : lên	2
+V : lấy	5
+V : lắp ráp	1
+V : lữ hành	1
+V : mang	2
+V : mất	1
+V : mời	1
+V : mở mắt	1
+V : ngược	1
+V : ngồi	3
+V : nhìn	1
+V : nhảy	1
+V : nhậu	1
+V : nhờ	1
+V : nói	1
+V : phát	1
+V : phải	4
+V : quen	1
+V : quyết định	1
+V : quảng cáo	2
+V : ra	2
+V : ra đời	1
+V : so	1
+V : sản xuất	1
+V : sắm	3
+V : sợ	2
+V : theo	1
+V : thiết kế	1
+V : thu	1
+V : thuê	10
+V : thuộc	2
+V : thấy	4
+V : thế	1
+V : thế chân	1
+V : thế chấp	1
+V : tràn ngập	1
+V : trả	1
+V : trọ	1
+V : tìm	2
+V : tình nguyện	1
+V : tậu	1
+V : tới	1
+V : vay	1
+V : vi vu	1
+V : vào	1
+V : về	3
+V : xin	1
+V : xuất hiện	3
+V : xuống	1
+V : xác minh	1
+V : ăn	1
+V : đi	9
+V : đua	1
+V : đâm	1
+V : đóng	2
+V : đưa	4
+V : được	4
+V : đạp	11
+V : đến	1
+V : để ý	1
+V : đọc	1
+V : đốt	1
+V : đồng ý	1
+V : đụng	1
+V : ở	2
+Vb : Download	1
+Vb : chat	1
+X : làm gì	1
+X : như thế	1
+X : thay vì	1

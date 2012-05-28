@@ -1,0 +1,1595 @@
+<s>
+(S-TTL(NP(N-H Đường)
+                 (PP(E-H đến)
+                    (NP(N-H võ đài)
+(… ...)
+(LBKT LBKT)
+      (NP(N-H kỳ)(M 1))
+   (RBKT RBKT)
+(: :)
+(NP(L Những)(" ")(N-H giác đấu sĩ)(" ")))))
+(! !))
+
+
+
+
+</s>
+<s>
+(S 
+     (PP-SUB (E-H Trong)
+          (NP (L các) (N-H môn) (N võ thuật)
+               (PP 
+                    (PP (E-H từ)
+                         (NP 
+                              (NP (N-H Thiếu lâm))
+                              (, ,)
+                              (NP (Nb-H boxing))))
+                    (PP (E-H đến)
+                         (NP 
+                              (NP (Nb-H taekwondo))
+                              (, ,)
+                              (NP (Nb-H karate))
+                              (, ,)
+                              (NP (Nb-H judo))
+                              (... ...))))))
+     (VP (R có lẽ) (R không) (V-H có)
+          (NP-DOB (N-H môn) (N võ) (P nào)
+               (VP (V-H sánh) (R được)
+                    (PP 
+                         (PP (E-H với)
+                              (NP (Np-H Muay Thái)))
+                         (PP (E-H về)
+                              (NP (Nc-H sự) (A khốc liệt)))))))
+     (. .))
+
+</s>
+<s>
+(S (C Thậm chí)
+     (NP-SUB (R không) (A ít) (N-H người))
+     (PP-TMP (E-H sau)
+          (NP (N-H khi)
+               (VP 
+                    (VP (V-H xem)
+                         (VP (V-H đấu)
+                              (NP-DOB (Np-H Muay Thái))))
+                    (VP (V-H được)
+                         (VP (A tận mắt) (V-H chứng kiến)
+                              (SBAR 
+                                   (S 
+                                        (NP-SUB (L các) (N-H đấu sĩ))
+                                        (VP (V-H thượng đài)))))))))
+     (VP (R đã) (V-H thốt) (R lên) (: :)
+          (SBAR 
+               (S 
+                    (NP-SUB (P-H đó))
+                    (VP (V-H là)
+                         (NP (N-H môn) (N thể thao)
+                              (AP (A-H dã man) (A nhất)))))))
+     (! !))
+
+</s>
+<s>
+(S (C Nhưng)
+     (S 
+          (PP-LOC (E-H ở)
+               (NP (M một) (N-H góc độ) (A khác)))
+          (, ,)
+          (NP-SUB-1 (Np-H Muay Thái))
+          (VP (V-H thể hiện)
+               (NP-DOB (N-H trái tim)
+                    (AP (A-H quả cảm))
+                    (PP (E-H của)
+                         (NP (L các) (N-H đấu sĩ))))))
+     (, ,)
+     (C thậm chí)
+     (S (NP-SUB-1 *T*)
+          (VP (V-H chấp nhận)
+               (VP (V-H hy sinh)
+                    (PP-PRP 
+                         (PP (E-H vì)
+                              (NP (N-H danh dự)))
+                         (C và)
+                         (PP (P cả) (E-H vì) (... ...)
+                              (NP (N-H tiền)))))))
+     (! !))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Cuộc chiến))
+     (VP 
+          (VP (M một) (V-H mất))
+          (, ,)
+          (VP (M một) (V-H còn)))
+     (… ...))
+
+</s>
+<s>
+(S 
+     (NP-TMP (N-H Trưa)
+          (NP (N-H chủ nhật)
+               (NP (M một) (N-H ngày)
+                    (NP (N-H đầu) (N tháng) (M tư)))))
+     (, ,)
+     (NP-SUB (P-H chúng tôi))
+     (VP (V-H chen chúc)
+          (PP-LOC (E-H trong)
+               (NP (Nc-H dòng) (N người)
+                    (VP (V-H xô đẩy) (N nhau))))
+          (PP-MNR (E-H dưới)
+               (NP (Nc-H cơn) (V mưa)
+                    (AP (A-H trái mùa))
+                    (AP (A-H tầm tã))))
+          (PP-PRP (E-H để)
+               (VP (V-H vào)
+                    (VP (V-H dự khán)
+                         (NP-DOB (N-H cuộc) (V tỉ thí)
+                              (PP (E-H giữa)
+                                   (NP (L các) (N-H võ sĩ) (Np Muay Thái))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Sàn) (V đấu)
+          (NP (Np-H Muay Thai))
+          (NP (N-H Stadium) (M 7))
+          (PP-LOC (E-H tại)
+               (NP (N-H thủ đô) (Np Bangkok))
+               (, ,)
+               (NP (N-H Thái Lan))))
+     (VP 
+          (VP (V-H có)
+               (NP-DOB (N-H sức) (V chứa)
+                    (NP (A hơn) (M 2.000) (N-H người))))
+          (VP (V-H nằm)
+               (PP-LOC (E-H ở)
+                    (NP (N-H khu) (N công viên) (Np Chatuchak))))
+          (VP (R gần như) (R không) (V-H còn)
+               (NP-DOB (M một) (N-H chỗ) (A trống))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (Nb-H Stadium) (M 7))
+     (VP (V-H được)
+          (VP (V-H xem)
+               (SBAR (C là)
+                    (S 
+                         (NP-SUB (N-H sàn) (V ðấu))
+                         (AP-PRD (A-H nổi tiếng)
+                              (NP (N-H thứ) (M ba))
+                              (PP-LOC (E-H tại)
+                                   (NP (Np-H Bangkok)))
+                              (PP-TMP (E-H sau)
+                                   (NP (M hai) (N-H sàn)
+                                        (NP (Np-H Rajadamnoen) (C và) (Np-H Lumphini)))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (PP-LOC (E-H Tại)
+          (NP (P-H đây)))
+     (, ,)
+     (NP-SUB (N-H khán giả))
+     (VP (R từng) (V-H chứng kiến)
+          (NP-DOB (Nc-H cuộc) (V thăng hoa)
+               (PP (E-H của)
+                    (NP (N-H võ sĩ)
+                         (AP (A-H nổi tiếng))
+                         (NP (Np-H Somluck Khamsing) (- -)
+                              (SBAR 
+                                   (S 
+                                        (NP-SUB (N-H người))
+                                        (VP 
+                                             (VP (V-H xuất thân)
+                                                  (PP (E-H từ)
+                                                       (NP (N-H môn) (N võ)
+                                                            (NP (Np-H Muay Thái))))
+                                                  (PP-TMP (E-H trước)
+                                                       (NP (N-H khi)
+                                                            (VP (V-H chuyển) (V sang)
+                                                                 (VP (V-H đánh)
+                                                                      (NP-DOB (N-H quyền anh)))))))
+                                             (C và)
+                                             (VP (V-H mang) (V về)
+                                                  (PP-IOB (E-H cho)
+                                                       (NP (N-H thể thao) (Np Thái Lan)))
+                                                  (NP-DOB (Nc-H chiếc) (N huy chương) (N vàng)
+                                                       (AP (A-H đầu tiên))
+                                                       (PP-TMP (E-H trong)
+                                                            (NP (M một) (N-H kỳ)
+                                                                 (VP (V-H tranh) (N tài)
+                                                                      (NP (Np-H Olympic))
+                                                                      (PP-TMP (E-H ở)
+                                                                           (NP (N-H Thế vận hội) (Np Atlanta) (LBKT LBKT)
+                                                                                (NP-LOC (Np-H Mỹ))
+                                                                                (RBKT RBKT)))
+                                                                      (QP-TMP (M-H 1996)))))))))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (VP-SUB (V-H Xem)
+          (NP-DOB (Np-H Muay Thái))
+          (PP-LOC (E-H ở)
+               (NP (Np-H Thái Lan))))
+     (AP-PRD (R không) (A-H rẻ)
+          (NP (L-H chút) (P nào)))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Giá)
+          (NP (M một) (Nc-H chiếc) (N vé)
+               (NP (N-H hạng) (A trung bình))
+               (VP (V-H ngồi)
+                    (AP (A-H chót vót)
+                         (PP-LOC 
+                              (PP (E-H trên)
+                                   (AP (A-H cao)))
+                              (PP (E-H ở)
+                                   (NP (N-H sàn) (Np Rajadamnoen))))))))
+     (AP-PRD (R không) (A-H dưới)
+          (NP (M 1.500) (Nu-H baht) (LBKT LBKT)
+               (NP (A gần) (M 50) (Nu-H USD))
+               (RBKT RBKT)))
+     (. .))
+
+</s>
+<s>
+(S (C Nhưng)
+     (S 
+          (NP-SUB (N-H điều)
+               (AP (A-H đặc biệt)))
+          (VP (V-H là)
+               (NP (N-H Stadium) (M 7)
+                    (VP (R không) (V-H bán)
+                         (NP-DOB (N-H vé))))))
+     (C và)
+     (S 
+          (NP-SUB (N-H khán giả))
+          (VP (V-H vào)
+               (VP (V-H xem)
+                    (PP-MNR (E-H bằng)
+                         (NP (N-H giấy) (V mời))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (N-H Sàn) (V ðấu))
+          (VP (V-H tồn tại)
+               (VP-MNR (V-H nhờ)
+                    (PP (E-H vào)
+                         (NP (N-H tiền)
+                              (VP (V-H bán)
+                                   (NP-DOB (N-H bản quyền) (N truyền hình)
+                                        (VP (V-H phát) (R ði)
+                                             (PP-LOC (E-H trên)
+                                                  (NP (N-H toàn cầu)))))))))))
+     (, ,)
+     (C mà)
+     (S 
+          (NP-SUB (N-H tiền)
+               (VP (V-H thu) (V về)))
+          (VP (V-H lên)
+               (NP-DOB (T ðến) (L vài) (M triệu) (Nu-H baht))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-TMP (L Mỗi) (N-H tháng)
+          (NP-EXT (M bốn) (N-H lần)))
+     (, ,)
+     (PP-TMP (R cứ) (E-H vào)
+          (NP (L các) (N-H chiều) (N chủ nhật)))
+     (, ,)
+     (NP-SUB (Np-H Stadium) (M 7))
+     (VP (V-H tổ chức)
+          (NP-DOB (M sáu) (N-H trận) (V ðấu)
+               (PP-MNR (E-H với)
+                    (NP (Nc-H sự) (V tham dự)
+                         (PP (E-H của)
+                              (NP (L những) (N-H ðấu sĩ)
+                                   (AP (A-H chuyên nghiệp))
+                                   (PP (E-H ở)
+                                        (AP (A-H ðủ)
+                                             (NP (N-H lứa) (N tuổi))))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (VP-MNR (V-H Tùy)
+          (PP (E-H theo)
+               (NP (N-H mức độ)
+                    (AP (A-H nổi tiếng)))))
+     (, ,)
+     (C nhưng)
+     (NP-TMP (N-H khi)
+          (VP (V-H thượng đài)))
+     (NP-SUB (L mỗi) (N-H đấu sĩ))
+     (VP (R thường) (V-H nhận) (R được)
+          (AP (A-H trung bình)
+               (NP (A khoảng) (M 12.000) (Nu-H baht) (LBKT LBKT)
+                    (NP (M 300) (Nu-H USD))
+                    (RBKT RBKT))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (SBAR-PRP (C Nếu)
+          (S-CND (NP-SUB-1 *T*) (V-H thắng)
+               (NP-DOB (N-H cuộc))))
+     (, ,)
+     (S 
+          (NP-SUB-1 (P-H họ))
+          (VP (R có thể) (V-H nhận) (R ðược)
+               (VP (V-H thêm)
+                    (NP-DOB (M 8 . 000) (- -) (M 12 . 000) (Nu-H baht)))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (A Gần) (M một) (Nu-H giờ) (R nữa))
+          (VP (R mới) (V-H ðến)
+               (NP-DOB (N-H trận) (V khai mạc))))
+     (C mà)
+     (S 
+          (NP-SUB (N-H khán ðài))
+          (AP-PRD 
+               (AP (R ðã) (A-H chật cứng)
+                    (NP (N-H ngýời)))
+               (C với)
+               (AP (A-H ðủ)
+                    (NP (N-H loại)
+                         (NP (N-H âm thanh) (A tạp nham)
+                              (VP (V-H pha trộn)
+                                   (PP (E-H giữa)
+                                        (NP (N-H tiếng) (V la hét)
+                                             (PP (E-H của)
+                                                  (NP (N-H khán giả))))
+                                        (, ,)
+                                        (NP 
+                                             (NP (N-H tiếng) (N kèn trống))
+                                             (, ,)
+                                             (NP (N-H tiếng)
+                                                  (NP (N-H loa) (V phóng thanh)))
+                                             (PP (E-H của)
+                                                  (NP (L những) (N-H nhà) (V tổ chức)))))))))))
+     (... ...))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (N-H Khán đài))
+          (AP-PRD (A-H chật ních)
+               (NP (N-H người))))
+     (, ,)
+     (S 
+          (AP-SUB (A-H nổi bật) (R nhất))
+          (VP (V-H là)
+               (NP (L những) (N-H tay) (N cò)
+                    (VP 
+                         (VP (V-H cá cược))
+                         (VP (V-H la hét)
+                              (AP (A-H ỏm tỏi)))))))
+     (, ,)
+     (S 
+          (AP-SUB (R không) (A-H khó))
+          (VP (V-H nhận) (R ra)
+               (NP-DOB (Nc-H sự) (V có mặt)
+                    (PP (E-H của)
+                         (NP (" ") (N-H cò) (" "))))
+               (SBAR-PRP (E-H vì)
+                    (S 
+                         (PP-SUB (E-H trên)
+                              (NP (N-H tay) (P họ)))
+                         (VP (R luôn) (V-H cầm)
+                              (NP-DOB (M một) (Nc-H tấm) (N bìa)
+                                   (AP (A-H cứng))
+                                   (VP (V-H dán)
+                                        (PP-LOC (E-H trên)
+                                             (NP (P-H ðó)))
+                                        (NP (M 2) (- -) (M 3) (Nc-H chiếc) (N máy) (N ðiện thoại di ðộng))
+                                        (C hoặc)
+                                        (NP (N-H máy) (N bộ ðàm)))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (P-H Đây))
+          (VP (V-H là)
+               (NP (L các) (" ") (N-H cò) (" ")
+                    (AP (A-H chuyên)
+                         (VP (V-H týờng thuật)
+                              (PP-DIR 
+                                   (PP-LOC (E-H từ)
+                                        (NP (N-H sàn) (V ðấu)))
+                                   (PP (E-H về) (E cho)
+                                        (SBAR 
+                                             (S 
+                                                  (NP-SUB (L các) (Nc-H ông) (N trùm))
+                                                  (VP (V-H ngồi)
+                                                       (NP-LOC (N-H nhà))))))
+                                   (PP-MNR (E-H qua)
+                                        (NP 
+                                             (NP (N-H ðiện thoại di ðộng))
+                                             (C hoặc)
+                                             (NP (N-H bộ ðàm))))))))))
+     (, ,)
+     (S 
+          (NP-SUB (L các) (" ") (N-H cò) (" ") (P này))
+          (VP (V-H là)
+               (NP (L những) (N-H người)
+                    (VP (V-H có)
+                         (NP-DOB (N-H kiến thức)
+                              (AP 
+                                   (AP (R cực kỳ) (A-H nhạy bén)
+                                        (PP (E-H về)
+                                             (NP (Np-H Muay Thái))))
+                                   (, ,)
+                                   (AP (R thậm chí) (A-H hơn)
+                                        (NP (T cả) (L các) (N-H trọng tài)
+                                             (VP (V-H chấm)
+                                                  (NP-DOB (N-H điểm)))
+                                             (NP (N-H trận) (V đấu))))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (M Ðôi) (N-H mắt) (P họ))
+          (VP (R luôn) (V-H dán)
+               (AP (A-H chặt))
+               (PP-LOC (E-H lên)
+                    (NP (N-H sàn)))
+               (VP-PRP (V-H theo dõi)
+                    (NP-DOB (N-H diễn biến)
+                         (NP (N-H trận) (V ðấu))))))
+     (, ,)
+     (C ðồng thời)
+     (S 
+          (NP-SUB (N-H miệng))
+          (VP (A liên tục) (V-H áp) (A sát)
+               (PP-LOC (E-H vào)
+                    (NP (N-H loa) (N ðiện thoại)))
+               (PP-PRP (E-H ðể)
+                    (VP (" ") (V-H ðọc) (" ")
+                         (NP-DOB (N-H trận) (V ðấu))
+                         (PP (E-H về) (E cho)
+                              (NP (" ") (N-H ông) (N chủ) (" ")))))))
+     (C và)
+     (S 
+          (NP-SUB (L các) (N-H kèo))
+          (VP (V-H ðược) (R ra) (C không chỉ)
+               (PP-LOC (E-H trong)
+                    (NP (N-H phạm vi) (N nội ðịa)
+                         (NP (N-H nýớc) (Np Thái))))
+               (C mà còn)
+               (AP-LOC (A-H khắp)
+                    (NP (N-H thế giới)))))
+     (, ,)
+     (S 
+          (NP-SUB (L các) (" ") (Nc-H ông) (N chủ) (" "))
+          (VP 
+               (VP (R sẽ) (V-H ðưa) (R ra)
+                    (NP-DOB (N-H kèo) (A mới)))
+               (, ,)
+               (VP (V-H báo giá)
+                    (SBAR-PRP (E-H ðể)
+                         (S 
+                              (NP-SUB (L các) (N-H con bạc))
+                              (VP (V-H sát phạt)
+                                   (AP (A-H ðỏ ðen))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-TMP (M 13) (Nu-H g) (M 30))
+     (, ,)
+     (NP-SUB (L những) (Nc-H tờ) (N bướm)
+          (VP (V-H công bố)
+               (SBAR 
+                    (S 
+                         (NP-SUB (M sáu) (N-H cặp) (V đấu))
+                         (VP (R sẽ) (V-H diễn) (R ra) (PP-TMPE-H trong)
+                              (NP (N-H ngày)))))))
+     (VP (V-H được)
+          (VP (V-H phát) (R ra)))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S-SUB 
+          (NP-SUB (R Hàng) (M trăm) (N-H cánh tay))
+          (VP (A vội vã) (V-H chìa) (R ra)
+               (VP-PRP (V-H xin)
+                    (NP-DOB (N-H tờ rơi)))))
+     (VP (V-H khiến)
+          (SBAR 
+               (S 
+                    (NP-SUB (N-H sàn) (V đấu))
+                    (VP (R càng) (V-H trở nên)
+                         (AP (A-H náo nhiệt) (R hơn))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Trận) (V đấu)
+          (AP (A-H đầu tiên))
+          (PP (E-H giữa)
+               (NP (M hai) (N-H võ sĩ)
+                    (AP (A-H cùng)
+                         (NP (M 15) (N-H tuổi)))
+                    (C là)
+                    (NP 
+                         (NP (Np-H Kaymarn Sor Ubdul)
+                              (VP (V-H mang)
+                                   (NP (N-H biệt danh)
+                                        (NP (" ") (N-H cọp) (A dữ) (" ")))))
+                         (C và)
+                         (NP (Np-H Kwanjai Kieatprapat)
+                              (VP (V-H có)
+                                   (NP-DOB (N-H biệt danh)
+                                        (NP (" ") (N-H rắn)
+                                             (VP (V-H lì) (N đòn))
+                                             (" ")))))))))
+     (VP (R đã) (V-H được)
+          (VP (V-H tung) (R ra)))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (" ") (N-H Cọp) (A dữ) (" ")
+          (NP (Np-H Kaymarn Sor Ubdul)))
+     (VP 
+          (VP (R chưa) (T hề) (V-H nếm)
+               (NP-DOB (N-H mùi) (V thất bại))
+               (PP-TMP (E-H sau)
+                    (NP-EXT (M 15) (N-H lần)
+                         (VP (V-H thượng đài)))))
+          (, ,)
+          (C đồng thời)
+          (VP (V-H được)
+               (VP (V-H xem) (C là)
+                    (NP-DOB (N-H tay) (V đấm)
+                         (NP (N-H thiếu niên))
+                         (AP (A-H xuất sắc) (R nhất))
+                         (PP (E-H của)
+                              (NP (Np-H Thái Lan))))))
+          (VP (V-H mặc)
+               (NP-DOB (N-H quần) (A xanh)))
+          (VP (V-H được)
+               (VP (V-H xếp)
+                    (PP-LOC (E-H ở)
+                         (NP (N-H cửa) (A trên))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB 
+          (NP (" ") (N-H Rắn)
+               (AP (A-H lì) (N đòn))
+               (" "))
+          (NP (Np-H Kwanjai Kieatprapat)))
+     (VP 
+          (VP (V-H mặc)
+               (NP-DOB (N-H quần) (A đỏ)))
+          (VP (V-H bị)
+               (VP (V-H xếp)
+                    (PP-LOC (E-H ở)
+                         (NP (N-H cửa) (A dưới))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (P Cả) (N-H sàn) (V đấu))
+     (VP (V-H vang)
+          (AP (A-H rền))
+          (NP-DOB (N-H tiếng) (V hô)
+               (NP 
+                    (NP (" ") (Np-H Ubdul) (... ...) (Np-H Ubdul) (... ...) (" ")))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-TMP (N-H Hôm nay))
+     (, ,)
+     (NP-SUB (L các) (N-H con bạc))
+     (VP 
+          (VP (R đã) (V-H trút) (A cạn)
+               (NP-DOB (N-H hầu bao)))
+          (VP (V-H đặt)
+               (PP-LOC (E-H vào)
+                    (NP (N-H cửa)
+                         (NP (" ") (N-H cọp) (A dữ) (" "))
+                         (NP (Np-H Ubdul))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (AP-TMP (A-H Đúng)
+          (NP (M 13) (Nu-H g) (M 45)))
+     (, ,)
+     (NP-SUB (N-H tiếng) (N nhạc)
+          (AP (A-H truyền thống))
+          (XP (" ") (X-H ò e í e) (... ...) (" ")))
+     (VP (V-H tấu) (R lên))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB 
+          (NP (" ") (N-H Cọp) (A dữ) (" "))
+          (C và)
+          (NP (" ") (N-H rắn)
+               (AP (A-H lì) (N đòn))
+               (" ")))
+     (VP (V-H bắt đầu)
+          (VP (V-H thực hiện)
+               (NP-DOB (N-H nghi thức) (V múa)
+                    (NP (N-H truyền thống))
+                    (NP (Np-H Wai-kru)))
+               (, ,)
+               (VP-PRP (V-H bày tỏ)
+                    (NP-DOB (Nc-H sự) (V tôn kính)
+                         (PP (E-H đối với)
+                              (NP (N-H thầy) (P mình)))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (" ") (Np-H Wai-kru) (" "))
+     (VP (R cũng) (V-H là)
+          (NP (N-H cách)
+               (PP-PRP (E-H để)
+                    (VP 
+                         (VP (V-H tạo) (R ra)
+                              (NP-DOB (N-H sức mạnh) (N tinh thần)))
+                         (, ,)
+                         (VP (V-H giúp)
+                              (NP-DOB (N-H đấu sĩ)
+                                   (VP (V-H thư giãn) (, ,) (V-H chuẩn bị)
+                                        (PP-IOB (E-H cho)
+                                             (NP (N-H cơ thể) (C và) (N-H tinh thần)))
+                                        (PP-TMP (E-H trước)
+                                             (NP (N-H khi)
+                                                  (VP (V-H nhập cuộc)))))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (Np-H Ubdul) (C và) (Np-H Kieatprapat))
+     (VP (V-H chơi)
+          (AP (A-H ngang ngửa)
+               (PP-TMP (E-H trong)
+                    (NP (M hai) (N-H hiệp) (V đấu)
+                         (AP (A-H đầu tiên))))))
+     (. .))
+
+</s>
+<s>
+(S (C Nhưng)
+     (VP-TMP (V-H bước) (V sang)
+          (NP (N-H hiệp) (N thứ) (M ba)))
+     (, ,)
+     (NP-SUB (" ") (N-H rắn)
+          (AP (A-H lì) (N đòn))
+          (" ")
+          (NP (Np-H Kieatprapat)))
+     (VP (R đã) (V-H bộc lộ)
+          (NP-DOB (Nc-H sự) (A đuối) (N sức)))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (M Đôi) (N-H mắt)
+               (AP (A-H sáng))
+               (, ,)
+               (AP (A-H lầm lì))
+               (PP (E-H của)
+                    (NP (N-H anh))))
+          (VP (R đã) (V-H biến) (T mất)))
+     (, ,)
+     (S 
+          (VP-SUB (V-H thay)
+               (PP (E-H vào)
+                    (NP (P-H đó))))
+          (VP (V-H là)
+               (NP (Nc-H nỗi) (V tuyệt vọng)
+                    (NP-TMP (N-H khi)
+                         (SBAR 
+                              (S (NP-SUB *E*)
+                                   (VP (A liên tiếp) (V-H trúng)
+                                        (NP-EXT (M ba) (N-H đòn)
+                                             (VP (V-H đá) (V bạt)
+                                                  (AP (A-H hiểm ác))
+                                                  (PP-LOC (E-H vào)
+                                                       (PP (E-H giữa)
+                                                            (NP (N-H mặt)))))))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (PP-TMP (R Liền) (E-H sau)
+          (NP (P-H đó)))
+     (NP-SUB (M hai) (N-H cú)
+          (VP (V-H dậm) (V chỏ))
+          (PP (E-H của)
+               (NP (" ") (N-H cọp) (A dữ) (" ")))
+          (PP-LOC (E-H từ)
+               (NP (N-H trên) (A cao))))
+     (VP (V-H khiến)
+          (SBAR 
+               (S 
+                    (NP-SUB (" ") (N-H rắn)
+                         (AP (A-H lì) (N đòn))
+                         (" "))
+                    (VP (V-H ngã)
+                         (VP (V-H vật) (R ra)
+                              (PP-LOC (E-H giữa)
+                                   (NP (N-H sàn))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (Nc-H Đám) (A đông))
+          (VP (V-H hô)
+               (AP (A-H to))
+               (NP-DOB (" ") (Np-H Ubdul) (... ...) (Np-H Ubdul) (... ...) (" "))))
+     (, ,)
+     (C nhưng)
+     (S 
+          (NP-SUB (N-H tiếng) (N chuông)
+               (VP (V-H báo)
+                    (VP (V-H hết)
+                         (NP-DOB (N-H hiệp)))))
+          (VP (A kịp) (V-H cứu)
+               (NP-DOB (" ") (N-H rắn)
+                    (AP (A-H lì) (N đòn))
+                    (" "))
+               (VP (V-H khỏi)
+                    (VP (V-H bị)
+                         (VP (Vb-H knock-out))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S (C Nhưng)
+          (NP-SUB (P-H đó))
+          (VP (V-H là)
+               (NP (N-H khoảnh khắc)
+                    (VP (V-H gượng) (V dậy))
+                    (AP (A-H cuối cùng)))))
+     (, ,)
+     (S 
+          (NP-SUB (N-H tiếng) (N kèn)
+               (NP (Np--H Wai-kru)))
+          (VP (V-H nghe)
+               (AP (A-H giống)
+                    (NP (N-H tiếng) (N kèn)
+                         (NP (N-H đám ma))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-TMP (T Ngay) (N-H phút) (A đầu tiên)
+               (PP (E-H của)
+                    (NP (N-H hiệp)
+                         (NP (N-H thứ) (M tư)))))
+          (, ,)
+          (NP-SUB (" ") (N-H rắn)
+               (AP (A-H lì) (N đòn))
+               (" "))
+          (VP (R đã) (V-H nhận)
+               (NP-DOB (M bốn) (N-H cú)
+                    (VP-LOC (V-H lên)
+                         (NP-DOB (N-H gối)))
+                    (VP (V-H trúng)
+                         (NP-LOC (N-H ngực) (C và) (N-H mặt))))))
+     (, ,)
+     (S 
+          (NP-TMP (N-H khi)
+               (SBAR 
+                    (S 
+                         (NP-SUB (N-H anh))
+                         (AP-PRD (R còn) (R đang) (A-H loạng choạng)))))
+          (C thì)
+          (NP-SUB (" ") (N-H cọp)
+               (AP (A-H dữ))
+               (" ")
+               (NP (Np-H Ubdul)))
+          (VP 
+               (VP (R đã) (V-H lao) (V tới))
+               (, ,)
+               (VP (V-H bay)
+                    (NP-DOB (N-H người))
+                    (VP (V-H lên)
+                         (NP-LOC (N-H không trung))))
+               (VP (V-H dùng) (R hết)
+                    (NP-DOB (N-H lực)))
+               (VP (V-H cắm) (R tiếp)
+                    (NP-DOB (M hai) (Nc-H cú) (N chỏ))
+                    (PP-LOC (E-H vào)
+                         (NP (N-H đỉnh) (N đầu)
+                              (NP (N-H đối phương)))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB 
+          (NP (" ") (N-H Rắn)
+               (AP (A-H lì) (N đòn))
+               (" "))
+          (NP (Np-H Kieatprapat)))
+     (VP (V-H đổ) (V sụp)
+          (VP (V-H xuống)
+               (NP-LOC (N-H sàn) (V đấu)))
+          (C như)
+          (NP-DOB (M một) (Nc-H ngôi) (N nhà)
+               (VP 
+                    (VP (V-H sụp)
+                         (NP-DOB (N-H móng)))
+                    (VP (V-H vỡ)
+                         (AP (A-H vụn))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Trọng tài))
+     (VP 
+          (VP (R ngay lập tức) (V-H kéo)
+               (NP-DOB 
+                    (NP (N-H cọp) (A dữ))
+                    (NP (Np-H Ubdul)))
+               (R ra))
+          (C và)
+          (VP (V-H tuyên bố)
+               (SBAR 
+                    (S 
+                         (NP-SUB (N-H anh))
+                         (VP (V-H thắng)
+                              (VP (Vb-H knock-out)))))))
+     (! !))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (P Cả) (N-H khán phòng))
+          (C như)
+          (VP (V-H bùng nổ) (, ,)
+               (NP-DOB (N-H tiếng)
+                    (VP (V-H reo hò) (, ,) (V-H tung hô)))
+               (, ,)
+               (PP-TMP (E-H trong)
+                    (NP (N-H khi)
+                         (SBAR 
+                              (S 
+                                   (NP-SUB (" ") (N-H rắn)
+                                        (AP (A-H lì) (N đòn))
+                                        (" "))
+                                   (VP (R vẫn) (V-H nằm)
+                                        (AP (A-H bất tỉnh))
+                                        (PP-LOC (E-H giữa)
+                                             (NP (N-H sàn) (V đấu))))))))))
+     (, ,)
+     (S 
+          (NP-SUB (R chẳng) (P-H ai))
+          (VP (V-H ngó ngàng) (R gì)
+               (PP (E-H đến)
+                    (NP (N-H anh)))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (P-H Chúng tôi))
+          (VP (R còn) (R chưa) (V-H hoàn hồn)
+               (NP-TMP (N-H khi)
+                    (VP (V-H thấy)
+                         (SBAR 
+                              (S 
+                                   (NP-SUB (N-H bộ phận) (N y tế))
+                                   (VP (V-H lên)
+                                        (VP-PRP (V-H khiêng)
+                                             (NP-DOB (" ") (N-H rắn)
+                                                  (AP (A-H lì) (N đòn))
+                                                  (" "))
+                                             (R xuống)))))))))
+     (C thì)
+     (S 
+          (NP-SUB (M cặp) (N-H đấu sĩ)
+               (NP (M 18) (N-H tuổi))
+               (NP (Np-H Thanasak Sithuhubol) (C và) (Np-H Sathandej Skindeoymp)))
+          (VP (V-H xuất hiện)))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (N-H Trận) (V đấu) (P này))
+          (VP (V-H dự kiến)
+               (VP (V-H diễn) (R ra)
+                    (PP-EXT (E-H trong)
+                         (NP (M sáu) (N-H hiệp))))))
+     (, ,)
+     (C nhưng)
+     (S 
+          (VP-TMP (R mới) (V-H được)
+               (NP (M ba) (N-H hiệp)))
+          (C thì)
+          (NP-SUB (N-H đấu sĩ)
+               (NP (N-H quần) (A đỏ))
+               (NP (Np-H Skindeoymp)))
+          (VP 
+               (VP (R đã) (V-H trúng) (R liền)
+                    (NP-DOB 
+                         (NP (M ba) (N-H đòn) (V đá)
+                              (PP-LOC (E-H giữa)
+                                   (NP (N-H mặt))))
+                         (C và)
+                         (NP (M một) (N-H đòn) (N chỏ)
+                              (PP-LOC (E-H vào)
+                                   (NP (N-H ót))))))
+               (VP (V-H ngã) (V lăn) (R ra)
+                    (NP-LOC (N-H sàn))
+                    (AP-PRD (A-H bất tỉnh))))
+          (, ,)
+          (SBAR-PRD 
+               (S 
+                    (NP-SUB (N-H máu))
+                    (VP (V-H phún)
+                         (AP (A-H đầy)
+                              (NP-LOC (N-H nơi)
+                                   (NP (N-H khóe) (N miệng))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Khán đài))
+     (VP (R lại) (V-H hô)
+          (VP (V-H vang))
+          (PP (E-H trước)
+               (NP (Nc-H sự) (V gục) (V ngã)
+                    (PP (E-H của)
+                         (NP (Np-H Skindeoymp))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (S 
+          (VP-MNR (V-H Cố gắng) (R lắm))
+          (NP-SUB (P-H chúng tôi))
+          (VP (R mới) (V-H xem) (T hết)
+               (NP-DOB (N-H trận)
+                    (NP (N-H thứ ) (M ba)))))
+     (, ,)
+     (S 
+          (NP-SUB (N-H cậu) (Ny SV)
+               (NP (Ny-H VN))
+               (NP (N-H tên)
+                    (NP (Np-H Nguyễn Hữu Hạnh)))
+               (- -)
+               (VP 
+                    (VP (R đang) (V-H theo)
+                         (VP (V-H học)
+                              (NP-DOB (N-H khoa) (Nb markerting))
+                              (PP-LOC (E-H ở)
+                                   (NP (N-H Trường)
+                                        (NP (N-H Đại học) (Ny ABAC))))))
+                    (- -)
+                    (VP (V-H đi) (A cùng))))
+          (VP (R đã) (V-H kéo)
+               (NP-DOB (P-H chúng tôi)
+                    (VP (V-H khỏi)
+                         (NP-LOC (N-H đấu trường))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (P-H Chúng tôi))
+     (VP (R rất) (V-H ngạc nhiên)
+          (SBAR-PRP (E-H vì)
+               (S 
+                    (S 
+                         (NP-SUB (Np-H Hữu Hạnh))
+                         (VP (R đã) (V-H ở)
+                              (NP-LOC (Np-H Bangkok))
+                              (NP-TMP (A hơn) (M hai) (N-H năm))))
+                    (C và)
+                    (S 
+                         (NP-TMP (N-H ban đầu))
+                         (NP-SUB (N-H anh))
+                         (VP (V-H tỏ) (R ra)
+                              (AP (R rất) (A-H háo hức)
+                                   (NP-TMP (N-H khi)
+                                        (VP (V-H được)
+                                             (VP (V-H đến)
+                                                  (NP-LOC (N-H đấu trường)))))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (Np-H Hạnh))
+     (VP (V-H nói)
+          (PP (E-H trong)
+               (NP (N-H hơi) (V thở)
+                    (AP (A-H gấp))))
+          (: :)
+          (SBAR 
+               (S 
+                    (NP-SUB (P-H Tôi))
+                    (VP (R đã) (V-H hiểu)
+                         (SBAR 
+                              (S 
+                                   (XP (X-H vì sao))
+                                   (NP-SUB (L các) (N-H bạn)
+                                        (NP (Ny-H SV) (Np Thái))
+                                        (AP (A-H cùng)
+                                             (NP (N-H trường))))
+                                   (VP (V-H khuyên)
+                                        (VP (R không) (V-H nên)
+                                             (VP (V-H đi) (V xem)
+                                                  (NP (Np-H Muay Thái))))))))))
+          (, ,)
+          (VP (V-H ép)
+               (NP-DOB (N-H tim))
+               (R quá)))
+     (! !))
+
+</s>
+<s>
+(S-TTL (" ")
+     (NP (Nc-H Chiếc) (N quan tài)
+          (PP-LOC (E-H bên)
+               (NP (N-H sàn) (V đấu))))
+     (! !)
+     (? ?)
+     (" "))
+
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (N-H Muay Thái))
+          (VP 
+               (VP (V-H ra đời)
+                    (VP-TMP (V-H cách)
+                         (NP-DOB (P-H đây)
+                              (NP (A hơn) (M 700) (N-H năm)))))
+               (C và)
+               (VP (V-H được)
+                    (VP (V-H hình thành)
+                         (PP-PRP (E-H bởi)
+                              (NP (L những) (N-H cuộc chiến)
+                                   (VP (V-H chống) (R lại)
+                                        (NP-DOB (L những) (N-H đạo quân)
+                                             (VP (V-H xâm lăng))))))))))
+     (, ,)
+     (S 
+          (NP-SUB (P-H đó))
+          (VP (V-H là)
+               (NP (N-H tập hợp)
+                    (NP (L những) (N-H thế) (V cận chiến)
+                         (PP (E-H của)
+                              (NP (L các) (N-H chiến binh)
+                                   (PP-LOC (E-H trên)
+                                        (NP (N-H chiến trường)))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (Nc-H Ông) (Np Sampong) (, ,)
+          (NP (M một) (N-H người)
+               (VP (V-H am hiểu)
+                    (NP-DOB (N-H lịch sử)
+                         (NP (Np-H Muay Thái))))))
+     (, ,)
+     (VP (V-H cho) (V biết) (: :)
+          (SBAR 
+               (S 
+                    (NP-SUB (Np-H Muay Thái))
+                    (NP-TMP (N-H ngày xưa))
+                    (AP-PRD (A-H dã man) (R hơn) (A nhiều)))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Đấu sĩ))
+     (VP (V-H được) (N phép)
+          (VP (V-H sử dụng)
+               (NP-DOB 
+                    (NP (L mọi) (N-H đòn) (N thế))
+                    (, ,)
+                    (C kể cả)
+                    (NP (N-H việc)
+                         (VP (V-H đá)
+                              (PP-LOC (E-H vào)
+                                   (NP (N-H hạ bộ) (N đối phương))))))
+               (C và)
+               (VP (V-H quấn)
+                    (NP-DOB (N-H băng) (N tay)
+                         (VP-PRP 
+                              (VP (V-H nhúng)
+                                   (NP (N-H keo)))
+                              (VP (V-H trộn)
+                                   (NP (Nc-H miểng) (N thủy tinh)))
+                              (PP-PRP (E-H để)
+                                   (VP (V-H tăng)
+                                        (NP-DOB (N-H tính)
+                                             (VP (V-H sát thương)))))
+                              (NP-TMP (N-H khi)
+                                   (VP (V-H ra)
+                                        (NP-DOB (N-H đòn)))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (S 
+          (VP-TMP (V-H Cách)
+               (NP (P-H đây)
+                    (NP (L vài) (M chục) (N-H năm))))
+          (, ,)
+          (NP-SUB (L những) (N-H trận) (V đánh)
+               (NP (Np-H Muay Thái))
+               (AP (A-H chuyên nghiệp)))
+          (VP (R thường) (V-H đặt) (R sẵn)
+               (NP-DOB (M một) (Nc-H cỗ) (N quan tài)
+                    (NP-LOC (N-H cạnh)
+                         (NP (N-H đài))))))
+     (, ,)
+     (S 
+          (NP-SUB (M hai) (N-H giác đấu sĩ))
+          (VP (V-H được)
+               (VP (V-H đưa)
+                    (PP-LOC (E-H vào)
+                         (NP (N-H sàn) (V đấu)))
+                    (VP (V-H là)
+                         (NP (Nc-H chiếc) (N lồng) (N sắt))))))
+     (, ,)
+     (S 
+          (NP-SUB (N-H trận) (V đấu))
+          (VP 
+               (VP (R sẽ) (R không) (V-H có)
+                    (NP-DOB (N-H chuyện)
+                         (SBAR 
+                              (S 
+                                   (NP-SUB (P cả) (M-H hai))
+                                   (AP-PRD (A-H cùng)
+                                        (VP (V-H bước) (R ra)
+                                             (VP (V-H khỏi)
+                                                  (NP-DOB (N-H lồng)))))))))
+               (C mà)
+               (VP (R chỉ) (V-H có)
+                    (QP-DOB (M-H một) (- -)
+                         (VP (V-H là)
+                              (NP (N-H người) (V chiến thắng)))))))
+     (, ,)
+     (C còn)
+     (S 
+          (NP-SUB (N-H kẻ)
+               (VP (V-H bại trận)))
+          (VP (R đã) (V-H có) (R sẵn)
+               (NP-DOB (Nc-H cỗ) (N quan tài)
+                    (VP (V-H dành)
+                         (PP-IOB (E-H cho)
+                              (NP (P-H mình)))))))
+     (! !)
+     (. .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-TMP (N-H Ngày nay))
+          (NP-SUB (Np-H Muay Thái))
+          (VP (V-H cấm)
+               (AP (A tuyệt đối))
+               (NP-DOB (N-H đòn)
+                    (AP (A-H dã man))
+                    (VP (R có thể) (V-H dẫn) (R đến)
+                         (VP (V-H thiệt mạng))))))
+     (, ,)
+     (C nhưng)
+     (S 
+          (NP-SUB (N-H người) (V xem))
+          (VP (R vẫn) (V-H ớn) (A lạnh)
+               (NP-TMP (N-H khi)
+                    (VP (V-H chứng kiến)
+                         (NP-DOB 
+                              (NP (L những) (Nc-H cú) (V đá)
+                                   (VP (V-H ra) (N đòn)
+                                        (VP (V-H quyết định))))
+                              (, ,)
+                              (C nhất là)
+                              (NP (Nc-H cú)
+                                   (VP (V-H cắm)
+                                        (NP-DOB (M hai) (N-H cùi chỏ))
+                                        (PP-LOC (E-H vào)
+                                             (NP (N-H đỉnh) (N đầu)
+                                                  (NP (N-H đối phương)))))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-SUB (Nc-H Ông) (Np Sampong))
+     (VP (V-H cho) (V biết) (: :)
+          (SBAR-PRP (E-H vì)
+               (S 
+                    (NP-SUB (N-H tính chất)
+                         (VP (V-H đối kháng)
+                              (AP (A-H tự do)))
+                         (VP (V-H cho phép)
+                              (NP-DOB (L các) (N-H võ sĩ))
+                              (VP (V-H sử dụng)
+                                   (NP-DOB (A nhiều) (N-H bộ phận)
+                                        (PP-LOC (E-H trên)
+                                             (NP (N-H cơ thể)))))
+                              (VP (V-H ra)
+                                   (NP-DOB (N-H đòn) (V đánh)))))
+                    (VP (R đã) (V-H khiến)
+                         (SBAR 
+                              (S 
+                                   (NP-SUB (R không) (A ít) (N-H người))
+                                   (VP (V-H liệt)
+                                        (NP-DOB (Np-H Muay Thái)
+                                             (PP (E-H vào)
+                                                  (NP (N-H môn) (V võ)
+                                                       (AP (A-H dã man))))))))))))
+     (. .))
+</s>
+<s>
+(S (C Nhưng)
+     (PP-ADV (E-H với)
+          (NP (N-H ông)))
+     (C thì)
+     (: :)
+     (" ")
+     (SBAR 
+          (S 
+               (NP-SUB (P-H Tôi))
+               (VP 
+                    (VP 
+                         (NP-TMP (R đã) (A nhiều) (N-H năm))
+                         (VP (V-H gắn bó)
+                              (PP (E-H với)
+                                   (NP (Np-H Muay Thái)))))
+                    (C và)
+                    (VP (R từng) (V-H chứng kiến)
+                         (SBAR 
+                              (S 
+                                   (NP-SUB (A nhiều) (N-H đấu sĩ))
+                                   (VP (V-H bị thương)
+                                        (AP (A-H nặng))
+                                        (PP-LOC (E-H trên)
+                                             (NP (N-H sàn) (V đấu)))))))
+                    (, ,)
+                    (C nhưng)
+                    (VP (R chưa) (V-H thấy)
+                         (SBAR 
+                              (S 
+                                   (NP-SUB (P-H ai))
+                                   (VP (V-H chết) (T cả))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (PP-ADV (E-H Trong)
+          (NP (M một) (N-H trận) (V đấu)
+               (NP (Np-H Muay Thái))))
+     (S (NP-SUB *E*)
+          (AP-PRD (R rất) (A-H khó)
+               (VP (V-H có)
+                    (SBAR 
+                         (S 
+                              (NP-SUB (N-H ðối thủ))
+                              (VP (V-H thiệt mạng)
+                                   (NP-TMP (N-H khi)
+                                        (SBAR 
+                                             (S 
+                                                  (NP-SUB (M hai) (N-H ðấu sĩ))
+                                                  (VP (V-H có)
+                                                       (AP (A-H cùng)
+                                                            (NP 
+                                                                 (NP (N-H cân) (N nặng))
+                                                                 (, ,)
+                                                                 (NP (N-H chiều) (N cao))
+                                                                 (C và)
+                                                                 (NP (N-H kỹ nãng)
+                                                                      (VP (V-H giao chiến)))))))))))))))
+     (, ,)
+     (S 
+          (NP-SUB (P-H họ))
+          (VP (V-H che chắn)
+               (AP (R rất) (A-H kỹ))
+               (NP (L những) (N-H chỗ) (A hiểm))))
+     (... ...))
+</s>
+<s>
+(S (C Nhưng)
+     (NP-TMP (N-H khi)
+          (SBAR 
+               (S 
+                    (NP-SUB (P-H chúng tôi))
+                    (VP (V-H cho) (V biết)
+                         (VP (R đã) (V-H được)
+                              (VP (V-H nghe)
+                                   (NP-DOB (L những) (N-H câu chuyện)
+                                        (VP (V-H thiệt mạng))
+                                        (PP-LOC (E-H ở)
+                                             (NP (L những) (N-H sàn) (V đấu))
+                                             (VP (V-H cá cược) (A bất hợp pháp))))
+                                   (PP-LOC (E-H tại)
+                                        (NP (L những) (N-H khu)
+                                             (NP (N-H xóm) (V lao động))
+                                             (PP-LOC (E-H ở)
+                                                  (NP (N-H ngoại ô) (Np Bangkok)))))))))))
+     (, ,)
+     (C thì)
+     (NP-SUB (Np-H Sampong))
+     (VP (V-H gật gù) (: :)
+          (SBAR-PRP (E-H Do)
+               (S 
+                    (NP-SUB (M hai) (N-H võ sĩ))
+                    (VP (R ðã) (V-H chênh) (N nhau)
+                         (NP-DOB (N-H ðẳng cấp))))
+               (, ,)
+               (S 
+                    (NP-SUB (N-H ðiều) (P ðó))
+                    (AP-PRD (R rất) (A-H nguy hiểm)))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H luật) (Np Muay Thái))
+     (VP (V-H nghiêm cấm)
+          (NP-DOB (Nc-H sự) (A chênh lệch) (P này)))
+     (. .))
+</s>
+<s>
+(S (C Nhưng)
+     (PP-ADV (E-H với)
+          (NP (Nc-H ông) (Np Amnuay Kesbumrung) (- -)
+               (NP (N-H thành viên)
+                    (NP (N-H Hội đồng) (Np Muay Thái)
+                         (NP (N-H thế giới))))))
+     (C mà)
+     (S 
+          (NP-SUB (P-H chúng tôi))
+          (VP (V-H tiếp xúc)
+               (PP-LOC (E-H tại)
+                    (NP 
+                         (NP (Np-H MuayThai Institute))
+                         (, ,)
+                         (NP (N-H nơi)
+                              (VP (V-H được)
+                                   (VP (V-H xem) (C là)
+                                        (NP (N-H học viện)
+                                             (NP (Np-H Muay Thái)))
+                                        (AP (A-H lớn) (R nhất)
+                                             (NP (N-H thế giới)))))
+                              (, ,)
+                              (AP-LOC (A-H gần)
+                                   (NP (N-H sân bay) (Np Don Muong)
+                                        (SBAR (C mà)
+                                             (S 
+                                                  (NP-SUB (N-H ông))
+                                                  (VP (V-H làm chủ)))))))))))
+     (- -)
+     (C thì)
+     (: :)
+     (" ")
+     (S 
+          (NP-SUB (P-H Tôi))
+          (VP (R đã) (V-H chứng kiến)
+               (SBAR 
+                    (S 
+                         (S 
+                              (NP-ADV (M bốn) (N-H trường hợp))
+                              (NP-SUB (N-H võ sĩ))
+                              (VP (V-H thiệt mạng)))
+                         (, ,)
+                         (C nhưng)
+                         (S 
+                              (NP-SUB (P-H họ))
+                              (VP 
+                                   (VP (R không) (V-H chết) (R ngay)
+                                        (PP-LOC (E-H trên)
+                                             (NP (N-H sàn) (V đấu))))
+                                   (C mà)
+                                   (VP (V-H chết)
+                                        (PP-LOC (E-H tại)
+                                             (NP (N-H bệnh viện))))
+                                   (PP-PRP (E-H vì)
+                                        (VP (V-H bị)
+                                             (VP (V-H chấn thương)
+                                                  (NP-DOB (N-H sọ) (N não))
+                                                  (C hoặc)
+                                                  (NP (N-H tim)))))))))))
+     (" ")
+     (. .))
+</s>
+<s>
+(S 
+     (SBAR (C Dù)
+          (S-CNC (NP-SUB *E*)
+               (VP (V-H bị)
+                    (VP (V-H xem) (C là)
+                         (NP (N-H môn) (V võ)
+                              (AP (A-H dã man)))))))
+     (C nhưng)
+     (S 
+          (PP-SUB-LOC (R chỉ) (T riêng) (E-H tại)
+               (NP (Np-H Bangkok)))
+          (VP (R đã) (V-H có)
+               (QP-DOB (T đến) (R hàng) (M-H ngàn)
+                    (NP 
+                         (NP (N-H trung tâm) (V huấn luyện))
+                         (, ,)
+                         (NP (N-H lò)
+                              (VP (V-H luyện) (Np Muay Thái)))
+                         (C mà)
+                         (SBAR 
+                              (S 
+                                   (NP-SUB (N-H thanh thiếu niên)
+                                        (NP (Np Thái Lan)))
+                                   (VP (V-H theo)
+                                        (VP (V-H học))
+                                        (AP (R rất) (A-H đông)))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (PP-ADV (E-H Theo)
+          (NP (Nc-H ông) (Np Amnuay Kesbumrung) (, ,)
+               (NP (N-H ủy viên)
+                    (NP (N-H Hội ðồng) (Np Muay Thái)
+                         (NP (N-H thế giới))))))
+     (, ,)
+     (NP-SUB (P toàn) (N-H nýớc) (Np Thái))
+     (VP (V-H có)
+          (QP-DOB (T ðến) (A hõn) (M-H 10.000)
+               (NP (N-H trung tâm))
+               (, ,)
+               (NP (N-H lò))
+               (, ,)
+               (NP (N-H trại)
+                    (VP 
+                         (VP (V-H huấn luyện))
+                         (VP (V-H dạy)
+                              (NP (Np-H Muay Thái)))))
+               (PP (E-H với)
+                    (NP (T cả) (M triệu) (N-H võ sinh)
+                         (VP (V-H tham gia))))))
+     (. .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (P-H Chúng tôi))
+          (VP (V-H thắc mắc)
+               (NP-TMP (N-H khi)
+                    (VP (V-H tiếp xúc)
+                         (PP (E-H với)
+                              (NP 
+                                   (NP (A nhiều) (N-H công chức))
+                                   (, ,)
+                                   (NP (N-H trí thức))
+                                   (C hay)
+                                   (NP (N-H sinh viên)
+                                        (NP (L các) (N-H trýờng) (N ðại học)))
+                                   (PP-LOC (E-H ở)
+                                        (NP (Np-H Bangkok)))))))
+               (, ,)
+               (SBAR 
+                    (S 
+                         (S 
+                              (NP-SUB (L ða số) (P-H họ))
+                              (VP 
+                                   (VP (R ðều) (V-H tỏ vẻ)
+                                        (VP (V-H sợ)
+                                             (NP-DOB (N-H môn) (V võ) (P này))))
+                                   (, ,)
+                                   (C thậm chí)
+                                   (VP (R không) (V-H ði)
+                                        (VP (V-H xem)
+                                             (VP (V-H thi ðấu))))))
+                         (, ,)
+                         (SQ 
+                              (WHRP (P-H sao))
+                              (NP-SUB *E*)
+                              (VP (R chỉ) (V-H thấy)
+                                   (SBAR 
+                                        (S 
+                                             (NP-SUB (N-H thanh thiếu niên)
+                                                  (AP (A-H nghèo))
+                                                  (, ,)
+                                                  (PP-LOC (E-H ở)
+                                                       (NP (N-H nông thôn))))
+                                             (VP (V-H chọn)
+                                                  (VP (V-H học)
+                                                       (NP-DOB (Np-H Muay Thái))))))))))))
+     (, ,)
+     (S 
+          (NP-SUB (P cả)
+               (NP (Nc-H ông) (Np Sampong))
+               (C lẫn)
+               (NP (Nc-H ông) (Np Amnuay)))
+          (NP-PRD (R ðã) (R không) (N-H chút)
+               (VP (V-H ðắn ðo)))
+          (, ,)
+          (VP 
+               (VP (V-H nhún vai))
+               (VP (V-H nói) (: :) (" ")
+                    (SBAR 
+                         (S 
+                              (NP-SUB (P-H Ðó))
+                              (VP (V-H là)
+                                   (NP (Nc-H con) (N ðường)
+                                        (SBAR (C mà)
+                                             (S 
+                                                  (NP-SUB (N-H thanh niên)
+                                                       (NP (N-H nông thôn)))
+                                                  (VP (V-H chọn lựa)
+                                                       (PP-PRP (E-H ðể)
+                                                            (VP 
+                                                                 (VP (V-H thoát)
+                                                                      (AP (A-H nghèo)))
+                                                                 (C và)
+                                                                 (VP (V-H mýu sinh)
+                                                                      (PP-LOC (E-H tại)
+                                                                           (NP (L những) (N-H ðô thị) (A lớn))))))))))))))))
+     (... ...))
+</s>
+<s>
+(S-TTL 
+     (NP (N-H Quả đấm))
+     (C và)
+     (NP (L những) (N-H giấc) (V mơ)
+          (VP (V-H đổi đời)))
+     (… ...))
+</s>

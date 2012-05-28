@@ -1,0 +1,515 @@
+<s id = "1">
+S(TTL)
+	NP(SUB)
+		M
+			 17
+		N(H)
+			 lao động
+	VP
+		V(H)
+			 trở
+		V
+			 về
+		PP(LOC)
+			E(H)
+				 từ
+			NP
+				Np(H)
+					 Malaysia
+		PP(PRP)
+			E(H)
+				 vì
+			VP
+				R
+					 không
+				V(H)
+					 có
+				NP(DOB)
+					N(H)
+						 việc làm
+	.
+		 .
+</s>
+<s id = "2">
+S
+	PP(LOC)
+		E(H)
+			 Tại
+		NP
+			N(H)
+				 Công ty
+			NP
+				N(H)
+					 Thương mại
+				VP
+					V(H)
+						 xuất nhập khẩu
+					NP
+						Np(H)
+							 Bình Phước
+	,
+		 ,
+	PP(TMP)
+		PP
+			E(H)
+				 từ
+			NP
+				N(H)
+					 ngày
+				M
+					 17 - 3 – 2004
+		PP
+			E(H)
+				 đến
+			NP
+				P(H)
+					 nay
+	VP
+		R
+			 đã
+		V(H)
+			 có
+		SBAR
+			S
+				NP(SUB)
+					M
+						 17
+					N(H)
+						 lao động
+				VP
+					V(H)
+						 trở
+					V
+						 về
+					PP(LOC)
+						E(H)
+							 từ
+						NP
+							Np(H)
+								 Malaysia
+					PP(PRP)
+						E(H)
+							 vì
+						VP
+							R
+								 không
+							V(H)
+								 có
+							NP(DOB)
+								N(H)
+									 việc làm
+					C
+						 và
+					SBAR(PRP)
+						E(H)
+							 vì
+						S
+							NP(SUB)
+								N(H)
+									 công ty
+							VP
+								R
+									 không
+								V(H)
+									 thực hiện
+								AP
+									A(H)
+										 đúng
+									NP
+										N(H)
+											 hợp đồng
+									C
+										 như
+									VP
+										R
+											 đã
+										V(H)
+											 cam kết
+	.
+		 .
+</s>
+<s id = "3">
+S
+	PP(ADV)
+		E(H)
+			 Trong
+		NP
+			N(H)
+				 số
+			NP
+				P(H)
+					 đó
+	,
+		 ,
+	NP(SUB)
+		M
+			 một
+		N(H)
+			 lao động
+	VP
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 đi
+				V
+					 về
+				PP(MNR)
+					E(H)
+						 bằng
+					NP
+						N(H)
+							 đường bộ
+		,
+			 ,
+		VP
+			V(H)
+				 vượt
+			V
+				 qua
+			NP(DOB)
+				L
+					 các
+				N(H)
+					 cửa khẩu
+				NP
+					Np(H)
+						 Thái Lan
+					,
+						 ,
+					Np(H)
+						 Campuchia
+		,
+			 ,
+		VP
+			V(H)
+				 trở
+			V
+				 về
+			NP(DOB)
+				Ny(H)
+					 VN
+				NP(TMP)
+					N(H)
+						 sau
+					NP
+						N(H)
+							 cuộc
+						N
+							 hành trình
+						AP
+							A(H)
+								 gian khổ
+	.
+		 .
+</s>
+<s id = "4">
+S(PV)
+	NP(SUB)
+		N(H)
+			 Hợp đồng
+		N
+			 lao động
+	VP
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				V(H)
+					 thực hiện
+				PP(TMP)
+					E(H)
+						 từ
+					NP
+						N(H)
+							 tháng
+						M
+							 8 – 2003
+				,
+					 ,
+				NP(TMP)
+					N(H)
+						 thời hạn
+					NP
+						M
+							 36
+						N(H)
+							 tháng
+						SBAR
+							E(H)
+								 với
+							S
+								NP(SUB)
+									N(H)
+										 loại
+									N
+										 công việc
+								VP
+									V(H)
+										 là
+									NP
+										N(H)
+											 công nhân
+										V
+											 xây dựng
+	.
+		 .
+</s>
+<s id = "5">
+S
+	C
+		 Tuy nhiên
+	VP(MNR)
+		V(H)
+			 theo
+		NP
+			L
+				 các
+			N(H)
+				 lao động
+			P
+				 này
+	,
+		 ,
+	S
+		NP(TMP)
+			M
+				 bảy
+			N(H)
+				 tháng
+			VP
+				V(H)
+					 qua
+		NP(SUB)
+			P(H)
+				 họ
+		VP
+			VP
+				R
+					 chỉ
+				V(H)
+					 có
+				NP(DOB)
+					N(H)
+						 việc làm
+					AP(TMP)
+						A(H)
+							 ít
+						NP
+							N(H)
+								 ngày
+			,
+				 ,
+			VP
+				R
+					 không
+				V(H)
+					 có
+				NP(DOB)
+					N(H)
+						 lương
+			,
+				 ,
+			VP
+				V(H)
+					 bị
+				VP
+					V(H)
+						 chuyển nhượng
+					,
+						 ,
+					"
+						 "
+					V(H)
+						 bán
+					"
+						 "
+					VP
+						V(H)
+							 qua lại
+						PP
+							E(H)
+								 giữa
+							AP
+								A(H)
+									 nhiều
+								NP
+									N(H)
+										 nhà
+									VP
+										V(H)
+											 môi giới
+			,
+				 ,
+			VP
+				R
+					 không
+				V(H)
+					 được
+				VP
+					V(H)
+						 giải quyết
+					NP
+						N(H)
+							 khi
+						VP
+							V(H)
+								 bị
+							NP(DOB)
+								N(H)
+									 tai nạn
+								N
+									 lao động
+	,
+		 ,
+	S
+		NP(SUB)
+			M
+				 6/17
+			N(H)
+				 người
+		VP
+			R
+				 đã
+			V(H)
+				 nếm
+			NP(DOB)
+				N(H)
+					 mùi
+				AP
+					"
+						 "
+					A(H)
+						 tù tội
+					"
+						 "
+	.
+		 .
+</s>
+<s id = "6">
+S
+	PP(ADV)
+		E(H)
+			 Với
+		NP
+			N(H)
+				 tiền
+			N
+				 phí
+			N
+				 dịch vụ
+			NP
+				N(H)
+					 trên
+				QP
+					M(H)
+						 1 . 000
+					NP
+						Nu(H)
+							 USD
+						/
+							 /
+						NP
+							N(H)
+								 người
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 công ty
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(SUB)
+					 *T*-1
+				VP
+					VP
+						R
+							 đã
+						V(H)
+							 chi
+						AP
+							A(H)
+								 nhiều
+							NP
+								N(H)
+									 khoản
+								N
+									 phí
+								N
+									 môi giới
+					C
+						 và
+					VP
+						R
+							 chưa
+						V(H)
+							 có
+						NP(DOB)
+							N(H)
+								 hướng
+							VP
+								V(H)
+									 giải quyết
+								PP(ADV)
+									E(H)
+										 cho
+									NP
+										N(H)
+											 số
+										NP
+											N(H)
+												 lao động
+											P
+												 này
+								NP(TMP)
+									N(H)
+										 khi
+									SBAR
+										S
+											NP(SUB)
+												P(H)
+													 họ
+											VP
+												R
+													 không
+												V(H)
+													 có
+												NP(DOB)
+													M
+														 một
+													Nu(H)
+														 đồng
+													NP
+														N(H)
+															 tiền lương
+													P
+														 nào
+													PP(TMP)
+														E(H)
+															 trong
+														NP
+															L
+																 những
+															N(H)
+																 ngày
+															AP
+																A(H)
+																	 vất vả
+															NP(LOC)
+																N(H)
+																	 nơi
+																N
+																	 xứ
+																A
+																	 lạ
+	.
+		 .
+</s>

@@ -1,0 +1,816 @@
+<s id = "1">
+S(TTL)
+	NP(TPC)
+		Np(H)
+			 Hà Nội
+	:
+		 :
+	NP(SUB)
+		M
+			 98%
+		-
+			 -
+		M
+			 100%
+		N(H)
+			 người
+		V
+			 nghiện
+	VP
+		S
+			 tái
+		V(H)
+			  nghiện
+	.
+		 .
+</s>
+<s id = "2">
+S
+	VP(MNR)
+		V(H)
+			 Phát biểu
+		PP(LOC)
+			E(H)
+				 tại
+			NP
+				N(H)
+					 hội nghị
+				VP
+					VP
+						V(H)
+							 sơ kết
+						NP(TMP)
+							M
+								 ba
+							N(H)
+								 năm
+						NP(DOB)
+							N(H)
+								 công tác
+							VP
+								V(H)
+									 phòng chống
+								NP
+									N(H)
+										 ma túy
+									,
+										 ,
+									Ny(H)
+										 AIDS
+								C
+									 và
+								VP
+									V(H)
+										 mại dâm
+					,
+						 ,
+					VP
+						V(H)
+							 tổ chức
+						PP(TMP)
+							E(H)
+								 trong
+							NP
+								M
+									 hai
+								N(H)
+									 ngày
+								M
+									 22
+								C
+									 và
+								M
+									 23
+								-
+									 -
+								M
+									 3
+						PP(LOC)
+							E(H)
+								 tại
+							NP
+								Np(H)
+									 Hà Nội
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 Bộ trưởng
+		NP
+			N(H)
+				 Bộ
+			NP
+				N(H)
+					 Lao động
+				-
+					  -
+				N(H)
+					 thương binh
+				Ny
+					 &
+				N(H)
+					 xã hội
+		NP
+			Np(H)
+				 Nguyễn Thị Hằng
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(TMP)
+					N(H)
+						 hiện
+				NP(SUB)
+					P
+						 cả
+					N(H)
+						 nước
+				VP
+					V(H)
+						 có
+					NP(DOB)
+						NP
+							M
+								 36.000
+							N(H)
+								 người
+							V
+								 mại dâm
+						,
+							 ,
+						C
+							 cùng
+						NP
+							A
+								 gần
+							M
+								 3.200
+							N(H)
+								 đối tượng
+							N
+								 chủ chứa
+						,
+							 ,
+						NP
+							A
+								 gần
+							M
+								 1.100
+							N(H)
+								 môi giới
+							V
+								 mại dâm
+					C
+						 và
+					SBAR
+						S
+							NP(SUB)
+								M
+									 7.000
+								N(H)
+									 tiếp viên
+								PP(LOC)
+									E(H)
+										 trong
+									NP
+										L
+											 các
+										N(H)
+											 cơ sở
+										V
+											 kinh doanh
+										NP
+											N(H)
+												 dịch vụ
+										,
+											 ,
+										NP
+											N(H)
+												 khách sạn
+											N(H)
+												 nhà hàng
+							VP
+								V(H)
+									 có
+								VP
+									V(H)
+										 biểu hiện
+									V
+										 nghi vấn
+									VP
+										V(H)
+											 hoạt động
+										VP
+											V(H)
+												 mại dâm
+	.
+		 .
+</s>
+<s id = "3">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Gái
+			V
+				 bán dâm
+		AP(PRD)
+			A(H)
+				 chủ yếu
+			PP
+				E(H)
+					 trong
+				NP
+					N(H)
+						 lứa
+					N
+						 tuổi
+					M
+						 18
+					-
+						 -
+					M
+						 30
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 phần lớn
+		VP
+			V(H)
+				 là
+			AP
+				AP
+					A(H)
+						 ít
+					VP
+						V(H)
+							 học
+				,
+					 ,
+				AP
+					A(H)
+						 nghèo khó
+	,
+		 ,
+	C
+		 còn
+	R
+		 lại
+	S
+		NP(SUB)
+			N(H)
+				 khoảng
+			M
+				 15%
+		AP(PRD)
+			A(H)
+				 lười
+			VP
+				V(H)
+					 lao động
+		,
+			 ,
+		VP
+			VP
+				V(H)
+					 đua đòi
+				V
+					 ăn diện
+			C
+				 và
+			VP
+				V(H)
+					 tự nguyện
+				VP
+					V(H)
+						 đi
+					PP
+						E(H)
+							 vào
+						NP
+							Nc(H)
+								 con
+							N
+								 đường
+							VP
+								V(H)
+									 bán dâm
+	.
+		 .
+</s>
+<s id = "4">
+S
+	"
+		 "
+	S
+		NP(SUB)
+			N(H)
+				 Tệ nạn
+			V
+				 mại dâm
+		VP
+			R
+				 vẫn
+			R
+				 đang
+			V(H)
+				 diễn biến
+			AP
+				A(H)
+					 phức tạp
+	,
+		 ,
+	S
+		NP(SUB)
+			T
+				 riêng
+			Ny(H)
+				 TP
+			.
+				 .
+			Ny
+				 HCM
+		VP
+			V(H)
+				 có
+			T
+				 tới
+			NP(DOB)
+				M
+					 10.000
+				N(H)
+					 gái
+				V
+					 bán dâm
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 đối tượng
+			V
+				 mua dâm
+		VP
+			R
+				 vẫn
+			V(H)
+				 tăng
+	,
+		 ,
+	S
+		NP(SUB)
+			A
+				 nhiều
+			N(H)
+				 người
+			V
+				 mua dâm
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 cán bộ
+				N
+					 công chức
+	"
+		 "
+	-
+		 -
+	SBAR
+		S
+			NP(SUB)
+				Nc(H)
+					 bà
+				Np
+					 Hằng
+			VP
+				V(H)
+					 nhấn mạnh
+	.
+		 .
+</s>
+<s id = "5">
+S
+	PP(TPC)
+		E(H)
+			 Về
+		VP
+			V(H)
+				 phòng chống
+			NP(DOB)
+				N(H)
+					 tội phạm
+				N
+					 ma túy
+	,
+		 ,
+	PP(TMP)
+		E(H)
+			 trong
+		NP
+			M
+				 ba
+			N(H)
+				 năm
+			V
+				 qua
+	S
+		NP(SUB)
+			N(H)
+				 số
+			NP
+				N(H)
+					 người
+				V
+					 nghiện
+		VP
+			V(H)
+				 tăng
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					M
+						 53
+					/
+						 /
+					M
+						 64
+					N(H)
+						 tỉnh thành
+	,
+		 ,
+	S(PV)
+		NP(SUB)
+			T
+				 chỉ
+			M
+				 40%
+			N(H)
+				 người
+			V
+				 nghiện
+		VP
+			V(H)
+				 được
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 đưa
+						V
+							 đi
+						VP
+							V(H)
+								 cai nghiện
+							V
+								 tập trung
+	.
+		 .
+</s>
+<s id = "6">
+S
+	PP(LOC)
+		E(H)
+			 Trong
+		NP
+			L
+				 các
+			N(H)
+				 trường học
+	VP
+		R
+			 đã
+		V(H)
+			 phát hiện
+		SBAR
+			S
+				NP(SUB)
+					NP
+						M
+							 652
+						N(H)
+							 học sinh
+					C
+						 và
+					NP
+						M
+							 229
+						N(H)
+							 giáo viên
+				VP
+					V(H)
+						 nghiện
+					NP(DOB)
+						N(H)
+							 ma túy
+	.
+		 .
+</s>
+<s id = "7">
+S
+	"
+		 "
+	S
+		VP(SUB)
+			V(H)
+				 Đáng
+			AP
+				A(H)
+					 buồn
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 tỉ lệ
+				S
+					 tái
+				V(H)
+					 nghiện
+				AP
+					R
+						 còn
+					A(H)
+						 cao
+					PP(LOC)
+						E(H)
+							 ở
+						NP
+							R
+								 hầu hết
+							L
+								 các
+							N(H)
+								 địa phương
+	,
+		 ,
+	S
+		VP(SUB)
+			V(H)
+				 điều tra
+			PP(LOC)
+				E(H)
+					 tại
+				NP
+					Np(H)
+						 Hà Nội
+			NP(TMP)
+				N(H)
+					 năm
+				M
+					 2003
+		S(SUB)
+			S
+				NP(SUB)
+					N(H)
+						 tỉ lệ
+					VP
+						S
+							 tái
+						V(H)
+							 nghiện
+				PP(TMP)
+					E(H)
+						 sau
+					NP
+						M
+							 một
+						N(H)
+							 năm
+						VP
+							V(H)
+								 cai
+				VP
+					V(H)
+						 là
+					QP
+						M(H)
+							 90%
+			,
+				 ,
+			S
+				PP(TMP)
+					E(H)
+						 sau
+					NP
+						M
+							 hai
+						N(H)
+							 năm
+						V
+							 cai
+				NP(SUB)
+					 *T*
+				VP
+					V(H)
+						 là
+					QP
+						M(H)
+							 95%
+			,
+				 ,
+			S
+				PP(TMP)
+					E(H)
+						 sau
+					NP
+						M
+							 ba
+						N(H)
+							 năm
+				NP(SUB)
+					 *T*
+				VP
+					V(H)
+						 là
+					...
+						 ...
+					QP
+						M
+							 98
+						-
+							 -
+						M
+							 100%
+	"
+		 "
+	-
+		 -
+	SBAR
+		S
+			NP(SUB)
+				N(H)
+					 Thứ trưởng
+				NP
+					N(H)
+						 Bộ
+					N
+						 Công an
+				NP
+					Np(H)
+						 Lê Thế Tiệm
+			VP
+				V(H)
+					 cho
+				V
+					 biết
+	.
+		 .
+</s>
+<s id = "8">
+S
+	PP(TMP)
+		E(H)
+			 Trong
+		NP
+			N(H)
+				 khi
+			P
+				 đó
+	NP(SUB)
+		N(H)
+			 số
+		N
+			 người
+		VP
+			V(H)
+				 nhiễm
+			NP
+				Ny(H)
+					 HIV
+		PP(LOC)
+			E(H)
+				 tại
+			NP
+				Ny(H)
+					 VN
+	VP
+		R
+			 vẫn
+		V(H)
+			 tiếp tục
+		VP
+			V(H)
+				 gia tăng
+	.
+		 .
+</s>
+<s id = "9">
+S
+	S
+		NP(TMP)
+			T
+				 Riêng
+			N(H)
+				 năm
+			M
+				 2003
+		NP(SUB)
+			P
+				 cả
+			N(H)
+				 nước
+		VP
+			V(H)
+				 có
+			SBAR
+				S
+					NP(SUB)
+						A
+							 trên
+						M
+							 16.000
+						N(H)
+							 người
+						VP
+							V(H)
+								 nhiễm
+							NP(DOB)
+								Ny(H)
+									 HIV
+					VP
+						R
+							 mới
+						V(H)
+							 được
+						VP
+							V(H)
+								 phát hiện
+	,
+		 ,
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 nâng
+			NP(DOB)
+				N(H)
+					 tổng số
+				N
+					 người
+				V
+					 nhiễm
+				VP
+					R
+						 đã
+					V(H)
+						 được
+					VP
+						V(H)
+							 phát hiện
+				PP(LOC)
+					E(H)
+						 trên
+					NP
+						N(H)
+							 toàn quốc
+			VP
+				V(H)
+					 lên
+				NP(DOB)
+					R
+						 gần
+					M
+						 80.000
+					N(H)
+						 người
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 phần lớn
+			E
+				 trong
+			N
+				 số
+			P
+				 này
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 thanh niên
+				NP
+					M
+						 20
+					-
+						 -
+					M
+						 29
+					N(H)
+						 tuổi
+	.
+		 .
+</s>

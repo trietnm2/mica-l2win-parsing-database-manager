@@ -1,0 +1,490 @@
+! : !	5
+" : "	12
+, : ,	42
+- : -	1
+. : .	37
+... : ...	2
+: : :	5
+; : ;	1
+? : ?	6
+A : Hơn	1
+A : bi đát	1
+A : buồn	1
+A : chua chát	1
+A : chính thức	1
+A : có hậu	1
+A : công bằng	1
+A : cùng	1
+A : dũng cảm	5
+A : hành chính	1
+A : hơn	1
+A : hậu	1
+A : hữu hiệu	1
+A : khác	2
+A : khó khăn	2
+A : kém	1
+A : long trọng	1
+A : lâu	1
+A : lầm than	1
+A : may	1
+A : mười mươi	1
+A : mừng	1
+A : ngọt	1
+A : nhiều	2
+A : nhãn tiền	1
+A : nhỏ	1
+A : phiền phức	1
+A : phải	3
+A : rõ	1
+A : rộng	1
+A : rộng rãi	1
+A : sai phạm	1
+A : sáng tỏ	1
+A : sẵn sàng	1
+A : tan nát	1
+A : thiết thực	1
+A : thiện	2
+A : thân	1
+A : thê thảm	1
+A : thẳng thắn	1
+A : tiên tiến	1
+A : tiêu cực	3
+A : trễ tràng	1
+A : tạm bợ	1
+A : tốt	7
+A : tốt đẹp	1
+A : vui	1
+A : xấu	1
+A : xứng đáng	1
+A : đàng hoàng	2
+A : đơn độc	1
+C : Lại nữa	1
+C : Nếu	4
+C : Tuy nhiên	1
+C : Và	2
+C : Vậy thì	1
+C : hay	2
+C : hoặc	1
+C : là	4
+C : mà	7
+C : như	5
+C : nhưng	5
+C : rằng	3
+C : rồi	1
+C : thì	7
+C : và	17
+C : vậy mà	1
+E : Qua	1
+E : Sau	1
+E : cho	12
+E : của	19
+E : dẫu	1
+E : qua	1
+E : theo	1
+E : trong	11
+E : trên	2
+E : từ	4
+E : vào	2
+E : vì	2
+E : về	6
+E : với	8
+E : xuống	1
+E : để	7
+E : đối với	1
+E : ở	5
+L : bao nhiêu	1
+L : các	9
+L : mấy	1
+L : một vài	1
+L : những	21
+LBKT : LBKT	3
+M : 10 triệu	1
+M : 100.000	1
+M : 150.000	1
+M : 20	1
+M : 200.000	1
+M : 67	1
+M : 93	1
+M : Ba	1
+M : Một	2
+M : ba	2
+M : bốn	1
+M : hai	2
+M : một	15
+M : trăm ngàn	1
+N : Ban	1
+N : Báo	1
+N : Bộ	1
+N : Công nhân	1
+N : Công ty	4
+N : Giám đốc	2
+N : Khu chế xuất	1
+N : Luật sư	1
+N : Người	1
+N : Nhóm	1
+N : Sau	1
+N : Số phận	2
+N : Thân phận	1
+N : anh	9
+N : biện pháp	3
+N : buổi	1
+N : bài	2
+N : bài học	1
+N : báo	6
+N : báo chí	1
+N : bạn bè	1
+N : bạn đọc	3
+N : bản thân	1
+N : chuyên môn	1
+N : chính quyền	1
+N : chòi	1
+N : chất lượng	1
+N : chỗ đứng	1
+N : con cái	1
+N : con người	2
+N : cuộc	1
+N : cuộc sống	3
+N : câu	2
+N : câu chuyện	3
+N : cô	1
+N : công dân	1
+N : công nhân	8
+N : công trình	4
+N : công ty	1
+N : công việc	1
+N : cơ hội	1
+N : cơ sở	1
+N : cảnh	1
+N : danh hiệu	1
+N : doanh nghiệp	1
+N : dân	2
+N : gia đình	1
+N : giờ	1
+N : gái	1
+N : hiện tượng	1
+N : hiệp sĩ	2
+N : hoàn cảnh	1
+N : hoạt động	1
+N : hình thức	1
+N : hôm nay	2
+N : hệ lụy	1
+N : khi	6
+N : khẳng định	1
+N : kẻ	2
+N : kết quả	1
+N : kết thúc	2
+N : kịch	1
+N : lòng	1
+N : lĩnh vực	1
+N : lần	1
+N : lẽ phải	2
+N : lễ	1
+N : môi trường	1
+N : nghề	1
+N : ngày	1
+N : người	15
+N : người thân	1
+N : nhau	1
+N : nhà đầu tư	1
+N : nhân vật	1
+N : nhóm	2
+N : niềm	2
+N : niềm tin	1
+N : năm	4
+N : pháp luật	2
+N : phần	1
+N : quyền lợi	1
+N : quả	1
+N : sai phạm	4
+N : sau	1
+N : sân khấu	1
+N : sự	1
+N : sự thật	2
+N : tay	1
+N : thanh niên	1
+N : thanh tra	1
+N : thành phố	1
+N : thân	1
+N : tiêu cực	2
+N : tiền lệ	1
+N : trang trại	1
+N : trước đây	1
+N : tuổi	1
+N : tên	3
+N : ve chai	1
+N : việc	9
+N : việc làm	4
+N : vật tư	2
+N : vở	1
+N : vợ	1
+N : vợ chồng	2
+N : vợ con	1
+N : vụ	1
+N : xã	1
+N : xã hội	5
+N : Điều	1
+N : điều	4
+N : điển hình	1
+N : đáy	1
+N : đô thị	1
+N : đơn vị	1
+N : đường	8
+N : đại nghĩa	1
+N : đầu tàu	1
+N : đồng bào	1
+N : đồng nghiệp	2
+N : độc giả	1
+N : đời	1
+N : ấn tượng	1
+N : ấp	1
+NP : *E*	17
+NP : *T*	5
+Nc : Anh	3
+Nc : anh	11
+Nc : con	2
+Nc : cái	6
+Nc : căn	1
+Nc : loạt	1
+Nc : người	1
+Nc : nhóm	2
+Nc : niềm	2
+Nc : sự	4
+Nc : tờ	1
+Np : Củ Chi	1
+Np : Hà	1
+Np : Idecaf	1
+Np : Nguyễn Công Trứ	1
+Np : Nhung	1
+Np : Pháp Luật	2
+Np : Tam Tân	1
+Np : Thái	1
+Np : Triều Phú	1
+Np : Trương Xuân Đại	4
+Np : Trần Mạnh Hoài	1
+Np : Trần Nhất Thiện	1
+Np : Tuổi Trẻ	2
+Np : Tân An Hội	1
+Np : Tân Bình	1
+Np : Tân Thuận	1
+Np : liên cảng A5	6
+Np : Đại	11
+Nu : đ	1
+Nu : đồng	2
+Ny : &	3
+Ny : HCM	1
+Ny : NN	1
+Ny : PTNT	1
+Ny : Q 11	1
+Ny : Q.1	1
+Ny : TNHH	1
+Ny : TP	4
+Ny : TP HCM	1
+Ny : TT	1
+Ny : UBND	2
+Ny : đ	1
+P : Chúng ta	1
+P : Nay	1
+P : Tôi	6
+P : bao	1
+P : chúng ta	2
+P : chúng tôi	3
+P : gì	2
+P : họ	10
+P : kia	1
+P : mình	4
+P : nay	3
+P : nào	1
+P : này	5
+P : sao	1
+P : thế	1
+P : tôi	5
+P : tự	1
+P : vậy	2
+P : đây	2
+P : đó	10
+P : ấy	3
+R : Chỉ	1
+R : Cũng	1
+R : Hãy	1
+R : chắc hẳn	1
+R : còn	1
+R : có	1
+R : có thể	4
+R : cũng	5
+R : cứ	2
+R : hàng	1
+R : hãy	1
+R : hơn	1
+R : hầu như	1
+R : không	10
+R : không thể	1
+R : là	1
+R : lên	2
+R : lại	3
+R : mới	2
+R : ngay	2
+R : nổi	1
+R : ra	2
+R : rất	6
+R : sẽ	5
+R : thêm	1
+R : tiếp	1
+R : vô cùng	1
+R : Đáng lẽ	1
+R : đi	2
+R : đã	19
+R : được	1
+R : đến	3
+RBKT : RBKT	3
+T : Có	1
+T : Ngay	1
+T : Thế	1
+T : Vậy	1
+T : chính	1
+T : hết	1
+T : nữa	2
+T : quả	1
+T : sao	2
+T : thế	1
+T : đến	1
+V : *E*	3
+V : Cần	1
+V : Là	1
+V : Làm	1
+V : Ngẫm	1
+V : Phải	1
+V : Theo dõi	1
+V : Viết	1
+V : Xây lắp	2
+V : an ủi	1
+V : biên tập	1
+V : biết	4
+V : biểu dương	3
+V : bày tỏ	2
+V : bù đắp	1
+V : bảo	1
+V : bảo vệ	5
+V : bị	1
+V : bỏ	1
+V : chia sẻ	2
+V : chung	1
+V : chạnh lòng	1
+V : chắc	3
+V : chịu	1
+V : cung cấp	1
+V : cày ải	1
+V : còn	1
+V : có	10
+V : cải thiện	1
+V : cần	2
+V : dám	1
+V : dạy dỗ	1
+V : dừng	1
+V : góp	1
+V : gặp	1
+V : gọi	1
+V : gồm	1
+V : gửi	4
+V : hi sinh	1
+V : hiểu	1
+V : hoan nghênh	3
+V : hình dung	1
+V : hòa giải	1
+V : hỏi	3
+V : hỗ trợ	1
+V : khôi phục	1
+V : khắc phục	2
+V : kiện	2
+V : kèm	1
+V : kết luận	2
+V : lan	1
+V : lang bạt	1
+V : lang thang	1
+V : lao động	1
+V : liên hệ	1
+V : ly tán	1
+V : là	16
+V : làm	5
+V : làm việc	3
+V : lâm	1
+V : lãnh	1
+V : lên tiếng	1
+V : lượm	1
+V : mang	1
+V : minh chứng	1
+V : mong	1
+V : mong mỏi	1
+V : muốn	1
+V : mất	2
+V : mỉa mai	1
+V : mời	1
+V : ngâm	1
+V : ngậm ngùi	1
+V : nhận	2
+V : nhằm	1
+V : nên	1
+V : nói	2
+V : phiêu bạt	1
+V : phát hành	1
+V : phát tán	1
+V : phải	6
+V : phản ánh	1
+V : phục vụ	1
+V : qua	1
+V : quyết định	1
+V : quên	1
+V : so	1
+V : sống	1
+V : thanh tra	1
+V : theo đuổi	1
+V : thêm	1
+V : thông tin	1
+V : thương	1
+V : thất nghiệp	1
+V : thấy	5
+V : thắng	1
+V : thực hiện	1
+V : tin	4
+V : trôi	1
+V : trả	1
+V : trợ giúp	1
+V : tuyên dương	1
+V : tá túc	1
+V : tìm	1
+V : tôn vinh	1
+V : tạo	1
+V : tặng	3
+V : tố cáo	6
+V : vào	2
+V : xuất phát	1
+V : xuống cấp	1
+V : xác định	1
+V : xây dựng	4
+V : xả thân	1
+V : xứng đáng	1
+V : xử lý	2
+V : Đề nghị	1
+V : Đừng	1
+V : đi	1
+V : đưa	1
+V : được	9
+V : đầu tư	1
+V : đẩy	1
+V : đặt cược	2
+V : đến	6
+V : đề cập	1
+V : đề nghị	1
+V : để	3
+V : đọc	1
+V : đồng nghĩa	1
+V : ủng hộ	2
+X : Lẽ ra	1
+X : Vì sao	1
+X : lẽ ra	1
+X : như thế	2
+X : nhất là	1
+X : qua ngày	1
+X : ra sao	1
+X : trái lại	1
+X : tại sao	1
+… : …	1

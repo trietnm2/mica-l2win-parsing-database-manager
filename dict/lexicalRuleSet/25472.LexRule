@@ -1,0 +1,238 @@
+" : "	14
+, : ,	20
+- : -	3
+. : .	17
+... : ...	1
+: : :	2
+? : ?	1
+A : cuối cùng	1
+A : cần thiết	3
+A : cụ thể	2
+A : khác	2
+A : kỹ	1
+A : nghiêm trọng	1
+A : nhẹ nhàng	1
+A : phức tạp	1
+A : rõ	1
+A : suốt	1
+A : thông thường	1
+A : thỏa đáng	1
+A : tiên quyết	1
+A : trái	1
+A : tương tự	1
+C : Nếu	1
+C : Tuy nhiên	2
+C : cũng	1
+C : hoặc	1
+C : là	1
+C : mà	2
+C : như	1
+C : nhưng	2
+C : nếu	1
+C : rằng	1
+C : thì	1
+C : và	3
+C : với	1
+E : Ngoài	1
+E : Trong	1
+E : cho	3
+E : của	10
+E : do	1
+E : giữa	1
+E : ngoài	1
+E : theo	2
+E : trong	2
+E : từ	1
+E : vì	2
+E : về	3
+E : với	4
+E : đến	1
+E : để	4
+E : đối với	4
+L : Những	1
+L : các	11
+L : một số	1
+L : những	6
+M : 24-3	1
+M : 79	1
+M : 8 , 3 tỉ	1
+M : 85,354 tỉ	1
+M : Ba phần tư	1
+N : Bị cáo	1
+N : Bộ	3
+N : Bộ trưởng	1
+N : Chính phủ	1
+N : Công thương	1
+N : Công trình	1
+N : Công ty	1
+N : Hội đồng	1
+N : Thương mại	1
+N : Thủ tục	1
+N : Trung tâm	1
+N : Vụ	1
+N : ban ngành	2
+N : báo chí	1
+N : bị cáo	3
+N : bộ	1
+N : bộ trưởng	1
+N : chi tiết	1
+N : chiều qua	1
+N : chánh	1
+N : chùa	1
+N : chủ tọa	1
+N : cá nhân	1
+N : cách	1
+N : công trình	1
+N : công ty	1
+N : công văn	4
+N : cổ phần	1
+N : dự kiến	1
+N : dự án	5
+N : gỗ	1
+N : hình sự	1
+N : hôm nay	1
+N : hậu quả	1
+N : hội họp	1
+N : khi	2
+N : khoản	11
+N : khu	1
+N : kiểu	1
+N : kế hoạch	1
+N : lãnh đạo	1
+N : lý do	1
+N : mục đích	1
+N : ngày	1
+N : ngân hàng	1
+N : ngân sách	1
+N : nhu cầu	1
+N : nông nghiệp	1
+N : nội dung	3
+N : nợ	1
+N : phiên tòa	1
+N : quá trình	2
+N : số	1
+N : sở	1
+N : thẩm phán	1
+N : thời gian	1
+N : thực tế	1
+N : thực địa	1
+N : tiền	2
+N : trung ương	1
+N : tình hình	1
+N : tòa	3
+N : việc	2
+N : vốn	2
+N : Đại diện	1
+N : điều kiện	1
+N : điệp khúc	1
+N : đại diện	2
+N : đồ	1
+NP : *E*	6
+NP : *T*-1	1
+Np : Ba Đình	1
+Np : Hà Nội	1
+Np : Hàng Bồ	1
+Np : Hàng hải	1
+Np : Lã Thị Kim Oanh	10
+Np : Lê Huy Ngọ	1
+Np : Nguyễn Công Tạn	1
+Np : Nguyễn Hùng Cường	1
+Np : Nguyễn Quang Hà	1
+Np : Nguyễn Quốc Tú	1
+Np : Nguyễn Thiện Luân	1
+Nu : đồng	2
+Ny : &	5
+Ny : Cty	1
+Ny : HĐXX	6
+Ny : NH	11
+Ny : NH Đầu tư phát triển	1
+Ny : NH Đầu tư phát triển Hà Nội	1
+Ny : NN	5
+Ny : PTNT	5
+P : gì	1
+P : này	1
+P : tất cả	1
+P : vậy	1
+P : đây	1
+R : Cũng	1
+R : chưa	1
+R : cũng	1
+R : hơn	1
+R : không	8
+R : lại	2
+R : rất	1
+R : sẽ	6
+R : thậm chí	1
+R : vào	1
+R : đâu	1
+R : được	2
+R : đều	1
+S : phó	1
+T : chính	1
+V : *E*	1
+V : Cho	1
+V : Theo	1
+V : Tiếp thị	2
+V : Trao đổi	1
+V : biết	5
+V : bảo lãnh	2
+V : bắt đầu	1
+V : bố trí	1
+V : chi	7
+V : cho	8
+V : chuyển	1
+V : chờ	1
+V : chủ quản	1
+V : còn	1
+V : có	5
+V : căn cứ	1
+V : cấp	1
+V : cố ý	1
+V : dùng	1
+V : dứt khoát	1
+V : giao dịch	1
+V : giải trình	2
+V : gây	1
+V : hỏi	2
+V : khẳng định	4
+V : kinh doanh	2
+V : kèm	1
+V : ký	1
+V : liên quan	1
+V : là	5
+V : làm	1
+V : làm việc	1
+V : lặp đi lặp lại	1
+V : lễ	1
+V : mời	2
+V : nói	1
+V : nắm	1
+V : phúc thẩm	1
+V : phải	3
+V : quyết định	2
+V : sang	1
+V : sơ thẩm	1
+V : sử dụng	2
+V : thẩm vấn	4
+V : thừa nhận	1
+V : thực hiện	1
+V : tiến hành	1
+V : tiếp thị	1
+V : triển khai	1
+V : triển lãm	1
+V : trả	1
+V : trả lời	2
+V : tập trung	1
+V : vay	12
+V : xem xét	3
+V : xuống	2
+V : xác nhận	2
+V : xét xử	1
+V : đi	2
+V : được	3
+V : đầu tư	1
+V : đệm	1
+V : đối chất	1
+X : nguyên	1
+X : như thế nào	1
+X : như vậy	1

@@ -1,0 +1,435 @@
+! : !	1
+" : "	16
+, : ,	79
+- : -	9
+- : –	1
+. : .	40
+. : ?	1
+... : ...	3
+: : :	4
+? : ?	10
+A : Cùng	1
+A : bình thường	1
+A : bất ngờ	1
+A : chung	3
+A : chính	1
+A : cùng	3
+A : hoàn toàn	1
+A : khác	1
+A : khách quan	1
+A : kỹ	1
+A : lành mạnh	1
+A : lớn	1
+A : lợi	1
+A : nhiều	2
+A : rõ	4
+A : thành niên	6
+A : trên	3
+A : trước	1
+A : trực tiếp	1
+A : tạm	1
+A : tất nhiên	1
+A : từ tốn	1
+A : vô can	1
+A : vị thành niên	2
+A : xôn xao	1
+A : yên	1
+A : Đặc biệt	1
+A : đúng	5
+A : đầy đủ	1
+C : Nhưng	3
+C : Nếu	1
+C : Tuy nhiên	1
+C : còn	1
+C : cùng	2
+C : do	1
+C : dù	1
+C : là	1
+C : mà	2
+C : như	1
+C : nhưng	15
+C : nếu	4
+C : rằng	1
+C : rồi	2
+C : thì	13
+C : và	12
+E : Sau	1
+E : Theo	4
+E : Trong	1
+E : Tại	1
+E : Từ	1
+E : bằng	1
+E : cho	2
+E : của	10
+E : do	1
+E : dù	1
+E : ngoài	1
+E : sau	4
+E : theo	4
+E : trong	11
+E : trên	1
+E : trước	2
+E : tại	4
+E : từ	3
+E : vào	1
+E : vì	3
+E : về	8
+E : với	8
+E : Để	1
+E : đến	15
+E : để	8
+E : đối với	1
+E : ở	5
+L : Các	1
+L : Những	1
+L : các	8
+L : mấy	1
+L : một số	2
+L : những	5
+LBKT : LBKT	6
+LBKT : LKT	1
+M : 12	2
+M : 13	1
+M : 14	2
+M : 15	1
+M : 2	5
+M : 2001	1
+M : 3	3
+M : 30	1
+M : 31	2
+M : 8	1
+M : ba	7
+M : bốn	12
+M : hai	6
+M : một	6
+N : Bút lục	1
+N : Chiều	1
+N : Công an	1
+N : Cơ quan	1
+N : Cơ sở	1
+N : Luật sư	1
+N : Môi giới	1
+N : Quan điểm	1
+N : Quá trình	1
+N : Sáng	1
+N : Trước mắt	1
+N : Tòa án	1
+N : Tỉnh ủy	2
+N : Viện	1
+N : Viện Kiểm sát	2
+N : Viện trưởng	1
+N : Vụ	1
+N : anh em	3
+N : biên bản	1
+N : báo cáo	1
+N : bút lục	3
+N : bản chính	1
+N : bản chất	1
+N : bị can	1
+N : bị cáo	6
+N : bộ phận	2
+N : chuyện	1
+N : chỗ	2
+N : chứng cứ	1
+N : cán bộ	2
+N : cáo trạng	5
+N : câu	2
+N : cô	6
+N : công an	4
+N : cơ quan	11
+N : cơ sở	1
+N : cảnh sát	3
+N : cấp	2
+N : doanh nghiệp	1
+N : dâm	3
+N : dòng	1
+N : dư luận	4
+N : dấu hiệu	1
+N : giá trị	1
+N : giờ phút	1
+N : gái	6
+N : hiện	1
+N : hành vi	4
+N : hình thức	1
+N : hôm	1
+N : hướng	1
+N : hồ sơ	1
+N : karaoke	3
+N : khi	10
+N : khoảng	1
+N : khách	2
+N : khách quan	1
+N : khách sạn	6
+N : khả năng	1
+N : kiểm sát viên	1
+N : kỷ luật	1
+N : luật sư	4
+N : lãnh đạo	2
+N : lúc	4
+N : lý do	1
+N : lý lịch	1
+N : lĩnh vực	1
+N : lời	3
+N : lợi	1
+N : môi giới	1
+N : nguyên tắc	1
+N : ngành	1
+N : ngày	4
+N : người	15
+N : nhau	2
+N : nhà nước	1
+N : nhân dân	7
+N : năm	1
+N : phiên tòa	5
+N : pháp luật	2
+N : phía	2
+N : phòng	3
+N : phó viện trưởng	1
+N : phóng viên	4
+N : phần	2
+N : qui mô	1
+N : quả tang	1
+N : sơ sót	1
+N : số	1
+N : sức ép	1
+N : sự việc	1
+N : thuế	1
+N : thông tin	1
+N : thời điểm	1
+N : thực tế	1
+N : tiếng tăm	1
+N : trên	1
+N : trước mắt	1
+N : trường hợp	2
+N : trẻ	1
+N : tuổi	4
+N : tài liệu	1
+N : tòa	1
+N : tỉnh	8
+N : tội	5
+N : uy tín	1
+N : việc	10
+N : viện trưởng	4
+N : vấn đề	2
+N : vụ	7
+N : vụ việc	2
+N : vụ án	10
+N : Ông	1
+N : ông	6
+N : ý kiến	1
+N : Điều	1
+N : điều	1
+N : điều tra viên	1
+N : điện thoại	1
+N : đường dây	2
+N : đảng viên	1
+N : đầu	1
+N : địa bàn	1
+N : đối tượng	11
+N : động thái	1
+NP : *E*	19
+NP : *T*	5
+Nc : bản	2
+Nc : cuộc	1
+Nc : cô	1
+Nc : nhóm	1
+Nc : vụ	1
+Nc : Ông	2
+Nc : ông	16
+Np : Bình Dương	6
+Np : Lê Minh Quang	1
+Np : Lê Minh Thành	1
+Np : Lê Thị Thắm	1
+Np : Lý	2
+Np : Nguyễn Hữu Tình	1
+Np : Nguyễn Thành Phương	4
+Np : Nguyễn Thành Thượng	3
+Np : Nguyễn Thị Mửng	2
+Np : Ngọc Vân	5
+Np : Phương	14
+Np : Phạm Hữu Tình	3
+Np : Thu	2
+Np : Thành	2
+Np : Tình	1
+Nu : g	1
+Ny : H	1
+Ny : N	1
+Ny : P	1
+Ny : VKS	8
+P : Chúng tôi	1
+P : Mình	1
+P : Tôi	2
+P : Vậy	1
+P : ai	2
+P : bao giờ	2
+P : chúng tôi	3
+P : gì	1
+P : họ	1
+P : kia	2
+P : mình	5
+P : nay	1
+P : nào	3
+P : này	7
+P : sao	1
+P : tôi	12
+P : tất cả	1
+P : từng	1
+P : Đó	1
+P : đó	10
+R : bất cứ	1
+R : chưa	10
+R : chỉ	3
+R : còn	2
+R : có	2
+R : cũng	14
+R : hơn	1
+R : khá	1
+R : không	18
+R : không thể	1
+R : lại	2
+R : mới	1
+R : quả tang	5
+R : ra	19
+R : sẽ	3
+R : vào	2
+R : vẫn	1
+R : đang	3
+R : đâu	1
+R : đã	19
+R : được	4
+R : đến	1
+R : đều	1
+RBKT : RBKT	7
+S : Phó	1
+S : phó	2
+T : Ngay	1
+T : Riêng	1
+T : Thế	1
+T : chính	1
+T : cả	1
+T : ngay	2
+T : nào	1
+T : đâu	1
+V : *E*	1
+V : Có	1
+V : Kiểm sát	1
+V : Liệu	1
+V : Nhậu nhẹt	1
+V : Tách	1
+V : biết	3
+V : bào chữa	2
+V : bán dâm	3
+V : báo cáo	2
+V : bắt	6
+V : bắt tay	1
+V : bị	12
+V : bỏ	1
+V : bổ sung	1
+V : cho	4
+V : chở	1
+V : có	25
+V : có mặt	1
+V : công tác	2
+V : cảnh cáo	1
+V : dính	1
+V : dự	1
+V : giải trình	1
+V : gây	1
+V : gặp	1
+V : hoãn	2
+V : hát	3
+V : hẹn	1
+V : hỏi	3
+V : khai	3
+V : khai mạc	2
+V : khẳng định	2
+V : khởi tố	5
+V : kiểm tra	1
+V : kiểm điểm	2
+V : kết luận	2
+V : kết thúc	1
+V : kể	1
+V : liên quan	5
+V : liệu	1
+V : là	9
+V : làm	8
+V : lên tiếng	1
+V : lý giải	1
+V : lập	2
+V : lọt	5
+V : lộ	2
+V : mua bán	3
+V : mua dâm	18
+V : mại dâm	2
+V : nghĩ	2
+V : nhất trí	1
+V : nhậu	1
+V : nhậu nhẹt	1
+V : nên	1
+V : nêu	1
+V : nói	7
+V : nằm	1
+V : phanh phui	1
+V : phát sinh	1
+V : phân công	1
+V : phạm tội	2
+V : phải	3
+V : phản ứng	1
+V : phụ trách	2
+V : ra	1
+V : rủ	2
+V : sót	1
+V : sơ thẩm	1
+V : tham gia	1
+V : thay đổi	1
+V : theo dõi	1
+V : thưa	1
+V : thấy	5
+V : thẩm tra	1
+V : thống nhất	2
+V : tin	1
+V : tiếp theo	1
+V : tiếp tục	2
+V : truy tố	4
+V : trích	1
+V : trả lời	2
+V : tung	1
+V : tách	4
+V : tìm hiểu	1
+V : tố tụng	1
+V : tổ chức	1
+V : từ chối	1
+V : vi phạm	1
+V : vào	3
+V : xác nhận	1
+V : xác định	1
+V : xét xử	5
+V : xảy	4
+V : xử	1
+V : xử lý	5
+V : yên vị	1
+V : yêu cầu	2
+V : đi	12
+V : điều tra	20
+V : đưa	4
+V : được	4
+V : đặt	3
+V : đến	1
+V : đề cập	2
+V : đề nghị	2
+V : để	3
+V : đủ	1
+V : ảnh hưởng	2
+V : ập	1
+V : ở	1
+Vb : photocopy	1
+X : Có lẽ	2
+X : Tại sao	1
+X : chìm xuồng	3
+X : thì có	1
+X : tại sao	1
+X : tới nơi tới chốn	1
+X : vì sao	1
+viện : trưởng	1
+“ : ”	1
+” : “	1

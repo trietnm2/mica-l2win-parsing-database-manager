@@ -1,0 +1,737 @@
+! : !	6
+" : "	4
+, : ,	99
+- : -	4
+. : .	83
+... : ...	8
+: : :	4
+; : ;	1
+? : ?	15
+A : Hơn	1
+A : bi quan	1
+A : buồn	4
+A : bí mật	1
+A : băn khoăn	1
+A : bất khuất	1
+A : bận	1
+A : bận rộn	1
+A : bằng	1
+A : bế tắc	1
+A : bền bỉ	1
+A : cao quí	1
+A : chu đáo	1
+A : chân thành	1
+A : chân thật	1
+A : chắc	1
+A : cuối	1
+A : công bằng	2
+A : cơ bản	1
+A : cực nhọc	1
+A : dài	1
+A : dĩ nhiên	1
+A : dọc	1
+A : gan lì	2
+A : ghê gớm	1
+A : ghẻ	1
+A : gian khổ	2
+A : giòn	1
+A : gần	1
+A : hiền	1
+A : hơn	1
+A : hẹp	1
+A : hẹp hòi	1
+A : im lặng	3
+A : khác	1
+A : khó khăn	1
+A : khô	2
+A : khăng khít	1
+A : khắp	1
+A : khắt khe	1
+A : khổ đau	2
+A : kín	1
+A : lâu	2
+A : lạnh nhạt	1
+A : mòn mỏi	1
+A : mến thương	1
+A : mệt	1
+A : ngon	1
+A : nguyên	1
+A : ngắn	1
+A : ngổn ngang	1
+A : nhiều	5
+A : nhói	1
+A : như	2
+A : nhất	4
+A : nhẹ nhàng	1
+A : nhỏ	2
+A : nhỏ nhoi	1
+A : nhức nhối	1
+A : nát	3
+A : nặng	2
+A : nặng nề	3
+A : nặng trĩu	1
+A : phi nghĩa	1
+A : phải	3
+A : quí	1
+A : riêng	2
+A : rõ	2
+A : suốt	3
+A : sướng	1
+A : sứt mẻ	1
+A : thiết tha	4
+A : thiếu	1
+A : thú vị	1
+A : thơm	1
+A : thương mến	1
+A : thắm thiết	1
+A : thờ ơ	1
+A : ti tiện	1
+A : tiểu tư sản	1
+A : trung thực	1
+A : tràn ngập	1
+A : trìu mến	1
+A : trẻ	1
+A : tạm thời	1
+A : tốt	1
+A : u uất	2
+A : vui	5
+A : vô danh	1
+A : vô giá	1
+A : vĩ đại	1
+A : vững	1
+A : xơ xác	1
+A : xứng đáng	2
+A : y hệt	1
+A : ác liệt	3
+A : âm ỉ	1
+A : ít	2
+A : đau	1
+A : đau buồn	1
+A : đau khổ	1
+A : đau xót	1
+A : đau đầu	1
+A : đông	1
+A : đúng	3
+A : đơn giản	1
+A : đầu tiên	1
+A : đẫm	1
+A : đớn hèn	1
+C : Còn	1
+C : Dù	1
+C : Mà	4
+C : Như vậy	1
+C : Nhưng	4
+C : Rồi	3
+C : Thì	1
+C : Và	2
+C : cho nên	1
+C : hay	2
+C : là	5
+C : mà	11
+C : như	4
+C : nhưng	9
+C : nên	1
+C : nếu	1
+C : nếu như	1
+C : rằng	2
+C : rồi	6
+C : thì	6
+C : tuy	1
+C : và	7
+C : vậy mà	1
+E : *E*	1
+E : Trong	1
+E : bằng	1
+E : cho	7
+E : cùng	1
+E : của	29
+E : dưới	1
+E : giữa	1
+E : ngoài	1
+E : qua	1
+E : sau	2
+E : trong	20
+E : trên	4
+E : trước	2
+E : từ	2
+E : vào	2
+E : vì	4
+E : vô	1
+E : về	2
+E : với	14
+E : đến	2
+E : để	4
+E : đối với	1
+E : ở	9
+I : ơi	4
+I : ư	1
+L : Các	2
+L : Muôn	1
+L : Mấy	1
+L : Những	3
+L : các	5
+L : muôn	1
+L : mười mấy	1
+L : mấy	2
+L : mọi	3
+L : một vài	2
+L : những	27
+L : vài	1
+L : đa số	1
+LBKT : LBKT	1
+M : 1	1
+M : 101	1
+M : 196	1
+M : 1967	1
+M : 1968	1
+M : 1969	2
+M : 1970	1
+M : 2	2
+M : 22	1
+M : 23	1
+M : 25	1
+M : 28	1
+M : 30	1
+M : 4	1
+M : 5	1
+M : ba	1
+M : chục	2
+M : hai	6
+M : một	33
+M : ngàn vạn	1
+N : Anh hùng	1
+N : Bệnh xá	1
+N : Chị	3
+N : Công việc	1
+N : Cảm giác	1
+N : Giặc	1
+N : Hôm nay	1
+N : Khi	1
+N : Khu	1
+N : Kẻ thù	1
+N : Lời	1
+N : Lực lượng	1
+N : Ngày	2
+N : Nhiệm vụ	1
+N : Nhật ký	1
+N : Năm	1
+N : Nơi	3
+N : Sư đoàn	1
+N : Thắng lợi	1
+N : Tiếng	1
+N : Tên	1
+N : anh	5
+N : anh chị	1
+N : anh em	2
+N : anh hùng	1
+N : bao	1
+N : biển	1
+N : buổi trưa	1
+N : bà mẹ	1
+N : bác sĩ	1
+N : bán sơn địa	1
+N : bóng tối	1
+N : bước	1
+N : bước đầu	1
+N : bạn	2
+N : bệnh	1
+N : bệnh nhân	2
+N : bệnh xá	11
+N : bộ óc	1
+N : bộ đội	1
+N : chi bộ	1
+N : chiến thắng	1
+N : chiến tranh	2
+N : chiến trường	6
+N : chiều	1
+N : chuyện	2
+N : chính trị	1
+N : chông gai	2
+N : chị	10
+N : chị em	1
+N : chồng	1
+N : chỗ	2
+N : chủ lực	1
+N : chữ	1
+N : con	4
+N : cuốn	1
+N : cuộc sống	1
+N : cuộc đời	2
+N : cá nhân	3
+N : cách mạng	1
+N : cán bộ	3
+N : câu chuyện	2
+N : cây	2
+N : cô gái	1
+N : công tác	1
+N : cơ quan	1
+N : cổ tích	1
+N : cộng sản	1
+N : cờ	1
+N : củi	1
+N : danh dự	2
+N : du kích	1
+N : dân	2
+N : dông	1
+N : dông tố	3
+N : dù	1
+N : dịp	1
+N : em	2
+N : gai	1
+N : gia đình	2
+N : giai cấp	2
+N : gian khổ	1
+N : gốc	1
+N : hi sinh	1
+N : huyện	6
+N : hàng ngũ	1
+N : hành động	1
+N : hè	1
+N : hôm	2
+N : hôm nay	2
+N : hương vị	1
+N : hồi	2
+N : khi	9
+N : khu	1
+N : khó khăn	1
+N : kẻ thù	1
+N : kỷ niệm	2
+N : lãnh đạo	1
+N : lòng	3
+N : lúc	4
+N : lẽ	1
+N : lẽ phải	2
+N : lỗi	1
+N : lời nói	1
+N : lửa	1
+N : lữ	1
+N : miền	1
+N : máu	2
+N : mùa	1
+N : mặt	1
+N : mẹ	2
+N : mẹ ghẻ	1
+N : mọt	1
+N : mối	1
+N : mồi	1
+N : một cách	1
+N : ngang dọc	1
+N : ngày	14
+N : ngày ngày	1
+N : người	8
+N : người mẹ	3
+N : người yêu	1
+N : ngụy	2
+N : nhau	1
+N : nhà	2
+N : nhân dân	1
+N : nhân viên	1
+N : nhật ký	3
+N : niềm	1
+N : nét	1
+N : năm	6
+N : nơi	2
+N : nước mắt	1
+N : nền	1
+N : nọc độc	1
+N : nụ cười	1
+N : phố	1
+N : quanh	1
+N : quyền lợi	3
+N : quân	1
+N : quần chúng	1
+N : sinh viên	1
+N : suối	1
+N : sâu	1
+N : sâu mọt	1
+N : súng	1
+N : sư	4
+N : sư dù	1
+N : số	6
+N : sổ	2
+N : sức lực	1
+N : sữa	2
+N : sự nghiệp	3
+N : thanh niên	1
+N : thuyền trưởng	1
+N : thành phần	1
+N : thành tích	2
+N : tháng	1
+N : thân	1
+N : thư	1
+N : thương binh	1
+N : thời gian	2
+N : thủy quân	1
+N : thủy thủ	1
+N : tim	1
+N : tiểu tư sản	1
+N : trang	1
+N : trách nhiệm	1
+N : trái tim	1
+N : trường	2
+N : trở ngại	1
+N : tàu	1
+N : tâm hồn	1
+N : tâm sự	1
+N : tên	1
+N : tình	2
+N : tình thương	2
+N : tính chất	1
+N : tập thể	1
+N : tỉnh	2
+N : vùng	4
+N : vết thương	2
+N : xã hội	1
+N : xương	1
+N : óc	1
+N : ý nghĩa	1
+N : Điều	1
+N : Đông	1
+N : đau thương	1
+N : điều	2
+N : đơn	1
+N : đơn vị	1
+N : đường	1
+N : đường dây	1
+N : đường mòn	1
+N : đại tá	1
+N : đảng viên	3
+N : đất	4
+N : đấu tranh	1
+N : đầu	1
+N : địa chỉ	1
+N : địa phương	1
+N : địch	1
+N : đồng chí	1
+N : đội ngũ	1
+N : đời	4
+NP : *E	1
+NP : *E*	25
+NP : *T*	4
+Nc : Cái	1
+Nc : Dòng	1
+Nc : bọn	1
+Nc : chị	4
+Nc : con	6
+Nc : cuốn	1
+Nc : cái	13
+Nc : cây	1
+Nc : cô	1
+Nc : cơn	1
+Nc : dòng	1
+Nc : lá	1
+Nc : miếng	1
+Nc : mảnh	1
+Nc : người	6
+Nc : niềm	2
+Nc : nỗi	2
+Nc : quyển	2
+Nc : sự	7
+Nc : đống	1
+Nc : đứa	5
+Np : Anh Cả Đỏ Mỹ	1
+Np : B52	1
+Np : Bạch Mã Nam Triều Tiên	1
+Np : Bắc	2
+Np : Hà Nội	2
+Np : Hường	2
+Np : Mỹ	3
+Np : Nam	3
+Np : Nguyễn Đức Thắng	1
+Np : Quảng Ngãi	3
+Np : Rồng Xanh	1
+Np : Thùy	6
+Np : Thùy Trâm	1
+Np : Trâm	4
+Np : Trường Sơn	2
+Np : y	1
+Np : Đảng	11
+Np : Đồng Răm	1
+Np : Đức Phổ	3
+Nu : cây số	1
+Nu : g	1
+Ny : Th	8
+P : Ai	1
+P : Chúng tôi	1
+P : Cả	1
+P : Họ	2
+P : Mình	3
+P : Nó	1
+P : Tôi	1
+P : Vậy	2
+P : bao giờ	1
+P : bao nhiêu	2
+P : bây giờ	1
+P : bấy  giờ	1
+P : bấy giờ	1
+P : chúng ta	2
+P : chúng tôi	4
+P : cả	3
+P : gì	7
+P : họ	2
+P : kẻ	1
+P : lúc nào	1
+P : mình	33
+P : nào	6
+P : này	3
+P : nó	7
+P : sao	2
+P : ta	4
+P : thằng	1
+P : thế	1
+P : toàn bộ	1
+P : tôi	6
+P : tất cả	1
+P : vậy	1
+P : đâu	4
+P : đâu đó	1
+P : đây	6
+P : đó	15
+P : đấy	1
+P : ấy	15
+R : Bao nhiêu	1
+R : Chưa	1
+R : Chẳng	1
+R : Hãy	1
+R : Hơn	1
+R : Không	2
+R : Nào	1
+R : Quả tình	1
+R : Rất	3
+R : biết bao nhiêu	1
+R : bất cứ	2
+R : cho	2
+R : chưa	4
+R : chẳng	1
+R : chỉ	6
+R : chớ	1
+R : càng	4
+R : còn	5
+R : có thể	2
+R : cũng	5
+R : cứ	2
+R : dần	2
+R : hàng	1
+R : hơn	2
+R : hằng	2
+R : hết	1
+R : không	17
+R : không thể	3
+R : luôn	1
+R : lên	3
+R : lại	8
+R : lần lượt	1
+R : mới	3
+R : ngay	1
+R : nào	1
+R : nữa	7
+R : qua	1
+R : quá	3
+R : ra	4
+R : rất	5
+R : rồi	1
+R : sẽ	6
+R : thường	1
+R : thậm chí	1
+R : toàn	1
+R : từng	2
+R : vào	3
+R : vẫn	16
+R : về	1
+R : vừa	1
+R : Đâu	1
+R : Đừng	1
+R : đang	5
+R : đi	4
+R : đã	23
+R : được	11
+R : đến cùng	1
+R : đều	1
+R : đứt	1
+R : đừng	1
+RBKT : RBKT	1
+T : Riêng	1
+T : chính	1
+T : cả	3
+T : hở	5
+T : kia	1
+T : mà	2
+T : nghe	1
+T : rồi	2
+T : sao	1
+T : thôi	2
+T : trời	2
+T : vậy	3
+T : đi	1
+T : đâu	2
+T : đến	2
+T : ư	1
+V : *E*	1
+V : Có	3
+V : Kết nạp	1
+V : Nghe	1
+V : Phải	1
+V : Trở lại	1
+V : Viết	1
+V : Vui	1
+V : biết	3
+V : buồn	1
+V : bám	2
+V : băm	1
+V : bảo	1
+V : bắt	1
+V : bắt bí	1
+V : bắt bẻ	1
+V : bị	5
+V : bị thương	1
+V : bỏ	1
+V : bồi dưỡng	1
+V : bực bội	1
+V : bực dọc	1
+V : chiến thắng	1
+V : cho	1
+V : cháy	1
+V : châm	1
+V : chỉ huy	3
+V : chỉ đạo	1
+V : chịu thua	1
+V : chờ	1
+V : chữa	1
+V : coi	1
+V : còn	4
+V : có	19
+V : có mặt	1
+V : công tác	1
+V : cúi	1
+V : cướp	1
+V : cười	1
+V : cảm phục	1
+V : cắt	1
+V : cố gắng	1
+V : diễn	1
+V : diệt	1
+V : dành	2
+V : dầm	1
+V : ghi	2
+V : ghi chép	1
+V : giác ngộ	2
+V : giấu	1
+V : gây	1
+V : gắn bó	1
+V : gặm	1
+V : gọi	1
+V : hi sinh	2
+V : hiểu	2
+V : hiện	1
+V : hoành hành	1
+V : hỏi	2
+V : khát	1
+V : khóc	1
+V : không vận	1
+V : khẳng định	1
+V : kết nạp	2
+V : kể	1
+V : leo	1
+V : liên lạc	1
+V : là	19
+V : làm	3
+V : lành	1
+V : lánh	2
+V : lại sức	1
+V : lớn  mạnh	1
+V : lục chiến	1
+V : muốn	1
+V : mất	1
+V : ngồi	1
+V : nhìn	1
+V : nhận	1
+V : nuôi	1
+V : nuốt	1
+V : nâng	1
+V : nâng niu	1
+V : nên	1
+V : nói	7
+V : nói chuyện	1
+V : nảy sinh	1
+V : nằm	1
+V : nổ	1
+V : phải	8
+V : phấn đấu	2
+V : qua	1
+V : quen biết	1
+V : quên	1
+V : quần	1
+V : ra	2
+V : rèn luyện	1
+V : rơi	1
+V : rỉ	1
+V : rớt	1
+V : say	1
+V : so	1
+V : suy nghĩ	2
+V : sống	2
+V : sợ	2
+V : sụp đổ	1
+V : theo	1
+V : thiếu	1
+V : thương	1
+V : thương mến	1
+V : thấy	9
+V : thắng	2
+V : tin yêu	1
+V : tiếc	1
+V : tiếp thu	1
+V : trách	1
+V : trôi	1
+V : trôi dạt	1
+V : trả lời	2
+V : trở lại	1
+V : trở ra	1
+V : trở thành	1
+V : trụ	2
+V : trụ bám	1
+V : tìm	1
+V : tạm biệt	1
+V : tạo	1
+V : tập kích	1
+V : tỏ	1
+V : tốt nghiệp	1
+V : tồn tại	1
+V : tổn thương	1
+V : tự nhủ	1
+V : vui	3
+V : vào	5
+V : vũ trang	1
+V : xa cách	1
+V : xung phong	1
+V : xót thương	1
+V : xảy	2
+V : đi	4
+V : đáng	1
+V : đánh	1
+V : đâm	1
+V : đè	1
+V : đòi hỏi	2
+V : đói	2
+V : được	4
+V : đấu tranh	5
+V : đến	5
+V : để	1
+V : đọc	1
+V : đổ	1
+V : động viên	1
+V : đục khoét	1
+V : đứng	2
+V : ấp ủ	1
+V : ở	2
+V : ủng hộ	1
+X : Hình như	1
+X : Phải chăng	1
+X : Thì ra	1
+X : Tại sao	4
+X : Vì sao	2
+X : kia mà	1
+X : thật ra	2
+X : tại sao	1
+X : vì sao	4
+X : Đành rằng	1

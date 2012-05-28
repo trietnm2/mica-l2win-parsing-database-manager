@@ -1,0 +1,643 @@
+! : !	5
+" : "	21
+, : ,	71
+. : .	84
+... : ...	14
+.... : ...	1
+: : :	10
+; : ;	1
+? : ?	5
+A : Bất ngờ	1
+A : Gần	1
+A : Hơn thua	1
+A : an tâm	1
+A : buồn	1
+A : bé	1
+A : bình thường	1
+A : bất chính	3
+A : bất khả kháng	1
+A : bất ngờ	1
+A : bế tắc	1
+A : cam go	1
+A : chính thức	1
+A : chính xác	1
+A : chói	1
+A : chất phác	1
+A : chậm	1
+A : chắc	3
+A : chắc chắn	3
+A : cũ	1
+A : cạnh	1
+A : duy nhất	2
+A : dạn dĩ	1
+A : dễ	2
+A : ghê gớm	1
+A : gia trưởng	1
+A : gần	1
+A : hai lòng	1
+A : hay	1
+A : hiền thục	1
+A : hối hả	2
+A : hợp lý	1
+A : khác	5
+A : khó	2
+A : khó khăn	2
+A : khôn khéo	1
+A : khắp	1
+A : khỏe	1
+A : kiên nhẫn	1
+A : liền	1
+A : liều	1
+A : lâu dài	1
+A : lép vế	1
+A : lòng vòng	1
+A : mộc mạc	1
+A : mới	2
+A : ngoan	1
+A : ngược	2
+A : ngửa	1
+A : nhanh	1
+A : nhiều	5
+A : nhẹ nhàng	1
+A : nhợt nhạt	1
+A : phiền phức	1
+A : phải	5
+A : quan trọng	1
+A : quái đản	1
+A : quí	1
+A : rõ	1
+A : rắc rối	1
+A : san sát	1
+A : sau	4
+A : sáng tỏ	1
+A : sát	2
+A : sợ hãi	1
+A : tay phải	1
+A : thân	1
+A : thẳng	1
+A : trên	1
+A : trăng hoa	1
+A : trước	1
+A : trực tiếp	1
+A : tối	3
+A : vui	1
+A : âm thầm	1
+A : êm ấm	1
+A : ít	1
+A : ôn hòa	1
+A : đen	1
+A : đàng hoàng	1
+A : đông	1
+A : đúng	1
+A : đầu tiên	1
+A : ồ ạt	1
+C : Hơn nữa	1
+C : Mặt khác	1
+C : Như vậy	2
+C : Nhưng	1
+C : Nếu	2
+C : Tuy nhiên	4
+C : Và	2
+C : còn	2
+C : do	1
+C : hay	5
+C : hoặc	2
+C : là	4
+C : mà	2
+C : như	5
+C : như vậy	1
+C : nhưng	1
+C : nên	10
+C : nếu	4
+C : rằng	1
+C : rồi	2
+C : thì	9
+C : và	24
+E : Bởi	1
+E : Do	1
+E : Qua	2
+E : Sau	3
+E : Theo	1
+E : Trước	1
+E : Vì	1
+E : bằng	1
+E : cho	7
+E : của	12
+E : do	1
+E : dù sao	1
+E : dưới	1
+E : ngoài	1
+E : qua	7
+E : ra	1
+E : sang	1
+E : theo	4
+E : trong	8
+E : trên	1
+E : tại	2
+E : từ	2
+E : vào	10
+E : vì	1
+E : về	4
+E : với	12
+E : đến	5
+E : để	10
+E : ở	2
+L : Các	1
+L : Những	2
+L : các	15
+L : mọi	3
+L : một số	2
+L : những	7
+L : vài	2
+M : 10	1
+M : 15	1
+M : 30	1
+M : Hai	1
+M : II	1
+M : hai	6
+M : một	12
+M : năm	1
+N : Ba	1
+N : Bên	1
+N : Con cái	1
+N : Cuộc đời	1
+N : Kết quả	1
+N : Máu ghen	1
+N : Mục đích	1
+N : Người	1
+N : Thông tin	1
+N : Thất bại	1
+N : Thủ phạm	1
+N : Trời	1
+N : Tâm lý	1
+N : Tên	3
+N : Việc	3
+N : anh	3
+N : biển	1
+N : bà	6
+N : bài	1
+N : bên	3
+N : bí ẩn	1
+N : bước	1
+N : chiến thắng	1
+N : chuyện	6
+N : cháu	1
+N : chị	3
+N : chồng	2
+N : chủ	1
+N : chủ trương	1
+N : chủng loại	1
+N : chừng mực	1
+N : con	1
+N : cuộc	3
+N : cuộc sống	2
+N : cà phê	2
+N : cách	3
+N : cán bộ	1
+N : công trình phụ	1
+N : công ty	2
+N : công tác	1
+N : căn nguyên	1
+N : cơ quan	2
+N : cầu	1
+N : cửa hàng	1
+N : danh dự	1
+N : diện	1
+N : dạng	1
+N : dải phân cách	3
+N : dụng ý	1
+N : dữ liệu	1
+N : gia đình	3
+N : giá	1
+N : giọng	1
+N : giờ	1
+N : giữa	1
+N : hiện	1
+N : hiệu	1
+N : hiệu quả	2
+N : hoàn cảnh	1
+N : hòm thư	1
+N : hạnh phúc	1
+N : khi	3
+N : khoảng	3
+N : khoảng cách	1
+N : khu	1
+N : khu phố	1
+N : kiểu	1
+N : kẻ	5
+N : kế	1
+N : kế hoạch	2
+N : kỷ niệm	1
+N : lái	1
+N : lãnh đạo	1
+N : lòng	1
+N : lúc	2
+N : lần	1
+N : lỗi	2
+N : lời	1
+N : máy	2
+N : mũ	2
+N : mưu	1
+N : mưu chước	1
+N : mắt	1
+N : mồi	1
+N : một cách	2
+N : mục đích	1
+N : ngoài	1
+N : ngoại tỉnh	1
+N : ngày	2
+N : ngõ	5
+N : ngõ cụt	1
+N : người	9
+N : nhau	5
+N : nhà	14
+N : nhà hàng	3
+N : nhà nghỉ	1
+N : nhà riêng	1
+N : nhân viên	1
+N : nhận định	1
+N : nơi	3
+N : nội thành	2
+N : phép	1
+N : phía	1
+N : phút	1
+N : phố	4
+N : quán	3
+N : quãng	1
+N : quần bò	1
+N : ruột thịt	1
+N : ràng buộc	1
+N : rắc rối	1
+N : sau	1
+N : sách	1
+N : sự nghiệp	1
+N : tai	2
+N : tay	1
+N : thám tử	16
+N : tháng	1
+N : thư	3
+N : thất bại	1
+N : thể diện	1
+N : thời gian	3
+N : thủ phạm	8
+N : thứ	2
+N : thức ăn	1
+N : tin	3
+N : tiếng nói	1
+N : trường hợp	1
+N : trần	1
+N : trọng lượng	1
+N : tuyến	2
+N : tuổi	1
+N : tài sản	1
+N : tác giả	2
+N : tên	10
+N : tình	1
+N : tình hình	1
+N : tính	1
+N : tính cách	1
+N : tính mạng	1
+N : tư trang	1
+N : tổ	1
+N : việc	3
+N : vành	1
+N : văn phòng	1
+N : vấn đề	1
+N : vợ	21
+N : vợ con	2
+N : vụ	1
+N : xe	8
+N : Ông	9
+N : áo	10
+N : âm mưu	1
+N : ông	19
+N : ôtô	2
+N : ý chí	1
+N : Điều	2
+N : điều	1
+N : điện	2
+N : điện thoại	2
+N : đuôi	1
+N : đèn	1
+N : đường	6
+N : đại diện	1
+N : đầu	1
+N : đầu mối	1
+N : đằng	2
+N : địa chỉ	3
+N : đối tượng	3
+NP : *E*	19
+NP : *T*	6
+Nb : container	1
+Nc : bà	4
+Nc : con	1
+Nc : căn	1
+Nc : lá	1
+Nc : ngôi	1
+Nc : sự	3
+Nc : Ông	6
+Nc : ông	34
+Nc : đoạn	1
+Np : Chương	36
+Np : Chương Dương	1
+Np : Dream	1
+Np : Gia Lâm	1
+Np : Huế	1
+Np : Hà Nội	1
+Np : Hùng	20
+Np : Hạ Hồi	1
+Np : Học	4
+Np : Kim	8
+Np : Liên Trì	1
+Np : Lý Thường Kiệt	1
+Np : Lương Thế Vinh	1
+Np : Nam	5
+Np : Nguyễn Du	1
+Np : Quang Trung	1
+Np : Trần Hưng Đạo	1
+Np : Trời	1
+Np : Việt	1
+Np : Đức	1
+Nu : phút	1
+Nu : tiếng	1
+P : Hắn	3
+P : Họ	1
+P : Ngày mai	1
+P : Nó	1
+P : Tôi	4
+P : Vậy	4
+P : ai	3
+P : bao giờ	3
+P : chúng	1
+P : chúng ta	1
+P : gì	3
+P : hắn	8
+P : họ	5
+P : kia	2
+P : mình	2
+P : nào	3
+P : này	18
+P : nó	3
+P : ta	5
+P : thằng	1
+P : tôi	4
+P : vậy	1
+P : Đây	3
+P : đâu	1
+P : đây	2
+P : đó	7
+P : ấy	1
+R : Có lẽ	1
+R : Không	1
+R : Luôn	2
+R : chưa	1
+R : chỉ	1
+R : càng	1
+R : còn	5
+R : có thể	4
+R : cùng	1
+R : cũng	11
+R : cứ	1
+R : dần	1
+R : hẳn	1
+R : khá	2
+R : không	25
+R : không thể	3
+R : luôn	1
+R : lên	1
+R : lại	7
+R : lập tức	2
+R : mới	1
+R : nữa	5
+R : quá	2
+R : ra	3
+R : rất	8
+R : rồi	1
+R : sang	1
+R : sắp	1
+R : sẽ	10
+R : thường	1
+R : thậm chí	2
+R : thỉnh thoảng	1
+R : vào	1
+R : vô cùng	1
+R : vừa	7
+R : đang	8
+R : đi	1
+R : đã	10
+R : được	3
+R : đều	2
+R : đồng thời	1
+R : đừng	2
+T : cho	1
+T : chính	2
+T : mà	1
+T : ngay	3
+T : nhé	1
+T : sao	1
+T : thôi	2
+V : *E*	1
+V : Gọi	1
+V : Muốn	1
+V : Nhận dạng	1
+V : Phán đoán	1
+V : Rượt	1
+V : Tiến	1
+V : Về	1
+V : Xong	1
+V : biết	8
+V : bám	4
+V : bán	1
+V : bí mật	1
+V : bắn	3
+V : bắt nguồn	1
+V : bị	5
+V : bỏ	1
+V : canh chừng	1
+V : chia tay	1
+V : chiến đấu	1
+V : cho	1
+V : chui	1
+V : chuyển	2
+V : chuyển hướng	1
+V : chán	1
+V : chìm	1
+V : chạy	3
+V : chấm dứt	1
+V : chấp nhận	1
+V : chọn	1
+V : chờ	2
+V : cân nhắc	1
+V : có	18
+V : có mặt	3
+V : có nghĩa	1
+V : công khai	1
+V : cắt	2
+V : cặp bồ	1
+V : cố tình	1
+V : cố định	1
+V : di động	1
+V : dùng	2
+V : dặn	1
+V : dọa nạt	1
+V : dừng	2
+V : e ngại	1
+V : ghen	1
+V : ghen tuông	2
+V : ghê gớm	1
+V : giùm	1
+V : giúp	1
+V : giải quyết	2
+V : giấu	2
+V : giật mình	1
+V : gặp	2
+V : gặp gỡ	1
+V : gọi	3
+V : gửi	1
+V : hiểu	1
+V : hóa giải	1
+V : hỏi	2
+V : hốt hoảng	1
+V : khuyên	1
+V : khẳng định	1
+V : khỏi	2
+V : khủng bố	9
+V : kiêng dè	1
+V : kiểm tra	1
+V : kêu	1
+V : kẻ	10
+V : kể	2
+V : lao	1
+V : liên hệ	1
+V : liên quan	1
+V : là	22
+V : làm	6
+V : lìa	1
+V : lật	1
+V : lọt	1
+V : lộ	2
+V : lựa chọn	1
+V : mang	2
+V : mua	1
+V : mua bán	1
+V : mua sắm	1
+V : muốn	4
+V : mất	1
+V : mặc	1
+V : nghi ngờ	2
+V : nghi vấn	1
+V : nghĩ	1
+V : ngó nghiêng	1
+V : ngồi	3
+V : ngờ	1
+V : nhận	2
+V : nhận lời	1
+V : nhờ	2
+V : nên	3
+V : nói	6
+V : nảy sinh	1
+V : nằm	1
+V : nổ	1
+V : phát hiện	1
+V : phân tích	1
+V : phóng	2
+V : phù hợp	1
+V : phải	10
+V : phản ứng	2
+V : phấn đấu	1
+V : phục vụ	1
+V : quan hệ	3
+V : quay	5
+V : quen	1
+V : quyết định	1
+V : ra	4
+V : rút	2
+V : rượt	2
+V : rẽ	3
+V : sang	3
+V : soi mói	1
+V : suy	1
+V : sống	1
+V : sợ	2
+V : sửa	2
+V : tan tầm	1
+V : tham mưu	1
+V : thay	1
+V : theo dõi	7
+V : thoát	1
+V : thuê	1
+V : thì thào	1
+V : thông báo	1
+V : thù hận	1
+V : thú nhận	1
+V : thăm	1
+V : thăm dò	1
+V : thấy	2
+V : thở phào	1
+V : thử	3
+V : thực hiện	1
+V : tiếc	2
+V : tiến	1
+V : tiếp theo	2
+V : toại nguyện	1
+V : trao đổi	1
+V : tránh	1
+V : tâm sự	1
+V : tìm	1
+V : tăng tốc	1
+V : tấn công	3
+V : tặng	1
+V : tỏ	1
+V : tốn kém	1
+V : tổn hại	1
+V : tới	1
+V : vào	1
+V : vòng	3
+V : vùng	1
+V : vướng	1
+V : vượt	1
+V : vận động	1
+V : về	5
+V : xem	1
+V : xin	1
+V : xung phong	1
+V : xuyên	1
+V : xuất phát	1
+V : xác định	1
+V : xô đẩy	1
+V : xấu hổ	1
+V : yểm trợ	1
+V : ám chỉ	1
+V : ép	1
+V : ăn thông	1
+V : ăn ở	1
+V : Đuổi	1
+V : Đợi	1
+V : đa mang	1
+V : đe dọa	1
+V : đem	1
+V : đi	7
+V : điều tra	1
+V : đoàn tụ	1
+V : đoán	1
+V : đuổi	4
+V : đáng	1
+V : đánh	1
+V : đánh ghen	1
+V : đưa	1
+V : được	2
+V : đạt	1
+V : đến	3
+V : đổ vỡ	1
+V : đội	1
+V : đột nhập	1
+V : đỡ	1
+V : đứng	1
+V : ảnh hưởng	1
+V : ở	7
+X : c ó lẽ	1
+X : chẳng qua	1
+X : có vẻ	2
+X : như vậy	1
+X : ra sao	2
+X : thật ra	1

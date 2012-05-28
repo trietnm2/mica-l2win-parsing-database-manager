@@ -1,0 +1,3794 @@
+<s id = "1">
+SQ(TTL)
+	NP(SUB)
+		N(H)
+			 Môi giới
+		V
+			 mại dâm
+		NP
+			N(H)
+				 người
+			AP
+				R
+					 chưa
+				A(H)
+					 thành niên
+		PP(LOC)
+			E(H)
+				 ở
+			NP
+				Np(H)
+					 Bình Dương
+		:
+			 :
+		VP
+			V(H)
+				 Có
+			VP
+				VP
+					V(H)
+						 sót
+					NP(DOB)
+						N(H)
+							 người
+				,
+					 ,
+				VP
+					V(H)
+						 lọt
+					NP(DOB)
+						N(H)
+							 tội
+	?
+		 ?
+</s>
+<s id = "2">
+S
+	PP(TMP)
+		E(H)
+			 Từ
+		NP
+			N(H)
+				 ngày
+			M
+				 30
+			-
+				 -
+			M
+				 3
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 Tòa án
+		N
+			 nhân dân
+		NP
+			N(H)
+				 tỉnh
+			Np
+				 Bình Dương
+	VP
+		R
+			 đã
+		V(H)
+			 đưa
+		R
+			 ra
+		VP
+			V(H)
+				 xét xử
+			V(H)
+				 sơ thẩm
+			NP(DOB)
+				N(H)
+					 vụ án
+				PP
+					E(H)
+						 về
+					NP
+						M
+							 một
+						N(H)
+							 đường dây
+						N
+							 môi giới
+						VP
+							V(H)
+								 mại dâm
+							,
+								 ,
+							V(H)
+								 mua dâm
+							NP(DOB)
+								N(H)
+									 người
+								AP
+									R
+										 chưa
+									A(H)
+										 thành niên
+						VP
+							V(H)
+								 có
+							NP(DOB)
+								N(H)
+									 qui mô
+								A
+									 lớn
+							PP(LOC)
+								E(H)
+									 trên
+								NP
+									N(H)
+										 địa bàn
+									N
+										 tỉnh
+	.
+		 .
+</s>
+<s id = "3">
+S
+	NP(SUB)
+		N(H)
+			 Điều
+		A
+			 bất ngờ
+		VP
+			V(H)
+				 gây
+			A
+				 xôn xao
+			NP(DOB)
+				N(H)
+					 dư luận
+	VP
+		R
+			 đã
+		V(H)
+			 xảy
+		R
+			 ra
+		PP(TMP)
+			T
+				 ngay
+			E(H)
+				 trong
+			NP
+				N(H)
+					 ngày
+				VP
+					V(H)
+						 khai mạc
+					N
+						 phiên tòa
+	.
+		 .
+</s>
+<s id = "4">
+S
+	NP(SUB)
+		P(H)
+			 Đó
+	VP
+		V(H)
+			 là
+		NP
+			N(H)
+				 việc
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 luật sư
+						Np
+							 Phạm Hữu Tình
+						LBKT
+							 LBKT
+						VP
+							V(H)
+								 bào chữa
+							PP(IOB)
+								E(H)
+									 cho
+								NP
+									N(H)
+										 bị cáo
+									Np
+										 Nguyễn Thị Mửng
+						RBKT
+							 RBKT
+					VP
+						R
+							 đã
+						V(H)
+							 tung
+						R
+							 ra
+						NP(DOB)
+							L
+								 một số
+							N(H)
+								 thông tin
+							VP
+								V(H)
+									 cho
+								V
+									 thấy
+								SBAR
+									S
+										NP(SUB)
+											N(H)
+												 vụ án
+										VP
+											V(H)
+												 có
+											NP(DOB)
+												N(H)
+													 khả năng
+												VP
+													V(H)
+														 bỏ
+													VP
+														VP
+															V(H)
+																 lọt
+															NP(DOB)
+																N(H)
+																	 người
+														,
+															 ,
+														VP
+															V(H)
+																 lọt
+															NP(DOB)
+																N(H)
+																	 tội
+												VP
+													V(H)
+														 liên quan
+													PP
+														E(H)
+															 đến
+														NP
+															L
+																 một số
+															N(H)
+																 cán bộ
+															N
+																 nhà nước
+															,
+																 ,
+															PP
+																E(H)
+																	 trong
+																NP
+																	P(H)
+																		 đó
+																	VP
+																		V(H)
+																			 có
+																		SBAR
+																			S
+																				NP(SUB)
+																					Nc(H)
+																						 ông
+																					Np
+																						 Phương
+																				,
+																					 ,
+																				VP
+																					VP
+																						V(H)
+																							 công tác
+																						PP(LOC)
+																							E(H)
+																								 tại
+																							NP
+																								N(H)
+																									 Viện Kiểm sát
+																								LBKT
+																									 LBKT
+																								NP
+																									Ny(H)
+																										 VKS
+																								RBKT
+																									 RBKT
+																								NP
+																									N(H)
+																										 nhân dân
+																									NP
+																										N(H)
+																											 tỉnh
+																										Np
+																											 Bình Dương
+																				,
+																					 ,
+																				VP
+																					R
+																						 đã
+																					V(H)
+																						 đi
+																					V
+																						 mua dâm
+																					NP(DOB)
+																						N(H)
+																							 người
+																						AP
+																							R(H)
+																								 chưa
+																							A(H)
+																								 thành niên
+																				C
+																					 nhưng
+																				VP
+																					R
+																						 không
+																					V(H)
+																						 bị
+																					VP
+																						V(H)
+																							 khởi tố
+																						,
+																							 ,
+																						V(H)
+																							 truy tố
+	.
+		 .
+</s>
+<s id = "5">
+S
+	VP(ADV)
+		A
+			 Cùng
+		V(H)
+			 mua dâm
+		NP(DOB)
+			N(H)
+				 người
+			A
+				 vị thành niên
+	,
+		 ,
+	C
+		 nhưng
+	S
+		NP(SUB)
+			N(H)
+				 người
+		VP
+			V(H)
+				 bị
+			NP(DOB)
+				N(H)
+					 tội
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 người
+		AP(PRD)
+			A(H)
+				 vô can
+	.
+		 .
+</s>
+<s id = "6">
+S
+	NP(TMP)
+		T
+			 Ngay
+		N(H)
+			 ngày
+		VP
+			V(H)
+				 khai mạc
+			N
+				 phiên tòa
+	,
+		 ,
+	PP(TMP)
+		E(H)
+			 sau
+		NP
+			N(H)
+				 phần
+			VP
+				V(H)
+					 thẩm tra
+				NP(DOB)
+					N(H)
+						 lý lịch
+					NP
+						L
+							 các
+						N(H)
+							 bị cáo
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 luật sư
+		Np
+			 Nguyễn Hữu Tình
+		LBKT
+			 LBKT
+		VP
+			V(H)
+				 bào chữa
+			PP(IOB)
+				E(H)
+					 cho
+				NP
+					Np(H)
+						 Nguyễn Thị Mửng
+					,
+						 ,
+					NP
+						N(H)
+							 bị cáo
+						A
+							 chính
+						PP
+							E(H)
+								 của
+							NP
+								N
+									 vụ án
+		RBKT
+			 RBKT
+	VP
+		R
+			 đã
+		V(H)
+			 yêu cầu
+		VP
+			V(H)
+				 hoãn
+			NP(DOB)
+				N(H)
+					 phiên tòa
+				PP(PRP)
+					E(H)
+						 để
+					VP
+						V(H)
+							 điều tra
+						V(H)
+							 bổ sung
+				SBAR(PRP)
+					E(H)
+						 vì
+					S
+						NP(SUB)
+							N(H)
+								 vụ án
+						VP
+							V(H)
+								 có
+							NP(DOB)
+								N(H)
+									 dấu hiệu
+								VP
+									V(H)
+										 để
+									VP
+										VP
+											V(H)
+												 lọt
+											NP(DOB)
+												N(H)
+													 người
+										,
+											 ,
+										VP
+											V(H)
+												 lọt
+											NP(DOB)
+												N(H)
+													 tội
+	.
+		 .
+</s>
+<s id = "7">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Cơ sở
+			PP(PRP)
+				E(H)
+					 để
+				VP
+					V(H)
+						 khẳng định
+					NP(DOB)
+						N(H)
+							 điều
+						P
+							 đó
+		,
+			 ,
+		PP(ADV)
+			E(H)
+				 theo
+			NP
+				N(H)
+					 luật sư
+				Np
+					 Tình
+		,
+			 ,
+		VP
+			V(H)
+				 nằm
+			PP
+				E(H)
+					 ở
+				NP(DOB)
+					N(H)
+						 vụ
+					V
+						 mua bán
+					NP(DOB)
+						N(H)
+							 dâm
+					VP
+						V(H)
+							 bị
+						SBAR
+							S
+								NP(SUB)
+									 *E*
+								VP
+									V(H)
+										 bắt
+									NP(DOB)
+										N(H)
+											 quả tang
+									PP
+										PP(LOC)
+											E(H)
+												 ở
+											NP
+												N(H)
+													 khách sạn
+												Np
+													 Ngọc Vân
+												M
+													 2
+										PP
+											E(H)
+												 với
+											NP
+												NP
+													M
+														 bốn
+													N(H)
+														 cô
+													N
+														 gái
+													VP
+														V(H)
+															 bán dâm
+												C
+													 và
+												NP
+													M
+														 bốn
+													N(H)
+														 khách
+													V
+														 mua dâm
+	,
+		 ,
+	C
+		 nhưng
+	S
+		PP(LOC)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 cáo trạng
+		NP(SUB)
+			R
+				 không
+			M
+				 một
+			N(H)
+				 dòng
+		VP
+			V(H)
+				 đề cập
+			PP
+				E(H)
+					 đến
+				NP
+					L
+						 những
+					N(H)
+						 đối tượng
+					VP
+						V(H)
+							 mua dâm
+					P
+						 này
+	,
+		 ,
+	S
+		PP(TPC)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 khi
+				P
+					 đó
+		C
+			 thì
+		NP(SUB)
+			M
+				 ba
+			E
+				 trong
+			M
+				 bốn
+			N(H)
+				 cô
+			N
+				 gái
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 trẻ
+				A
+					 vị thành niên
+				LBKT
+					 LBKT
+				S
+					NP(TMP)
+						N(H)
+							 khi
+						VP
+							V(H)
+								 xảy
+							R
+								 ra
+							NP(DOB)
+								Nc(H)
+									 vụ
+								N
+									 việc
+					S
+						NP(SUB)
+							Ny(H)
+								 H
+						.
+							 .
+						NP(PRD)
+							M
+								 15
+							N(H)
+								 tuổi
+					,
+						 ,
+					S
+						NP(SUB)
+							Ny(H)
+								 P
+						.
+							 .
+						NP(PRD)
+							M
+								 14
+							N(H)
+								 tuổi
+					,
+						 ,
+					S
+						NP(SUB)
+							Ny(H)
+								 N
+						.
+							 .
+						NP(PRD)
+							M
+								 13
+							N(H)
+								 tuổi
+							-
+								 -
+							VP
+								V(H)
+									 có
+								SBAR
+									S
+										NP(SUB)
+											N(H)
+												 tài liệu
+											PP(LOC)
+												E(H)
+													 trong
+												NP
+													N(H)
+														 hồ sơ
+										VP
+											V(H)
+												 nêu
+											NP(DOB)
+												R
+													 chỉ
+												M
+													 12
+												N(H)
+													 tuổi
+				RBKT
+					 RBKT
+	.
+		 .
+</s>
+<s id = "8">
+SQ
+	P
+		 Vậy
+	NP(SUB)
+		M
+			 bốn
+		N(H)
+			 người
+		N
+			 khách
+		VP
+			V(H)
+				 mua dâm
+		P
+			 đó
+	VP
+		V(H)
+			 là
+		NP(DOB)
+			P(H)
+				 ai
+	.
+		 ?
+</s>
+<s id = "9">
+S
+	PP(MNR)
+		E(H)
+			 Theo
+		NP
+			N(H)
+				 cáo trạng
+	,
+		 ,
+	NP(TMP)
+		N(H)
+			 khoảng
+		QP
+			M
+				 14
+			Nu(H)
+				 g
+			NP
+				N(H)
+					 ngày
+				M
+					 8
+				-
+					 -
+				M
+					 12
+				-
+					 –
+				M
+					 2001
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 bị cáo
+		NP
+			Np(H)
+				 Lê Minh Quang
+			C
+				 và
+			Np(H)
+				 Lê Thị Thắm
+	VP
+		V(H)
+			 chở
+		NP(DOB)
+			M
+				 bốn
+			N(H)
+				 cô
+			N
+				 gái
+			,
+				 ,
+			PP
+				E(H)
+					 trong
+				NP
+					P(H)
+						 đó
+					VP
+						V(H)
+							 có
+						NP(DOB)
+							M
+								 hai
+							N(H)
+								 người
+							AP
+								R
+									 chưa
+								A(H)
+									 thành niên
+			,
+				 ,
+			PP(LOC)
+				E(H)
+					 đến
+				NP
+					N(H)
+						 khách sạn
+					Np
+						 Ngọc Vân
+					M
+						 2
+					PP(PRP)
+						E(H)
+							 để
+						VP
+							V(H)
+								 bán dâm
+					C
+						 thì
+					VP
+						V(H)
+							 bị
+						SBAR
+							S
+								NP(SUB)
+									N(H)
+										 công an
+								VP
+									V(H)
+										 bắt
+									R
+										 quả tang
+	.
+		 .
+</s>
+<s id = "10">
+S
+	NP(SUB)
+		N(H)
+			 Luật sư
+		Np
+			 Phạm Hữu Tình
+	VP
+		VP
+			V(H)
+				 trích
+			NP(DOB)
+				N(H)
+					 bút lục
+				PP
+					E(H)
+						 của
+					NP
+						N(H)
+							 cơ quan
+						NP
+							N(H)
+								 cảnh sát
+							V
+								 điều tra
+		VP
+			V(H)
+				 cho
+			V
+				 thấy
+			SBAR
+				S
+					NP(SUB)
+						M
+							 bốn
+						N(H)
+							 đối tượng
+						VP
+							VP
+								V(H)
+									 có
+								NP(DOB)
+									N(H)
+										 hành vi
+									VP
+										V(H)
+											 đi
+										V
+											 mua dâm
+							VP
+								V(H)
+									 bị
+								VP
+									V(H)
+										 bắt
+									R
+										 quả tang
+									NP(TMP)
+										N(H)
+											 hôm
+										P
+											 đó
+									VP
+										V(H)
+											 là
+										NP
+											L
+												 các
+											Nc(H)
+												 ông
+											Np
+												 Lý
+											,
+												 ,
+											Np
+												 Thành
+											,
+												 ,
+											Np
+												 Thu
+											C
+												 và
+											Np
+												 Phương
+	.
+		 .
+</s>
+<s id = "11">
+S
+	NP(SUB)
+		N(H)
+			 Bút lục
+		NP
+			N(H)
+				 lời
+			V
+				 khai
+			PP
+				E(H)
+					 của
+				NP
+					Np
+						 Lê Minh Thành
+					-
+						 -
+					NP
+						M
+							 một
+						E
+							 trong
+						M
+							 bốn
+						N(H)
+							 đối tượng
+						VP
+							V(H)
+								 đi
+							V
+								 mua dâm
+				-
+					 -
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		VP
+			V(H)
+				 đi
+			A
+				 cùng
+			VP
+				V(H)
+					 có
+				NP(DOB)
+					Nc(H)
+						 ông
+					Np
+						 Phương
+					,
+						 ,
+					NP(TMP)
+						N(H)
+							 hiện
+					VP
+						R
+							 đang
+						V(H)
+							 công tác
+						PP(LOC)
+							E(H)
+								 tại
+							NP
+								Ny(H)
+									 VKS
+								N
+									 nhân dân
+								NP
+									N(H)
+										 tỉnh
+									Np
+										 Bình Dương
+	.
+		 .
+</s>
+<s id = "12">
+S
+	S
+		PP(MNR)
+			E(H)
+				 Theo
+			VP
+				V(H)
+					 tìm hiểu
+				PP
+					E(H)
+						 của
+					NP
+						P(H)
+							 chúng tôi
+		,
+			 ,
+		PP(SUB)
+			E(H)
+				 ngoài
+			NP
+				Nc(H)
+					 ông
+				Np
+					 Phương
+			R
+				 ra
+		VP
+			R
+				 còn
+			V(H)
+				 có
+			NP(DOB)
+				M
+					 một
+				N(H)
+					 đối tượng
+				VP
+					V(H)
+						 là
+					NP
+						NP
+							N(H)
+								 cán bộ
+							NP
+								N(H)
+									 ngành
+								N
+									 thuế
+						C
+							 và
+						NP
+							M
+								 hai
+							N(H)
+								 doanh nghiệp
+	C
+		 nhưng
+	S
+		NP(SUB)
+			Nc(H)
+				 bản
+			N
+				 cáo trạng
+		VP
+			R
+				 không
+			V(H)
+				 thấy
+			VP
+				V(H)
+					 đề cập
+				R
+					 đến
+	C
+		 và
+	S
+		AP(MDP)
+			A(H)
+				 tất nhiên
+		NP(SUB)
+			P(H)
+				 tất cả
+		VP
+			R
+				 đều
+			R
+				 không
+			V(H)
+				 bị
+			VP
+				V(H)
+					 khởi tố
+				,
+					 ,
+				V(H)
+					 truy tố
+				PP
+					E(H)
+						 trước
+					NP
+						N(H)
+							 pháp luật
+	.
+		 .
+</s>
+<s id = "13">
+S
+	NP(SUB)
+		N(H)
+			 Viện trưởng
+		Np
+			 Nguyễn Thành Thượng
+	VP
+		V(H)
+			 xác nhận
+		SBAR
+			S
+				S
+					NP(SUB)
+						L
+							 những
+						N(H)
+							 lời
+						V
+							 khai
+						NP
+							N(H)
+								 trên
+					VP
+						V(H)
+							 có
+						PP(TMP)
+							E(H)
+								 từ
+							NP
+								N(H)
+									 lúc
+								SBAR
+									S
+										NP(SUB)
+											N(H)
+												 vụ án
+										VP
+											V(H)
+												 xảy
+											R
+												 ra
+				C
+					 và
+				S
+					NP(SUB)
+						N(H)
+							 ông
+					VP
+						R
+							 cũng
+						V(H)
+							 được
+						V
+							 biết
+						SBAR
+							S
+								NP(SUB)
+									N(H)
+										 cơ quan
+									V
+										 điều tra
+								VP
+									R
+										 đã
+									V(H)
+										 kết luận
+	.
+		 .
+</s>
+<s id = "14">
+S
+	“
+		 ”
+	NP(ADV)
+		T
+			 Riêng
+		N(H)
+			 trường hợp
+		NP
+			Nc(H)
+				 ông
+			Np
+				 Phương
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					N(H)
+						 cơ quan
+					P
+						 tôi
+	,
+		 ,
+	NP(TMP)
+		N(H)
+			 trước mắt
+	NP(SUB)
+		N(H)
+			 cơ quan
+		V
+			 điều tra
+	VP
+		R
+			 chưa
+		V(H)
+			 xác định
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 có
+					VP
+						V(H)
+							 tham gia
+						PP
+							E(H)
+								 vào
+							NP
+								N(H)
+									 vụ
+								V
+									 mua dâm
+	.
+		 .
+</s>
+<s id = "15">
+S
+	S
+		NP(SUB)
+			 *T*
+		VP
+			V(H)
+				 Nhậu nhẹt
+	,
+		 ,
+	C
+		 rồi
+	S
+		PP(TMP)
+			E(H)
+				 sau
+			NP
+				P(H)
+					 đó
+		NP(SUB)
+			 *T*
+		VP
+			V(H)
+				 đi
+			VP
+				V(H)
+					 hát
+				NP(DOB)
+					N(H)
+						 karaoke
+				AP
+					A(H)
+						 chung
+					PP
+						E(H)
+							 với
+						NP
+							M
+								 ba
+							N(H)
+								 đối tượng
+							P
+								 kia
+				XP(MDP)
+					X(H)
+						 thì có
+	,
+		 ,
+	C
+		 nhưng
+	S
+		NP(TMP)
+			N(H)
+				 khi
+			VP
+				V(H)
+					 đến
+				NP(LOC)
+					N(H)
+						 chỗ
+					P
+						 đó
+		NP(SUB)
+			Nc(H)
+				 ông
+			Np
+				 Phương
+		VP
+			R
+				 chưa
+			V(H)
+				 vào
+			NP(DOB)
+				N(H)
+					 phòng
+	,
+		 ,
+	S
+		NP(TMP)
+			N(H)
+				 lúc
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 công an
+					VP
+						V(H)
+							 lập
+						NP(DOB)
+							N(H)
+								 biên bản
+		NP(SUB)
+			Nc(H)
+				 ông
+			Np
+				 Phương
+		VP
+			R
+				 cũng
+			R
+				 không
+			V(H)
+				 có mặt
+	.
+		 .
+</s>
+<s id = "16">
+S
+	C
+		 Tuy nhiên
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		VP
+			R
+				 cũng
+			R
+				 đã
+			V(H)
+				 kiểm điểm
+			PP
+				E(H)
+					 về
+				NP
+					N(H)
+						 việc
+					SBAR
+						S
+							NP(SUB)
+								Nc(H)
+									 ông
+								Np
+									 Phương
+							VP
+								VP
+									V(H)
+										 nhậu nhẹt
+								,
+									 ,
+								VP
+									V(H)
+										 đi
+									A
+										 chung
+								PP
+									E(H)
+										 với
+									NP
+										L
+											 các
+										N(H)
+											 đối tượng
+										V
+											 mua dâm
+		C
+			 và
+		VP
+			V(H)
+				 xử lý
+			NP(DOB)
+				N(H)
+					 kỷ luật
+				PP(MNR)
+					E(H)
+						 bằng
+					NP
+						N(H)
+							 hình thức
+						V
+							 cảnh cáo
+	”
+		 “
+	.
+		 .
+</s>
+<s id = "17">
+S
+	NP(SUB)
+		Nc(H)
+			 Ông
+		Np
+			 Nguyễn Thành Phương
+	VP
+		V(H)
+			 *E*
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				S(CND)
+					C
+						 Nếu
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 nói
+				C
+					 thì
+				S
+					NP(TMP)
+						P(H)
+							 bao giờ
+					NP(SUB)
+						P(H)
+							 tôi
+					VP
+						R
+							 cũng
+						V(H)
+							 nói
+						VP
+							V(H)
+								 có
+							NP(DOB)
+								N(H)
+									 lợi
+								PP
+									E(H)
+										 về
+									NP
+										N(H)
+											 phía
+										P
+											 mình
+		...
+			 ...
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "18">
+S
+	NP(TMP)
+		N(H)
+			 Sáng
+		M
+			 31
+		-
+			 -
+		M
+			 3
+	,
+		 ,
+	PP(ADV)
+		E(H)
+			 sau
+		NP
+			M
+				 hai
+			Nc(H)
+				 cuộc
+			N
+				 điện thoại
+	,
+		 ,
+	NP(SUB)
+		Nc(H)
+			 nhóm
+		N
+			 phóng viên
+		VP
+			V(H)
+				 dự
+			N
+				 tòa
+	VP
+		R
+			 đã
+		V(H)
+			 gặp
+		R
+			 được
+		NP(DOB)
+			Nc(H)
+				 ông
+			Np
+				 Nguyễn Thành Phương
+			,
+				 ,
+			NP
+				N(H)
+					 phó viện trưởng
+				NP
+					N(H)
+						 Viện
+					VP
+						V(H)
+							 Kiểm sát
+						N
+							 nhân dân
+						NP
+							N(H)
+								 tỉnh
+							Np
+								 Bình Dương
+	.
+		 .
+</s>
+<s id = "19">
+S
+	NP(SUB)
+		Nc(H)
+			 Ông
+		Np
+			 Phương
+	PP(TMP)
+		E(H)
+			 sau
+		NP
+			N(H)
+				 khi
+			VP
+				V(H)
+					 bắt tay
+				NP(DOB)
+					P
+						 từng
+					N(H)
+						 phóng viên
+					M
+						 một
+	VP
+		R
+			 đã
+		A
+			 từ tốn
+		V(H)
+			 nói
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				S
+					NP(SUB)
+						P(H)
+							 Tôi
+					VP
+						V(H)
+							 có
+						AP
+							A(H)
+								 cùng
+							NP
+								L
+									 mấy
+								N(H)
+									 anh em
+						VP
+							V(H)
+								 đi
+							PP
+								PP(LOC)
+									E(H)
+										 đến
+									NP
+										P(H)
+											 đó
+								PP(PRP)
+									E(H)
+										 để
+									VP
+										V(H)
+											 hát
+										NP(DOB)
+											N(H)
+												 karaoke
+				,
+					 ,
+				C
+					 nhưng
+				S
+					NP(SUB)
+						P(H)
+							 tôi
+					VP
+						V(H)
+							 khẳng định
+						SBAR
+							C
+								 là
+							S
+								NP(SUB)
+									P(H)
+										 mình
+								VP
+									R
+										 không
+									V(H)
+										 có
+									NP(DOB)
+										N(H)
+											 hành vi
+										V
+											 mua dâm
+									,
+										 ,
+									SBAR(PRP)
+										E(H)
+											 vì
+										C
+											 nếu
+										S
+											NP(SUB)
+												 *E*
+											VP
+												V(H)
+													 có
+										C
+											 thì
+										S
+											NP(SUB)
+												N(H)
+													 công an
+											VP
+												R
+													 đâu
+												V(H)
+													 để
+												NP(DOB)
+													P(H)
+														 tôi
+													AP(PRD)
+														A(H)
+															 yên
+													PP(TMP)
+														E(H)
+															 đến
+														NP
+															N(H)
+																 giờ phút
+															P
+																 này
+	.
+		 .
+</s>
+<s id = "20">
+S
+	PP(TMP)
+		E(H)
+			 Sau
+		NP
+			N(H)
+				 khi
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 vụ việc
+					VP
+						V(H)
+							 xảy
+						R
+							 ra
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 cơ quan
+	VP
+		R
+			 đã
+		V(H)
+			 tổ chức
+		VP
+			V(H)
+				 kiểm điểm
+			PP
+				E(H)
+					 về
+				NP
+					N(H)
+						 việc
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 đảng viên
+							VP
+								V(H)
+									 đi
+								R
+									 vào
+								NP(LOC)
+									L
+										 những
+									N(H)
+										 chỗ
+									AP
+										R
+											 không
+										A(H)
+											 lành mạnh
+	.
+		 .
+</s>
+<s id = "21">
+S
+	NP(TPC)
+		L
+			 Những
+		N(H)
+			 dư luận
+		VP
+			V(H)
+				 liên quan
+			PP
+				E(H)
+					 đến
+				NP
+					P(H)
+						 mình
+	NP(SUB)
+		P(H)
+			 tôi
+	VP
+		VP
+			R
+				 đã
+			V(H)
+				 giải trình
+		C
+			 và
+		VP
+			R
+				 đã
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 báo cáo
+				PP
+					E(H)
+						 với
+					NP
+						N(H)
+							 Viện Kiểm sát
+						NP
+							N(H)
+								 cấp
+							A
+								 trên
+	.
+		 .
+</s>
+<s id = "22">
+S
+	S
+		NP(SUB)
+			P(H)
+				 Mình
+		VP
+			R
+				 cũng
+			V(H)
+				 ở
+			NP(DOB)
+				N(H)
+					 cấp
+				N
+					 lãnh đạo
+		,
+			 ,
+		VP
+			V(H)
+				 phụ trách
+			V
+				 điều tra
+	,
+		 ,
+	C
+		 nhưng
+	S
+		PP(ADV)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 vụ
+				P
+					 này
+		PP(TMP)
+			E(H)
+				 từ
+			NP
+				N(H)
+					 khi
+				VP
+					V(H)
+						 có
+					NP
+						N(H)
+							 dư luận
+						,
+							 ,
+						N(H)
+							 tiếng tăm
+		C
+			 thì
+		NP(SUB)
+			P(H)
+				 mình
+		VP
+			R
+				 không
+			V(H)
+				 theo dõi
+	.
+		 .
+</s>
+<s id = "23">
+S
+	PP(PRP)
+		E(H)
+			 Để
+		AP
+			A(H)
+				 khách quan
+			R
+				 hơn
+	,
+		 ,
+	NP(TPC)
+		L
+			 các
+		N(H)
+			 vấn đề
+		VP
+			V(H)
+				 dính
+			PP
+				E(H)
+					 đến
+				NP(1)
+					P(H)
+						 tôi
+	,
+		 ,
+	NP(SUB)
+		 *T*
+	VP
+		V(H)
+			 đề nghị
+		NP(DOB)
+			N(H)
+				 anh em
+			N
+				 phóng viên
+		VP(IOB)
+			V(H)
+				 nên
+			VP
+				V(H)
+					 hỏi
+				NP(DOB)
+					N(H)
+						 viện trưởng
+					,
+						 ,
+					N(H)
+						 lãnh đạo
+					NP
+						N(H)
+							 cơ quan
+						V
+							 điều tra
+				,
+					 ,
+				SBAR(PRP)
+					E(H)
+						 vì
+					S(CND)
+						C
+							 nếu
+						NP(SUB)
+							 *T*
+						VP
+							V(H)
+								 nói
+					C
+						 thì
+					S
+						NP(TMP)
+							P(H)
+								 bao giờ
+						NP(SUB)
+							P(H)
+								 tôi
+						VP
+							R
+								 cũng
+							V(H)
+								 nói
+							VP
+								V(H)
+									 có
+								A
+									 lợi
+								PP
+									E(H)
+										 về
+									NP
+										N(H)
+											 phía
+										P
+											 mình
+				...
+					 ...
+				"
+					 "
+	.
+		 .
+</s>
+<s id = "24">
+S
+	S
+		NP(SUB)
+			L
+				 Các
+			N(H)
+				 phóng viên
+		VP
+			R
+				 đã
+			V(H)
+				 đặt
+			R
+				 ra
+			NP(DOB)
+				R
+					 khá
+				A
+					 nhiều
+				N(H)
+					 câu
+				V
+					 hỏi
+	,
+		 ,
+	C
+		 nhưng
+	S
+		NP(SUB)
+			Nc(H)
+				 ông
+			Np
+				 Phương
+		VP
+			VP
+				V(H)
+					 từ chối
+				V
+					 trả lời
+			C
+				 và
+			VP
+				V(H)
+					 nói
+				VP
+					R
+						 không
+					V(H)
+						 phản ứng
+					NP(DOB)
+						P(H)
+							 gì
+			SBAR(PRP)
+				E(H)
+					 dù
+				S
+					NP(SUB)
+						L
+							 những
+						N(H)
+							 vấn đề
+						VP
+							V(H)
+								 đặt
+							R
+								 ra
+					VP
+						V(H)
+							 ảnh hưởng
+						A
+							 trực tiếp
+						PP
+							E(H)
+								 đến
+							NP
+								N(H)
+									 uy tín
+								PP
+									E(H)
+										 của
+									NP
+										N(H)
+											 ông
+	.
+		 .
+</s>
+<s id = "25">
+S
+	T
+		 Thế
+	C
+		 nhưng
+	,
+		 ,
+	NP(SUB)
+		T
+			 ngay
+		T
+			 cả
+		Nc(H)
+			 ông
+		N
+			 viện trưởng
+		NP
+			Ny(H)
+				 VKS
+			N
+				 nhân dân
+			N
+				 tỉnh
+	VP
+		R
+			 cũng
+		R
+			 không thể
+		T
+			 nào
+		V(H)
+			 lý giải
+		R
+			 được
+		NP(DOB)
+			N(H)
+				 câu
+			V
+				 hỏi
+			SBAR
+				C
+					 mà
+				S
+					NP(SUB)
+						P(H)
+							 chúng tôi
+					VP
+						V(H)
+							 đặt
+						R
+							 ra
+						PP
+							E(H)
+								 đối với
+							NP
+								N(H)
+									 ông
+			:
+				 :
+			"
+				 "
+			SBAR
+				SQ
+					WHRP
+						X(H)
+							 Tại sao
+					NP(SUB)
+						 *E*
+					VP
+						VP
+							V(H)
+								 bắt
+							R
+								 quả tang
+							NP(DOB)
+								M
+									 bốn
+								N(H)
+									 cô
+								N
+									 gái
+								V
+									 bán dâm
+						C
+							 mà
+						VP
+							R
+								 chỉ
+							V(H)
+								 có
+							NP(DOB)
+								M
+									 ba
+								N(H)
+									 đối tượng
+								VP
+									V(H)
+										 đi
+									V
+										 mua dâm
+			?
+				 ?
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "26">
+S
+	AP(MDP)
+		A(H)
+			 Đặc biệt
+	,
+		 ,
+	PP(SUB)
+		E(H)
+			 trong
+		NP
+			N(H)
+				 vụ án
+			VP
+				R
+					 đang
+				V(H)
+					 được
+				SBAR
+					S
+						NP(SUB)
+							 *E*
+						VP
+							V(H)
+								 xét xử
+	VP
+		V(H)
+			 có
+		SBAR
+			S
+				S
+					NP(SUB)
+						M
+							 hai
+						N(H)
+							 bị cáo
+					VP
+						V(H)
+							 đi
+						VP
+							V(H)
+								 mua dâm
+				S(PV)
+					NP(SUB)
+						M
+							 hai
+						N(H)
+							 cô
+						N
+							 gái
+						AP
+							R
+								 chưa
+							A(H)
+								 thành niên
+					C
+						 thì
+					VP
+						V(H)
+							 bị
+						SBAR
+							S
+								NP(SUB)
+									 *E*
+								VP
+									V(H)
+										 khởi tố
+									C
+										 và
+									V(H)
+										 truy tố
+	.
+		 .
+</s>
+<s id = "27">
+S
+	C
+		 Nhưng
+	NP(SUB)
+		NP
+			R
+				 cũng
+			M
+				 hai
+			Nc(H)
+				 cô
+			N
+				 gái
+			AP
+				R
+					 chưa
+				A(H)
+					 thành niên
+			NP
+				P(H)
+					 này
+			LBKT
+				 LBKT
+			PP
+				E(H)
+					 trong
+				NP
+					N(H)
+						 số
+					NP
+						M
+							 bốn
+						N(H)
+							 cô
+			RBKT
+				 RBKT
+		-
+			 -
+		NP
+			M
+				 bốn
+			N(H)
+				 đối tượng
+			LBKT
+				 LBKT
+			NP
+				Np(H)
+					 Lý
+				,
+					 ,
+				Np(H)
+					 Thành
+				,
+					 ,
+				Np(H)
+					 Thu
+				C
+					 và
+				Np(H)
+					 Phương
+			RBKT
+				 RBKT
+	VP
+		VP
+			V(H)
+				 hẹn
+			PP
+				E(H)
+					 đến
+				VP(PRP)
+					V(H)
+						 mua dâm
+					PP(LOC)
+						E(H)
+							 ở
+						NP
+							N(H)
+								 khách sạn
+							Np
+								 Ngọc Vân
+							M
+								 2
+		C
+			 thì
+		VP
+			R
+				 vẫn
+			V(H)
+				 yên vị
+	?
+		 ?
+</s>
+<s id = "28">
+S
+	S
+		"
+			 "
+		NP(SUB)
+			P(H)
+				 Chúng tôi
+		VP
+			V(H)
+				 thống nhất
+			PP
+				E(H)
+					 với
+				NP
+					N(H)
+						 cơ quan
+					V
+						 điều tra
+			SBAR
+				S
+					S
+						NP(SUB)
+							N(H)
+								 vụ
+							P
+								 nào
+							VP
+								R
+									 đã
+								V(H)
+									 kết luận
+						C
+							 thì
+						VP
+							V(H)
+								 đưa
+							R
+								 ra
+							VP
+								V(H)
+									 xử
+								A
+									 trước
+					,
+						 ,
+					C
+						 còn
+					S
+						NP(SUB)
+							 *E*
+						C
+							 thì
+						VP
+							VP
+								V(H)
+									 tách
+								R
+									 ra
+							VP
+								V(H)
+									 tiếp tục
+								VP(PRP)
+									V(H)
+										 điều tra
+									VP
+										V(H)
+											 làm
+										A
+											 rõ
+		"
+			 "
+	,
+		 ,
+	S
+		NP(SUB)
+			Nc(H)
+				 ông
+			Np
+				 Nguyễn Thành Thượng
+		VP
+			V(H)
+				 trả lời
+	.
+		 .
+</s>
+<s id = "29">
+S
+	NP(TMP)
+		N(H)
+			 Chiều
+		M
+			 31
+		-
+			 -
+		M
+			 3
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 Cơ quan
+		NP
+			N(H)
+				 cảnh sát
+			V
+				 điều tra
+			NP
+				N(H)
+					 Công an
+				Np
+					 Bình Dương
+	VP
+		R
+			 cũng
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					R
+						 đã
+					V(H)
+						 thống nhất
+					PP
+						E(H)
+							 với
+						NP
+							Ny
+								 VKS
+					PP(MNR)
+						E(H)
+							 theo
+						NP
+							N(H)
+								 hướng
+							VP
+								V(H)
+									 xử lý
+								A
+									 trên
+	.
+		 .
+</s>
+<s id = "30">
+SQ
+	NP(SUB)
+		N(H)
+			 Vụ
+		N
+			 việc
+	VP
+		R
+			 có
+		V(H)
+			 bị
+		XP
+			"
+				 "
+			X(H)
+				 chìm xuồng
+			"
+				 "
+	?
+		 ?
+</s>
+<s id = "31">
+S
+	PP(ADV)
+		E(H)
+			 Theo
+		NP
+			Nc(H)
+				 ông
+			Np
+				 Nguyễn Thành Thượng
+	,
+		 ,
+	PP(TMP)
+		E(H)
+			 trước
+		NP
+			N(H)
+				 khi
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 vụ án
+					VP
+						R
+							 được
+						V(H)
+							 đưa
+						R
+							 ra
+						VP(PRP)
+							V(H)
+								 xét xử
+	,
+		 ,
+	NP(SUB)
+		Ny(H)
+			 VKS
+		N
+			 nhân dân
+		N
+			 tỉnh
+	VP
+		R
+			 cũng
+		R
+			 đã
+		R
+			 có
+		V(H)
+			 báo cáo
+		PP
+			PP
+				E(H)
+					 với
+				Np
+					N(H)
+						 Tỉnh ủy
+			PP
+				E(H)
+					 về
+				NP
+					N(H)
+						 trường hợp
+					NP
+						S
+							 phó
+						N(H)
+							 viện trưởng
+						Np
+							 Nguyễn Thành Phương
+	.
+		 .
+</s>
+<s id = "32">
+S
+	NP(SUB)
+		N(H)
+			 Tỉnh ủy
+	VP
+		VP
+			R
+				 cũng
+			V(H)
+				 nhất trí
+			PP
+				PP
+					E(H)
+						 với
+					NP
+						N(H)
+							 ý kiến
+						PP
+							E(H)
+								 của
+							NP
+								Ny(H)
+									 VKS
+				PP
+					E(H)
+						 về
+					NP
+						N(H)
+							 việc
+						VP
+							V(H)
+								 tách
+							NP(DOB)
+								N(H)
+									 phần
+								VP
+									V(H)
+										 liên quan
+									PP
+										E(H)
+											 đến
+										NP
+											N(H)
+												 vụ
+											V
+												 mua dâm
+											PP(LOC)
+												E(H)
+													 tại
+												NP
+													N(H)
+														 khách sạn
+													Np
+														 Ngọc Vân
+													M
+														 2
+		,
+			 ,
+		VP
+			V(H)
+				 tiếp tục
+			VP
+				V(H)
+					 điều tra
+				VP
+					V(H)
+						 làm
+					A
+						 rõ
+				PP(PRP)
+					E(H)
+						 để
+					VP
+						V(H)
+							 xử lý
+						NP(DOB)
+							N(H)
+								 hành vi
+							V
+								 phạm tội
+							C
+								 nếu
+							VP
+								V(H)
+									 có
+	.
+		 .
+</s>
+<s id = "33">
+S
+	C
+		 Nhưng
+	VP(VOC)
+		V(H)
+			 thưa
+		NP(DOB)
+			N(H)
+				 ông
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 việc
+			VP
+				V(H)
+					 bắt
+				R
+					 quả tang
+				NP(DOB)
+					M
+						 một
+					N(H)
+						 hành vi
+					VP
+						V(H)
+							 phạm tội
+					VP
+						V(H)
+							 mua bán
+						NP(DOB)
+							N(H)
+								 dâm
+						PP(LOC)
+							E(H)
+								 tại
+							NP
+								N(H)
+									 khách sạn
+								NP
+									Np(H)
+										 Ngọc Vân
+									M
+										 2
+		VP
+			R
+				 đã
+			A
+				 hoàn toàn
+			V(H)
+				 đủ
+			NP(DOB)
+				N(H)
+					 cơ sở
+				VP
+					VP
+						V(H)
+							 khởi tố
+						NP(DOB)
+							N(H)
+								 vụ án
+					,
+						 ,
+					VP
+						V(H)
+							 khởi tố
+						NP(DOB)
+							N(H)
+								 bị can
+					PP(PRP)
+						E(H)
+							 để
+						VP
+							V(H)
+								 điều tra
+							VP
+								V(H)
+									 làm
+								A
+									 rõ
+	C
+		 nhưng
+	SQ
+		WHRP
+			X(H)
+				 tại sao
+		NP(SUB)
+			N(H)
+				 cơ quan
+			V
+				 điều tra
+		VP
+			R
+				 không
+			V(H)
+				 làm
+	?
+		 ?
+</s>
+<s id = "34">
+S
+	XP(MDP)
+		X(H)
+			 Có lẽ
+	C
+		 do
+	NP(SUB)
+		N(H)
+			 cơ quan
+		V
+			 điều tra
+	VP
+		V(H)
+			 thấy
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 chứng cứ
+				AP
+					AP
+						R
+							 chưa
+						A(H)
+							 rõ
+					,
+						 ,
+					AP
+						R
+							 chưa
+						A(H)
+							 đầy đủ
+	.
+		 .
+</s>
+<s id = "35">
+S
+	C
+		 Nhưng
+	PP(TMP)
+		E(H)
+			 đến
+		NP
+			P(H)
+				 nay
+	NP(TMP)
+		R
+			 đã
+		M
+			 ba
+		N(H)
+			 năm
+		VP
+			V(H)
+				 kể
+			PP
+				E(H)
+					 từ
+				NP
+					N(H)
+						 thời điểm
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 đường dây
+								VP
+									V(H)
+										 mua bán
+									NP(DOB)
+										N(H)
+											 dâm
+							VP
+								V(H)
+									 bị
+								SBAR
+									S
+										NP(SUB)
+											 *E*
+										VP
+											V(H)
+												 phanh phui
+				C
+					 và
+				NP
+					N(H)
+						 khi
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 vụ án
+							VP
+								V(H)
+									 được
+								SBAR
+									S
+										NP(SUB)
+											 *E*
+										VP
+											V(H)
+												 đưa
+											R
+												 ra
+											VP(PRP)
+												V(H)
+													 xét xử
+	,
+		 ,
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 mới
+		V(H)
+			 lộ
+		R
+			 ra
+		NP(DOB)
+			N(H)
+				 sự việc
+			NP
+				NP
+					N(H)
+						 ông
+					S
+						 phó
+					viện
+						 trưởng
+				C
+					 cùng
+				NP
+					M
+						 ba
+					N(H)
+						 đối tượng
+	.
+		 .
+</s>
+<s id = "36">
+S(SPL)
+	VP(MDP)
+		V(H)
+			 Liệu
+		SBAR
+			C
+				 rằng
+			S
+				NP(SUB)
+					N(H)
+						 việc
+					VP
+						V(H)
+							 tách
+						R
+							 ra
+						PP(PRP)
+							E(H)
+								 để
+							VP
+								VP
+									V(H)
+										 điều tra
+								VP
+									V(H)
+										 xử lý
+									V
+										 tiếp theo
+				XP
+					R
+						 cũng
+					R
+						 sẽ
+					"
+						 "
+					X(H)
+						 chìm xuồng
+					"
+						 "
+					C
+						 như
+					NP
+						N(H)
+							 thực tế
+					NP
+						A
+							 nhiều
+						N(H)
+							 vụ
+						VP
+							"
+								 "
+							V(H)
+								 tách
+							R
+								 ra
+							VP(PRP)
+								V(H)
+									 điều tra
+							"
+								 "
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 cơ quan
+								V
+									 điều tra
+	?
+		 ?
+</s>
+<s id = "37">
+S
+	NP(TPC)
+		N(H)
+			 Quan điểm
+		PP
+			E(H)
+				 của
+			NP
+				P(H)
+					 tôi
+	S
+		SBAR(CND)
+			C
+				 nếu
+			S
+				NP(SUB)
+					 *E*
+				VP(SUB)
+					V(H)
+						 vi phạm
+		C
+			 thì
+		S
+			NP(SUB)
+				 *E*
+			VP
+				V(H)
+					 phải
+				VP
+					V(H)
+						 bị
+					V
+						 xử lý
+	-
+		 -
+	S
+		SBAR(CNC)
+			C
+				 dù
+			S
+				NP(SUB)
+					R
+						 bất cứ
+					N(H)
+						 người
+					P
+						 đó
+				VP
+					V(H)
+						 là
+					NP
+						P(H)
+							 ai
+		,
+			 ,
+		C
+			 nhưng
+		S
+			NP(SUB)
+				 *E*
+			VP
+				V(H)
+					 phải
+				AP
+					AP
+						A(H)
+							 đúng
+						N
+							 người
+					,
+						 ,
+					AP
+						A(H)
+							 đúng
+						N
+							 tội
+	.
+		 .
+</s>
+<s id = "38">
+S
+	VP(SUB)
+		V(H)
+			 Tách
+		R
+			 ra
+		VP(PRP)
+			V(H)
+				 điều tra
+	VP
+		V(H)
+			 là
+		AP
+			A(H)
+				 đúng
+	,
+		 ,
+	PP(PRP)
+		E(H)
+			 để
+		VP
+			R
+				 không
+			V(H)
+				 làm
+			VP
+				V(H)
+					 ảnh hưởng
+				PP
+					E(H)
+						 đến
+					NP
+						N(H)
+							 việc
+						V
+							 điều tra
+						AP
+							A(H)
+								 chung
+	.
+		 .
+</s>
+<s id = "39">
+S
+	PP(TPC)
+		E(H)
+			 Trong
+		NP
+			N(H)
+				 vụ
+			P
+				 này
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 tôi
+	VP
+		V(H)
+			 tin
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 cơ quan
+					V
+						 điều tra
+				VP
+					VP
+						R
+							 sẽ
+						V(H)
+							 làm
+						X
+							 tới nơi tới chốn
+					,
+						 ,
+					VP
+						R
+							 không
+						V(H)
+							 để
+						XP
+							"
+								 "
+							X(H)
+								 chìm xuồng
+							"
+								 "
+	!
+		 !
+</s>
+<s id = "40">
+SQ
+	PP(ADV)
+		E(H)
+			 Theo
+		NP
+			N(H)
+				 ông
+	,
+		 ,
+	WHRP
+		X(H)
+			 vì sao
+	S
+		NP(SUB)
+			M
+				 bốn
+			N(H)
+				 người
+		AP(PRD)
+			A(H)
+				 cùng
+			VP
+				V(H)
+					 rủ
+				N
+					 nhau
+			VP
+				V(H)
+					 đi
+				PP(LOC)
+					E(H)
+						 đến
+					NP
+						N(H)
+							 khách sạn
+				VP(PRP)
+					V(H)
+						 mua dâm
+	C
+		 nhưng
+	S
+		NP(SUB)
+			Nc(H)
+				 ông
+			Np
+				 Phương
+		VP
+			R
+				 lại
+			R
+				 không
+			V(H)
+				 vào
+			NP(DOB)
+				N(H)
+					 phòng
+				AP(TMP)
+					A(H)
+						 đúng
+					NP
+						N(H)
+							 lúc
+						SBAR
+							S
+								NP(SUB)
+									N(H)
+										 công an
+								VP
+									V(H)
+										 ập
+									R
+										 vào
+									VP
+										V(H)
+											 bắt
+										R
+											 quả tang
+	?
+		 ?
+</s>
+<s id = "41">
+S
+	S
+		NP(SUB)
+			P(H)
+				 Tôi
+		VP
+			V(H)
+				 nghĩ
+			SBAR
+				S
+					NP(TMP)
+						N(H)
+							 lúc
+						N
+							 đầu
+					S(SUB)
+						NP(SUB)
+							P(H)
+								 họ
+						VP
+							VP
+								V(H)
+									 nhậu
+							C
+								 rồi
+							VP
+								V(H)
+									 rủ
+								N
+									 nhau
+								VP
+									V(H)
+										 đi
+									VP
+										V(H)
+											 hát
+										NP(DOB)
+											N(H)
+												 karaoke
+					VP
+						R
+							 cũng
+						V(H)
+							 là
+						NP
+							N(H)
+								 chuyện
+							A
+								 bình thường
+	,
+		 ,
+	C
+		 nhưng
+	S
+		NP(TMP)
+			N(H)
+				 khi
+			SBAR
+				S
+					NP(SUB)
+						M
+							 ba
+						N(H)
+							 người
+						P
+							 kia
+					VP
+						V(H)
+							 vào
+						NP(LOC)
+							N(H)
+								 phòng
+		C
+			 thì
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 phát sinh
+	...
+		 ...
+	.
+		 .
+</s>
+<s id = "42">
+S
+	S(PV)
+		NP(SUB)
+			S
+				 Phó
+			N(H)
+				 viện trưởng
+			Np
+				 Nguyễn Thành Phương
+		VP
+			V(H)
+				 được
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 phân công
+						VP
+							V(H)
+								 phụ trách
+							NP(DOB)
+								N(H)
+									 lĩnh vực
+								N
+									 cảnh sát
+	,
+		 ,
+	C
+		 nhưng
+	S
+		NP(SUB)
+			R
+				 cũng
+			T
+				 chính
+			N(H)
+				 bộ phận
+			P
+				 này
+			PP
+				E(H)
+					 của
+				NP
+					Ny(H)
+						 VKS
+		VP
+			V(H)
+				 ra
+			NP(DOB)
+				N(H)
+					 cáo trạng
+				VP(PRP)
+					V(H)
+						 truy tố
+					NP(DOB)
+						L
+							 các
+						N(H)
+							 bị cáo
+					C
+						 thì
+					VP(MDP)
+						V(H)
+							 liệu
+						SBAR
+							S
+								NP(SUB)
+									 *E*
+								VP
+									V(H)
+										 có
+									NP(DOB)
+										N(H)
+											 khách quan
+	?
+		 ?
+</s>
+<s id = "43">
+S
+	NP(TPC)
+		N(H)
+			 Quá trình
+		VP
+			VP
+				V(H)
+					 kết thúc
+				V
+					 điều tra
+			,
+				 ,
+			VP
+				V(H)
+					 lập
+				NP(DOB)
+					N(H)
+						 cáo trạng
+					VP
+						V(H)
+							 liên quan
+						PP
+							E(H)
+								 đến
+							NP
+								L
+									 các
+								N(H)
+									 bộ phận
+								A
+									 khác
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 tôi
+	VP
+		V(H)
+			 nghĩ
+		SBAR
+			S
+				NP(SUB)
+					L
+						 các
+					N(H)
+						 điều tra viên
+					,
+						 ,
+					N(H)
+						 kiểm sát viên
+				VP
+					VP
+						V(H)
+							 làm
+						AP
+							A(H)
+								 đúng
+							PP
+								E(H)
+									 theo
+								NP
+									N(H)
+										 pháp luật
+					,
+						 ,
+					VP
+						R
+							 không
+						V(H)
+							 bị
+						NP(DOB)
+							N(H)
+								 sức ép
+						P
+							 nào
+						T
+							 đâu
+	.
+		 .
+</s>
+<s id = "44">
+SQ
+	NP(SUB)
+		Ny(H)
+			 VKS
+		N
+			 nhân dân
+		N
+			 tỉnh
+	VP
+		R
+			 đã
+		V(H)
+			 có
+		NP(DOB)
+			N(H)
+				 động thái
+			P
+				 nào
+			NP(TMP)
+				N(H)
+					 khi
+				SBAR
+					S
+						NP(SUB)
+							 *T*
+						VP
+							V(H)
+								 lộ
+							R
+								 ra
+							NP(DOB)
+								N(H)
+									 việc
+								SBAR
+									S(PV)
+										NP(SUB)
+											NP
+												Nc(H)
+													 ông
+												Np
+													 Phương
+											C
+												 cùng
+											NP
+												M
+													 ba
+												N(H)
+													 đối tượng
+												VP
+													V(H)
+														 mua dâm
+										VP
+											V(H)
+												 bị
+											SBAR
+												S
+													NP(SUB)
+														N(H)
+															 dư luận
+													VP
+														V(H)
+															 lên tiếng
+	?
+		 ?
+</s>
+<s id = "45">
+S
+	NP(TMP)
+		N(H)
+			 Trước mắt
+	NP(SUB)
+		P(H)
+			 tôi
+	VP
+		R
+			 sẽ
+		V(H)
+			 yêu cầu
+		SBAR
+			S
+				NP(SUB)
+					Nc(H)
+						 ông
+					Np
+						 Phương
+				VP
+					V(H)
+						 báo cáo
+					R
+						 lại
+					NP(DOB)
+						N(H)
+							 vụ việc
+	.
+		 .
+</s>
+<s id = "46">
+S
+	PP(LOC)
+		E(H)
+			 Tại
+		NP
+			N(H)
+				 phiên tòa
+			VP
+				R
+					 đang
+				V(H)
+					 xét xử
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 luật sư
+		Np
+			 Phạm Hữu Tình
+	VP
+		VP
+			V(H)
+				 đề nghị
+			VP
+				A
+					 tạm
+				V(H)
+					 hoãn
+				NP(DOB)
+					N(H)
+						 phiên tòa
+		VP
+			R
+				 còn
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 lý do
+				SBAR
+					S
+						NP(SUB)
+							NP
+								L
+									 các
+								N(H)
+									 lời
+								V
+									 khai
+							,
+								 ,
+							NP
+								N(H)
+									 bút lục
+							VP
+								V(H)
+									 liên quan
+								PP
+									E(H)
+										 đến
+									NP
+										M
+											 bốn
+										N(H)
+											 đối tượng
+										VP
+											V(H)
+												 mua dâm
+										VP
+											V(H)
+												 nói
+											A
+												 trên
+						VP
+							VP
+								R
+									 chỉ
+								V(H)
+									 là
+								NP
+									Nc(H)
+										 bản
+									Vb
+										 photocopy
+									LBKT
+										 LKT
+									SBAR
+										S
+											PP(ADV)
+												E(H)
+													 về
+												NP
+													N(H)
+														 nguyên tắc
+													V
+														 tố tụng
+											NP(SUB)
+												L
+													 những
+												N(H)
+													 bút lục
+												P
+													 này
+											VP
+												R
+													 không
+												V(H)
+													 có
+												NP(DOB)
+													N(H)
+														 giá trị
+									RBKT
+										 RBKT
+							,
+								 ,
+							VP
+								R
+									 không
+								V(H)
+									 phải
+								NP(DOB)
+									N(H)
+										 bản chính
+	.
+		 .
+</s>
+<s id = "47">
+SQ
+	NP(SUB)
+		N(H)
+			 Ông
+	VP
+		V(H)
+			 thấy
+		WHRP
+			P(H)
+				 sao
+	?
+		 ?
+</s>
+<s id = "48">
+S
+	S
+		XP(MDP)
+			X(H)
+				 Có lẽ
+		PP(PRP)
+			E(H)
+				 do
+			NP
+				N(H)
+					 sơ sót
+		,
+			 ,
+		NP(SUB)
+			N(H)
+				 anh em
+		VP
+			V(H)
+				 kiểm tra
+			AP
+				R
+					 không
+				A(H)
+					 kỹ
+	C
+		 nhưng
+	S
+		PP(TPC)
+			E(H)
+				 theo
+			NP
+				P(H)
+					 tôi
+		NP(SUB)
+			 *E*
+		VP
+			R
+				 không
+			V(H)
+				 làm
+			VP
+				V(H)
+					 thay đổi
+				R
+					 được
+				NP(DOB)
+					N(H)
+						 bản chất
+					PP
+						E(H)
+							 của
+						NP
+							N(H)
+								 vụ án
+	.
+		 .
+</s>

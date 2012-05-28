@@ -1,0 +1,563 @@
+" : "	7
+, : ,	50
+- : -	1
+. : .	72
+... : ...	6
+: : :	8
+? : ?	4
+A : Bất ngờ	1
+A : Trầm ngâm	1
+A : bình thường	3
+A : cao	1
+A : cùng	2
+A : cũ	1
+A : cẩn thận	1
+A : duy nhất	2
+A : gần	1
+A : hoàn hảo	1
+A : hào hứng	1
+A : hợp pháp	1
+A : khác	7
+A : khác thường	1
+A : khó	1
+A : khả nghi	1
+A : kín	1
+A : kín đáo	1
+A : kỹ	1
+A : lâu	1
+A : lý tưởng	1
+A : lạ	3
+A : lạnh	1
+A : lặt vặt	1
+A : mạo hiểm	1
+A : mềm	1
+A : mới	1
+A : ngạc nhiên	1
+A : nhiều	2
+A : nhơ	1
+A : nhẹ nhàng	1
+A : nặc danh	4
+A : nặng nề	1
+A : qua loa	1
+A : quan trọng	1
+A : riêng	1
+A : rõ ràng	1
+A : sâu	1
+A : sôi nổi	1
+A : thạo	1
+A : trang trọng	1
+A : trẻ	1
+A : tạm	1
+A : vừa vặn	1
+A : xa	1
+A : đông	2
+A : đúng	3
+A : đơn giản	1
+A : đầy	1
+A : đặc biệt	2
+A : đặc chủng	1
+A : đẹp	1
+A : đủ	1
+A : ẩu	1
+C : Như  vậy	2
+C : Nhưng	1
+C : Nếu	2
+C : Tuy vậy	1
+C : cùng	1
+C : hoặc	1
+C : là	2
+C : mà	2
+C : như	2
+C : nhưng	4
+C : nên	1
+C : rồi	2
+C : thì	5
+C : và	23
+E : Sau	1
+E : Trong	1
+E : Trên	1
+E : Vì	1
+E : bên	1
+E : bằng	2
+E : cho	2
+E : cùng	1
+E : của	23
+E : dù	1
+E : dưới	1
+E : ngoài	2
+E : ra	1
+E : rằng	1
+E : trong	12
+E : trên	5
+E : tại	2
+E : tới	1
+E : tức	1
+E : từ	6
+E : vào	1
+E : về	4
+E : với	5
+E : Đến	1
+E : đến	5
+E : ở	2
+L : Các	1
+L : Mọi	1
+L : Những	1
+L : các	5
+L : mọi	5
+L : một  số	1
+L : một số	2
+L : những	7
+L : tất cả	1
+LBKT : LBKT	3
+M : 10	1
+M : 100 %	1
+M : 16	1
+M : 18	1
+M : 30	2
+M : 39	2
+M : 40	1
+M : 5	2
+M : Bảy	1
+M : Bốn	1
+M : ba	1
+M : bảy	1
+M : bốn	2
+M : hai	4
+M : một	15
+N : Anh	1
+N : Buổi	2
+N : Chiều tối	1
+N : Cuộc	2
+N : Cuộc đời	1
+N : Công ty	9
+N : Cơ quan	1
+N : Giám đốc	4
+N : Giả thiết	1
+N : Hiện	1
+N : Hành vi	1
+N : Hãng	1
+N : Hôm	1
+N : Khi	1
+N : Khả năng	1
+N : Kế hoạch	2
+N : Màn kịch	1
+N : Mâu thuẫn	1
+N : Ngày	1
+N : Người	2
+N : Nơi	1
+N : Sáng	1
+N : Thám tử	1
+N : Thời điểm	1
+N : Thủ phạm	1
+N : Trình độ	1
+N : anh	2
+N : ban	1
+N : biển	1
+N : bàn	1
+N : báo cáo	1
+N : bữa	1
+N : cactông	1
+N : chuyện	2
+N : chà	2
+N : chỉ tiêu	1
+N : chủ trương	1
+N : chức	1
+N : chứng cứ	1
+N : cuộc	2
+N : cá	2
+N : cá nhân	2
+N : cán bộ	1
+N : câu chuyện	1
+N : cô	1
+N : công an	1
+N : công ty	12
+N : cơ hội	1
+N : cơ quan	1
+N : cảm tình	2
+N : cửa	1
+N : danh sách	1
+N : diện	2
+N : dạng	1
+N : dấu	1
+N : gai	1
+N : giám đốc	7
+N : giả thiết	1
+N : giờ hành chính	2
+N : gái	1
+N : găng	1
+N : găng tay	1
+N : hiện	1
+N : hàng	1
+N : hành vi	1
+N : hãng	7
+N : hôm	3
+N : hệ thống	1
+N : hồ sơ	1
+N : khi	1
+N : khuya	1
+N : khăn	1
+N : khả năng	1
+N : kính lúp	1
+N : kế hoạch	5
+N : kỹ thuật	1
+N : lao động	1
+N : lãnh đạo	3
+N : lòng	1
+N : lúc	1
+N : lý do	1
+N : lương	1
+N : màn hình	1
+N : máy	7
+N : máy fax	12
+N : máy móc	2
+N : máy tính	1
+N : mũ	1
+N : mắt	1
+N : mỹ phẩm	2
+N : ngoại ngữ	1
+N : nguồn	1
+N : ngày	1
+N : ngày giờ	1
+N : ngày mai	1
+N : ngày tháng	1
+N : người	13
+N : nhau	1
+N : nhân viên	8
+N : nhất	1
+N : nóc	4
+N : năm	1
+N : nơi	2
+N : nước	2
+N : nước mặn	1
+N : nước ngoài	3
+N : nội dung	2
+N : phòng	6
+N : phương pháp	1
+N : phương án	2
+N : phần	2
+N : phần mềm	4
+N : quan hệ	1
+N : quyền lợi	1
+N : quạt điện	1
+N : rượu	1
+N : sau	5
+N : sinh nhật	1
+N : sáng	1
+N : sản phẩm	1
+N : số	4
+N : sổ	1
+N : tay	3
+N : tham vọng	1
+N : thu nhập	1
+N : thuế	1
+N : thám tử	5
+N : thông báo	1
+N : thông số	1
+N : thông tin	2
+N : thư	1
+N : thư ký	1
+N : thư ký riêng	1
+N : thương mại	1
+N : thị trường	1
+N : thời cơ	1
+N : thời gian	2
+N : thời điểm	2
+N : thủ phạm	3
+N : thứ	2
+N : tiếng	2
+N : tiệc	2
+N : trên	3
+N : trình độ	1
+N : trưa	1
+N : trước	2
+N : tên	1
+N : tính	1
+N : tương lai	1
+N : tập thể	1
+N : tủ	4
+N : uy tín	2
+N : vai	1
+N : việc	2
+N : vành	1
+N : vân	2
+N : vùng	1
+N : văn phòng	1
+N : vết	1
+N : vốn	1
+N : xung quanh	1
+N : Ông	2
+N : ông	4
+N : ý kiến	1
+N : Điều	1
+N : Đơn	1
+N : điều	1
+N : điện	1
+N : điện thoại	6
+N : đêm	1
+N : đó	1
+N : đơn	11
+N : đường	2
+N : đường dây	2
+N : đất	1
+N : địa chỉ	1
+N : địa vị	1
+N : đối tượng	1
+N : đồ nghề	1
+N : đồ vật	3
+N : ưu ái	1
+N : ống kính	1
+NP : *E*	5
+Nb : camera	1
+Nb : fax	10
+Nb : karaoke	1
+Nb : marketing	1
+Nc : Bản	1
+Nc : Cuộc	1
+Nc : ban	1
+Nc : bản	5
+Nc : chiếc	3
+Nc : chuyện	1
+Nc : con	1
+Nc : cuộc	2
+Nc : cái	1
+Nc : cô	1
+Nc : căn	1
+Nc : giàn	1
+Nc : hộp	1
+Nc : ly	1
+Nc : lá	6
+Nc : người	1
+Nc : sự	1
+Nc : trang	1
+Nc : vụ	2
+Nc : Đoàn	1
+Nc : đoàn	3
+Nc : đơn	1
+Np : Anh	2
+Np : H	1
+Np : Hoa	3
+Np : Hà Nội	1
+Np : Hào	9
+Np : James	14
+Np : Long	3
+Np : Việt	1
+Np : châu Âu	1
+Nu : giây	2
+Nu : m	1
+Nu : phút	2
+Ny : H	6
+Ny : VN	3
+P : Họ	1
+P : ai	3
+P : chúng ta	1
+P : cả	1
+P : gì	1
+P : họ	3
+P : kia	1
+P : mình	2
+P : nào	1
+P : này	9
+P : nó	1
+P : ta	3
+P : tất cả	2
+P : tự	1
+P : Đây	1
+P : Đó	1
+P : đây	1
+P : đó	4
+R : Có thể	2
+R : Không	1
+R : chưa	1
+R : chỉ	2
+R : có thể	1
+R : cũng	3
+R : hơn	1
+R : khá	2
+R : không	16
+R : lên	2
+R : lại	7
+R : mới	1
+R : nhất định	1
+R : ra	4
+R : rất	4
+R : sẽ	6
+R : theo	1
+R : vẫn	2
+R : vừa	2
+R : xuống	1
+R : đang	2
+R : đã	8
+R : được	2
+R : đều	3
+RBKLT : RBKT	1
+RBKT : RBKT	2
+T : là	1
+V : Kiểm	1
+V : Kiểm tra	1
+V : Sàng lọc	1
+V : Sử dụng	1
+V : Thay vì	1
+V : am hiểu	1
+V : an toàn	1
+V : biết	1
+V : báo cáo	1
+V : bước	1
+V : bảo mật	1
+V : bất mãn	1
+V : bắt đầu	1
+V : bỏ	1
+V : bỏ qua	1
+V : cho	2
+V : chuyển	1
+V : chùng	1
+V : chú ý	1
+V : chỉ đạo	1
+V : chọc	1
+V : cài đặt	1
+V : cách	1
+V : còn	2
+V : có	15
+V : có mặt	2
+V : cất giữ	1
+V : cố ý	1
+V : cử	1
+V : diễn	1
+V : dùng	4
+V : dị nghị	1
+V : dừng	1
+V : ganh đua	1
+V : ghi	1
+V : ghi chép	1
+V : giao dịch	1
+V : gắn	1
+V : gọi	10
+V : gửi	8
+V : hiện	1
+V : hoãn	1
+V : hoạt động	2
+V : hát	1
+V : hạ	1
+V : hết	1
+V : họp	2
+V : hỏi	1
+V : hợp đồng	1
+V : khen thưởng	1
+V : khiến	2
+V : khoan	1
+V : khoanh	1
+V : khuyến mãi	1
+V : khuấy động	1
+V : kinh doanh	1
+V : kiểm	1
+V : kiểm tra	4
+V : kèm	2
+V : kéo dài	1
+V : lau	4
+V : lau chùi	2
+V : lo sợ	1
+V : loại	1
+V : là	10
+V : làm	7
+V : làm việc	1
+V : lên	1
+V : lưu	1
+V : lại	1
+V : lập kế	1
+V : lắp	1
+V : lắp đặt	1
+V : lọt	1
+V : lựa	1
+V : mang	1
+V : mua	1
+V : mất	1
+V : mời	1
+V : nghi	1
+V : nghi vấn	1
+V : nghỉ việc	1
+V : ngại	1
+V : ngồi	1
+V : ngờ	1
+V : nhảy	2
+V : nhận	4
+V : nhớ	1
+V : nói	2
+V : nói nhỏ	1
+V : nằm	3
+V : nối	1
+V : nộp	1
+V : phát hiện	1
+V : phát triển	1
+V : phân phối	1
+V : phải	3
+V : quay	1
+V : quyết định	2
+V : quảng cáo	1
+V : ra	4
+V : rung	2
+V : rót	1
+V : sang	4
+V : say sưa	1
+V : sinh nhật	1
+V : soi	1
+V : sử dụng	1
+V : thanh tra	1
+V : theo dõi	1
+V : thuê	1
+V : tháo	1
+V : tháo dỡ	1
+V : thôi	1
+V : thông báo	1
+V : thú thật	1
+V : thăng	1
+V : thấy	2
+V : thể hiện	3
+V : thừa nhận	1
+V : tiến hành	1
+V : tranh thủ	1
+V : triển khai	1
+V : tránh	1
+V : trình	1
+V : trùng	2
+V : trở	1
+V : trở thành	1
+V : tuyên bố	1
+V : tìm	3
+V : tăng	1
+V : tạo	1
+V : tố cáo	4
+V : tổ chức	3
+V : tụ tập	1
+V : uống	1
+V : viết	6
+V : vu khống	1
+V : vào	5
+V : vào sổ	1
+V : vượt	1
+V : về	1
+V : xem	2
+V : xin	1
+V : xuống	2
+V : xóa	2
+V : xảy	2
+V : yêu cầu	1
+V : đem	1
+V : đeo	2
+V : đi	4
+V : điều phối	1
+V : điều tra	2
+V : đua chen	1
+V : đáng	1
+V : đóng	2
+V : đăng ký	1
+V : đơm đặt	1
+V : đưa	3
+V : được	11
+V : đầu tư	1
+V : đặt	4
+V : đến	3
+V : để	1
+V : động	1
+Vb : fax	1
+X : vì sao	1
+“ : “	2
+” : “	3

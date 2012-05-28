@@ -1,0 +1,530 @@
+! : !	1
+" : "	30
+, : ,	49
+- : -	19
+. : .	40
+... : ...	3
+: : :	8
+A : Gần	3
+A : chuyên	1
+A : chóng mặt	1
+A : chắc chắn	1
+A : chặt	1
+A : cuối cùng	1
+A : có thể	1
+A : cùng	1
+A : dài	1
+A : dữ	1
+A : gần	4
+A : gọn lỏn	1
+A : hoang	1
+A : hơn	3
+A : khoảng	2
+A : khác	2
+A : khéo	1
+A : khó	1
+A : khó khăn	1
+A : khốn đốn	1
+A : kịp thời	1
+A : lâu	1
+A : lù lù	1
+A : lặng lẽ	1
+A : lớn	1
+A : mới	1
+A : ngang	1
+A : nghiệt ngã	1
+A : nghèo	1
+A : nguyên	1
+A : nhanh	1
+A : nhiều	5
+A : như	1
+A : nảy sinh	1
+A : rộn rã	1
+A : rục rịch	1
+A : thông	1
+A : thường	1
+A : thảm khốc	1
+A : trắng	1
+A : trống	1
+A : tự nhiên	1
+A : xa	1
+A : xấu	2
+A : ít nhất	1
+A : Đặc biệt	1
+A : đông	1
+C : Nhưng	1
+C : Nếu	1
+C : dù	1
+C : hay	2
+C : không chỉ	1
+C : là	2
+C : mà	2
+C : như	6
+C : nhưng	2
+C : rồi	4
+C : thì	7
+C : và	16
+E : Giữa	1
+E : Trong	1
+E : Trước	1
+E : bằng	5
+E : cho	5
+E : của	18
+E : giữa	1
+E : ngoài	1
+E : ra	1
+E : sau	2
+E : trong	4
+E : trên	3
+E : trước	2
+E : tại	1
+E : tận	1
+E : từ	4
+E : vào	2
+E : về	2
+E : với	7
+E : Đến	1
+E : đến	1
+E : để	4
+E : ở	4
+L : Những	1
+L : những	5
+L : toàn	1
+L : vài	1
+LBKT : LBKT	8
+M : 10	2
+M : 100	1
+M : 11.000	1
+M : 150	1
+M : 1996	1
+M : 1999	1
+M : 2	2
+M : 2 . 800	1
+M : 200	1
+M : 2003	1
+M : 21	1
+M : 22	1
+M : 29	1
+M : 400	1
+M : 5	1
+M : 6	1
+M : 60	2
+M : 7	2
+M : 70	1
+M : 95%	1
+M : Bảy	1
+M : Mười	1
+M : Mỗi	1
+M : Năm	1
+M : ba	1
+M : bảy	3
+M : chục	1
+M : hai	3
+M : mỗi	1
+M : một	8
+M : ngàn	2
+M : năm	2
+M : triệu	1
+M : trăm	2
+M : tỉ	1
+N : 2	1
+N : Bộ	1
+N : Chu kỳ	1
+N : Chuyện	1
+N : Cửa	1
+N : Cửa biển	2
+N : Huế	1
+N : Hệ lụy	1
+N : Khi	1
+N : Khoa học	1
+N : Khoảng	1
+N : Kết quả	1
+N : Lúc	1
+N : Lần	1
+N : Nông nghiệp	2
+N : Nợ	1
+N : Phần lớn	1
+N : Sở	2
+N : Thôn	1
+N : Thừa Thiên	1
+N : Trưởng thôn	1
+N : Tài nguyên	1
+N : Tôm	1
+N : Tỉnh	1
+N : Việc	1
+N : Viện	1
+N : anh	3
+N : ao	1
+N : bao lâu	1
+N : biển	11
+N : biển cả	1
+N : bà con	2
+N : bây giờ	1
+N : bên	1
+N : bờ	1
+N : chiều	1
+N : chuyến	1
+N : chuyện	2
+N : chài	2
+N : chúng tôi	1
+N : chừ	1
+N : chừng	2
+N : cuối	1
+N : cuộc	1
+N : cuộc sống	1
+N : cát	6
+N : câu	1
+N : có khi	1
+N : công	1
+N : cơ giới	1
+N : cảnh	1
+N : cầu	1
+N : cồn	1
+N : cửa	7
+N : cửa biển	11
+N : doi	2
+N : dân	15
+N : dân vạn	1
+N : dòng	2
+N : dòng chảy	1
+N : dịch bệnh	1
+N : gia đình	1
+N : giao thông	1
+N : giải pháp	2
+N : giống	2
+N : gò	1
+N : gương mặt	1
+N : gọ	2
+N : huyện	5
+N : hơi	1
+N : hải sản	1
+N : hậu họa	1
+N : hồ	1
+N : hộ	5
+N : hội thảo	1
+N : khi	3
+N : khoảng	1
+N : khu	1
+N : khơi	1
+N : khả năng	1
+N : kỳ	1
+N : lao động	1
+N : làng	1
+N : làng mạc	1
+N : lâu	1
+N : lão	1
+N : lũ	3
+N : lạch	1
+N : lần	2
+N : lối thoát	2
+N : miền	1
+N : miệng ăn	1
+N : máy	1
+N : môi trường	2
+N : mặt	2
+N : nay mai	1
+N : nghề	9
+N : ngày	2
+N : ngân hàng	1
+N : ngư	3
+N : ngư dân	2
+N : ngư nghiệp	1
+N : người	13
+N : nhau	2
+N : nhà	4
+N : nhà khoa học	1
+N : nhân vật	2
+N : niềm	1
+N : nuôi	1
+N : nông thôn	2
+N : năm	6
+N : nơi	9
+N : nước	3
+N : nước biển	1
+N : nước nôi	1
+N : nắng	1
+N : nỗi	2
+N : nợ	1
+N : phó chủ tịch	1
+N : phóng sự	1
+N : phương tiện	1
+N : phần lớn	1
+N : sông	1
+N : số	2
+N : số một	1
+N : sống	1
+N : sự	2
+N : thuyền	1
+N : thuyền bè	1
+N : thành phố	1
+N : tháng	2
+N : thôn	4
+N : thôn xóm	1
+N : thường lệ	1
+N : thời gian	1
+N : thủy lưu	1
+N : thủy lợi	1
+N : thủy sản	2
+N : toàn	1
+N : trưởng phòng	1
+N : tác nhân	1
+N : tôm	16
+N : tôm sú	4
+N : tỉnh	3
+N : tốc độ	1
+N : ven	3
+N : việc	4
+N : vuông	1
+N : vùng	7
+N : vùng đất	2
+N : vạn	2
+N : vụ	4
+N : vựa	1
+N : xã	7
+N : xóm	1
+N : yếu tố	1
+N : ông	2
+N : Đề xuất	1
+N : Đời	1
+N : đa dạng sinh học	1
+N : đàn ông	1
+N : đáy	1
+N : đây	1
+N : đêm	1
+N : đò	1
+N : đường	1
+N : đầm	7
+N : đầm phá	4
+N : đợt	1
+N : ốc đảo	1
+NP : *E*	11
+NP : *T*	1
+Nc : Anh	1
+Nc : Chị	1
+Nc : Cơn	1
+Nc : chiếc	1
+Nc : con	2
+Nc : người	8
+Nc : sự	1
+Nc : Ông	3
+Nc : ông	2
+Np : Ba	1
+Np : Cầu Hai	5
+Np : Cồn Giá	1
+Np : Hiền An	3
+Np : Huế	2
+Np : Huỳnh Đỗi	1
+Np : Hà Tĩnh	1
+Np : Hòa An	1
+Np : Lộc Bình	1
+Np : Lộc Điền	2
+Np : Miêu Nha	1
+Np : Nghệ An	1
+Np : Nguyễn Hải	1
+Np : Nguyễn Ngọc Thiện	1
+Np : Nguyễn Thị Lành	1
+Np : Nguyễn Việt Hùng	1
+Np : Nguyễn Đinh	1
+Np : Phan Thanh Thạc	1
+Np : Phú Lộc	3
+Np : Phú Vang	1
+Np : Thạc	1
+Np : Thừa Thiên	2
+Np : Trung	1
+Np : Tuổi Trẻ	1
+Np : Tư Hiền	10
+Np : Vinh Hiền	2
+Np : Đinh	3
+Np : Đông	1
+Nu : ha	2
+Nu : m	1
+Nu : tuổi	2
+Nu : đồng	2
+Ny : NV	1
+Ny : UBND	1
+P : Hắn	2
+P : Tôi	1
+P : anh	1
+P : biết bao	1
+P : cả	2
+P : họ	1
+P : mình	2
+P : nào	1
+P : này	7
+P : nó	1
+P : ri	1
+P : tui	1
+P : tôi	1
+P : tự	1
+P : đây	4
+P : đó	2
+P : ấy	1
+R : Cũng	2
+R : Hàng	1
+R : chắc	1
+R : chẳng	2
+R : chỉ	1
+R : còn	2
+R : cũng	6
+R : cứ	1
+R : dần	2
+R : hàng	3
+R : hẳn	1
+R : khá	1
+R : không	6
+R : lên	3
+R : lại	5
+R : nhất	3
+R : nổi	1
+R : nữa	6
+R : quá lắm	1
+R : rất	1
+R : rồi	1
+R : sắp	3
+R : sẽ	1
+R : thường	1
+R : toàn	1
+R : tới	1
+R : từng	2
+R : vẫn	3
+R : đang	4
+R : đây	1
+R : đã	9
+R : được	1
+R : đều	3
+RBKT : RBKT	8
+T : ngay	1
+T : rồi	2
+T : thôi	1
+T : thật	1
+T : đâu	1
+T : đến	4
+V : *E*	3
+V : Làm	1
+V : Rời	1
+V : Tức	1
+V : am tường	1
+V : biết	3
+V : bám trụ	1
+V : bán	1
+V : bảo	1
+V : bảo đảm	1
+V : bị	7
+V : bỏ	1
+V : bồi lấp	1
+V : bồi tụ	1
+V : cho	2
+V : chuyển	1
+V : chài lưới	1
+V : chép miệng	1
+V : chấp nhận	1
+V : chặn	1
+V : chứng kiến	1
+V : cách	2
+V : còn	1
+V : có	8
+V : cản trở	1
+V : cảnh báo	1
+V : dẫn	1
+V : dậy	1
+V : dịch bệnh	1
+V : e	1
+V : giao	1
+V : gặp	1
+V : huy động	1
+V : hò	1
+V : hút	1
+V : hướng	1
+V : hằn	1
+V : hết	1
+V : khiến	1
+V : khơi	1
+V : kiệt quệ	1
+V : kéo theo	1
+V : kể	1
+V : lao đao	1
+V : liên quan	1
+V : lo	2
+V : lo lắng	2
+V : lo âu	1
+V : là	10
+V : làm	1
+V : làm công	1
+V : làm việc	1
+V : lãi	1
+V : lên	1
+V : lăn lộn	1
+V : lưu thông	1
+V : lấp	8
+V : lấy	1
+V : lắc đầu	1
+V : lỗ	1
+V : mang	1
+V : múc	1
+V : mất	2
+V : mất mùa	1
+V : nghe	1
+V : ngồi	1
+V : nhìn	2
+V : nhô	1
+V : nhổ neo	1
+V : nuôi	11
+V : nuôi trồng	2
+V : nơm nớp	1
+V : nổi	2
+V : phán đoán	1
+V : phát triển	2
+V : phải	2
+V : quan trắc	1
+V : quét	1
+V : ra	4
+V : rám	1
+V : sống	3
+V : sống chết	1
+V : tham dự	1
+V : theo	2
+V : theo đuổi	1
+V : thi công	1
+V : thoát	3
+V : thu hút	1
+V : thu hẹp	1
+V : thăm dò	1
+V : thường trực	1
+V : thất thần	1
+V : thấy	2
+V : thở	1
+V : thở dài	1
+V : thức	1
+V : tin	1
+V : trao đổi	1
+V : trông cậy	1
+V : trả	1
+V : trở thành	1
+V : tái định cư	1
+V : tìm	3
+V : tập trung	1
+V : từ bỏ	1
+V : ven	1
+V : vào	2
+V : vượt	2
+V : vỡ	1
+V : xem	1
+V : xin	1
+V : xuống	1
+V : xáo trộn	1
+V : ám chỉ	1
+V : ám ảnh	1
+V : đem	1
+V : đi	3
+V : đánh bắt	3
+V : đóng	7
+V : được	4
+V : đảm bảo	1
+V : đảo lộn	1
+V : đầu tư	1
+V : đến	1
+V : đề xuất	1
+V : ở	2
+X : đầu sóng ngọn gió	1
+“ : “	2
+… : ...	2

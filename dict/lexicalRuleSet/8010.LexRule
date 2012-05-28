@@ -1,0 +1,583 @@
+! : !	3
+" : "	57
+, : ,	45
+- : -	9
+. : .	47
+... : ...	1
+: : :	8
+; : ;	1
+? : ?	1
+A : Bất ngờ	2
+A : Ngỡ ngàng	1
+A : bất ngờ	1
+A : cao	1
+A : cao lớn	1
+A : cao vút	1
+A : cheo leo	1
+A : chừng	1
+A : cổ	4
+A : cổ xưa	1
+A : dài	1
+A : dày	1
+A : dã ngoại	1
+A : dè dặt	1
+A : gần	1
+A : hun hút	1
+A : huyền bí	1
+A : huyền ảo	1
+A : hút	1
+A : hơn	2
+A : im	1
+A : khoảng	3
+A : khác	4
+A : khó	1
+A : khắp	1
+A : kỳ bí	1
+A : kỳ lạ	1
+A : kỳ thú	1
+A : long lanh	1
+A : lung linh	1
+A : lô nhô	1
+A : lạ	3
+A : lạ tai	1
+A : lạnh	1
+A : lấp lánh	1
+A : lớn bé	1
+A : mát	1
+A : mềm nhũn	1
+A : mới	1
+A : ngang	1
+A : nghèo	1
+A : nhiều	1
+A : nho nhỏ	1
+A : nhạt nhòa	1
+A : nhất	4
+A : nhẹ	1
+A : nổi tiếng	2
+A : rộng	2
+A : sau	1
+A : sâu	2
+A : sống động	1
+A : sừng sững	1
+A : sửng sốt	1
+A : sững	1
+A : thích thú	1
+A : thăm thẳm	1
+A : thẳng	2
+A : trong vắt	1
+A : trắng	1
+A : trắng toát	1
+A : trẻ	1
+A : trọn	1
+A : tuyệt dịu	1
+A : tò mò	1
+A : tới tấp	1
+A : vù	1
+A : xa	1
+A : xám	1
+A : yếu	1
+A : Đẹp	1
+A : đau xót	1
+A : đơn giản	1
+A : đầu tiên	1
+A : đặc sắc	1
+A : đẹp	4
+A : đẹp mắt	1
+A : đều	1
+A : đột xuất	1
+A : đủ	3
+C : Nhưng	3
+C : Rồi	1
+C : Thế là	1
+C : Và	1
+C : Vậy là	1
+C : cùng	1
+C : do	1
+C : hoặc	1
+C : hễ	1
+C : là	2
+C : mà	3
+C : như	5
+C : nhưng	4
+C : nên	1
+C : nếu	4
+C : rồi	1
+C : thì	6
+C : và	2
+E : Sau	1
+E : Từ	2
+E : bằng	1
+E : cho	4
+E : của	11
+E : giữa	1
+E : lên	1
+E : sang	1
+E : sau	1
+E : trong	8
+E : trên	6
+E : trước	1
+E : tận	1
+E : tới	1
+E : từ	1
+E : vào	5
+E : vì	7
+E : về	2
+E : với	2
+E : đến	1
+E : để	5
+E : Ở	1
+E : ở	2
+L : Mọi	2
+L : Mỗi	2
+L : Những	1
+L : các	1
+L : muôn	1
+L : muôn vàn	1
+L : mọi	3
+L : mỗi	2
+L : nhiều	1
+L : những	15
+L : vô số	1
+L : vô vàn	1
+LBKT : LBKT	4
+M : 1	1
+M : 1,5	1
+M : 100	1
+M : 11	1
+M : 12	1
+M : 1397	1
+M : 15	2
+M : 2	1
+M : 20	1
+M : 2003	2
+M : 5	2
+M : 500	1
+M : 7	1
+M : 8	1
+M : ba	1
+M : bốn	2
+M : hai	4
+M : mươi	1
+M : một	12
+M : ngàn	2
+N : Anh	1
+N : Hôm	2
+N : Khi	1
+N : Lúc	1
+N : Người	1
+N : Phía	1
+N : Sáng	1
+N : Tháng	1
+N : anh em	4
+N : bài học	1
+N : bánh chưng	1
+N : bánh mì	1
+N : bãi tắm	1
+N : bên	1
+N : bí thư	2
+N : bóng tối	1
+N : băng hình	1
+N : bước	1
+N : bạc	1
+N : bạn	1
+N : bậc	1
+N : bồn tắm	1
+N : chuyến	4
+N : chuyện	2
+N : chân	2
+N : chính quyền	1
+N : chúa	1
+N : chủ tịch	2
+N : cua	1
+N : cung	3
+N : cuộc	2
+N : cá	1
+N : cán bộ	1
+N : cánh	1
+N : câu chuyện	1
+N : cùng	1
+N : cước	1
+N : cảnh trí	1
+N : cột	2
+N : cửa	7
+N : di tích	4
+N : dân	2
+N : dây	3
+N : dãy	3
+N : dư luận	1
+N : dưới	2
+N : gió	1
+N : giếng	3
+N : hang	14
+N : hang động	6
+N : hoa	1
+N : hoa văn	1
+N : huyện	7
+N : hình	4
+N : hình thù	1
+N : khi	1
+N : kho bạc	1
+N : khoái cảm	1
+N : khoảng	1
+N : khu	2
+N : khu vực	1
+N : loài	1
+N : làng	1
+N : lãnh đạo	1
+N : lò	1
+N : lòng	1
+N : lý do	1
+N : lần	1
+N : lịch sử	1
+N : lời	3
+N : màu	1
+N : màu sắc	1
+N : máy phát điện	2
+N : mình	1
+N : mật độ	1
+N : mắt	1
+N : mặt	1
+N : mộ	1
+N : một tí	1
+N : ngày	2
+N : ngày đêm	1
+N : người	9
+N : nham thạch	1
+N : nhau	1
+N : nhà	1
+N : nhóm	1
+N : nhũ	1
+N : nhũ đá	3
+N : nhạc	1
+N : núi	4
+N : năm	2
+N : nơi	2
+N : nước	4
+N : nỗi	1
+N : phía	2
+N : phóng viên	4
+N : quanh	2
+N : quê	1
+N : quần thể	1
+N : quốc gia	1
+N : sau	1
+N : sáng	3
+N : sư tử	1
+N : sắc	1
+N : sắc màu	1
+N : sức	3
+N : tay	3
+N : thang	1
+N : thiên cung	2
+N : thiên nhiên	2
+N : thành	1
+N : thông tin	1
+N : thủy cung	1
+N : thủy tề	1
+N : thứ	1
+N : thừng	1
+N : tin	1
+N : tiên	7
+N : tiên cảnh	1
+N : tiếng	1
+N : tiền	1
+N : truyền hình	1
+N : trưa	1
+N : trước	1
+N : trưởng	2
+N : trần	2
+N : trời	2
+N : trụ	1
+N : tòa sen	1
+N : tóc	1
+N : tôm	1
+N : tượng	3
+N : tảng	1
+N : tầm cỡ	1
+N : tầng	1
+N : tỉnh	1
+N : vua	2
+N : vàng	1
+N : vách	2
+N : vòm	1
+N : võ quan	1
+N : vùng	1
+N : vú	1
+N : văn hóa	2
+N : vật	1
+N : vẻ	1
+N : vợ	1
+N : xe máy	1
+N : xã	14
+N : xã đoàn	1
+N : ô	1
+N : ông	2
+N : Đoàn	1
+N : Động	1
+N : điện	1
+N : đoàn	2
+N : đoạn	1
+N : đài	1
+N : đài truyền hình	2
+N : đàn đá	1
+N : đá	15
+N : đá vôi	1
+N : đèn	4
+N : đường	2
+N : đầu	3
+N : địa bàn	1
+N : địa phương	1
+N : động	11
+NP : *E*	15
+NP : *T*	2
+Nb : ăcqui	6
+Nc : Anh	4
+Nc : anh	3
+Nc : bà	1
+Nc : bông	1
+Nc : chiếc	1
+Nc : con	4
+Nc : cái	4
+Nc : giọt	1
+Nc : loại	1
+Nc : ngôi	1
+Nc : ngụm	1
+Nc : nhóm	1
+Nc : pho	1
+Nc : tảng	2
+Nc : tấm	1
+Nc : vẻ	1
+Nc : ánh	2
+Nc : ông	3
+Nc : đoàn	1
+Np : Bình	6
+Np : Hoàng Thị Ngọc Diễm	1
+Np : Hạ Long	1
+Np : Hồ	1
+Np : Nguyễn Văn Bình	2
+Np : Phong Nha	1
+Np : Phật	1
+Np : Phật Bà	1
+Np : Quảng Bình	1
+Np : Thanh	1
+Np : Thanh Hóa	1
+Np : Thiên Cung	1
+Np : Thung Vình	3
+Np : Tiên Sơn	7
+Np : Toàn	2
+Np : Trần Song Toàn	1
+Np : Trịnh Tùng	1
+Np : Vang	3
+Np : Vĩnh An	4
+Np : Vĩnh Lộc	2
+Np : Vĩnh Minh	2
+Np : Đa Bút	1
+Np : Đông Nam Á	1
+Nu : giờ	1
+Nu : kW	2
+Nu : km	1
+Nu : m	4
+Ny : UBND	1
+P : Chúng tôi	1
+P : Tôi	2
+P : ai	4
+P : bao giờ	1
+P : bây giờ	1
+P : chúng tôi	5
+P : cả	3
+P : mình	1
+P : nay	1
+P : này	2
+P : sao	1
+P : ta	1
+P : tôi	2
+P : tất cả	1
+P : Đây	1
+P : Đó	1
+P : đâu	2
+P : đó	6
+P : ấy	1
+R : Không	2
+R : Lập tức	1
+R : Mãi	1
+R : chưa	3
+R : chỉ	2
+R : còn	1
+R : có thể	4
+R : cũng	7
+R : cứ	1
+R : hàng	2
+R : hết	1
+R : khá	2
+R : không	10
+R : liền	2
+R : luôn	1
+R : lên	4
+R : lại	8
+R : lần lượt	1
+R : mới	3
+R : ngay	1
+R : qua	2
+R : quá	1
+R : ra	2
+R : sẽ	1
+R : thêm	2
+R : thật	1
+R : tiếp	1
+R : tức tốc	1
+R : từng	1
+R : vào	3
+R : vẫn	3
+R : về	1
+R : xong	1
+R : xuống	3
+R : đang	6
+R : đã	6
+R : được	5
+R : đến	2
+R : đều	1
+RBKT : RBKT	4
+T : Chính	1
+T : chính	1
+T : gì	1
+T : ngay	1
+T : nữa	1
+V : *E*	1
+V : Cảnh báo	1
+V : Khám phá	1
+V : Leo	1
+V : Ngước	1
+V : Quay	1
+V : Tiến	1
+V : Tiếp	2
+V : Vào	1
+V : Xin	1
+V : ban tặng	1
+V : bao	1
+V : biết	2
+V : buộc	1
+V : bám	1
+V : báo	1
+V : bò	1
+V : bước	1
+V : bảo	3
+V : bảo vệ	1
+V : bấm	1
+V : bắt đầu	2
+V : bị	1
+V : canh	1
+V : chiếu	2
+V : cho	1
+V : chú ý	1
+V : chầu	1
+V : chỉ dẫn	1
+V : chống	1
+V : cách	3
+V : còn	3
+V : có	7
+V : công tác	1
+V : cầm	1
+V : du lịch	3
+V : dát	1
+V : dùng	2
+V : dẫn	2
+V : dẫn đầu	1
+V : dừng	1
+V : giao	1
+V : giục	2
+V : gây	1
+V : gặp	2
+V : gọi	2
+V : hiềm	1
+V : hiện	4
+V : hút	2
+V : hưởng	1
+V : hết	2
+V : hứng	1
+V : khai thác	1
+V : khiến	3
+V : khám phá	4
+V : khỏi	1
+V : kiểm tra	1
+V : kể	4
+V : lan truyền	1
+V : là	6
+V : làm	1
+V : lách	1
+V : lên	3
+V : lạc	1
+V : muốn	4
+V : mượn	1
+V : mải	1
+V : nghe	3
+V : nghiêng	1
+V : ngăn chặn	1
+V : ngước	1
+V : ngạc nhiên	1
+V : ngờ	1
+V : ngửa	1
+V : ngự	1
+V : nhìn	3
+V : nhớ	1
+V : nói	3
+V : nằm	2
+V : nổ mìn	1
+V : phát	1
+V : phát hiện	2
+V : phải	6
+V : quay	2
+V : quây	1
+V : ra	3
+V : ra tay	1
+V : rơi	1
+V : rọi	1
+V : rời	1
+V : so sánh	1
+V : sánh	1
+V : thay	1
+V : theo	1
+V : thi	1
+V : thiết kế	1
+V : thoảng	1
+V : thua kém	1
+V : thuộc	2
+V : thám hiểm	1
+V : thả	1
+V : thấu	1
+V : thấy	2
+V : thốt	1
+V : thử	1
+V : tin	1
+V : trèo	1
+V : trầm trồ	1
+V : trở thành	1
+V : tu	1
+V : tuyên bố	1
+V : tìm	2
+V : tương truyền	1
+V : tận hưởng	1
+V : tập trung	1
+V : tổ chức	3
+V : tụt	1
+V : uống	2
+V : vào	3
+V : vốc	1
+V : xem	2
+V : xuyên	1
+V : xách	1
+V : xâm nhập	1
+V : xôn xao	2
+V : ăn	1
+V : Đáng	1
+V : Được	1
+V : đi	9
+V : đành	1
+V : đánh giá	1
+V : đưa	1
+V : được	7
+V : đề xuất	1
+V : đứng	3
+V : ưng ý	1
+V : ở	1
+X : liệu cơm mà gắp mắm	1
+X : thiên la địa võng	1

@@ -1,0 +1,241 @@
+" : "	10
+, : ,	28
+- : -	2
+. : .	12
+: : :	7
+; : ;	7
+? : ?	5
+A : bức xúc	1
+A : chung chung	1
+A : cuối cùng	1
+A : cùng	1
+A : cụ thể	1
+A : hơn	1
+A : khác	1
+A : khách quan	1
+A : kéo dài	1
+A : lâu	1
+A : nhiều	1
+A : sai phạm	1
+A : thực tế	1
+A : tiêu cực	3
+A : toàn diện	1
+A : trên	3
+A : tận cùng	1
+A : vô tư	1
+C : Do vậy	1
+C : hay	1
+C : là	1
+C : mà	1
+C : như	2
+C : nhưng	3
+C : nên	1
+C : rằng	1
+C : tuy nhiên	1
+C : tức	2
+C : và	1
+E : Theo	2
+E : Trước	1
+E : bằng	1
+E : cho	1
+E : của	2
+E : do	3
+E : ngoài	1
+E : sau	1
+E : trong	3
+E : tại	2
+E : từ	1
+E : vào	1
+E : vì	1
+E : về	3
+E : với	2
+E : Để	1
+E : đến	3
+E : để	1
+E : ở	3
+L : các	3
+L : những	2
+LBKT : LBKT	1
+M : 23 - 3 – 2004	1
+M : 23-3	1
+M : 3 - 2004	1
+M : 7	1
+M : hai	1
+N : Báo	1
+N : Chiều	1
+N : Chủ tịch	1
+N : Công an	3
+N : Công dân	1
+N : Công nhân	1
+N : Cơ quan	2
+N : Luật sư	1
+N : Lãnh đạo	1
+N : Số phận	1
+N : Sở	1
+N : Thanh tra	1
+N : Tin	1
+N : Tòa	1
+N : Viện Kiểm sát	1
+N : Vụ	1
+N : bài	1
+N : báo	2
+N : chứng cứ	3
+N : cuối	1
+N : cuộc	1
+N : cá nhân	1
+N : câu	1
+N : công trình	9
+N : công tác	1
+N : cơ quan	6
+N : cảng	4
+N : cảnh sát	2
+N : cừ	1
+N : dư luận	2
+N : giai đoạn	1
+N : hội đồng	2
+N : khi	1
+N : khâu	1
+N : khả năng	1
+N : kết luận	3
+N : kết quả	4
+N : lãnh đạo	3
+N : mẫu	1
+N : nguyên nhân	2
+N : ngành	1
+N : người	1
+N : nhân dân	1
+N : năm	1
+N : nơi	1
+N : phiên	1
+N : quyền lợi	1
+N : quận	1
+N : sau	1
+N : sáng	1
+N : sắt	1
+N : số liệu	2
+N : sở	1
+N : sự thật	1
+N : tháng	1
+N : tiêu cực	1
+N : tiến độ	1
+N : trước	1
+N : văn bản	1
+N : vấn đề	1
+N : vật liệu	1
+N : vụ	5
+N : vụ việc	2
+N : vụ án	1
+N : Đường	2
+N : điều tra viên	1
+N : đường	5
+N : đặc điểm	1
+NP : *E*	4
+NP : *T*	3
+Nc : anh	1
+Nc : cây	1
+Nc : Ông	2
+Np : A5	4
+Np : HCM	3
+Np : Hải	2
+Np : Lê Thanh Hải	1
+Np : Pháp Luật	3
+Np : Trương Xuân ĐạI	1
+Np : Trương Xuân Đại	2
+Np : Tuổi Trẻ	1
+Np : liên cảng A5	3
+Nu : mét	1
+Ny : GTCC	1
+Ny : HCM	3
+Ny : TP	10
+Ny : UBND	3
+P : cả	1
+P : nay	2
+P : này	4
+P : từng	2
+P : đó	4
+R : chưa	6
+R : còn	1
+R : cũng	3
+R : hết	1
+R : không	5
+R : không thể	1
+R : lên	2
+R : lại	2
+R : quá	1
+R : sẽ	3
+R : thể	1
+R : vẫn	3
+R : đang	2
+R : đã	5
+R : được	3
+RBKT : RBKT	1
+S : liên	4
+T : gì	1
+V : Liên quan	1
+V : Liệu	1
+V : Trả lời	1
+V : Viết	1
+V : biết	1
+V : buộc	1
+V : báo cáo	2
+V : bảo vệ	1
+V : bị	3
+V : bới	1
+V : bớt xén	1
+V : cho	1
+V : chuyển	1
+V : chắc chắn	1
+V : chỉ đạo	1
+V : chứng minh	1
+V : còn	1
+V : có	13
+V : dùng	1
+V : giám định	4
+V : giải thích	1
+V : gây	1
+V : hòa giải	1
+V : họp	2
+V : hỏi	1
+V : khiến	1
+V : khởi tố	1
+V : kiểm tra	1
+V : kiện	2
+V : liên quan	1
+V : liệu	1
+V : là	1
+V : làm	2
+V : lấy	2
+V : mong muốn	1
+V : muốn	1
+V : nghi vấn	1
+V : nhận	1
+V : nói	2
+V : phải	5
+V : sai phạm	1
+V : thanh tra	3
+V : thi công	1
+V : thiếu	1
+V : thành lập	1
+V : thấy	1
+V : thắng	1
+V : thụ lý	1
+V : tiếp	1
+V : truy tố	1
+V : trả lời	2
+V : vướng	1
+V : xây dựng	2
+V : xử	1
+V : xử lý	1
+V : yêu cầu	1
+V : Đấu thầu	1
+V : điều tra	12
+V : đánh giá	1
+V : đặt	1
+V : đề nghị	3
+V : để	1
+X : Mới đây	1
+X : Vì sao	1
+X : chìm xuồng	4
+X : tái	1
+X : vì sao	2
+… : …	1

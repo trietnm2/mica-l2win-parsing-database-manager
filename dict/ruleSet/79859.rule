@@ -1,0 +1,78 @@
+AP : A : " SBAR "	1
+AP : A V	1
+AP : A VP	1
+AP : R A	1
+NP : M N	2
+NP : M N M	1
+NP : M N N N	1
+NP : M N R	1
+NP : M N R VP	1
+NP : M Nu	1
+NP : N	13
+NP : N A	1
+NP : N M	1
+NP : N M NP	1
+NP : N N	2
+NP : N N VP	1
+NP : N NP	5
+NP : N Np	3
+NP : N Np , NP	1
+NP : N P	2
+NP : N P ...	1
+NP : N PP NP	1
+NP : N WHNP	1
+NP : Nc N	8
+NP : Nc Np	3
+NP : Np	1
+NP : Np .	1
+NP : P	5
+PP : E NP	8
+S : " I ... NP VP " .	1
+S : NP AP	1
+S : NP NP	1
+S : NP NP VP	1
+S : NP S S , SBAR S .	1
+S : NP SBAR , NP , NP	1
+S : NP VP	7
+S : NP VP .	4
+S : NP VP ...	1
+S : NP VP AP	1
+S : PP VP	1
+S : S , C S .	1
+S : S , S .	1
+S : VP	1
+S : VP , NP AP C VP ...	1
+S : XP NP VP	1
+SBAR : C S	1
+SBAR : S	4
+SBAR : S , S , S	1
+SBAR : SQ	1
+SQ : C NP NP ?	1
+VP : R R V NP VP	1
+VP : R V	2
+VP : R V A NP C NP	1
+VP : R V V R PP	1
+VP : R V VP	3
+VP : V	1
+VP : V A PP	1
+VP : V NP	6
+VP : V NP C NP T ...	1
+VP : V NP VP	2
+VP : V Np ...	1
+VP : V PP	2
+VP : V PP : " SBAR "	1
+VP : V PP NP	1
+VP : V R	1
+VP : V R AP	1
+VP : V R NP	1
+VP : V R R NP	1
+VP : V SBAR	1
+VP : V V	3
+VP : V V R NP	1
+VP : V V SBAR	1
+VP : V VP	2
+VP : VP , VP	1
+VP : VP , VP C SBAR	1
+VP : VP C VP	2
+WHNP : P	1
+XP : X VP	1

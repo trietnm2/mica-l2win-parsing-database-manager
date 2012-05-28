@@ -1,0 +1,643 @@
+! : !	4
+" : "	38
+, : ,	81
+- : -	30
+. : .	66
+... : ...	5
+/ : /	1
+: : :	14
+; : ;	1
+A : Sau	1
+A : Tràn lan	1
+A : Trẻ	1
+A : bức xúc	2
+A : chung	1
+A : chủ chốt	1
+A : công khai	1
+A : cùng	1
+A : cũ	1
+A : dài	1
+A : giả	21
+A : hết	1
+A : khác	4
+A : khùng khùng	1
+A : kỹ	1
+A : lão thành	1
+A : ngang nhiên	1
+A : ngon ăn	1
+A : ngỡ ngàng	1
+A : nhiều	3
+A : nhảm	1
+A : nhất	1
+A : nhẹ	2
+A : nhức nhối	1
+A : nặng	2
+A : nổi bật	1
+A : ruột	1
+A : rõ	1
+A : sai	1
+A : suốt	1
+A : thật	3
+A : tinh vi	1
+A : to	1
+A : trong	1
+A : trước	1
+A : trực tiếp	1
+A : tâm huyết	1
+A : tạm thời	1
+A : vội	1
+A : yên ổn	1
+A : ít	1
+A : điên điên	1
+A : đương chức	1
+A : đầu tiên	1
+A : đủ	2
+A : ưu tiên	1
+A : ấp úng	1
+A : ồ ạt	2
+C : Còn	1
+C : Nhưng	3
+C : Nếu	2
+C : Thế là	1
+C : Vì thế	1
+C : còn	1
+C : là	3
+C : mà	4
+C : như	1
+C : nhưng	9
+C : nên	6
+C : rằng	1
+C : rồi	2
+C : thì	9
+C : thế mà	1
+C : và	7
+C : ví như	1
+C : vậy	1
+C : với	1
+E : Sau	1
+E : Theo	1
+E : Tại	1
+E : Từ	1
+E : Với	1
+E : cho	1
+E : của	16
+E : do	2
+E : dưới	1
+E : giữa	1
+E : lên	2
+E : sau	1
+E : theo	2
+E : trong	13
+E : trên	2
+E : trước	2
+E : tại	6
+E : tận	1
+E : từ	1
+E : vào	1
+E : vì	3
+E : về	1
+E : với	3
+E : Để	1
+E : đến	3
+E : để	7
+E : đối với	1
+E : Ở	1
+E : ở	4
+L : các	12
+L : mấy	1
+L : một số	1
+L : những	2
+L : toàn bộ	1
+L : tất cả	1
+L : vài	1
+LBKT : LBKT	11
+M : 1 , 5	1
+M : 1 . 459	1
+M : 100 %	1
+M : 11	3
+M : 13	1
+M : 142	1
+M : 18	1
+M : 192 . 000	1
+M : 1944	1
+M : 1949	1
+M : 1950	1
+M : 1956	1
+M : 1958	1
+M : 1965	1
+M : 1968	1
+M : 1977	2
+M : 1978	2
+M : 1981	1
+M : 1985	1
+M : 1995	2
+M : 1997	1
+M : 1998	1
+M : 1999	1
+M : 2000	2
+M : 2003	1
+M : 2004	4
+M : 25	1
+M : 26	1
+M : 27	1
+M : 28	1
+M : 29	2
+M : 3	1
+M : 3 , 5	1
+M : 3 triệu	1
+M : 30	3
+M : 31 %	3
+M : 4	1
+M : 441	1
+M : 50 %	1
+M : 61 %	3
+M : 7	1
+M : 70	1
+M : 80	1
+M : 81 %	2
+M : 9	5
+M : 900	1
+M : 93	1
+M : Ba	1
+M : Một	1
+M : ba	6
+M : bảy	1
+M : chín	1
+M : hai	6
+M : mỗi	2
+M : một	17
+M : sáu	1
+M : triệu	3
+M : đôi	1
+N : Bàn tay	1
+N : Bác	1
+N : Bộ	1
+N : Chiều	2
+N : Chuyện	1
+N : Chủ tịch	1
+N : Cò	1
+N : Em	1
+N : Gốc	1
+N : Huy chương	3
+N : Huyện	1
+N : Huân chương	1
+N : Khi	1
+N : Lâm trường	1
+N : Lúc	1
+N : Nguyên tắc	1
+N : Ngày	1
+N : Nhà nước	1
+N : Phòng	1
+N : Quân khu	1
+N : Trưa	2
+N : Tổ quốc	1
+N : anh	1
+N : anh hùng	1
+N : bia	1
+N : bom	2
+N : bom bi	1
+N : bài	1
+N : bài tính	1
+N : bác	4
+N : bí thư	2
+N : bản	1
+N : bảng vàng	2
+N : bằng	1
+N : bộ binh	1
+N : bộ đội	4
+N : bục	1
+N : cha	1
+N : chuyện	3
+N : chỉ thị	1
+N : chủ tịch	6
+N : con	1
+N : cách	1
+N : cách mạng	1
+N : cán bộ	8
+N : cò	12
+N : cò mồi	1
+N : công	2
+N : công an	1
+N : công nhân	1
+N : công tác	1
+N : cơ sở	1
+N : cảnh	1
+N : cỡ	1
+N : danh dự	2
+N : danh sách	1
+N : diện	1
+N : dân	3
+N : dân công	1
+N : dân quân	1
+N : dòng	1
+N : dư luận	1
+N : giá	1
+N : giáp	2
+N : giấy	3
+N : huyện	9
+N : huân chương	1
+N : huân huy chương	1
+N : hạng	3
+N : hải quân	1
+N : học phí	1
+N : họng	1
+N : hỏa tuyến	1
+N : hố	1
+N : hồ sơ	2
+N : hội đồng	1
+N : khi	10
+N : khoảng	1
+N : kỷ luật	1
+N : liệt sĩ	7
+N : loại	1
+N : lính	1
+N : lúc	2
+N : lý do	1
+N : lưng	1
+N : lần	3
+N : lễ	1
+N : lộc	1
+N : miền	1
+N : máy bay	1
+N : mũi	1
+N : nay	2
+N : nguyên nhân	1
+N : ngày	3
+N : ngón	1
+N : người	11
+N : nhau	5
+N : nhu cầu	1
+N : nhà	2
+N : nhì	1
+N : nét	1
+N : nói	1
+N : nông nghiệp	1
+N : năm	20
+N : nơi	1
+N : nước	2
+N : nạn	1
+N : nấc	3
+N : nứa	1
+N : phong trào	1
+N : phía	1
+N : phòng	2
+N : phó	1
+N : phần	1
+N : phần trăm	1
+N : phẩm chất	1
+N : quanh	1
+N : qui luật	1
+N : quyết định	2
+N : quần áo	1
+N : suất	2
+N : sư đoàn	1
+N : sẹo	2
+N : số	4
+N : sức ép	1
+N : tai	1
+N : tay	2
+N : thuế	1
+N : tháng	2
+N : thông tư	1
+N : thương binh	2
+N : thẻ	4
+N : thị trấn	1
+N : thợ nề	1
+N : thứ	1
+N : tin đồn	1
+N : tiền	3
+N : trùm	2
+N : trường	1
+N : trường hợp	3
+N : trận	1
+N : tuổi	5
+N : tâm thần	1
+N : tâm tư	1
+N : tên	3
+N : tỉ lệ phần trăm	2
+N : tỉnh	1
+N : vai	1
+N : việc	2
+N : vàng	1
+N : vòng	1
+N : văn phòng	2
+N : vết thương	2
+N : vị	1
+N : vỏ	1
+N : xác nhận	1
+N : xã	31
+N : xã đội	1
+N : xóm	3
+N : xương	1
+N : yêu cầu	1
+N : ông	3
+N : điểm	1
+N : đài	2
+N : đơn vị	1
+N : đường dây	3
+N : đại biểu	1
+N : đạn	1
+N : đảng viên	2
+N : đảng ủy	2
+N : đầu	1
+N : đầu gối	1
+N : đối tượng	3
+N : đội trưởng	1
+N : đời	1
+N : ủy ban	1
+NP : *E*	17
+NP : *T*	4
+Nc : Anh	1
+Nc : cái	1
+Nc : loại	1
+Nc : loạt	1
+Nc : miểng	1
+Nc : người	2
+Nc : quả	1
+Nc : thẻ	1
+Nc : tấm	1
+Nc : vết	2
+Nc : vị	1
+Nc : Ông	7
+Nc : ông	29
+Np : Chính	6
+Np : Cường	2
+Np : Hà Tĩnh	1
+Np : Hương Sơn	2
+Np : Khuyên	3
+Np : Lam Thủy	1
+Np : Lê Nguyên Cường	1
+Np : Lê Phụ	1
+Np : Lê Trần Hường	1
+Np : Lê Văn Khuyên	2
+Np : Lê Văn Tân	1
+Np : Lê Xuân Quyền	1
+Np : Mỹ	4
+Np : Nam	1
+Np : Nghi Xuân	7
+Np : Nguyễn Hữu Chỉnh	1
+Np : Nguyễn Nam Đường	1
+Np : Nguyễn Văn Hóa	1
+Np : Nguyễn Đình Ngân	1
+Np : Nguyễn Đình Thân	1
+Np : Nguyễn Đức Quang	1
+Np : Ngân	1
+Np : Pheo	1
+Np : Pháp	1
+Np : Quyền	2
+Np : Sơn Trà	9
+Np : Thân	2
+Np : Tiên Điền	1
+Np : Tuyết	4
+Np : Tân	2
+Np : Văn Đình Tuyết	1
+Np : Xuân Giang	2
+Np : Đường	1
+Np : Đảng	1
+Np : Đức Hòa	1
+Np : Đức Thọ	1
+Nu : tuổi	1
+Nu : đồng	5
+Ny : D	1
+Ny : H	3
+Ny : HHC	6
+Ny : HĐND	3
+Ny : K	7
+Ny : LĐ	2
+Ny : T	1
+Ny : TB	35
+Ny : TNXP	2
+Ny : UBND	2
+Ny : XH	2
+Ny : Đ . T . K	1
+Ny : ĐH	1
+P : Bây giờ	1
+P : Tôi	5
+P : ai	2
+P : bấy lâu	1
+P : chúng tôi	3
+P : cả	4
+P : gì	1
+P : họ	5
+P : mình	1
+P : nay	2
+P : nào	2
+P : này	2
+P : thế	1
+P : tôi	6
+P : y	4
+P : Đây	3
+P : đâu	3
+P : đây	1
+P : đó	6
+P : ấy	1
+R : Bỗng	1
+R : Cũng	2
+R : Không	5
+R : Mới	1
+R : bèn	1
+R : bỗng	2
+R : bỗng dưng	1
+R : chỉ	7
+R : còn	1
+R : có thể	1
+R : cũng	4
+R : hơn	1
+R : không	8
+R : lên	7
+R : lại	5
+R : mới	3
+R : ngay	2
+R : ngay lập tức	1
+R : nổi	1
+R : qua	1
+R : ra	3
+R : rồi	3
+R : sẽ	4
+R : tức thì	1
+R : từng	2
+R : vẫn	3
+R : vọt	1
+R : vừa	1
+R : đang	3
+R : đã	8
+R : được	5
+R : đều	3
+RBKT : RBKT	11
+S : nguyên	3
+S : phó	5
+T : Riêng	1
+T : chính	1
+T : tới	1
+T : đến	1
+V : Kháng chiến	2
+V : Muốn	2
+V : Rời	1
+V : biết	5
+V : bàn tán	1
+V : báo	1
+V : bắt gặp	1
+V : bằng	1
+V : bị	5
+V : bị thương	4
+V : bịa	1
+V : bọc	1
+V : bỏ	1
+V : cam đoan	1
+V : chi	3
+V : chiến đấu	1
+V : cho	4
+V : cho phép	1
+V : chuyển	1
+V : chăm	1
+V : chạy	3
+V : chết	1
+V : chỉ huy	1
+V : chịu	1
+V : chối	1
+V : chống	4
+V : chứng thương	1
+V : có	25
+V : công tác	1
+V : cần	3
+V : cởi	1
+V : cứu	1
+V : dò	1
+V : dò tìm	1
+V : dặn	1
+V : ghi	1
+V : gia nhập	1
+V : giám định	2
+V : giả	1
+V : giả vờ	1
+V : giải thích	1
+V : giảm	4
+V : giấu giếm	1
+V : gõ cửa	1
+V : gấp	1
+V : gặp	2
+V : gồm	2
+V : hoạt động	1
+V : huấn luyện	1
+V : hướng dẫn	1
+V : hưởng	2
+V : họp	1
+V : hỏi	4
+V : hộ	1
+V : khai	3
+V : khai man	1
+V : khai trừ	1
+V : khen thưởng	2
+V : khiến	1
+V : khám	4
+V : khánh thành	1
+V : khấu hao	1
+V : khắc	1
+V : khỏi	1
+V : kiêm	1
+V : ký	1
+V : kết luận	1
+V : kể	1
+V : là	17
+V : làm	22
+V : làm chứng	1
+V : làm ăn	1
+V : lách	1
+V : lên	1
+V : lùi	1
+V : lưỡng lự	1
+V : lấp	1
+V : lập	1
+V : lặn lội	1
+V : lọt	1
+V : lộ	1
+V : mua	1
+V : muốn	1
+V : mất	1
+V : nghe	4
+V : ngần ngại	1
+V : ngồi	1
+V : ngờ	1
+V : nhô	1
+V : nhớ	1
+V : nhờ	2
+V : nuôi	1
+V : nâng	3
+V : nên	1
+V : nói	5
+V : nắm	1
+V : nổ	1
+V : oanh tạc	1
+V : phát biểu	1
+V : phân liệt	1
+V : phép	1
+V : phải	4
+V : phất	1
+V : phục viên	1
+V : quảng cáo	1
+V : ra	1
+V : reo	1
+V : rộ	1
+V : sinh	2
+V : sát hại	1
+V : săn	1
+V : tham gia	1
+V : thanh tra	1
+V : theo	1
+V : thi đua	1
+V : thiết lập	1
+V : thu	1
+V : thu hồi	2
+V : thuộc	1
+V : thành	1
+V : thêm	1
+V : thú nhận	1
+V : thú thật	1
+V : thấy	2
+V : thử	1
+V : tiến	1
+V : tiếp	1
+V : treo	1
+V : trả	1
+V : trả lời	1
+V : trẻ hóa	1
+V : trở lại	1
+V : trở thành	1
+V : trở về	1
+V : tìm	1
+V : tùy	1
+V : tăng	2
+V : tổ chức	1
+V : vào	4
+V : về	4
+V : xem	1
+V : xin	1
+V : xong	1
+V : xuất hiện	1
+V : xuất ngũ	1
+V : xác nhận	2
+V : xây dựng	1
+V : xóa	2
+V : xử lý	1
+V : yêu cầu	1
+V : ân hận	1
+V : ăn tiền	1
+V : Đi	1
+V : Đua	1
+V : đi	11
+V : đua	1
+V : đáng	1
+V : đâm	1
+V : đình chỉ	1
+V : được	9
+V : đảm bảo	1
+V : đặt	1
+V : đặt cọc	1
+V : đến	3
+V : để	1
+V : đồng ý	1
+V : ở	1
+X : Hình như	1
+X : Mới đây	1
+X : nhất là	1
+Y : &	2

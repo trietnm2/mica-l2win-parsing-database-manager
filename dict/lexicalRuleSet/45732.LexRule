@@ -1,0 +1,452 @@
+! : !	2
+" : "	14
+, : ,	40
+- : -	15
+. : .	41
+... : ...	6
+/ : /	1
+: : :	3
+A : Dọc	1
+A : Nhiều	3
+A : bừa bãi	2
+A : chính	1
+A : dài	2
+A : dày đặc	1
+A : dọc	2
+A : gần	4
+A : hùng hậu	1
+A : khoảng	10
+A : khác	1
+A : khắp	2
+A : lẫn	2
+A : lậu	1
+A : lịch sử	2
+A : miệt mài	2
+A : mới	1
+A : nghiêm trọng	1
+A : nhiều	2
+A : nhỏ	1
+A : nát	1
+A : nóng bỏng	1
+A : rõ	1
+A : rộng	1
+A : suốt	1
+A : sâu	5
+A : sẵn sàng	1
+A : sớm	1
+A : thoải mái	1
+A : tương tự	1
+A : tập thể	1
+A : đen	1
+A : đầy	1
+A : đều	1
+C : Còn	2
+C : Như vậy	1
+C : còn	1
+C : dù	1
+C : hoặc	1
+C : là	4
+C : lẫn	1
+C : nhưng	3
+C : nên	2
+C : rồi	1
+C : thì	2
+C : và	7
+C : vì vậy	1
+C : vậy là	1
+C : vậy mà	1
+E : Theo	1
+E : Trên	1
+E : Từ	4
+E : bằng	3
+E : bởi	1
+E : cho	2
+E : của	2
+E : do	2
+E : dưới	3
+E : lên	3
+E : theo	2
+E : trong	5
+E : trên	5
+E : từ	4
+E : vào	4
+E : vì	1
+E : về	1
+E : với	1
+E : xuống	1
+E : đến	4
+E : để	3
+E : ở	2
+L : các	2
+L : một số	1
+L : những	3
+L : toàn bộ	2
+LBKT : LBKT	3
+M : 0104	1
+M : 0478	1
+M : 1	3
+M : 10	2
+M : 12	1
+M : 15	1
+M : 150.000	1
+M : 20	2
+M : 2004	1
+M : 24	2
+M : 25	1
+M : 3	1
+M : 30	2
+M : 300	1
+M : 35	1
+M : 3636	1
+M : 40	3
+M : 400	1
+M : 5	1
+M : 50	1
+M : 500	1
+M : 60	2
+M : 70	1
+M : 70.000	1
+M : Một	2
+M : ba	3
+M : chục	1
+M : hai	9
+M : mỗi	2
+M : một	12
+M : ngàn	2
+M : trăm	4
+N : Ban ngày	1
+N : Chính phủ	1
+N : Cù lao	1
+N : Di tích	1
+N : Khi	1
+N : Nguyên nhân	1
+N : Người	3
+N : Quái vật	1
+N : Sở	1
+N : Thủ tướng	2
+N : Trên	1
+N : Tuyến	1
+N : Tài nguyên	1
+N : Tình trạng	1
+N : Việc	1
+N : ban đêm	1
+N : bao	1
+N : biển số	1
+N : bãi	1
+N : bên	2
+N : bùn	3
+N : bến	1
+N : bờ	9
+N : chỗ	1
+N : chủ	1
+N : cách	2
+N : cán bộ	1
+N : cát	45
+N : cây số	1
+N : công an	1
+N : công tác	1
+N : cù lao	8
+N : cạp	3
+N : cần	2
+N : cần cẩu	4
+N : cầu	4
+N : cẩu	1
+N : cọc	1
+N : cừ	1
+N : danh nghĩa	1
+N : di tích	2
+N : dân	8
+N : dòng	4
+N : dưới	1
+N : dự án	2
+N : ghe	5
+N : giao thông	1
+N : giàn	1
+N : giá	1
+N : giấy	1
+N : giấy phép	1
+N : giặc	1
+N : giới	1
+N : giữa	1
+N : gàu	2
+N : hiện	2
+N : hiện nay	1
+N : hoạt động	1
+N : huyện	3
+N : hàm ếch	1
+N : khi	2
+N : khoáng sản	1
+N : khu vực	5
+N : kè	1
+N : lòng sông	5
+N : lúc	2
+N : lần	1
+N : lịch sử	1
+N : lực lượng	3
+N : mé	1
+N : mép	1
+N : môi trường	1
+N : mưa	2
+N : mẻ	2
+N : mực	1
+N : nguồn	3
+N : ngày	2
+N : ngày đêm	1
+N : người	4
+N : nhà	2
+N : ná	1
+N : năm	8
+N : năm ngoái	1
+N : nơi	2
+N : nước	1
+N : phép	1
+N : phòng	1
+N : phần	1
+N : quanh	1
+N : quái vật	1
+N : sà lan	14
+N : sáng	1
+N : sông	17
+N : sỏi	2
+N : số	3
+N : tai mắt	1
+N : tháng	1
+N : thông hành	1
+N : thị trấn	1
+N : thời điểm	1
+N : trong	1
+N : trên	1
+N : trưa	1
+N : trận	1
+N : trữ lượng	1
+N : tài nguyên	1
+N : tác động	1
+N : tình hình	2
+N : tình trạng	2
+N : tập thể	1
+N : tỉnh	4
+N : việc	1
+N : văn hóa	1
+N : xe tải	1
+N : xáng	1
+N : xã	2
+N : đoạn	1
+N : đá	3
+N : đêm	1
+N : đò	1
+N : đường	2
+N : đất	4
+N : đất liền	2
+N : đầu	1
+N : địa phương	1
+N : ấp	1
+NP : *E*	3
+Nc : Bọn	1
+Nc : Chiếc	2
+Nc : anh	1
+Nc : bãi	2
+Nc : bọn	3
+Nc : bờ	3
+Nc : chiếc	5
+Nc : con	2
+Nc : cú	1
+Nc : cơn	1
+Nc : mùa	1
+Nc : sự	1
+Nc : tấm	1
+Nc : Ông	1
+Nc : Đoạn	1
+Nc : đoạn	4
+Np : Biên Hòa	1
+Np : Bình Dương	7
+Np : Bạch Đằng	1
+Np : Công ty	1
+Np : Ghềnh	1
+Np : Hóa An	2
+Np : Kho	1
+Np : Nghĩa	1
+Np : Nguyễn Tấn Dũng	1
+Np : Phố	1
+Np : Rùa	3
+Np : Rạch Cát	1
+Np : Thạnh Phước	1
+Np : Tân Uyên	2
+Np : Uyên Hưng	1
+Np : Đồng Nai	10
+Nu : %	1
+Nu : g	1
+Nu : giờ	1
+Nu : km	3
+Nu : m	7
+Nu : m3	3
+Nu : mét vuông	2
+Nu : tấn	1
+Ny : BV	1
+Ny : LA	1
+Ny : LH	1
+Ny : SG	1
+Ny : TP	1
+Ny : TP. HCM	1
+Ny : TP.HCM	2
+P : ai	1
+P : chúng	1
+P : chúng tôi	3
+P : cả	1
+P : mình	1
+P : nay	4
+P : nào	2
+P : này	9
+P : từng	1
+P : tự	1
+P : Đây	1
+P : Đó	1
+P : đây	2
+P : đó	4
+R : Chỉ	1
+R : Mới	1
+R : Thậm chí	2
+R : Thỉnh thoảng	1
+R : chẳng	2
+R : chỉ	1
+R : còn	2
+R : có thể	1
+R : cũng	5
+R : cứ	1
+R : dần	1
+R : gì	2
+R : hàng	5
+R : hơn	3
+R : hầu hết	1
+R : không	3
+R : luôn	1
+R : lên	1
+R : lại	6
+R : ngay	1
+R : ngay tức thì	1
+R : nổi	1
+R : qua	1
+R : ra	1
+R : rồi	2
+R : sẽ	2
+R : vào	2
+R : vẫn	1
+R : vừa	2
+R : xuống	1
+R : đang	7
+R : đã	10
+R : được	4
+R : đều	5
+RBKT : RBKT	3
+S : phó	1
+T : Chính	1
+T : Thế	1
+V : Chạy	1
+V : Cách	2
+V : Có	1
+V : Tính	1
+V : Xây dựng	1
+V : biến	2
+V : biến mất	1
+V : biết	3
+V : báo động	1
+V : bù đắp	1
+V : bơm	1
+V : bắn	1
+V : bị	11
+V : chiến	1
+V : cho	2
+V : chạy	2
+V : chấm dứt	1
+V : chấn chỉnh	1
+V : chặn	1
+V : chờ	3
+V : chở	1
+V : chứng kiến	1
+V : cuốn trôi	1
+V : có	9
+V : cạn kiệt	2
+V : cạp	7
+V : cấp	2
+V : cần	1
+V : cắm	1
+V : cứu	1
+V : dàn	1
+V : giáp	1
+V : giải quyết	1
+V : giảm	1
+V : giật	2
+V : gây	1
+V : gặp	1
+V : hút	3
+V : hăm dọa	1
+V : hết	1
+V : hốt	2
+V : khai thác	19
+V : khiến	1
+V : khiếu nại	1
+V : kiến nghị	1
+V : kéo	2
+V : kêu gào	1
+V : là	7
+V : làm	3
+V : lái	1
+V : lở	1
+V : mang	1
+V : móc	1
+V : mất	2
+V : neo	1
+V : ngăn chặn	2
+V : ngưng	2
+V : nhằm	1
+V : ném	1
+V : nói	1
+V : núp	1
+V : núp bóng	1
+V : nạo vét	3
+V : nằm	1
+V : pha	2
+V : phá	2
+V : phòng chống	1
+V : phải	2
+V : qua	1
+V : quăng	2
+V : quản lý	1
+V : sạt lở	12
+V : sập	2
+V : theo	1
+V : thu gom	1
+V : thu hẹp	1
+V : thêm	1
+V : thả	2
+V : thấm	1
+V : thấu	1
+V : tiến	1
+V : tiến hành	1
+V : tiếp tục	2
+V : tiết lộ	1
+V : tránh	1
+V : trả	1
+V : tách	1
+V : túc trực	1
+V : tấn công	1
+V : tận thu	4
+V : vòng	1
+V : vận chuyển	1
+V : xem	1
+V : xuôi	2
+V : xây dựng	1
+V : xảy	1
+V : xảy ra	1
+V : yêu cầu	1
+V : ăn	6
+V : đi	1
+V : đáp	1
+V : đưa	2
+V : được	2
+V : đổ	2
+V : đủ	1
+V : Ước tính	1
+V : ước tính	1
+V : ập	1
+Vb : phone	1
+X : ít nhất	1

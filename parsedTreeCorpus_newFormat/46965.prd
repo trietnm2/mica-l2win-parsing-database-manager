@@ -1,0 +1,3323 @@
+<s id = "1">
+S(TTL)
+	VP
+		V(H)
+			 Yêu
+		NP(DOB)
+			N(H)
+				  thú dữ
+	.
+		 .
+</s>
+<s id = "2">
+S
+	NP(SUB)
+		N(H)
+			 Vườn
+		N
+			 thú
+		Np
+			 Hà Nội
+	VP
+		V(H)
+			  có
+		NP(DOB)
+			M
+				  87
+			N(H)
+				 nhân viên
+			V
+				 nuôi
+			N
+				 thú
+			,
+				 ,
+			PP
+				E(H)
+					 trong
+				P
+					 đó
+				QP
+					M(H)
+						 2 /3
+					VP
+						V(H)
+							 là
+						NP
+							N(H)
+								  nữ
+	.
+		 .
+</s>
+<s id = "3">
+S
+	VP
+		V(H)
+			 Có
+		NP
+			L
+				 những
+			N(H)
+				  phụ nữ
+			VP
+				R
+					 đã
+				V(H)
+					 gắn bó
+				NP(DOB)
+					P
+						 cả
+					N(H)
+						 cuộc đời
+				PP
+					E(H)
+						 với
+					NP
+						N(H)
+							 công việc
+						AP
+							R
+								 hết sức
+							A(H)
+								 đặc biệt
+						P
+							 này
+	.
+		 .
+</s>
+<s id = "4">
+S
+	NP(SUB)
+		N(H)
+			 Xung quanh
+		NP
+			N(H)
+				  nghề nghiệp
+			NP(LOC)
+				N(H)
+					 nơi
+				"
+					 "
+				NP
+					N(H)
+						 rừng
+					PP
+						E(H)
+							 trong
+						NP
+							N(H)
+								 phố
+				"
+					 "
+				PP
+					E(H)
+						 của
+					NP
+						P(H)
+							  họ
+	VP
+		V(H)
+			 có
+		NP(DOB)
+			L
+				 những
+			N(H)
+				 câu chuyện
+			V
+				 nhớ đời
+	!
+		 !
+</s>
+<s id = "5">
+S(TTL)
+	NP
+		N(H)
+			 Thạc sĩ
+		N
+			 thú y
+		PP
+			E(H)
+				 với
+			NP
+				Nc(H)
+					  bầy
+				N
+					  muông thú
+	.
+		 .
+</s>
+<s id = "6">
+S
+	S
+		NP(SUB)
+			Nc(H)
+				 Căn
+			N
+				 phòng
+			A
+				 đơn sơ
+			PP
+				E(H)
+					 của
+				NP
+					N(H)
+						  tổ
+					V
+						  nuôi
+					N
+						 thú
+		NP(PRD)
+			R
+				 chỉ
+			A
+				 chừng
+			M
+				 15
+			Nu(H)
+				 m2
+		VP
+			V(H)
+				 nhìn
+			R
+				 ra
+			NP(LOC)
+				N(H)
+					 chuồng
+				N
+					 hổ
+	,
+		 ,
+	S
+		PP(LOC)
+			E(H)
+				 trên
+			NP
+				N(H)
+					  bàn
+		VP
+			V(H)
+				 là
+			NP(DOB)
+				M
+					 năm
+				Nc(H)
+					 chiếc
+				N
+					 đuôi
+				N
+					 công
+				AP
+					A(H)
+						 óng ánh
+	.
+		 .
+</s>
+<s id = "7">
+S
+	NP(SUB)
+		M
+			 Bốn
+		Nc(H)
+			 bức
+		N
+			 tường
+	NP(PRD)
+		R
+			 toàn
+		N(H)
+			  tranh
+		PP
+			E(H)
+				 về
+			NP
+				L
+					 các
+				Nc(H)
+					 loài
+				N
+					 thú
+	.
+		 .
+</s>
+<s id = "8">
+S
+	VP
+		V(H)
+			 Có
+		AP
+			A(H)
+				 đủ
+			NP
+				NP
+					P
+						 cả
+					N(H)
+						 thuốc men
+				,
+					 ,
+				NP
+					N(H)
+						  dụng cụ
+					N
+						 thú y
+				C
+					  và
+				NP
+					L
+						 các
+					Nc(H)
+						 loại
+					N
+						  sách
+					N
+						  chuyên ngành
+	.
+		 .
+</s>
+<s id = "9">
+S
+	PP(TMP)
+		E(H)
+			 Từ
+		NP
+			N(H)
+				 khi
+			VP
+				V(H)
+					 là
+				NP(DOB)
+					M
+						 một
+					N(H)
+						 cô gái
+					NP
+						M
+							 25
+						Nu(H)
+							 tuổi
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			  thạc sĩ
+		N
+			 thú y
+		NP
+			Np(H)
+				 Mai Quế Tiệp
+	VP
+		R
+			 đã
+		V(H)
+			 về
+		NP(LOC)
+			P(H)
+				 đây
+		VP(PRP)
+			V(H)
+				 công tác
+	.
+		 .
+</s>
+<s id = "10">
+S
+	C
+		 Và
+	PP(TMP)
+		E(H)
+			 đến
+		NP
+			N(H)
+				 nay
+	NP(TMP)
+		R
+			 đã
+		A
+			 hơn
+		M
+			 30
+		N(H)
+			 năm
+	NP(SUB)
+		N(H)
+			 chị
+	VP
+		V(H)
+			 gắn bó
+		NP(DOB)
+			N(H)
+				  tuổi xuân
+			PP
+				E(H)
+					 của
+				NP
+					P(H)
+						  mình
+		PP(IOB)
+			E(H)
+				 với
+			NP
+				NP
+					N(H)
+						  hổ
+				,
+					 ,
+				NP
+					N(H)
+						  báo
+				,
+					 ,
+				NP
+					N(H)
+						  voi
+				,
+					 ,
+				NP
+					N(H)
+						 sư tử
+	...
+		 ...
+</s>
+<s id = "11">
+S
+	NP(SUB)
+		N(H)
+			 Ngày
+		A
+			 đầu tiên
+		VP
+			V(H)
+				 vào
+			NP(LOC)
+				N(H)
+					 chuồng
+				N
+					 thú
+	VP
+		R
+			  cũng
+		V(H)
+			 là
+		NP(TMP)
+			N(H)
+				 lần
+			N
+				  đầu tiên
+			PP
+				E(H)
+					 trong
+				NP
+					N(H)
+						 đời
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 chị
+					VP
+						V(H)
+							 chạm trán
+						NP(DOB)
+							N(H)
+								 chúa sơn lâm
+	.
+		 .
+</s>
+<s id = "12">
+S
+	C
+		 Rồi
+	PP
+		E(H)
+			 đến
+		NP(DOB)
+			NP
+				Nc(H)
+					 con
+				N
+					 voi
+				AP(MNR)
+					A(H)
+						 dữ
+				VP
+					V(H)
+						 bị
+					AP
+						A(H)
+							 trướng
+						NP
+							N(H)
+								 bụng
+			,
+				 ,
+			NP
+				Nc(H)
+					 con
+				N
+					 gấu
+				VP
+					V(H)
+						 bị
+					NP(DOB)
+						N(H)
+							 lao
+	...
+		 ...
+	,
+		 ,
+	NP(MNR)
+		R
+			 cứ
+		C
+			 như
+		N(H)
+			 thế
+	NP(SUB)
+		R
+			 hàng
+		M
+			 chục
+		Nc(H)
+			 con
+		N
+			 ác thú
+	VP
+		R
+			 đã
+		V(H)
+			 qua
+		NP(DOB)
+			N(H)
+				 bàn tay
+			NP
+				"
+					 "
+				N(H)
+					 mẹ
+				"
+					 "
+				Np
+					 Tiệp
+		VP(PRP)
+			V(H)
+				 chăm sóc
+	.
+		 .
+</s>
+<s id = "13">
+S
+	"
+		 "
+	S
+		NP(SUB)
+			Np(H)
+				 Đông
+			,
+				 ,
+			Np(H)
+				  Bin
+			,
+				 ,
+			Np(H)
+				  My
+		...
+			 ...
+		AP(PRD)
+			A(H)
+				 ngoan
+			T
+				 nào
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 mẹ
+		NP(PRD)
+			P(H)
+				 đây
+			T
+				 mà
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "14">
+S
+	NP(SUB)
+		N(H)
+			 Bàn tay
+		N
+			 chị
+	VP
+		V(H)
+			 xoa xoa
+		PP(LOC)
+			E(H)
+				 trên
+			NP
+				N(H)
+					 đầu
+				Nc
+					 con
+				N
+					 mãnh thú
+				AP
+					A(H)
+						 to
+					C
+						 như
+					NP
+						N(H)
+							 bò
+						A
+							 mộng
+	.
+		 .
+</s>
+<s id = "15">
+S
+	NP(SUB)
+		M
+			 Hai
+		Nc(H)
+			 con
+		N
+			 hổ
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 vằn
+					A
+						 đen
+				AP
+					A(H)
+						 mượt
+					C
+						 như
+					N
+						 nhung
+	,
+		 ,
+	VP
+		V(H)
+			 nhe
+		N
+			 răng
+		VP
+			V(H)
+				 gầm
+			A
+				 vang
+			AP
+				A(H)
+					 sung sướng
+	.
+		 .
+</s>
+<s id = "16">
+S
+	NP(SUB)
+		L
+			 Tất cả
+		L
+			  những
+		Nc(H)
+			 con
+		N
+			 vật
+		V
+			 nuôi
+		PP(LOC)
+			E(H)
+				 ở
+			NP
+				P(H)
+					 đây
+		PP
+			E(H)
+				 dù
+			AP
+				A(H)
+					 dữ dằn
+				PP
+					E(H)
+						 đến
+					NP
+						L(H)
+							  mấy
+	VP
+		R
+			  cũng
+		R
+			 đều
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 gắn
+					R
+						  cho
+					NP(DOB)
+						L
+							 những
+						Nc(H)
+							 cái
+						N
+							 tên
+						AP
+							A(H)
+								 thân thuộc
+	.
+		 .
+</s>
+<s id = "17">
+S
+	NP(TMP)
+		N(H)
+			 Mùa
+		N
+			 xuân
+		NP
+			N(H)
+				 năm
+			M
+				 1998
+	,
+		 ,
+	NP(SUB)
+		NP
+			Nc(H)
+				 con
+			Np
+				  Đen
+		C
+			 và
+		NP
+			Nc(H)
+				 con
+			Np
+				 Đông
+	AP(PRD)
+		R
+			 đã
+		A(H)
+			 đủ
+		NP(DOB)
+			N(H)
+				 tuổi
+		,
+			 ,
+		PP(PRP)
+			E(H)
+				 đến
+			NP
+				N(H)
+					 thời kỳ
+				V
+					 động dục
+	.
+		 .
+</s>
+<s id = "18">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Chuyện
+			VP
+				V(H)
+					 cho
+				NP(DOB)
+					N(H)
+						 hổ
+				VP(IOB)
+					V(H)
+						  sinh sản
+					PP(LOC)
+						E(H)
+							 trong
+						NP
+							N(H)
+								 vườn
+							N
+								 thú
+		AP(PRD)
+			R
+				 không
+			A(H)
+				 phải
+			C
+				 là
+			AP(DOB)
+				A(H)
+					 mới
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					L
+						 các
+					N(H)
+						 nước
+					A
+						 khác
+					PP
+						E(H)
+							 trên
+						NP
+							N(H)
+								 thế giới
+	,
+		 ,
+	C
+		 nhưng
+	S
+		PP(SUB)
+			E(H)
+				 ở
+			NP
+				P(H)
+					 ta
+		NP(TMP)
+			N(H)
+				  xưa nay
+		VP
+			R
+				 chưa
+			R
+				 từng
+			V(H)
+				 có
+	.
+		 .
+</s>
+<s id = "19">
+S
+	NP(SUB)
+		NP
+			Nc(H)
+				 Chị
+			Np
+				 Tiệp
+		C
+			 và
+		NP
+			N(H)
+				 lãnh đạo
+			NP
+				N(H)
+					 vườn thú
+	VP
+		R
+			 đã
+		V(H)
+			 quyết định
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 cho
+				NP(DOB)
+					N(H)
+						 hổ
+				VP(IOB)
+					V(H)
+						 giao phối
+					X
+						 bằng được
+	.
+		 .
+</s>
+<s id = "20">
+S
+	S
+		NP(SUB)
+			P
+				 Cả
+			N(H)
+				 vườn
+			N
+				 thú
+		VP
+			R
+				 chỉ
+			V(H)
+				 có
+			NP(DOB)
+				M
+					 hai
+				N(H)
+					 con
+	,
+		 ,
+	SBAR(CND)
+		C
+			 nếu
+		C
+			 lỡ
+		S
+			NP(SUB)
+				P(H)
+					 chúng
+			VP
+				V(H)
+					 cắn
+				N
+					 nhau
+				VP
+					V(H)
+						 bị
+					V
+						 thương
+		C
+			 hoặc
+		S
+			NP(SUB)
+				N(H)
+					 chuyện
+				A
+					 xấu
+				A
+					 nhất
+			VP
+				V(H)
+					 xảy
+				R
+					 ra
+	C
+		 thì
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 biết
+			VP
+				V(H)
+					 lấy
+				NP(DOB)
+					N(H)
+						 gì
+				VP(PRP)
+					V(H)
+						 bù đắp
+	.
+		 .
+</s>
+<s id = "21">
+S
+	NP(SUB)
+		N(H)
+			 Chị
+	VP
+		V(H)
+			  đặt
+		NP(DOB)
+			P
+				 cả
+			N(H)
+				 sự nghiệp
+			PP
+				E(H)
+					 của
+				NP
+					P(H)
+						  mình
+		PP(LOC)
+			E(H)
+				 lên
+			NP
+				M
+					  hai
+				Nc(H)
+					 con
+				N
+					 hổ
+	.
+		 .
+</s>
+<s id = "22">
+S
+	VP(ADV)
+		V(H)
+			 Quyết tâm
+		VP
+			V(H)
+				 làm
+	C
+		 nhưng
+	NP(SUB)
+		N(H)
+			 chị
+		C
+			 và
+		N(H)
+			 anh em
+		PP(LOC)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 vườn
+				N
+					 thú
+	VP
+		R
+			  vẫn
+		V(H)
+			 phải
+		VP
+			V(H)
+				 tính
+			NP(DOB)
+				P
+					 cả
+				N(H)
+					 phương án
+				V
+					  đề phòng
+	.
+		 .
+</s>
+<s id = "23">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Giờ
+			Ny
+				 G
+		VP
+			R
+				 đã
+			V(H)
+				 điểm
+	,
+		 ,
+	S
+		NP(SUB)
+			NP
+				N(H)
+					 gậy gộc
+			,
+				 ,
+			NP
+				N(H)
+					  nước
+			,
+				 ,
+			NP
+				N(H)
+					 lửa
+		...
+			 ...
+		AP(PRD)
+			A(H)
+				 sẵn sàng
+			PP(PRP)
+				E(H)
+					 để
+				VP
+					V(H)
+						 tách
+					NP
+						P(H)
+							  chúng
+					C
+						 nếu
+					VP(PRP)
+						V(H)
+							 xảy
+						R
+							  ra
+						NP
+							"
+								 "
+							M
+								 song
+							N(H)
+								 hổ
+							VP
+								V(H)
+									 đấu
+							"
+								 "
+	.
+		 .
+</s>
+<s id = "24">
+S
+	NP(SUB)
+		N(H)
+			 Cánh
+		N
+			 cửa
+		NP
+			M
+				 hai
+			N(H)
+				 chuồng
+	VP
+		R
+			 dần dần
+		V(H)
+			  rút
+		R
+			  lên
+	.
+		 .
+</s>
+<s id = "25">
+S
+	S
+		NP(SUB)
+			Nc(H)
+				 Con
+			Np
+				 Đông
+		VP
+			A
+				 ầm ầm
+			V(H)
+				 lao
+			R
+				 tới
+	,
+		 ,
+	S
+		"
+			 "
+		NP(SUB)
+			N(H)
+				 thời kỳ
+			V
+				 động dục
+			PP
+				E(H)
+					 của
+				NP
+					N(H)
+						 thú dữ
+		C
+			 thì
+		VP
+			V(H)
+				 khủng khiếp
+			R
+				 lắm
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "26">
+S
+	S
+		NP(SUB)
+			Nc(H)
+				 Con
+			Np
+				 Đen
+		VP
+			V(H)
+				 chạy
+			NP(LOC)
+				N(H)
+					 quanh
+				N
+					 chuồng
+	,
+		 ,
+	C
+		 rồi
+	S
+		NP(SUB)
+			P(H)
+				 nó
+		VP
+			R
+				 cũng
+			V(H)
+				 dừng
+			R
+				  lại
+			VP(PRP)
+				V(H)
+					 chịu
+				VP
+					V(H)
+						  giao phối
+	.
+		 .
+</s>
+<s id = "27">
+S
+	AP(CND)
+		AP
+			A(H)
+				 Đủ
+			NP
+				N(H)
+					 ngày
+		AP
+			A(H)
+				 đủ
+			NP
+				N(H)
+					 tháng
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 hổ
+		N
+			 mẹ
+	VP
+		V(H)
+			  trở dạ
+	.
+		 .
+</s>
+<s id = "28">
+S
+	NP(SUB)
+		P(H)
+			 Tất cả
+	VP
+		R
+			 đều
+		V(H)
+			 hồi hộp
+	.
+		 .
+</s>
+<s id = "29">
+S
+	NP(SUB)
+		Nc(H)
+			 Chú
+		N
+			 hổ
+		PP
+			E(H)
+				 do
+			NP
+				T
+					 chính
+				N(H)
+					 bàn tay
+				L
+					 các
+				"
+					 "
+				N
+					 bà đỡ
+				"
+					 "
+				NP(LOC)
+					N(H)
+						 vườn
+					N
+						 thú
+					Np
+						 Hà Nội
+	VP
+		R
+			 đã
+		V(H)
+			 ra đời
+	.
+		 .
+</s>
+<s id = "30">
+S
+	C
+		 Nhưng
+	S
+		NP(SUB)
+			N(H)
+				 hổ
+			N
+				 mẹ
+		VP
+			R
+				 không
+			V(H)
+				 có
+			NP(DOB)
+				A
+					 nhiều
+				N(H)
+					 sữa
+	,
+		 ,
+	S
+		S(TPC)
+			N(H)
+				 ngày
+			SBAR
+				S
+					NP(SUB)
+						NP
+							L
+								 các
+							N(H)
+								 chị
+						NP
+							L
+								 các
+							N(H)
+								 anh
+					VP
+						V(H)
+							 đưa
+						NP(DOB)
+							P(H)
+								 nó
+						R
+							 ra
+						VP(PRP)
+							V(H)
+								 nuôi
+							N
+								 bộ
+		C
+			 thì
+		VP
+			R
+				 đã
+			V(H)
+				 quá
+			A
+				 muộn
+	,
+		 ,
+	S
+		NP(SUB)
+			P(H)
+				  nó
+		UCP
+			AP(PRD)
+				A(H)
+					 còi
+				R
+					 dần
+			C
+				 rồi
+			VP
+				V(H)
+					 chết
+	.
+		 .
+</s>
+<s id = "31">
+S
+	NP(SUB)
+		P
+			 Cả
+		N(H)
+			 vườn
+		N
+			 thú
+	VP
+		V(H)
+			 buồn
+		V
+			 thương
+	.
+		 .
+</s>
+<s id = "32">
+S
+	NP(SUB)
+		L
+			 Các
+		"
+			 "
+		N(H)
+			 mẹ
+		"
+			 "
+	VP
+		V(H)
+			 buồn
+		C
+			 như
+		VP
+			V(H)
+				  mất
+			R
+				 đi
+			NP(DOB)
+				Nc(H)
+					 đứa
+				N
+					 con
+				PP
+					E(H)
+						 của
+					NP
+						P(H)
+							 mình
+	.
+		 .
+</s>
+<s id = "33">
+S
+	NP(TMP)
+		L
+			 Vài
+		N(H)
+			 năm
+		A
+			 trước
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 vườn
+		N
+			 thú
+		Np
+			  Hà Nội
+	AP(PRD)
+		A(H)
+			 nổi tiếng
+		PP
+			E(H)
+				 với
+			NP
+				N(H)
+					 câu chuyện
+				PP
+					E(H)
+						  về
+					NP
+						Nc(H)
+							 chú
+						N
+							 hổ
+						Np
+							 Lâm Nhi
+	.
+		 .
+</s>
+<s id = "34">
+S
+	NP(SUB)
+		R
+			 Hàng
+		M
+			 nghìn
+		N(H)
+			  thiếu nhi
+	VP
+		R
+			 đã
+		V(H)
+			 tham gia
+		NP(DOB)
+			N(H)
+				 cuộc thi
+			VP
+				V(H)
+					 đặt
+				N
+					  tên
+				PP
+					E(H)
+						 cho
+					NP
+						Nc(H)
+							 chú
+						N
+							  hổ
+						VP
+							V(H)
+								 có
+							NP
+								N(H)
+									 số phận
+								AP
+									R
+										 hết sức
+									A(H)
+										 đặc biệt
+						P
+							 này
+	.
+		 .
+</s>
+<s id = "35">
+S
+	NP(TMP)
+		M
+			 Ba
+		N(H)
+			 năm
+		A
+			 trước
+	,
+		 ,
+	NP(SUB)
+		Np(H)
+			 Lâm Nhi
+	VP
+		VP
+			V(H)
+				 về
+		VP
+			R
+				 mới
+			V(H)
+				 có
+			NP(DOB)
+				M
+					 30
+				Nu(H)
+					 kg
+	.
+		 .
+</s>
+<s id = "36">
+S
+	NP(SUB)
+		L
+			 Các
+		N(H)
+			 cô
+	VP
+		V(H)
+			 gọi
+		NP(DOB)
+			P(H)
+				 nó
+		C
+			 là
+		NP(DOB)
+			Nc(H)
+				 con
+			Np
+				 Huế My
+	.
+		 .
+</s>
+<s id = "37">
+S(PV)
+	NP(SUB)
+		Np(H)
+			 Lâm Nhi
+	VP
+		V(H)
+			  được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 đưa
+					R
+						 về
+					PP(LOC)
+						E(H)
+							 từ
+						NP
+							M
+								 một
+							N(H)
+								 cánh
+							N
+								 rừng
+							PP
+								E(H)
+									 ở
+								NP
+									Np(H)
+										 Huế
+					PP(TMP)
+						E(H)
+							 sau
+						NP
+							M
+								 một
+							N(H)
+								 vụ
+							V
+								 buôn bán
+							N
+								 động vật
+							AP
+								A(H)
+									 trái phép
+							VP
+								R
+									 không
+								V(H)
+									 thành
+	.
+		 .
+</s>
+<s id = "38">
+S
+	NP(SUB)
+		N(H)
+			 Chữ
+		"
+			 "
+		Np
+			 My
+		"
+			 "
+		SBAR
+			C
+				 mà
+			S
+				NP(SUB)
+					L
+						 những
+					N(H)
+						 cô
+					VP
+						V(H)
+							 nuôi
+						V(H)
+							 dạy
+						NP(DOB)
+							N(H)
+								 hổ
+				VP
+					V(H)
+						 đặt
+	,
+		 ,
+	VP
+		V(H)
+			 theo
+		NP
+			N(H)
+				 tiếng
+			Np
+				 Anh
+			VP
+				V(H)
+					 có
+				NP
+					N(H)
+						 nghĩa
+					C
+						 là
+					"
+						 "
+					PP
+						E(H)
+							 của
+						NP
+							P(H)
+								 tôi
+					"
+						 "
+	.
+		 .
+</s>
+<s id = "39">
+S
+	NP(SUB)
+		P(H)
+			 Đó
+	AP(PRD)
+		A(H)
+			 như
+		NP
+			M
+				  một
+			N(H)
+				 lời
+			V
+				 nhắn nhủ
+			:
+				 :
+			SBAR
+				S
+					NP(SUB)
+						Nc(H)
+							 chú
+						N
+							 hổ
+						Np
+							 Lâm Nhi
+					VP
+						V(H)
+							 là
+						NP(DOB)
+							"
+								 "
+							N(H)
+								 tài sản
+							"
+								 "
+							PP
+								E(H)
+									 của
+								NP
+									M
+										 mỗi
+									N(H)
+										 người
+	.
+		 .
+</s>
+<s id = "40">
+S
+	NP(TMP)
+		N(H)
+			 Nay
+	S
+		NP(SUB)
+			Np(H)
+				 Lâm Nhi
+		VP
+			R
+				 đã
+			V(H)
+				 lớn
+	,
+		 ,
+	S
+		S(SUB)
+			NP(SUB)
+				Nc(H)
+					 nỗi
+				V
+					 đau
+				PP
+					E(H)
+						 về
+					NP
+						N(H)
+							 lần
+						N
+							 đầu tiên
+						VP
+							V(H)
+								 cho
+							NP(DOB)
+								N(H)
+									 hổ
+								N
+									 mẹ
+							VP(IOB)
+								V(H)
+									 sinh sản
+			VP
+				R
+					 không
+				V(H)
+					 thành
+		VP
+			R
+				 chưa
+			V(H)
+				 nguôi ngoai
+	,
+		 ,
+	S
+		NP(SUB)
+			M
+				 một
+			N(H)
+				 quyết định
+			A
+				 táo bạo
+			T
+				 nữa
+		VP
+			R
+				 đã
+			V(H)
+				 được
+			SBAR(DOB)
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 đưa
+						R
+							 ra
+						:
+							 :
+						VP
+							V(H)
+								 cho
+							NP(DOB)
+								Np(H)
+									 Lâm Nhi
+							VP(IOB)
+								V(H)
+									 giao phối
+	.
+		 .
+</s>
+<s id = "41">
+S
+	NP(TMP)
+		N(H)
+			 Lần
+		P
+			  này
+	C
+		  thì
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 đã
+		V(H)
+			 thành công
+	.
+		 .
+</s>
+<s id = "42">
+S
+	S
+		S
+			NP(SUB)
+				N(H)
+					 Mẹ
+			AP(PRD)
+				A(H)
+					 tròn
+		S
+			NP(SUB)
+				N(H)
+					 con
+			AP(PRD)
+				A(H)
+					 vuông
+	,
+		 ,
+	S
+		NP(SUB)
+			"
+				 "
+			N(H)
+				 sản phẩm
+			"
+				 "
+			PP
+				E(H)
+					 của
+				NP
+					Np(H)
+						 Lâm Nhi
+		VP
+			V(H)
+				 là
+			NP(DOB)
+				M
+					 bốn
+				N(H)
+					 hổ
+				N
+					 con
+				AP
+					A(H)
+						 béo
+					A
+						 tròn
+				AP
+					A(H)
+						 béo
+					A
+						 trục
+				NP(TMP)
+					N(H)
+						 nay
+					VP
+						R
+							 mới
+						V(H)
+							 qua
+						AP(DOB)
+							A(H)
+								 thôi nôi
+						VP
+							V(H)
+								 được
+							NP(TMP)
+								L
+									 vài
+								N(H)
+									 ngày
+	.
+		 .
+</s>
+<s id = "43">
+S(TTL)
+	NP
+		M
+			 101
+		N(H)
+			 kiểu
+		NP
+			N(H)
+				 tai nạn
+			N
+				 nghề nghiệp
+	.
+		 .
+</s>
+<s id = "44">
+S
+	S
+		"
+			 "
+		NP(TMP)
+			N(H)
+				 Ngày ngày
+		VP(ADV)
+			V(H)
+				 đối mặt
+			PP
+				E(H)
+					 với
+				NP
+					N(H)
+						 thú dữ
+		,
+			 ,
+		VP(SUB)
+			V(H)
+				 nghĩ
+			R
+				 đến
+			NP(TMP)
+				N(H)
+					 ngày
+				SBAR
+					S
+						NP(SUB)
+							P(H)
+								 mình
+						VP
+							R
+								  không
+							A
+								  thường xuyên
+							V(H)
+								 gặp
+							NP(DOB)
+								P(H)
+									 chúng
+							T
+								  nữa
+		VP
+			V(H)
+				 chắc
+			VP
+				R
+					 sẽ
+				V(H)
+					 buồn
+				T
+					 lắm
+		"
+			 "
+	-
+		 -
+	S
+		NP(SUB)
+			Nc(H)
+				 chị
+			Np
+				 Tiệp
+		AP(PRD)
+			A(H)
+				 bùi ngùi
+	.
+		 .
+</s>
+<s id = "45">
+S
+	NP(TMP)
+		R
+			 Chỉ
+		M
+			 một
+		N(H)
+			 năm
+		R
+			 nữa
+		T
+			 thôi
+	,
+		 ,
+	PP(ADV)
+		E(H)
+			 đến
+		NP
+			N(H)
+				 tuổi
+			V
+				 nghỉ
+			V
+				 hưu
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 chị
+	VP
+		VP
+			R
+				 sẽ
+			V(H)
+				 phải
+			VP
+				V(H)
+					 chia tay
+				NP(DOB)
+					Nc(H)
+						 bầy
+					N
+						 thú
+					SBAR
+						C
+							 mà
+						S
+							NP(SUB)
+								P(H)
+									 mình
+							VP
+								V(H)
+									 chăm bẵm
+								NP(TMP)
+									R
+										 hàng
+									M
+										 chục
+									N(H)
+										 năm
+		,
+			 ,
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 chia tay
+				NP(DOB)
+					Nc(H)
+						  chú
+					N
+						  voi
+					Np
+						 Pha Lang
+					NP
+						R
+							 đã
+						A
+							 gần
+						M
+							 trăm
+						Nu(H)
+							 tuổi
+	...
+		 ...
+</s>
+<s id = "46">
+S
+	VP(ADV)
+		T
+			 Chính
+		V(H)
+			 nhờ
+		NP
+			N(H)
+				 lòng
+			V
+				 yêu
+			N
+				 nghề
+	C
+		 mà
+	NP(SUB)
+		L
+			 những
+		N(H)
+			 người
+		V
+			 nuôi
+		N
+			 thú
+	VP
+		R
+			 đã
+		V(H)
+			 vượt
+		R
+			 qua
+		R
+			  được
+		NP(DOB)
+			L
+				 những
+			N(H)
+				 đe dọa
+			PP
+				T
+					 cả
+				E(H)
+					 đến
+				NP
+					N(H)
+						 tính mạng
+	.
+		 .
+</s>
+<s id = "47">
+S
+	NP(SUB)
+		L
+			 Những
+		Nc(H)
+			 con
+		N
+			 vật
+		V
+			 nuôi
+	VP
+		VP
+			C
+				 dù
+			A
+				  ít nhiều
+			R
+				 đã
+			V(H)
+				 được
+			VP
+				V(H)
+					 thuần hóa
+		C
+			 nhưng
+		VP
+			R
+				 vẫn
+			R
+				 chưa thể
+			V(H)
+				 quên
+			NP(DOB)
+				N(H)
+					 bản năng
+				A
+					 hoang dã
+				PP
+					E(H)
+						 của
+					NP
+						P(H)
+							 chúng
+	.
+		 .
+</s>
+<s id = "48">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Bàn tay
+			NP
+				Nc(H)
+					 chú
+				Np
+					 Ước
+		NP(TMP)
+			N(H)
+				 giờ
+		VP
+			R
+				 vẫn
+			V(H)
+				 còn
+			NP(DOB)
+				Nc(H)
+					 vết
+				N
+					 sẹo
+				VP
+					V(H)
+						 chạy
+					A
+						 dài
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 gân
+			N
+				 bàn tay
+		VP
+			R
+				 đã
+			V(H)
+				 bị
+			VP
+				V(H)
+					 cắt
+				SBAR(PRP)
+					E(H)
+						 bởi
+					S
+						NP(PRP)
+							R
+								 chỉ
+							M
+								 một
+							N(H)
+								 lần
+							VP
+								R
+									 không
+								V(H)
+									 để ý
+						,
+							 ,
+						NP(TMP)
+							N(H)
+								 khi
+							SBAR
+								S
+									NP(SUB)
+										L
+											 mọi
+										N(H)
+											 người
+									VP
+										V(H)
+											 tiêm
+										R
+											 cho
+										NP(DOB)
+											Nc(H)
+												 con
+											Np
+												 Đen
+						,
+							 ,
+						S
+							NP(SUB)
+								N(H)
+									 đầu
+								P
+									 nó
+							VP
+								V(H)
+									 nằm
+								A
+									 lệch
+								PP(LOC)
+									E(H)
+										 về
+									NP
+										M
+											 một
+										N(H)
+											 bên
+						,
+							 ,
+						S
+							NP(SUB)
+								N(H)
+									 chú
+							VP
+								R
+									 đã
+								V(H)
+									 đặt
+								R
+									 lại
+								PP(PRP)
+									E(H)
+										 cho
+									AP
+										A(H)
+											 ngay ngắn
+	.
+		 .
+</s>
+<s id = "49">
+S
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 Không
+		V(H)
+			 ngờ
+		SBAR(DOB)
+			S
+				AP(TMP)
+					A(H)
+						 đúng
+					NP
+						N(H)
+							 lúc
+						SBAR
+							S
+								NP(SUB)
+									N(H)
+										 thuốc mê
+								AP(PRD)
+									A(H)
+										 nhạt
+				,
+					 ,
+				PP(MNR)
+					E(H)
+						 theo
+					NP(DOB)
+						N(H)
+							 phản xạ
+				NP(SUB)
+					M
+						 hai
+					N(H)
+						 nanh
+					Nc
+						 con
+					N
+						 thú
+				VP
+					V(H)
+						 cắm
+					V
+						 phập
+					VP(MNR)
+						V(H)
+							 xuyên
+						N
+							 tay
+	.
+		 .
+</s>
+<s id = "50">
+S
+	S
+		NP(SUB)
+			Nc(H)
+				 Chị
+			Np
+				 Tiệp
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 lấy
+				NP(DOB)
+					N(H)
+						 tay
+			VP
+				V(H)
+					 bóp
+				R
+					 vào
+				NP(LOC)
+					N(H)
+						 yết hầu
+	S
+		NP(SUB)
+			P(H)
+				 nó
+		VP
+			R
+				 mới
+			V(H)
+				 nhả
+			R
+				 ra
+	.
+		 .
+</s>
+<s id = "51">
+S
+	NP(SUB)
+		N(H)
+			 Hậu quả
+	VP
+		V(H)
+			 là
+		NP(DOB)
+			Nc(H)
+				 chú
+			Np
+				 Ước
+			VP
+				V(H)
+					 phải
+				VP
+					V(H)
+						 mang
+					NP
+						Nc(H)
+							 vết
+						N
+							 sẹo
+						PP(LOC)
+							E(H)
+								 trên
+							NP
+								N(H)
+									 bàn tay
+								A
+									  phải
+					AP(TMP)
+						A(H)
+							 suốt
+						NP
+							N(H)
+								 cuộc đời
+	.
+		 .
+</s>
+<s id = "52">
+S
+	NP(SUB)
+		N(H)
+			 Vườn
+		N
+			 thú
+	VP
+		V(H)
+			 có
+		NP(DOB)
+			Nc(H)
+				 con
+			N
+				 voi
+			Np
+				 A Khâm
+			AP
+				A(H)
+					 thông minh
+	.
+		 .
+</s>
+<s id = "53">
+S
+	NP(TMP)
+		N(H)
+			 Khi
+		SBAR
+			S
+				NP(SUB)
+					M
+						 một
+					N(H)
+						 quản tượng
+				VP
+					V(H)
+						 bớt
+					NP(DOB)
+						M
+							 năm
+						Nc(H)
+							 quả
+						N
+							 dứa
+					PP(LOC)
+						E(H)
+							 trong
+						NP
+							N(H)
+								 khẩu phần
+							PP
+								E(H)
+									 của
+								NP
+									P(H)
+										 nó
+	,
+		 ,
+	NP(SUB)
+		Np(H)
+			 A Khâm
+	VP
+		VP
+			R
+				 đã
+			V(H)
+				 huơ
+			NP(DOB)
+				N(H)
+					 vòi
+			VP(PRP)
+				V(H)
+					 quấn
+		,
+			 ,
+		VP
+			V(H)
+				 phì phì
+			VP
+				V(H)
+					 đe dọa
+				NP(TMP)
+					N(H)
+						 khi
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 anh
+							VP
+								V(H)
+									 lại
+								A
+									 gần
+	.
+		 .
+</s>
+<s id = "54">
+S
+	NP(TMP)
+		R
+			 Chỉ
+		N(H)
+			 khi
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 số
+					N
+						 dứa
+					N
+						 tiêu chuẩn
+				VP
+					V(H)
+						 được
+					VP
+						V(H)
+							 đảm bảo
+	,
+		 ,
+	NP(SUB)
+		"
+			 "
+		N(H)
+			 hòa bình
+		"
+			 "
+	VP
+		R
+			  mới
+		V(H)
+			 lập
+		R
+			 lại
+	.
+		 .
+</s>
+<s id = "55">
+S
+	NP(SUB)
+		Nc(H)
+			 Chị
+		Np
+			 Vũ Thanh Thủy
+	VP
+		R
+			 không thể
+		V(H)
+			 quên
+		R
+			 được
+		NP(TMP)
+			N(H)
+				 lần
+			VP
+				V(H)
+					 bị
+				SBAR
+					S
+						NP(SUB)
+							N(H)
+								 ngựa
+						VP
+							V(H)
+								 bổ
+	.
+		 .
+</s>
+<s id = "56">
+S
+	NP(TMP)
+		NP
+			N(H)
+				 Khi
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 chị
+					VP
+						V(H)
+							 vào
+						VP(PRP)
+							V(H)
+								 tiêm
+							N
+								 thuốc
+							PP
+								E(H)
+									 cho
+								NP
+									P(H)
+										 nó
+		,
+			 ,
+		NP
+			N(H)
+				 lúc
+			VP
+				V(H)
+					 quay
+				R
+					 ra
+	C
+		 thì
+	NP(SUB)
+		Nc(H)
+			 con
+		N
+			 ngựa
+		AP
+			A(H)
+				 hung hăng
+	VP
+		VP
+			V(H)
+				 lấy
+			NP(DOB)
+				N(H)
+					 đầu
+			VP(PRP)
+				V(H)
+					 bổ
+				R
+					 vào
+				VP
+					V(H)
+						 khiến
+					NP(IOB)
+						N(H)
+							 chị
+					VP(DOB)
+						V(H)
+							 ngã
+						A
+							 sấp
+						R
+							 xuống
+		C
+			 rồi
+		VP
+			R
+				 còn
+			V(H)
+				 bồi
+			V
+				 thêm
+			NP(DOB)
+				M
+					 một
+				N(H)
+					 phát
+			PP(LOC)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 vai
+	.
+		 .
+</s>
+<s id = "57">
+S
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		V(H)
+			  hỏi
+		:
+			 :
+		"
+			 "
+		SBAR(DOB)
+			SQ
+				NP(SUB)
+					N(H)
+						 Chị
+				VP
+					V(H)
+						 hãi
+					A
+						 nhất
+					NP(DOB)
+						Nc(H)
+							 con
+						N
+							 vật
+						P
+							 nào
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								N(H)
+									 vườn
+								N
+									 thú
+								P
+									 này
+				?
+					 ?
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "58">
+S
+	NP(SUB)
+		N(H)
+			 Chị
+	VP
+		V(H)
+			 đáp
+		T
+			 ngay
+		:
+			 :
+		"
+			 "
+		SBAR(DOB)
+			S
+				NP(TPC)
+					N(H)
+						 Ngựa
+				!
+					 !
+				SBAR(PRP)
+					E(H)
+						 Vì
+					S
+						NP(SUB)
+							P(H)
+								 nó
+						VP
+							V(H)
+								 nhớ
+							AP
+								R
+									 quá
+								A(H)
+									  dai
+	.
+		 .
+</s>
+<s id = "59">
+S
+	NP(TMP)
+		M
+			 Mỗi
+		N(H)
+			  lần
+		VP
+			V(H)
+				 thấy
+			SBAR
+				S
+					NP(SUB)
+						P(H)
+							 mình
+					VP
+						V(H)
+							 cầm
+						NP(DOB)
+							N(H)
+								 kim tiêm
+	C
+		 là
+	NP(SUB)
+		P(H)
+			 nó
+	VP
+		R
+			  lại
+		V(H)
+			 gừ gừ
+		VP(PRP)
+			V(H)
+				  đe dọa
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "60">
+SQ(SPL)
+	"
+		 "
+	T
+		 Thế
+	C
+		 còn
+	NP
+		Nc(H)
+			 con
+		N
+			 vật
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 chị
+				VP
+					V(H)
+						 yêu thích
+					A
+						 nhất
+	?
+		 ?
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "61">
+S(SPL)
+	"
+		 "
+	NP
+		N(H)
+			 Vượn
+	.
+		 .
+</s>
+<s id = "62">
+S(SPL)
+	SBAR(PRP)
+		E(H)
+			 Vì
+		S
+			NP(SUB)
+				P(H)
+					 nó
+			AP(PRD)
+				R
+					 rất
+				A(H)
+					 thông minh
+	.
+		 .
+</s>
+<s id = "63">
+S
+	C
+		 Tuy nhiên
+	S
+		NP(SUB)
+			Nc(H)
+				 con
+			N
+				 vật
+			P
+				 nào
+		NP(PRD)
+			R
+				 cũng
+			P(H)
+				 vậy
+			T
+				 cả
+			T
+				 thôi
+	,
+		 ,
+	S
+		NP(SUB)
+			 *E*
+		VP
+			VP
+				V(H)
+					 phải
+				VP
+					V(H)
+						 hiểu
+					NP
+						P(H)
+							 chúng
+			,
+				 ,
+			VP
+				V(H)
+					 chăm sóc
+				NP
+					P(H)
+						  chúng
+				AP
+					A(H)
+						 đúng
+					N
+						 mức
+	C
+		 thì
+	S
+		PP(PRP)
+			E(H)
+				 dù
+			VP
+				V(H)
+					 có
+				AP
+					A(H)
+						 dữ dằn
+		NP(SUB)
+			P(H)
+				 chúng
+		VP
+			R
+				  cũng
+			R
+				 sẽ
+			V(H)
+				 trở nên
+			AP
+				A(H)
+					  thân thiện
+			C
+				  và
+			VP
+				V(H)
+					  đáng
+				V
+					  yêu
+				A
+					 hơn
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "64">
+S
+	NP(SUB)
+		Nc(H)
+			 Anh
+		Np
+			 Hải
+	VP
+		R
+			  không thể
+		V(H)
+			 quên
+		NP(TMP)
+			N(H)
+				  lần
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 một mình
+					VP
+						V(H)
+							 đối mặt
+						PP
+							E(H)
+								  với
+							NP
+								Nc(H)
+									 con
+								N
+									 hổ
+								NP
+									R
+										 đang
+									N(H)
+										 thời kỳ
+									V
+										 động dục
+	.
+		 .
+</s>
+<s id = "65">
+S
+	NP(TMP)
+		N(H)
+			 Khi
+		VP
+			V(H)
+				  vào
+			VP(PRP)
+				V(H)
+					 quét
+				NP
+					N(H)
+						 chuồng
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			  nó
+	VP
+		V(H)
+			 vượt
+		R
+			  qua
+		NP(DOB)
+			N(H)
+				 song
+			N
+				 sắt
+			VP
+				V(H)
+					 khép
+				A
+					  hờ
+		VP(PRP)
+			V(H)
+				 lao
+			PP(DIR)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 anh
+	.
+		 .
+</s>
+<s id = "66">
+S
+	NP(SUB)
+		N(H)
+			 Anh
+	VP
+		V(H)
+			 đỡ
+		R
+			 được
+		NP(DOB)
+			N(H)
+				 cú
+			V
+				  tát
+			VP
+				V(H)
+					  kinh hoàng
+			P
+				  ấy
+	.
+		 .
+</s>
+<s id = "67">
+S
+	S
+		NP(SUB)
+			NP
+				N(H)
+					 Người
+			C
+				 và
+			NP
+				N(H)
+					 thú
+		VP
+			V(H)
+				 vật
+			N
+				 nhau
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 anh
+		VP
+			V(H)
+				 lê
+			R
+				 được
+			VP
+				V(H)
+					 ra
+				PP(DIR)
+					E(H)
+						 đến
+					NP
+						N(H)
+							 cửa
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 người
+		AP(PRD)
+			A(H)
+				  bê bết
+			NP
+				N(H)
+					 máu
+	.
+		 .
+</s>
+<s id = "68">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Hổ
+		VP
+			R
+				 đang
+			V(H)
+				 say
+			NP(DOB)
+				N(H)
+					 mồi
+	,
+		 ,
+	S
+		PP(LOC)
+			R
+				 bỗng
+			E(H)
+				 từ
+			NP
+				P(H)
+					 đâu
+		NP(SUB)
+			M
+				 một
+			Nc(H)
+				 đàn
+			N
+				 bồ câu
+		VP
+			V(H)
+				 sà
+			R
+				  xuống
+	,
+		 ,
+	S
+		NP(SUB)
+			Nc(H)
+				 con
+			N
+				 hổ
+		VP
+			VP
+				V(H)
+					 thấy
+				NP(DOB)
+					N(H)
+						 mồi
+					A
+						 mới
+			,
+				 ,
+			VP
+				V(H)
+					 bỏ
+				NP(DOB)
+					N(H)
+						 anh
+				VP(PRP)
+					V(H)
+						 lao
+					PP(DIR)
+						E(H)
+							 về
+						NP
+							N(H)
+								 phía
+							NP
+								Nc(H)
+									 đàn
+								N
+									 bồ câu
+	.
+		 .
+</s>
+<s id = "69">
+S
+	NP(SUB)
+		N(H)
+			 Anh
+	VP
+		V(H)
+			 thoát
+		R
+			 khỏi
+		NP(LOC)
+			N(H)
+				 miệng
+			N
+				 hùm
+		PP(TMP)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 gang tấc
+	.
+		 .
+</s>
+<s id = "70">
+S
+	C
+		 Dù
+	S
+		NP(SUB)
+			L
+				 những
+			N(H)
+				 câu chuyện
+			V
+				 kinh hoàng
+			P
+				 ấy
+		VP
+			V(H)
+				 để
+			R
+				 lại
+			NP(DOB)
+				L
+					 những
+				N(H)
+					 ấn tượng
+				AP
+					A(H)
+						 sâu đậm
+	,
+		 ,
+	C
+		 song
+	S
+		VP(SUB)
+			V(H)
+				 lưu
+			R
+				 lại
+			AP(MNR)
+				A(H)
+					 nhiều
+				R
+					 hơn
+				T
+					 cả
+			PP(LOC)
+				E(H)
+					 trong
+				NP
+					NP
+						L
+							 các
+						N(H)
+							 anh
+					,
+						 ,
+					NP
+						L
+							 các
+						N(H)
+							 chị
+		VP
+			T
+				 chính
+			V(H)
+				 là
+			NP(DOB)
+				L
+					 những
+				N(H)
+					 kỷ niệm
+				A
+					 đẹp
+				SBAR
+					C
+						 mà
+					S
+						NP(SUB)
+							R
+								 chỉ
+							L
+								  những
+							N(H)
+								 ai
+							VP
+								VP
+									V(H)
+										 yêu thương
+									NP(DOB)
+										Nc(H)
+											 loài
+										N
+											 vật
+								C
+									  và
+								VP
+									V(H)
+										 coi
+									NP(DOB)
+										N(H)
+											 việc
+										VP
+											V(H)
+												 chăm sóc
+											,
+												 ,
+											V(H)
+												 bảo vệ
+											NP(DOB)
+												P(H)
+													 chúng
+									VP(IOB)
+										V(H)
+											 là
+										NP(DOB)
+											N(H)
+												 sự nghiệp
+											PP
+												E(H)
+													 của
+												NP
+													P(H)
+														 mình
+						VP
+							R
+								 mới
+							V(H)
+								 có
+							R
+								  được
+	.
+		 .
+</s>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <punc abbreviation = "ecp" explain = "exclamation point">!</punc>
+    <punc abbreviation = "com" explain = "comma">,</punc>
+    <punc abbreviation = "eds" explain = "en dash">-</punc>
+    <punc abbreviation = "dot" explain = "dot">.</punc>
+    <punc abbreviation = "td1" explain = "tri-dot 1">...</punc>
+    <punc abbreviation = "frd" explain = "four-dot">....</punc>
+    <punc abbreviation = "fos" explain = "forward slash">/</punc>
+    <punc abbreviation = "col" explain = "colon">:</punc>
+    <punc abbreviation = "sco" explain = "semicolon">;</punc>
+    <punc abbreviation = "que" explain = "question mark">?</punc>
+    <punc abbreviation = "led" explain = "long en dash">–</punc>
+    <punc abbreviation = "quo" explain = "quote">"</punc>
+    <punc abbreviation = "odq" explain = "open double quote">“</punc>
+    <punc abbreviation = "cdq" explain = "close double quote">”</punc>
+    <punc abbreviation = "td2" explain = "tri-dot 2">…</punc>
+</root>

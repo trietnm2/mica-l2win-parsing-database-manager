@@ -1,0 +1,709 @@
+! : !	4
+" : "	2
+, : ,	72
+- : -	1
+. : ,	1
+. : .	58
+... : ...	8
+: : :	2
+? : ?	10
+A : buồn	2
+A : buồn buồn	1
+A : bình tĩnh	1
+A : bổng	1
+A : cao	2
+A : chân thực	1
+A : chói chang	1
+A : chắc chắn	2
+A : cuối cùng	1
+A : có thể	2
+A : công bằng	1
+A : cùng	1
+A : dài	1
+A : dịu dàng	1
+A : hiền lành	1
+A : hăng	1
+A : hơn	3
+A : hạnh phúc	1
+A : hồ hởi	1
+A : hỗn hợp	1
+A : hỗn tạp	1
+A : khác	2
+A : khắp	1
+A : kín đáo	1
+A : long lanh	1
+A : lâu	5
+A : lạnh	3
+A : may mắn	1
+A : mù mịt	1
+A : mặn	1
+A : mềm	1
+A : ngon lành	1
+A : nhiều	2
+A : như	1
+A : nhất	1
+A : nhỏ	4
+A : nuôi	1
+A : nặng	1
+A : phải	1
+A : quan trọng	1
+A : quen thuộc	1
+A : riêng	1
+A : râm ran	1
+A : rần rần	1
+A : sâu sắc	1
+A : sạch sẽ	1
+A : tha thiết	1
+A : thanh bình	1
+A : thân	2
+A : thân mến	1
+A : thân thiết	1
+A : thân yêu	3
+A : thơm ngát	1
+A : thắng lợi	1
+A : tinh nghịch	1
+A : trong lành	1
+A : trong trẻo	1
+A : tràn ngập	1
+A : trọn	1
+A : tái	1
+A : tươi	2
+A : vinh dự	1
+A : vui	4
+A : vui tươi	1
+A : vàng	1
+A : vĩ đại	2
+A : vĩnh viễn	1
+A : vẹn toàn	1
+A : xa	2
+A : xa vời	2
+A : xanh	1
+A : xanh bóng	1
+A : xanh tươi	1
+A : xinh đẹp	1
+A : xào xạc	1
+A : xót xa	1
+A : xứng  đáng	1
+A : xứng đáng	1
+A : êm ấm	2
+A : óng ả	1
+A : đông	1
+A : đúng	1
+A : đơn sõ	1
+A : đầm ấm	1
+A : đậm đà	1
+A : đẹp đẽ	1
+A : đỏ	1
+A : đỏ rực	2
+A : độc lập	1
+A : ấm cúng	1
+A : ấm áp	1
+A : ầm ĩ	1
+C : Còn	1
+C : Hoặc	1
+C : Nhưng	1
+C : cho nên	1
+C : cùng	1
+C : cũng	1
+C : dù	1
+C : hay	2
+C : hoặc	1
+C : mà	4
+C : như	3
+C : nhưng	7
+C : rằng	5
+C : rồi	2
+C : thì	1
+C : và	28
+C : với	3
+E : Qua	1
+E : Sau	1
+E : Theo	1
+E : Trong	2
+E : Trên	1
+E : Từ	1
+E : Vì	2
+E : Với	1
+E : bằng	1
+E : bởi vì	1
+E : cho	5
+E : của	39
+E : dưới	3
+E : dẫu cho	1
+E : giữa	7
+E : mà	3
+E : ngoài	1
+E : qua	1
+E : sau	3
+E : theo	1
+E : trong	16
+E : trên	9
+E : trước	1
+E : từ	9
+E : vào	5
+E : vì	9
+E : về	5
+E : với	10
+E : đến	5
+E : để	4
+E : đối với	1
+E : ở	5
+I : Thôi	1
+I : nhé	1
+I : Ôi	3
+I : ơi	4
+I : ư	1
+L : Các	1
+L : Những	1
+L : các	5
+L : muôn vàn	1
+L : mọi	2
+L : những	25
+LBKT : LBKT	1
+M : 14	1
+M : 1994	1
+M : 25	1
+M : 30	1
+M : Ba	1
+M : Một	3
+M : ba	2
+M : bốn	2
+M : hai	2
+M : mười	1
+M : mỗi	2
+M : một	24
+M : năm	1
+M : triệu	1
+M : đôi	3
+N : Anh	2
+N : Con	1
+N : Cuộc	1
+N : Em	2
+N : Hà Nội	1
+N : Hôm nay	2
+N : Không gian	1
+N : Mưa	2
+N : Ngày	1
+N : Ngày xưa	1
+N : Nơi	2
+N : Nắng	2
+N : Sáng	1
+N : anh	12
+N : ba	2
+N : ba má	1
+N : ba mẹ	1
+N : bao	1
+N : biển	1
+N : bom	1
+N : bom đạn	1
+N : buổi	3
+N : buổi sáng	2
+N : bà	1
+N : bài thơ	2
+N : bàng	1
+N : bác sĩ	4
+N : bè bạn	1
+N : bên	3
+N : bông	1
+N : bạn	3
+N : bệnh	1
+N : bộ đội	1
+N : bờ	2
+N : bữa	2
+N : chim	1
+N : chim sâu	1
+N : chiến  trường	1
+N : chiến tranh	1
+N : chiều	1
+N : chân	1
+N : chân trời	1
+N : chú	1
+N : chăn	1
+N : chặng	1
+N : chị	11
+N : chủ nhật	2
+N : chữ	2
+N : con	15
+N : con gái	1
+N : cuối	1
+N : cuộc	4
+N : cuộc sống	2
+N : cuộc đời	1
+N : cá nhân	1
+N : cán bộ	1
+N : cánh	1
+N : câu	1
+N : câu chuyện	8
+N : câu thơ	1
+N : cây	2
+N : cây xanh	1
+N : công sự	1
+N : căn cứ	1
+N : cơm	1
+N : cảm xúc	1
+N : cảnh	1
+N : cậu	4
+N : cốt lõi	1
+N : dòng	3
+N : dông	1
+N : em	19
+N : em trai	1
+N : gia đình	6
+N : giây lát	1
+N : gió	2
+N : gió bụi	1
+N : giấc	3
+N : giọt	1
+N : giữa	1
+N : hoa phượng	2
+N : hoàn cảnh	1
+N : hình ảnh	2
+N : hòa bình	4
+N : hôm nay	1
+N : hương	1
+N : hạnh phúc	1
+N : hồi	1
+N : khi	7
+N : khoảng	1
+N : khu	1
+N : khung cảnh	1
+N : kháng chiến	1
+N : kỷ niệm	2
+N : lim	1
+N : liên hoan	1
+N : lá	1
+N : lòng	7
+N : lúc	4
+N : lý tưởng	1
+N : lần	1
+N : lời nói	1
+N : lửa	1
+N : mai sau	1
+N : mi	1
+N : miền	6
+N : màn	1
+N : màu sắc	1
+N : mái tóc	2
+N : máu	1
+N : môi	1
+N : mùa hè	1
+N : mùi	1
+N : măng	1
+N : mũi	1
+N : mưa	2
+N : mưa phùn	1
+N : mưa rào	1
+N : mắt	3
+N : mẹ	6
+N : mối	3
+N : một chút	1
+N : mức	1
+N : nghĩa	1
+N : nghệ sĩ	1
+N : ngày	8
+N : ngày mai	1
+N : ngày sinh	3
+N : người	11
+N : người yêu	1
+N : ngọn	1
+N : nhà	11
+N : nhật ký	3
+N : niềm	3
+N : nãm	1
+N : núi rừng	1
+N : năm	5
+N : nước da	1
+N : nước mắt	1
+N : nước nhà	1
+N : nắng	1
+N : nằm	1
+N : nền	1
+N : nứa	1
+N : phim	4
+N : pháo	1
+N : phòng	2
+N : phương	2
+N : phương diện	1
+N : phần	2
+N : phố	3
+N : quanh	1
+N : quê hương	1
+N : rau muống	1
+N : rừng	3
+N : rựa	1
+N : sen	1
+N : sinh nhật	1
+N : sáng	2
+N : sân	1
+N : sóng	1
+N : sông	1
+N : súng	2
+N : sương	1
+N : sấm sét	1
+N : sấu	1
+N : sự nghiệp	1
+N : sự thực	1
+N : thiên nhiên	1
+N : thu	2
+N : thuốc	2
+N : thành phố	1
+N : thách thức	1
+N : thư	8
+N : thương nhớ	1
+N : thủ đô	1
+N : tiếng	5
+N : tiếng nói	2
+N : trang	1
+N : trái tim	1
+N : trưa	1
+N : trường ca	1
+N : trận	1
+N : trời	2
+N : tuổi	1
+N : tàu	1
+N : tác phẩm	1
+N : tình	3
+N : tình thương	1
+N : tình yêu	1
+N : tư cách	1
+N : tư liệu	1
+N : tầng	1
+N : tổ	1
+N : tủ	1
+N : tự do	1
+N : vai	1
+N : vòng tay	1
+N : xe	1
+N : xuân	1
+N : xương máu	1
+N : yêu thương	1
+N : ánh	1
+N : ánh sáng	1
+N : âm lượng	1
+N : âm thanh	3
+N : ôtô	1
+N : Đêm	1
+N : Đất nước	1
+N : Địch	2
+N : Độ	1
+N : điều	2
+N : đèn	1
+N : đêm	3
+N : đường	7
+N : đường nhựa	1
+N : đường phố	2
+N : đại dương	1
+N : đạn	2
+N : đất nước	1
+N : đấu  tranh	1
+N : đầu	4
+N : địch	1
+N : đồng bào	1
+N : đồng chí	1
+N : đồng hương	1
+N : độc lập	3
+N : đời	1
+NP : *E*	16
+NP : *T*	2
+Nb : radio	2
+Nb : rocket	1
+Nc : Bản	1
+Nc : Chiếc	1
+Nc : Con	1
+Nc : Cuộc	1
+Nc : bà	1
+Nc : bộ	1
+Nc : bức	1
+Nc : chiếc	2
+Nc : chị	1
+Nc : con	3
+Nc : cuốn	2
+Nc : cái	1
+Nc : cây	2
+Nc : căn	4
+Nc : cơn	3
+Nc : hàng	2
+Nc : lá	2
+Nc : ngôi	1
+Nc : người	6
+Nc : nhà	1
+Nc : niềm	1
+Nc : nụ	1
+Nc : sự	1
+Nc : trang	1
+Nc : tấm	1
+Nc : vòm	1
+Nc : đứa	3
+Np : Bắc	7
+Np : Fred	1
+Np : HU-1A	1
+Np : Hiền	1
+Np : Hà Nội	2
+Np : Hàng Đẫy	1
+Np : Hồng	1
+Np : Kim	2
+Np : Lê Trực	1
+Np : Lò Đúc	1
+Np : Nam	1
+Np : Neil	2
+Np : New Orleans	1
+Np : Phương	2
+Np : Rob	2
+Np : Robert	1
+Np : Thùy	4
+Np : Thùy Trâm	1
+Np : Trâm	4
+Np : Đại La	1
+Np : Đội Cấn	1
+Nu : phút	1
+Ny : ND	1
+Ny : P . H	1
+P : Bao giờ	2
+P : Cả	1
+P : Họ	1
+P : Mình	2
+P : Tất cả	1
+P : ai	2
+P : bao giờ	1
+P : bao lâu	1
+P : chúng ta	5
+P : cả	2
+P : gì	7
+P : họ	4
+P : mình	23
+P : nay	1
+P : người ta	3
+P : nào	7
+P : này	7
+P : nó	2
+P : sao	2
+P : ta	3
+P : thế	1
+P : tôi	9
+P : tất cả	5
+P : vậy	2
+P : Đó	1
+P : đây	1
+P : đó	7
+P : ấy	13
+R : Biết bao	2
+R : Hình như	1
+R : Không	3
+R : Lại	1
+R : biết bao	1
+R : cho	3
+R : chăng	1
+R : chưa	1
+R : chỉ	5
+R : càng	1
+R : còn	1
+R : cũng	10
+R : cứ	1
+R : hoài	1
+R : hàng	1
+R : hình như	1
+R : không	16
+R : không thể	1
+R : lên	5
+R : lại	8
+R : lẫn	1
+R : mãi	1
+R : mới	1
+R : nhất thiết	1
+R : nữa	4
+R : qua	1
+R : quá	2
+R : ra	2
+R : rất	5
+R : rồi	3
+R : sao	1
+R : sẽ	11
+R : thường thường	1
+R : thật	1
+R : tràn	1
+R : từng	2
+R : vào	2
+R : vô cùng	1
+R : vô vàn	1
+R : vẫn	11
+R : về	1
+R : vốn	1
+R : vừa	2
+R : đang	1
+R : đi	2
+R : đã	12
+R : được	5
+R : đều	2
+R : đừng	1
+RBKT : RBKT	1
+T : chính	1
+T : cả	7
+T : hở	1
+T : ngay	2
+T : sao	4
+T : đi	1
+T : đâu	2
+T : đến	1
+T : ơi	1
+V : *T*	2
+V : Chắc chắn	1
+V : Có	1
+V : Liệu	2
+V : Là	1
+V : Nhớ	5
+V : Xa	1
+V : ao ước	1
+V : bay	2
+V : biết	8
+V : biểu lộ	1
+V : buồn	1
+V : bước	2
+V : bắt đầu	2
+V : bẻ	1
+V : bị	2
+V : bớt	1
+V : chan hòa	1
+V : che khuất	1
+V : chen	1
+V : chia tay	1
+V : chiến	1
+V : chào	1
+V : cháy bỏng	1
+V : chúc  mừng	1
+V : chạy	1
+V : chảy	2
+V : chấm dứt	1
+V : chắc	2
+V : chứa đựng	1
+V : càn	1
+V : còn	1
+V : có	19
+V : cười	6
+V : cảm	3
+V : cảm động	1
+V : dào dạt	1
+V : dám	1
+V : dùng	1
+V : dẫn	1
+V : ghi	1
+V : giữ	1
+V : gây	1
+V : gặp	4
+V : gửi	3
+V : hi sinh	3
+V : hiến dâng	1
+V : hiểu	3
+V : hẹn	1
+V : học	2
+V : hội ngộ	1
+V : khao khát	1
+V : kính trọng	1
+V : kẹp	1
+V : kết thúc	2
+V : kể	1
+V : kỷ niệm	1
+V : lo âu	1
+V : là	10
+V : làm	9
+V : làm việc	1
+V : lên	2
+V : lên đường	1
+V : lập	1
+V : lặng	1
+V : muốn	1
+V : mơ	3
+V : nghe	1
+V : nghĩ	1
+V : nguôi	2
+V : ngước	1
+V : ngạc nhiên	1
+V : ngập ngừng	1
+V : ngập tràn	1
+V : ngủ	2
+V : nhiếp ảnh	2
+V : nhìn	1
+V : nhận	1
+V : nhận diện	1
+V : nhớ	11
+V : nhớ thương	4
+V : nên	1
+V : nói	8
+V : nằm	1
+V : nổ	1
+V : nổi	1
+V : nở	2
+V : phát thanh	1
+V : phải	2
+V : phủ	1
+V : qua	3
+V : quen biết	1
+V : quăng	1
+V : ra	3
+V : rơi	1
+V : rọ	1
+V : se	2
+V : sum  họp	1
+V : sống	3
+V : sốt rét	1
+V : tham gia	1
+V : theo	1
+V : thèm khát	1
+V : thêm	1
+V : thăm	1
+V : thấm	2
+V : thấm thía	1
+V : thấy	8
+V : thổi	1
+V : tin	1
+V : tiễn	1
+V : trở về	4
+V : tình nguyện	1
+V : tưởng tượng	1
+V : tạm biệt	1
+V : tả	1
+V : tập kích	1
+V : tặng	1
+V : vang	1
+V : vang vọng	1
+V : viết	5
+V : vác	1
+V : về	2
+V : vỗ	1
+V : xao  xuyến	1
+V : xem	1
+V : xong	1
+V : xuống	1
+V : xách	1
+V : xòa	1
+V : xộc	1
+V : yên nghỉ	1
+V : yêu	2
+V : yêu thương	3
+V : ân hận	1
+V : ăn	1
+V : Được	2
+V : Đọc	1
+V : đi	10
+V : đoàn tụ	1
+V : đáp	1
+V : đói	1
+V : đưa	1
+V : được	6
+V : đượm	1
+V : đạp	1
+V : đến	3
+V : để	2
+V : đọc	4
+V : đợi	2
+V : đứng	4
+V : Ước	1
+V : ấp iu	1
+V : ở	2
+WHADV : Bao giờ	1
+WHADV : bao giờ	1
+X : Vậy mà	1
+X : chăng nữa	1
+X : làm  sao	1
+X : lẽ  nào	1
+X : mà sao	1
+X : một mình	1

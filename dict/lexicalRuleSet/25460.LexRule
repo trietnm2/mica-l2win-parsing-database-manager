@@ -1,0 +1,292 @@
+" : "	6
+, : ,	29
+- : -	4
+. : .	18
+: : :	1
+; : ;	2
+? : ?	1
+A : An toàn	1
+A : an toàn	3
+A : bình quân	1
+A : bức xúc	1
+A : cao	1
+A : chủ quan	1
+A : chủ quản	1
+A : cương quyết	1
+A : cần thiết	1
+A : gần	1
+A : hơn	1
+A : hư	1
+A : khoảng	3
+A : nhanh	1
+A : nhiều	3
+A : quan trọng	1
+A : trung tâm	1
+A : tốt	1
+A : xót xa	1
+A : ít	1
+A : ưu đãi	1
+A : ẩu	1
+C : lẫn	1
+C : mà	3
+C : như	2
+C : nhưng	2
+C : nên	1
+C : nếu	2
+C : rằng	1
+C : thì	3
+C : và	1
+E : Theo	1
+E : Trong	1
+E : Trước	1
+E : cho	2
+E : của	2
+E : do	3
+E : sau	2
+E : theo	1
+E : trong	6
+E : trên	3
+E : vì	1
+E : về	3
+E : với	2
+E : Để	1
+E : Đối với	1
+E : đến	1
+E : để	2
+E : đối với	1
+E : ở	2
+L : Các	1
+L : Mỗi	1
+L : các	9
+L : mỗi	4
+L : những	5
+LBKT : LBKT	1
+M : 1	3
+M : 1.000	1
+M : 10	2
+M : 10%	1
+M : 100	2
+M : 13	1
+M : 2	1
+M : 2003	2
+M : 2004	3
+M : 23	1
+M : 3	1
+M : 30 - 4 – 2004	1
+M : 4	1
+M : 40%	1
+M : 701	1
+M : ba	2
+M : chín	1
+M : một	2
+M : tỉ	2
+N : Ban	1
+N : Băn khoăn	1
+N : Chủ tịch	3
+N : Công an	3
+N : Hiện	1
+N : Sở	1
+N : Tai nạn	1
+N : Vấn đề	1
+N : bãi	2
+N : chiều hướng	1
+N : chính sách	1
+N : chỉ tiêu	2
+N : chủ	1
+N : chủ tịch	1
+N : cán bộ	1
+N : công an	1
+N : công ty	1
+N : cảnh sát	1
+N : cửa ngõ	1
+N : dân	1
+N : dải phân cách	1
+N : dự án	1
+N : giao thông	16
+N : giải pháp	3
+N : giấy phép	1
+N : hiểm họa	1
+N : khi	1
+N : khu	1
+N : khách	2
+N : lòng	1
+N : lần	1
+N : lề đường	2
+N : lộ trình	1
+N : lực lượng	1
+N : mặt bằng	1
+N : mỗi	1
+N : mục tiêu	1
+N : ngành	1
+N : ngày	4
+N : người	7
+N : năm	4
+N : nước	1
+N : phép	1
+N : quí	3
+N : sáng	1
+N : số	3
+N : tai nạn	8
+N : thuế	1
+N : tháng	4
+N : thời gian	2
+N : thực trạng	1
+N : thực tế	1
+N : tiến độ	1
+N : tiền	3
+N : trong	1
+N : trách nhiệm	2
+N : trước	1
+N : trật tự	1
+N : tuyến	1
+N : tuần	1
+N : tài xế	1
+N : tình trạng	3
+N : tư nhân	1
+N : tỉ lệ	1
+N : vấn đề	1
+N : vụ	2
+N : xa lộ	1
+N : xe	8
+N : xe máy	1
+N : ý kiến	1
+N : điều kiện	1
+N : điểm	1
+N : đơn vị	3
+N : địa bàn	2
+N : địa điểm	1
+NP : *E*	9
+NP : *T*	1
+Nb : taxi	1
+Nc : chiếc	1
+Nc : cuộc	1
+Nc : hộ	1
+Nc : Ông	2
+Nc : ông	3
+Np : Daihatsu	1
+Np : Hà Nội	1
+Np : Hải	3
+Np : Lê Thanh Hải	2
+Np : Nguyễn Văn Đua	1
+Np : Sea Games 22	1
+Np : Trường Chinh	1
+Np : quốc lộ	1
+Np : Đua	2
+Nu : đồng	2
+Ny : GTCC	1
+Ny : TP	9
+Ny : TP .HCM	1
+Ny : TP HCM	1
+Ny : TP.	1
+Ny : UBND	4
+P : cả	1
+P : mình	1
+P : này	4
+P : đây	3
+P : đó	1
+R : cho	1
+R : chỉ	3
+R : có thể	1
+R : cũng	2
+R : dần	1
+R : hằng	1
+R : không	5
+R : không thể	1
+R : mới	1
+R : nhất	1
+R : quá	1
+R : ra	4
+R : rất	2
+R : sẽ	2
+R : xong	1
+R : đã	1
+R : được	1
+R : đều	2
+RBKT : RBKT	1
+S : Phó	1
+T : Riêng	1
+T : có	1
+T : cả	1
+T : ngay	1
+V : *E*	1
+V : Liệu	1
+V : Theo	1
+V : biết	1
+V : bắt buộc	1
+V : bị	1
+V : chiếm	1
+V : cho	2
+V : chạy	1
+V : chết	3
+V : chỉ đạo	1
+V : chở	1
+V : còn	1
+V : có	8
+V : cải tạo	1
+V : cấp	1
+V : cần	1
+V : giao	1
+V : giành	1
+V : giảm	3
+V : giữ	2
+V : hành động	1
+V : hạn chế	1
+V : họp	1
+V : khuyến khích	1
+V : kinh doanh	4
+V : kiểm tra	1
+V : liên quan	1
+V : lo	1
+V : là	6
+V : làm	3
+V : lơi lỏng	1
+V : lấn chiếm	2
+V : mất	1
+V : mất sức	1
+V : nghe	1
+V : nhấn mạnh	1
+V : nên	3
+V : phù hợp	1
+V : phải	7
+V : phấn đấu	1
+V : phụ trách	1
+V : ra	3
+V : rút	1
+V : song hành	1
+V : thay thế	1
+V : thi công	1
+V : thiệt mạng	1
+V : thành	1
+V : thực hiện	1
+V : tiêu hóa	1
+V : tiến triển	1
+V : tranh thủ	1
+V : trở lại	1
+V : tăng	2
+V : tăng cường	1
+V : tốn	1
+V : vi phạm	5
+V : vào	1
+V : xem	2
+V : xem xét	1
+V : xác định	2
+V : xây dựng	1
+V : xảy	1
+V : xử phạt	3
+V : ùn tắc	1
+V : điều chỉnh	1
+V : đóng	1
+V : đưa	4
+V : được	3
+V : đấu thầu	1
+V : đẩy	1
+V : đậu	1
+V : đề	1
+V : đề nghị	3
+V : để	3
+V : đỡ	1
+V : đợi	1
+X : Mặt khác	1
+X : Như vậy	1
+X : làm sao	1
+X : như vậy	1

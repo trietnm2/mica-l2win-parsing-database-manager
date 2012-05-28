@@ -1,0 +1,623 @@
+! : !	1
+" : "	28
+, : ,	80
+- : -	13
+. : .	50
+... : ...	8
+: : :	4
+; : ;	1
+? : ?	1
+A : Hơn	1
+A : anh hùng	2
+A : biền biệt	1
+A : cao siêu	1
+A : cuối cùng	1
+A : cùng	5
+A : dọc	1
+A : gian khổ	1
+A : giàu	2
+A : giản dị	1
+A : hiền lành	1
+A : hơn	1
+A : hẻo lánh	2
+A : khó khăn	1
+A : khô	1
+A : khắc khổ	1
+A : khắp	1
+A : khỏe	1
+A : lóng ngóng	1
+A : lạc hậu	1
+A : lấp lánh	1
+A : mù mịt	1
+A : mệt	1
+A : nghèo	1
+A : nghèo đói	1
+A : ngượng ngùng	1
+A : ngổn ngang	1
+A : nhiều	3
+A : nát	1
+A : năng động	1
+A : phải	1
+A : rực rỡ	1
+A : sáng rực	1
+A : thô vụng	1
+A : thầm lặng	2
+A : to tát	1
+A : trắng xóa	1
+A : trẻ	1
+A : tập thể	1
+A : tự nhiên	1
+A : vàng	1
+A : vô danh	2
+A : vô nghĩa	1
+A : xa	1
+A : xa xôi	1
+A : âm thầm	2
+A : đau	1
+A : điều độ	1
+A : đói	1
+A : đói nghèo	1
+A : đúng	1
+A : đầy đủ	1
+A : đồng nghĩa	1
+A : ốm	1
+A : ổn định	1
+C : Nhưng	4
+C : Rồi	1
+C : Và	3
+C : chứ	1
+C : còn	1
+C : cùng	2
+C : dù	2
+C : dẫu	1
+C : hay	3
+C : là	14
+C : mà	13
+C : như	3
+C : nhưng	5
+C : nên	2
+C : nếu	2
+C : rồi	2
+C : thì	6
+C : thế là	1
+C : và	9
+C : vậy mà	1
+C : với	1
+E : bằng	6
+E : cho	6
+E : của	18
+E : do	2
+E : giữa	1
+E : nhờ	1
+E : qua	3
+E : sau	1
+E : trong	9
+E : trên	2
+E : tại	1
+E : tận	4
+E : từ	5
+E : vào	1
+E : vì	5
+E : về	1
+E : với	10
+E : đến	6
+E : để	8
+E : đối với	1
+E : Ở	2
+E : ở	7
+I : ơi	2
+L : Những	4
+L : chút	1
+L : các	9
+L : hầu hết	1
+L : hầu như	1
+L : muôn vàn	1
+L : những	22
+LBKT : LBKT	3
+M : 1	2
+M : 1 một	1
+M : 10	1
+M : 11	1
+M : 12	2
+M : 193	1
+M : 2	1
+M : 20	1
+M : 237	1
+M : 29	1
+M : 379	1
+M : 44	1
+M : 457	1
+M : 50 . 000	1
+M : 550	1
+M : 575	1
+M : 58	1
+M : 60	1
+M : Bốn	1
+M : ba	2
+M : bốn	1
+M : chục	2
+M : hai	1
+M : mỗi	3
+M : một	10
+M : nhất	1
+M : năm	2
+M : nửa	1
+N : Bà con	1
+N : Bộ đội	1
+N : Chiến công	1
+N : Chàng	1
+N : Cấp	1
+N : Em	1
+N : Hôm nay	1
+N : Học viện	1
+N : Khái niệm	1
+N : Lúc	1
+N : Mẹ	1
+N : Nghĩa vụ	1
+N : Người	2
+N : Năm	1
+N : Quân khu	1
+N : Rừng	1
+N : Trung tá	2
+N : anh	12
+N : anh hùng	13
+N : balô	2
+N : biên giới	2
+N : biên phòng	2
+N : biđông	1
+N : bà con	11
+N : bác sĩ	1
+N : báo chí	1
+N : bát	1
+N : bé	1
+N : bạn bè	1
+N : bản	4
+N : bệnh	1
+N : bọt	1
+N : bộ	1
+N : bộ đội	3
+N : bụi	1
+N : cha mẹ	1
+N : chiến công	1
+N : chiến dịch	1
+N : chiến khu	1
+N : chiến sĩ	2
+N : chiến tranh	3
+N : chiến trường	1
+N : chiếu	1
+N : chân	1
+N : chị	1
+N : chồng	1
+N : chỗ	2
+N : chức vụ	1
+N : con	2
+N : con em	1
+N : con số	1
+N : cuộc	1
+N : cuộc sống	2
+N : cách	2
+N : cánh	1
+N : câu	1
+N : câu chuyện	2
+N : cây	3
+N : công	1
+N : công việc	2
+N : cỏ	1
+N : cốc	2
+N : dao	1
+N : di hài	1
+N : doanh nhân	1
+N : dân	1
+N : dân tộc	3
+N : dấu vết	1
+N : em	1
+N : gia đình	1
+N : giá trị	1
+N : giặc	1
+N : giờ	1
+N : gà	1
+N : gương	1
+N : gạo	1
+N : gốc	1
+N : hang	1
+N : huân huy chương	1
+N : hào quang	1
+N : hình ảnh	1
+N : hòa bình	1
+N : hôm	1
+N : hơi	1
+N : hương hồn	1
+N : hộ	2
+N : khi	1
+N : khuyến nông	1
+N : khói	1
+N : khói lửa	1
+N : kinh nghiệm	1
+N : kinh tế	1
+N : kiến trúc	1
+N : kẻ thù	1
+N : kết quả	1
+N : kỹ sư	1
+N : liệt sĩ	3
+N : lá	1
+N : lính	10
+N : lúa	2
+N : lúa nước	1
+N : lúc	1
+N : lần	1
+N : lễ phục	2
+N : lịch sử	1
+N : lợn	3
+N : lợn sữa	1
+N : lửa	1
+N : miền	4
+N : màn	1
+N : máy bơm	1
+N : mùa	2
+N : mạ	1
+N : mẫu	1
+N : mặt	1
+N : mẹ	2
+N : mộ	5
+N : một cách	1
+N : nanh	1
+N : nghĩa trang	1
+N : nguy cơ	1
+N : ngày	5
+N : ngày mai	1
+N : người	18
+N : ngọn	1
+N : ngực	1
+N : nhau	2
+N : nhiệm vụ	1
+N : nhiệt tình	1
+N : nhà	2
+N : nhân chủng học	1
+N : núi	2
+N : năm	7
+N : nơi	4
+N : nước	1
+N : nước mắt	1
+N : phẩm chất	1
+N : phố phường	1
+N : quá khứ	1
+N : quân phục	1
+N : quân đội	3
+N : quốc phòng	1
+N : ruộng	1
+N : rượu	2
+N : rừng	6
+N : rừng già	1
+N : sau	3
+N : sinh viên	1
+N : suối	1
+N : sách	1
+N : sách giáo khoa	1
+N : sáng tạo	1
+N : sắc màu	1
+N : sức khỏe	1
+N : tay	2
+N : thiểu số	1
+N : thuốc	1
+N : tháng	1
+N : thú y	1
+N : thầy giáo	1
+N : thầy thuốc	1
+N : thế hệ	1
+N : thời	1
+N : thời bình	6
+N : thời gian	1
+N : thứ	1
+N : tiếng	1
+N : tiền	1
+N : tiền lương	1
+N : trai	1
+N : trung tá	3
+N : truyền hình	1
+N : trách nhiệm	1
+N : trên	1
+N : trí thức	1
+N : trước	3
+N : trưởng đoàn	1
+N : trẻ con	2
+N : tuyến	1
+N : tuổi	1
+N : tâm huyết	1
+N : tây	1
+N : tên	2
+N : tương lai	1
+N : tỉnh	2
+N : tộc người	1
+N : tội	1
+N : vai	1
+N : vòng	1
+N : vấn đề	1
+N : vẻ	1
+N : vết	1
+N : vợ	3
+N : vợ chồng	1
+N : xà phòng	4
+N : áo	1
+N : Đại tá	1
+N : Đồn	1
+N : điểm	1
+N : đèo	3
+N : đêm	1
+N : đông	1
+N : đại học	1
+N : đạn	1
+N : đầu	1
+N : đỉnh	2
+N : đồn	1
+N : đồng bào	2
+N : đồng đội	5
+NP : *E*	7
+NP : *T*	4
+Nc : Cái	1
+Nc : bộ	1
+Nc : chiếc	1
+Nc : con	1
+Nc : cuộc	2
+Nc : cái	4
+Nc : mảnh	1
+Nc : người	4
+Nc : nhà	1
+Nc : sự	3
+Nc : ông	2
+Np : -H Võ Trọng Việt	1
+Np : Chứt	3
+Np : Hà Nội	3
+Np : Hà Tĩnh	2
+Np : Hương Khê	1
+Np : La Văn Cầu	1
+Np : Lai Châu	3
+Np : Loan	3
+Np : Lá Vàng	1
+Np : Lê Mã Lương	1
+Np : Lục quân	1
+Np : Mông	1
+Np : Mường Nhé	2
+Np : Mỹ	1
+Np : Nguyễn Thị Chiên	1
+Np : Pháp	1
+Np : Phùng Văn Khầu	1
+Np : Phạm Hạnh Phúc	2
+Np : Phạm Tuân	1
+Np : Rào Tre	1
+Np : Trung tá	1
+Np : Trường Sơn	1
+Np : Trần Văn Loan	1
+Np : Tuyên	2
+Np : Tây Nam	2
+Np : Võ Hữu Tuyên	1
+Np : Đông	2
+Np : Đồng Nai	1
+Nu : tạ	1
+Nu : tấn	1
+Nu : đồng	1
+Ny : Đ	1
+P : Chúng tôi	2
+P : Họ	3
+P : ai	6
+P : bao giờ	1
+P : bây giờ	3
+P : chúng	1
+P : chúng tôi	4
+P : cả	1
+P : gì	4
+P : họ	10
+P : mình	3
+P : nay	2
+P : người ta	1
+P : nào	3
+P : này	3
+P : nấy	1
+P : thế	3
+P : thế nào	1
+P : tôi	7
+P : tất cả	2
+P : từng	3
+P : tự	1
+P : Đó	1
+P : đó	3
+P : ấy	3
+R : Chỉ	1
+R : Càng	1
+R : Còn	1
+R : Cũng	1
+R : Không	1
+R : Rất	1
+R : biết bao	1
+R : chưa	2
+R : chả	2
+R : chẳng	1
+R : chỉ	9
+R : càng	4
+R : còn	5
+R : có	1
+R : có thể	5
+R : cũng	10
+R : hàng	1
+R : hết	1
+R : không	25
+R : không thể	2
+R : luôn	1
+R : lại	6
+R : một mạch	1
+R : mới	2
+R : nữa	5
+R : quá	1
+R : ra	4
+R : rất	4
+R : sẽ	2
+R : vào	1
+R : vẫn	6
+R : vốn	1
+R : Đã	2
+R : đang	1
+R : đã	12
+R : được	8
+R : đều	1
+R : đứt	1
+RBKT : RBKT	2
+RBLT : RBKT	1
+S : cựu	1
+T : Vậy	1
+T : cho	1
+T : cả	1
+T : hề	1
+T : là	1
+T : thôi	2
+T : đến	1
+V : Có	1
+V : Khám	1
+V : Tìm kiếm	1
+V : bay	1
+V : biết	9
+V : bú	1
+V : bảo	1
+V : bảo tồn	1
+V : bật	1
+V : bắc cầu	1
+V : bẻ	1
+V : bị	4
+V : bỏ	1
+V : bốc	1
+V : bổ sung	1
+V : cho	2
+V : choáng ngợp	1
+V : cháy	1
+V : chú ý	1
+V : chăn nuôi	1
+V : chỉ huy	1
+V : chống	2
+V : cày	1
+V : có	20
+V : cảm phục	1
+V : cất	1
+V : cấy	2
+V : cố gắng	1
+V : diệt vong	1
+V : dạy	2
+V : dạy dỗ	1
+V : giáp mặt	1
+V : gây	1
+V : góp	1
+V : gắn	1
+V : gặp gỡ	1
+V : gặp mặt	1
+V : gọi	3
+V : hi sinh	1
+V : hiểu	1
+V : hái lượm	1
+V : hình dung	1
+V : hòa	1
+V : hưu	3
+V : hết	2
+V : học	3
+V : hỏi	2
+V : khiến	1
+V : khỏi	2
+V : kêu	1
+V : kết thúc	1
+V : kể	2
+V : luẩn quẩn	1
+V : là	11
+V : làm	14
+V : làm quen	1
+V : làm thuê	1
+V : làm việc	1
+V : lên	2
+V : lại	1
+V : lẫn	1
+V : lội	1
+V : mang	2
+V : mua	1
+V : muốn	2
+V : mất	1
+V : mặc	1
+V : mở	1
+V : nghe	2
+V : ngã	1
+V : nhìn	1
+V : nhớ	2
+V : nuôi	4
+V : nói	3
+V : nằm	2
+V : nằm xuống	1
+V : nối	1
+V : nổ súng	1
+V : pha	2
+V : phá	1
+V : phải	9
+V : qua	1
+V : qui tập	3
+V : qui tụ	1
+V : quên	1
+V : quên lãng	2
+V : quần	1
+V : ra	6
+V : rơi	1
+V : sinh	1
+V : sinh sống	1
+V : săn bắn	1
+V : sống	3
+V : tham gia	1
+V : theo	3
+V : thoát	1
+V : thôi	1
+V : thương mến	1
+V : thấy	3
+V : thử	1
+V : thực hiện	2
+V : tin	2
+V : tiêu	1
+V : tiếp	1
+V : tiếp tục	1
+V : trào	1
+V : trả lời	3
+V : trải	1
+V : trồng	3
+V : trở thành	1
+V : tìm	4
+V : tìm kiếm	2
+V : tò mò	1
+V : tần tảo	1
+V : tắm	3
+V : tồn tại	1
+V : tổ chức	1
+V : tổng cộng	1
+V : từ chối	1
+V : uống	1
+V : vào	7
+V : vác	1
+V : vận động	6
+V : về	3
+V : xem	1
+V : xin	1
+V : xung phong	1
+V : xuất hiện	1
+V : xuống	1
+V : ăn	3
+V : ăn uống	1
+V : Đánh	1
+V : đem	1
+V : đi	15
+V : đáng	1
+V : được	4
+V : đặt	1
+V : đến	1
+V : để dành	1
+V : định cư	1
+V : đọng	1
+V : đối diện	1
+V : đốt	1
+V : đốt phá	1
+V : đồng ý	1
+V : đổi	2
+V : đổi mới	1
+V : ở	3
+X : Làm sao	1
+X : như thế	1
+X : thế nào	2
+X : vừa qua	1

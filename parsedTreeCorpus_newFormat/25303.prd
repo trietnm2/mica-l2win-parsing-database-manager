@@ -1,0 +1,420 @@
+<s id = "1">
+S(TTL)
+	VP
+		V(H)
+			 Phát hiện
+		SBAR
+			S
+				NP(SUB)
+					M
+						 một
+					N(H)
+						 tàu
+				VP
+					V(H)
+						 chở
+					NP(DOB)
+						N(H)
+							 hàng
+						AP
+							A(H)
+								 lậu
+	.
+		 .
+</s>
+<s id = "2">
+S
+	NP(TMP)
+		N(H)
+			 Sáng
+		M
+			 21
+		-
+			 -
+		M
+			 3
+	,
+		 ,
+	NP(SUB)
+		Nc(H)
+			 ông
+		Np
+			 Hoàng Tuấn Việt
+		-
+			 -
+		NP
+			N(H)
+				 chi cục
+			S
+				 trưởng
+			NP
+				N(H)
+					 Chi cục
+				Np
+					 Hải quan
+				NP(LOC)
+					N(H)
+						 cửa khẩu
+					NP
+						N(H)
+							 cảng
+						N
+							 sân bay
+					NP
+						Np(H)
+							 Vũng Tàu
+	-
+		 -
+	VP
+		R
+			 đã
+		V(H)
+			 ký
+		NP(DOB)
+			N(H)
+				 lệnh
+			VP
+				V(H)
+					 kiểm tra
+				NP(DOB)
+					N(H)
+						 hành chính
+				PP
+					E(H)
+						 đối với
+					NP
+						N(H)
+							 tàu
+						Np
+							 Hồ Tây
+						M
+							 1
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 Công ty
+								Ny
+									 TNHH
+								NP
+									N(H)
+										 thương mại
+									N
+										 vận tải biển
+									Np
+										 An Lai
+									LBKT
+										 LBKT
+									VP
+										V(H)
+											 có
+										NP(DOB)
+											N(H)
+												 địa chỉ
+											PP(LOC)
+												E(H)
+													 tại
+												NP
+													M
+														 31
+													Ny
+														 E5
+													Np(H)
+														 Chu Văn An
+													,
+														 ,
+													NP
+														Ny(H)
+															 P
+														.
+															 .
+														M
+															 26
+													,
+														 ,
+													NP
+														Ny(H)
+															 Q
+														.
+															 .
+														Np
+															 Bình Thạnh
+													,
+														 ,
+													NP
+														Ny(H)
+															 TP
+														.
+															 .
+														Np
+															 HCM
+									RBKT
+										 RBKT
+									SBAR(PRP)
+										E(H)
+											 do
+										S
+											NP(SUB)
+												Np(H)
+													 Trần Văn Sơn
+											VP
+												V(H)
+													 làm
+												NP(DOB)
+													N(H)
+														 thuyền trưởng
+	.
+		 .
+</s>
+<s id = "3">
+S
+	NP(SUB)
+		L
+			 Các
+		N(H)
+			 nhân viên
+		VP
+			V(H)
+				 kiểm tra
+	VP
+		R
+			 đã
+		V(H)
+			 phát hiện
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 tàu
+					P
+						 này
+				VP
+					V(H)
+						 chở
+					NP(DOB)
+						A
+							 nhiều
+						N(H)
+							 hàng
+						N
+							 điện máy
+						AP
+							A(H)
+								 cũ
+						PP
+							E(H)
+								 với
+							NP
+								N(H)
+									 số lượng
+								AP
+									R
+										 khá
+									A(H)
+										 lớn
+						VP
+							V(H)
+								 gồm
+							:
+								 :
+							NP
+								N(H)
+									 tủ lạnh
+							,
+								 ,
+							NP
+								N(H)
+									 máy giặt
+							,
+								 ,
+							NP
+								N(H)
+									 loa thùng
+							C
+								 và
+							NP
+								Np(H)
+									 ampli
+	.
+		 .
+</s>
+<s id = "4">
+S(PV)
+	RP(MNR)
+		R(H)
+			 Lập tức
+	NP(SUB)
+		L
+			 các
+		N(H)
+			 mặt hàng
+		A
+			 trên
+	VP
+		V(H)
+			 bị
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					VP
+						V(H)
+							 lập
+						NP(DOB)
+							N(H)
+								 biên bản
+					VP
+						V(H)
+							 thu giữ
+	.
+		 .
+</s>
+<s id = "5">
+S
+	NP(TMP)
+		N(H)
+			 Chiều
+		M
+			 22
+		-
+			 -
+		M
+			 3
+	NP(SUB)
+		L
+			 các
+		N(H)
+			 cán bộ
+		VP
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 trách nhiệm
+		PP
+			E(H)
+				 của
+			NP
+				N(H)
+					 hải quan
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				SBAR(PRP)
+					S
+						NP(SUB)
+							 *T*
+						VP
+							R
+								 vẫn
+							R
+								 đang
+							V(H)
+								 tiếp tục
+							VP
+								V(H)
+									 kiểm tra
+							VP
+								V(H)
+									 lập
+								NP(DOB)
+									N(H)
+										 biên bản
+									VP(PRP)
+										V(H)
+											 thu giữ
+										NP(DOB)
+											L
+												 các
+											N(H)
+												 mặt hàng
+											A
+												 trên
+				C
+					 nên
+				S
+					NP(SUB)
+						 *E*
+					VP
+						R
+							 chưa thể
+						V(H)
+							 công bố
+						NP(DOB)
+							N(H)
+								 số lượng
+						AP
+							A(H)
+								 chính thức
+	.
+		 .
+</s>
+<s id = "6">
+S
+	NP(SUB)
+		Nc(H)
+			 Ông
+		Np
+			 Nguyễn Thế Khanh
+		,
+			 ,
+		NP
+			N(H)
+				 chi cục
+			S
+				 phó
+	,
+		 ,
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(SUB)
+					P(H)
+						 đây
+				VP
+					V(H)
+						 là
+					NP
+						L
+							 những
+						N(H)
+							 mặt hàng
+						N
+							 điện tử
+						AP
+							A(H)
+								 cũ
+						VP
+							R
+								 đã
+							V(H)
+								 có
+							NP(DOB)
+								N(H)
+									 qui định
+								VP
+									V(H)
+										 cấm
+									V
+										 nhập khẩu
+									PP(MNR)
+										E(H)
+											 dưới
+										NP
+											M
+												 mọi
+											N(H)
+												 hình thức
+	.
+		 .
+</s>

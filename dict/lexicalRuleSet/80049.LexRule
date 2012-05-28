@@ -1,0 +1,234 @@
+" : "	3
+, : ,	25
+- : -	5
+. : .	15
+... : ...	3
+: : :	6
+A : cao	1
+A : chặt	1
+A : cụ thể	1
+A : khó khăn	1
+A : mới	2
+A : nhiều	3
+A : nhỏ	1
+A : quan trọng	1
+A : thân	1
+A : tinh khiết	1
+A : tất bật	1
+A : vui vẻ	1
+A : ít	1
+A : đủ	1
+A : ấm cúng	1
+C : cùng	1
+C : thì	1
+C : và	1
+C : Đồng thời	1
+E : Trong	1
+E : Với	2
+E : cho	7
+E : của	5
+E : dù	1
+E : sau	2
+E : trong	4
+E : trên	1
+E : tại	1
+E : tận	1
+E : từ	2
+E : về	1
+E : với	3
+E : đến	2
+E : để	1
+L : chút ít	1
+L : các	3
+L : mấy	1
+L : một số	1
+L : những	7
+M : 1	2
+M : 20	1
+M : 27	1
+M : 28	2
+M : 3	1
+M : 30	2
+M : 6	1
+M : một	1
+N : Bạn	1
+N : Cao đẳng	1
+N : Công nghiệp	1
+N : Công ty	1
+N : Hành chính	2
+N : Học viện	2
+N : Hội	2
+N : Khoản	1
+N : Thời gian biểu	1
+N : Trường	1
+N : Tết	3
+N : Việc	1
+N : bạn	5
+N : cao đẳng	1
+N : chương trình	1
+N : chợ	1
+N : chủ tịch	1
+N : cách	1
+N : công việc	3
+N : cơ may	1
+N : cơ sở	1
+N : cửa hàng	2
+N : dịp	3
+N : dự tính	1
+N : ga	1
+N : gia đình	2
+N : giêng	1
+N : giảng đường	1
+N : gái	1
+N : hoa	1
+N : hoàn cảnh	1
+N : hàng	2
+N : học kỳ	1
+N : học phí	1
+N : khi	1
+N : khoản	2
+N : khu vực	1
+N : kiến thức	1
+N : kỳ	2
+N : kỹ thuật	1
+N : mùa	2
+N : mắt	1
+N : mồng	1
+N : mục tiêu	1
+N : nhà	2
+N : nhóm	1
+N : nút	1
+N : năm	1
+N : nước	1
+N : phần	1
+N : quà	1
+N : quê	1
+N : quốc gia	2
+N : sinh viên	1
+N : siêu thị	1
+N : sách	1
+N : số	1
+N : thù lao	1
+N : thời vụ	1
+N : tiền	4
+N : trường	2
+N : tết	13
+N : việc	2
+N : việc làm	1
+N : xe	1
+N : xe máy	2
+N : xung quanh	1
+N : xuân	2
+N : yên	1
+N : ánh	1
+N : đời	1
+NP : *E*	2
+NP : *T*	4
+Nc : Anh	1
+Nc : bao	1
+Nc : bộ	1
+Nc : cuộc	1
+Nc : cái	1
+Nc : mùa	2
+Nc : nỗi	1
+Np : Anh Quân	1
+Np : Hapro	1
+Np : Hoàn	1
+Np : Hải Dương	1
+Np : Hồng Nhung	1
+Np : Kỳ	1
+Np : Nguyễn Huy Hoàng	1
+Np : Quân	1
+Np : Trọng Hoàn	1
+Np : Đặng Kỳ	1
+Ny : SV	8
+Ny : TP	1
+P : Mình	1
+P : Nó	1
+P : họ	1
+P : mình	7
+P : này	3
+P : đó	1
+P : ấy	1
+R : Thậm chí	1
+R : Vừa	1
+R : còn	1
+R : có thể	1
+R : hơn	1
+R : khá	1
+R : không	3
+R : không thể	1
+R : lại	3
+R : lập tức	1
+R : lắm	1
+R : ngay	1
+R : rất	2
+R : sẽ	4
+R : vào	1
+R : vẫn	3
+R : vừa	5
+R : đang	2
+R : đã	1
+R : được	3
+R : đồng thời	1
+T : mà	1
+V : Thôi	1
+V : Xây dựng	1
+V : biết	2
+V : buộc	1
+V : bước	1
+V : bỏ qua	1
+V : bớt	1
+V : cho	1
+V : chạy bàn	1
+V : chấp nhận	1
+V : chở	1
+V : còn	1
+V : có	3
+V : cười	1
+V : cố gắng	2
+V : dành	1
+V : giúp	1
+V : giấu	1
+V : giữ	1
+V : gửi	1
+V : hoàn thành	1
+V : học	3
+V : học tập	1
+V : kiếm	4
+V : là	2
+V : làm	2
+V : mưu sinh	1
+V : mừng tuổi	1
+V : nhận	1
+V : nhớ	1
+V : phụ giúp	1
+V : phục vụ	1
+V : quên	1
+V : ra	1
+V : siết	1
+V : sửa chữa	1
+V : thi	1
+V : thêm	1
+V : thở phào	1
+V : tiếp thị	1
+V : trang trải	1
+V : trực	1
+V : tâm sự	1
+V : tìm	1
+V : tăng tốc	1
+V : tận dụng	1
+V : tậu	1
+V : tặng	1
+V : tổ chức	1
+V : tới	1
+V : vui chơi	1
+V : về	1
+V : xa	1
+V : xuất hiện	1
+V : yên tâm	1
+V : đi	1
+V : đón	2
+V : được	2
+V : đầu quân	1
+V : ở	3

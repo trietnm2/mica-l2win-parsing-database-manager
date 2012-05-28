@@ -1,0 +1,130 @@
+AP : A	5
+AP : A "	1
+AP : A A PP	1
+AP : A C SBAR	1
+AP : A NP	1
+AP : A NP VP	1
+AP : AP , AP	2
+AP : R A	3
+AP : R A NP	2
+NP : " N	1
+NP : L N , N NP	1
+NP : L N A	1
+NP : L N AP PP	1
+NP : L N V	1
+NP : L N VP	1
+NP : M N	1
+NP : N	18
+NP : N : VP , SBAR	1
+NP : N A	3
+NP : N A PP	1
+NP : N AP	3
+NP : N AP PP	1
+NP : N M	3
+NP : N N M	1
+NP : N N NP	1
+NP : N NP	14
+NP : N NP NP	1
+NP : N NP NP - NP	1
+NP : N Np	7
+NP : N Np NP	1
+NP : N Ny	2
+NP : N Ny Ny	1
+NP : N P	5
+NP : N PP	3
+NP : N S N Np	4
+NP : N T	1
+NP : N V	11
+NP : N V : SBAR	1
+NP : N V PP	1
+NP : N V VP	1
+NP : N VP	8
+NP : N VP PP	1
+NP : NP NP VP	1
+NP : Nc Np	3
+NP : Np	2
+NP : Ny	2
+NP : Ny NP	2
+NP : Ny Np	3
+NP : Ny Ny	3
+NP : P	4
+NP : P AP	1
+NP : P N	1
+NP : P Nc N	1
+NP : P Nu N	1
+PP : E NP	24
+PP : E NP LBKT NP RBKT	1
+PP : E VP	5
+S : C S , C S .	1
+S : NP , VP , NP - VP .	1
+S : NP .	1
+S : NP : SBAR .	1
+S : NP AP C VP	1
+S : NP VP	17
+S : NP VP .	2
+S : NP VP ?	2
+S : PP , NP NP VP .	1
+S : PP , NP VP	1
+S : PP , NP VP .	1
+S : PP , VP , NP VP …	1
+S : PP NP VP	2
+S : S , C S .	2
+S : SBAR , C S	1
+S : VP , NP , PP , NP VP .	1
+S : VP , NP VP .	1
+S : XP , NP VP	1
+SBAR : C S	2
+SBAR : E NP VP	1
+SBAR : E S	2
+SBAR : S	11
+SBAR : SQ	3
+SQ : NP : VP ?	1
+SQ : NP VP " ?	1
+SQ : WHRP ?	1
+SQ : WHRP PP NP VP	1
+SQ : WHRP S , S	1
+VP : R R A C V	1
+VP : R R PP VP	1
+VP : R R V NP	3
+VP : R R V NP VP	1
+VP : R R V VP	1
+VP : R R V XP	1
+VP : R V AP	1
+VP : R V NP	4
+VP : R V SBAR	2
+VP : R V VP	2
+VP : V	6
+VP : V , V R NP	1
+VP : V : PP , VP	1
+VP : V : SBAR	1
+VP : V : VP ; SBAR ; SBAR ; SBAR ; NP ; VP ; SBAR ; SBAR	1
+VP : V AP	5
+VP : V NP	12
+VP : V NP , NP R	1
+VP : V NP NP	1
+VP : V NP PP	2
+VP : V NP VP	1
+VP : V PP	5
+VP : V PP NP	1
+VP : V R NP	3
+VP : V R NP R	1
+VP : V R PP	1
+VP : V SBAR	4
+VP : V V	1
+VP : V V NP	1
+VP : V V NP PP	1
+VP : V V PP	1
+VP : V V SBAR	1
+VP : V VP	12
+VP : V VP , C VP	1
+VP : V XP	3
+VP : VP , C VP	2
+VP : VP , VP	1
+VP : VP C VP	1
+VP : X V	1
+WHRP : X	3
+XP : " X	1
+XP : " X "	1
+XP : " X " C R	1
+XP : " X " SBAR	1
+XP : X	1

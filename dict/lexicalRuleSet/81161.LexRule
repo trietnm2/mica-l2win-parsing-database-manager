@@ -1,0 +1,655 @@
+! : !	2
+" : "	12
+, : ,	60
+- : -	9
+- : –	1
+. : .	60
+... : ...	5
+: : :	9
+? : ?	2
+A : Khác	1
+A : Nhiều	1
+A : an toàn	1
+A : bức xúc	1
+A : cao	1
+A : chung	1
+A : chuyên nghiệp	4
+A : chính thức	2
+A : chính xác	1
+A : chật ních	1
+A : cuối cùng	1
+A : cũ	1
+A : cổ truyền	2
+A : dày	1
+A : dày cộp	1
+A : dã man	2
+A : dễ	1
+A : gần	3
+A : hồng hào	1
+A : khoa học	1
+A : khác	5
+A : khắp	1
+A : khỏe mạnh	2
+A : khốc liệt	1
+A : kiệt sức	1
+A : kín	1
+A : kỹ	1
+A : kỹ lưỡng	1
+A : liền	1
+A : lành	1
+A : lẫy lừng	1
+A : lớn	3
+A : lừng danh	1
+A : mạnh	1
+A : mới	1
+A : nghiêm ngặt	1
+A : nghiệp dư	6
+A : nguy hiểm	1
+A : ngắn	2
+A : nhiều	5
+A : nhất	1
+A : nhẹ nhõm	1
+A : nặng	3
+A : nổi tiếng	1
+A : quan trọng	1
+A : quốc tế	1
+A : riêng	1
+A : ròng rã	1
+A : rõ	2
+A : sau	1
+A : suốt	1
+A : sâu	1
+A : sẵn sàng	1
+A : thật	1
+A : trắng	1
+A : tương đương	1
+A : tương đồng	1
+A : tối đa	1
+A : tự do	3
+A : vinh quang	1
+A : vèo	1
+A : vô địch	1
+A : ào ạt	1
+A : ít	1
+A : Đúng	1
+A : đầu tiên	1
+A : đều đặn	1
+A : đủ	1
+C : Nhưng	2
+C : Nếu	1
+C : Tuy nhiên	3
+C : dù	2
+C : hay	2
+C : hoặc	1
+C : là	5
+C : lẫn	1
+C : mà	1
+C : như	7
+C : nhưng	4
+C : nếu	3
+C : rằng	3
+C : thì	6
+C : và	23
+E : Sau	2
+E : Theo	2
+E : Trong	1
+E : Từ	1
+E : cho	9
+E : của	16
+E : giữa	1
+E : khi	1
+E : nhờ	1
+E : nếu	1
+E : sau	3
+E : theo	1
+E : trong	8
+E : trên	3
+E : trước	2
+E : tại	10
+E : tới	1
+E : từ	7
+E : vào	10
+E : vì	4
+E : về	6
+E : với	15
+E : Đến	1
+E : đến	10
+E : để	8
+E : Ở	1
+E : ở	14
+L : Các	2
+L : Những	1
+L : các	17
+L : một số	3
+L : những	8
+L : vài	1
+LBKT : LBKT	6
+M : 1	1
+M : 10	1
+M : 19	1
+M : 1950	1
+M : 1963	1
+M : 1975	2
+M : 1997	1
+M : 20	1
+M : 2004	1
+M : 23	3
+M : 24	1
+M : 26	1
+M : 3	1
+M : 3 . 500	1
+M : 5	2
+M : 50%	1
+M : 57	1
+M : 64	1
+M : 70	1
+M : 75	1
+M : 8	1
+M : Ba	1
+M : Hai	1
+M : Mỗi	1
+M : Một	2
+M : ba	2
+M : bốn	2
+M : chục	1
+M : hai	5
+M : mười	1
+M : mỗi	1
+M : một	11
+N : *T*	1
+N : Anh	1
+N : Ban đầu	1
+N : Cộng đồng	1
+N : Giới	1
+N : Hiện nay	1
+N : Hợp tác xã	1
+N : Hợp đồng	1
+N : Khi	1
+N : Liên đoàn	2
+N : Nam bộ	1
+N : Năm	2
+N : Phía	1
+N : SEA Games	1
+N : Sàn	1
+N : Thành tích	1
+N : Thể thao	1
+N : Thời điểm	1
+N : Trung tâm	1
+N : Trước	1
+N : Trận	1
+N : Tuổi Trẻ	1
+N : Vé	1
+N : Võ sư	1
+N : Vụ	1
+N : ban	2
+N : bên	3
+N : băng	1
+N : bạo lực	1
+N : bậc	1
+N : bến xe	1
+N : bộ môn	2
+N : chuyến	2
+N : chính quyền	1
+N : chùa	1
+N : chấn thương	2
+N : chỏ	3
+N : cuối	1
+N : cách	1
+N : công	1
+N : cùi chỏ	1
+N : cú	2
+N : cơ hội	1
+N : cạnh	1
+N : cố vấn	1
+N : cồn	1
+N : danh	1
+N : danh sách	1
+N : dư luận	1
+N : dụng cụ	1
+N : dự kiến	1
+N : giang hồ	1
+N : giải	3
+N : giờ	1
+N : giữa	1
+N : góc	1
+N : góc độ	1
+N : găng tay	1
+N : gốc	2
+N : gối	1
+N : hiện nay	1
+N : hiệp	5
+N : huấn luyện	1
+N : hành trình	1
+N : hôm	1
+N : hạ bộ	1
+N : học trò	1
+N : hợp đồng	1
+N : keo	1
+N : khi	8
+N : khoản	1
+N : khoảnh khắc	1
+N : khu vực	1
+N : khăn	1
+N : khả năng	1
+N : kỳ	1
+N : kỳ cuối	1
+N : kỷ niệm	1
+N : kỹ thuật	1
+N : luật	4
+N : luồng	1
+N : lúc	2
+N : lượng	1
+N : lần	3
+N : lễ	1
+N : lịch sử	1
+N : miền	2
+N : miệng	2
+N : máu	1
+N : môn	9
+N : mũi	1
+N : mạng	1
+N : mặt	2
+N : mức độ	1
+N : nghiệp	2
+N : nghề	1
+N : nghệ danh	1
+N : ngày	3
+N : ngói	1
+N : người	10
+N : nhà	1
+N : nét	1
+N : nòng cốt	1
+N : năm	10
+N : nội dung	1
+N : pencak silat	2
+N : phía	1
+N : phó chủ tịch	1
+N : quan tài	1
+N : quan điểm	2
+N : quyết định	1
+N : quyền anh	4
+N : quân đội	2
+N : quận	1
+N : sau	1
+N : sau này	1
+N : sàn	5
+N : sáng	1
+N : sự	1
+N : sự kiện	1
+N : sự nghiệp	2
+N : tay trái	1
+N : thanh niên	1
+N : thiên hạ	1
+N : thành phần	2
+N : thành viên	2
+N : tháng	1
+N : thầy	2
+N : thể thao	1
+N : thể trạng	1
+N : thời	2
+N : thời gian	3
+N : thời điểm	2
+N : thứ	2
+N : thực chất	1
+N : tiền	2
+N : tiền bối	1
+N : toàn thân	3
+N : tranh thủy mặc	1
+N : tre	1
+N : truyền thông	1
+N : trách nhiệm	1
+N : trưa	1
+N : trường	1
+N : trường học	1
+N : trận	10
+N : tài	1
+N : tài liệu	1
+N : tên	4
+N : tên tuổi	4
+N : tín hiệu	1
+N : tính	2
+N : tỉnh	1
+N : tối	1
+N : tử huyệt	1
+N : vai trò	1
+N : việc	2
+N : vàng	1
+N : vé	1
+N : võ	10
+N : võ sĩ	10
+N : võ sư	2
+N : võ thuật	7
+N : võ đài	1
+N : vải	1
+N : vận động viên	3
+N : vụ trưởng	1
+N : xung quanh	1
+N : Á vận hội	1
+N : Ông bầu	1
+N : ông	7
+N : ông bầu	1
+N : ý kiến	2
+N : Điều	1
+N : Đường	1
+N : Đấu sĩ	1
+N : Đầu	1
+N : điều chỉnh	2
+N : điều khoản	1
+N : đài	2
+N : đêm	1
+N : đòn	3
+N : đất	3
+N : đấu sĩ	3
+N : đầu	2
+N : đầu gối	2
+N : đối phương	3
+N : đối thủ	3
+N : độ	1
+N : đội	2
+N : đội tuyển	4
+N : Ủy ban	3
+NP : *E*	6
+NP : *T*	1
+Nc : Anh	1
+Nc : chiếc	1
+Nc : chàng	1
+Nc : cuộc	1
+Nc : cái	1
+Nc : cú	1
+Nc : cỗ	1
+Nc : miếng	1
+Nc : mái	1
+Nc : mảnh	1
+Nc : ngôi	1
+Nc : người	3
+Nc : nhà	1
+Nc : sự	1
+Nc : võ sĩ	1
+Nc : xấp	1
+Nc : Ông	1
+Nc : ông	5
+Np : Ba Sen	1
+Np : Bình Thạnh	1
+Np : Bạc Liêu	2
+Np : Bỉnh Sâm	1
+Np : Campuchia	1
+Np : Danh Hải	2
+Np : Hoa	1
+Np : Huỳnh Tiền	1
+Np : Hà Huy Tường	1
+Np : Lào	1
+Np : Lý Bỉnh Sâm	11
+Np : Lưu Hòa Phát	1
+Np : Minh	2
+Np : Minh Cảnh	1
+Np : Minh Sang	14
+Np : Muay Thái	29
+Np : Mã Thành Long	1
+Np : Nam	3
+Np : Nam bộ	1
+Np : Nguyễn Hưng	1
+Np : Nguyễn Hồng Minh	1
+Np : Nguyễn Thanh Đoàn	1
+Np : Nguyễn Thôi	1
+Np : Nguyễn Tri Phương	1
+Np : Nguyễn Đạt	1
+Np : Nha Trang	1
+Np : Phan Thiết	3
+Np : Philippines	1
+Np : Phạm Trung Thành	1
+Np : SEA Games	5
+Np : Sài Gòn	3
+Np : Thái	1
+Np : Thái Lan	6
+Np : Thủ Đức	1
+Np : Trương Văn Lâm	5
+Np : VN	1
+Np : Việt	2
+Np : Vovinam	1
+Np : Võ Danh Hải	1
+Np : châu Á	1
+Np : Đông Bắc	1
+Np : Đông Dương	1
+Np : Đông Nam Á	1
+Nu : cây số	1
+Nu : giờ	1
+Nu : kg	2
+Nu : phút	1
+Nu : tuổi	3
+Nu : đồng	1
+Ny : CLB	1
+Ny : HCM	1
+Ny : TDTT	3
+Ny : TP	1
+Ny : VN	13
+P : Chúng tôi	1
+P : Tôi	2
+P : ai	1
+P : bao giờ	1
+P : bây giờ	1
+P : bấy giờ	1
+P : chúng ta	1
+P : chúng tôi	2
+P : cả	1
+P : họ	1
+P : mình	2
+P : nay	3
+P : người ta	1
+P : nhau	1
+P : nào	3
+P : này	11
+P : nó	1
+P : tôi	2
+P : tự	2
+P : đâu	1
+P : đó	9
+P : ấy	1
+R : Chỉ	1
+R : Không	1
+R : Thậm chí	1
+R : Vẫn	1
+R : bất cứ	1
+R : bất kể	1
+R : bất kỳ	1
+R : chính	1
+R : chưa	2
+R : chỉ	3
+R : còn	5
+R : có thể	2
+R : cũng	6
+R : cực	1
+R : hơn	1
+R : khá	1
+R : không	12
+R : khỏi	1
+R : liên tục	1
+R : luôn	2
+R : lên	2
+R : lại	1
+R : mới	2
+R : ngay	2
+R : nhất	3
+R : nữa	1
+R : quá	3
+R : ra	8
+R : rất	3
+R : sắp	1
+R : sẽ	9
+R : thường	1
+R : từng	5
+R : vẫn	3
+R : về	2
+R : đang	2
+R : đã	19
+R : được	4
+R : đến	2
+R : đều	1
+RBKT : RBKT	6
+S : bất	1
+S : tái	1
+T : Ngay	1
+T : chính	1
+T : ngay	2
+T : sao	1
+T : trời	1
+T : tận	1
+V : Có	1
+V : Ngồi	1
+V : Trả lời	1
+V : Trở thành	1
+V : biến cách	1
+V : biết	10
+V : buộc	1
+V : bán	1
+V : bại	1
+V : bảo hộ	5
+V : bảo toàn	1
+V : bắt buộc	1
+V : bắt đầu	3
+V : bị	6
+V : bọc	1
+V : bổ sung	1
+V : chao đảo	1
+V : cho	10
+V : cho phép	1
+V : chuẩn bị	1
+V : chơi	4
+V : chấn thương	2
+V : chấp nhận	2
+V : chẻ	1
+V : chết	1
+V : chớp	1
+V : cá cược	1
+V : cáp	1
+V : cân	1
+V : cân nhắc	2
+V : còn	1
+V : có	11
+V : có mặt	2
+V : cấm đoán	1
+V : cận kề	1
+V : cắm	1
+V : di chuyển	1
+V : diễn	3
+V : du nhập	1
+V : dám	1
+V : dạy	2
+V : dựa	1
+V : dựng	2
+V : ghi	2
+V : giải nghệ	1
+V : giới hạn	1
+V : gây	1
+V : gồm	1
+V : gửi	1
+V : huấn luyện	1
+V : hạ	1
+V : hạn chế	1
+V : hết	1
+V : học	1
+V : hỏi	1
+V : khiến	1
+V : khẳng định	1
+V : khổ luyện	1
+V : kéo	1
+V : kịch chiến	1
+V : leo	1
+V : lui	1
+V : luyện	1
+V : là	9
+V : làm	1
+V : làm việc	1
+V : lãng phí	1
+V : lưu danh	1
+V : lắc đầu lè lưỡi	1
+V : mang	3
+V : mua	1
+V : mời	1
+V : mở	1
+V : nghe	1
+V : nghiên cứu	3
+V : nghĩ	2
+V : nhìn nhận	1
+V : nhận	4
+V : nhận lời	2
+V : nhắm	1
+V : nên	2
+V : nói	2
+V : nổi	1
+V : phun	1
+V : phát hiện	1
+V : phát triển	5
+V : phù hợp	3
+V : phải	4
+V : phản đối	1
+V : quyết chí	1
+V : ra	2
+V : ra mặt	1
+V : sang	1
+V : so	1
+V : sập	1
+V : sống	1
+V : tham dự	2
+V : tham khảo	1
+V : theo	1
+V : thi đấu	3
+V : thiệt mạng	1
+V : thua	3
+V : thành	1
+V : thành lập	5
+V : thách	3
+V : thăm	1
+V : thượng đài	2
+V : thảy	1
+V : thấy	1
+V : thắng	2
+V : thở phào	1
+V : thủ	1
+V : thừa nhận	1
+V : thử thách	1
+V : tiếp cận	1
+V : tranh	1
+V : trò chuyện	1
+V : trông	1
+V : trúng	1
+V : trở	1
+V : trở nên	1
+V : tung	2
+V : tuyên bố	1
+V : tài trợ	1
+V : tái xuất	1
+V : tìm	1
+V : tập	1
+V : tập huấn	1
+V : tỉ thí	3
+V : tỏ	1
+V : tổ chức	2
+V : vang	1
+V : vào	1
+V : vẽ	1
+V : vọt	1
+V : xem	3
+V : xuất hiện	1
+V : xóa sổ	1
+V : yêu	1
+V : ðầu tư	1
+V : đi	2
+V : đá	2
+V : đánh	3
+V : đánh gục	1
+V : đưa	4
+V : được	11
+V : đấm	1
+V : đấu	17
+V : đặt	2
+V : đặt chân	1
+V : đến	3
+V : đền mạng	1
+V : để	1
+V : đồng ý	1
+V : ủng hộ	2
+X : Nghĩa là	1
+X : có một không hai	1
+X : cựu	1
+X : ngoài ra	1
+X : đệ	1

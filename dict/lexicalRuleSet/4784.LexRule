@@ -1,0 +1,522 @@
+" : "	20
+, : ,	49
+- : -	5
+- : –	1
+. : .	42
+... : ...	10
+/ : /	3
+: : :	7
+; : ;	1
+A : Bất ngờ	1
+A : Nhiều	1
+A : bé	1
+A : chặt	1
+A : dài	1
+A : dữ	1
+A : giả	1
+A : gấp	1
+A : gần	3
+A : hiện đại	1
+A : hoang dã	1
+A : hơn	3
+A : hết	1
+A : khác	1
+A : khéo léo	1
+A : kém	1
+A : lạ	1
+A : lạnh	1
+A : lịch lãm	1
+A : lớn	1
+A : mãn nguyện	1
+A : mềm yếu	1
+A : mỏng dính	1
+A : ngang	1
+A : như	1
+A : nhất	2
+A : nhọn	1
+A : nhỏ	1
+A : nặng	2
+A : phó	1
+A : quan trọng	1
+A : quen thân	1
+A : rần rật	1
+A : rậm	1
+A : rực	1
+A : say	1
+A : sôi động	1
+A : sợ hãi	1
+A : thon	1
+A : thân sơ	1
+A : thông thường	1
+A : thấp	1
+A : thật	1
+A : thẳng băng	1
+A : tinh vi	1
+A : to	2
+A : trong suốt	1
+A : trái phép	1
+A : tròn	1
+A : trưởng	1
+A : tươi	1
+A : tử tế	1
+A : vuông hình sắc cạnh	1
+A : vàng	1
+A : vằn vện	1
+A : xíu	1
+A : đầy	1
+A : đặc biệt	2
+A : đặc chủng	1
+A : đỏ rực	1
+A : độc	1
+A : ồn ào	1
+C : Nhưng	2
+C : Nếu	1
+C : Rồi	1
+C : hay	1
+C : hoặc	2
+C : mà	2
+C : như	4
+C : nhưng	1
+C : nên	2
+C : thì	5
+C : và	13
+C : vì	1
+E : Sau	1
+E : Với	1
+E : bằng	2
+E : cho	2
+E : của	3
+E : do	1
+E : dưới	1
+E : giữa	1
+E : lên	1
+E : ngoài	1
+E : qua	1
+E : sau	1
+E : theo	1
+E : trong	3
+E : trước	1
+E : tại	2
+E : từ	4
+E : vào	3
+E : với	2
+E : xuống	2
+E : đến	1
+E : ở	9
+L : Các	1
+L : Mọi	1
+L : Những	1
+L : các	5
+L : một số	1
+L : những	8
+L : vài	2
+LBKT : LBKT	5
+M : 1	1
+M : 10triệu	1
+M : 12,5	1
+M : 125triệu	1
+M : 150triệu	1
+M : 18	1
+M : 2,7	1
+M : 2003	1
+M : 2triệu	1
+M : 3	1
+M : 3,34triệu	1
+M : 30	1
+M : 3triệu	1
+M : 4	1
+M : 42	1
+M : 4triệu	1
+M : 5	4
+M : 5,5triệu	1
+M : 500.000	1
+M : 500triệu	1
+M : 7	1
+M : 8	2
+M : 9	2
+M : ba	3
+M : bảy	2
+M : mỗi	1
+M : một	8
+M : nửa	1
+M : triệu	1
+M : đôi	1
+N : Bác sĩ	1
+N : Bên	1
+N : Chi cục	1
+N : Chợ	1
+N : Chủ	2
+N : Công	1
+N : Công nghệ sinh học	1
+N : Cục	1
+N : Giá	3
+N : Hàng	1
+N : Hổ	1
+N : Khách	1
+N : Kiểm lâm	1
+N : Lang	2
+N : Lái	1
+N : Mùi	1
+N : Rượu mạnh	1
+N : Tay	1
+N : Tiệc	1
+N : Trung tâm	1
+N : Viện	1
+N : Vợ	1
+N : Xe	1
+N : an ninh	1
+N : biệt thự	1
+N : bác sĩ	3
+N : báo	1
+N : bệnh viện	1
+N : bộ	5
+N : bột	2
+N : cao	12
+N : chi cục	2
+N : chiết	1
+N : chiếu	1
+N : chuyên cơ	1
+N : chó	1
+N : chảo	1
+N : chỗ	1
+N : chủ	1
+N : chủ nhân	1
+N : con người	1
+N : cuộc	1
+N : câu	1
+N : cây cảnh	1
+N : công	1
+N : cơ thể	1
+N : cấp	1
+N : cầu	1
+N : cổ đông	1
+N : cục trưởng	1
+N : cửa khẩu	1
+N : da	2
+N : dao	2
+N : dịch	1
+N : gia bảo	1
+N : giá	1
+N : giáo sư	1
+N : giấy phép	1
+N : gấu	3
+N : gỗ	1
+N : hiện	1
+N : hoa văn	1
+N : huyết quản	1
+N : hàng chợ	1
+N : hình thức	1
+N : hôm	1
+N : hệ thống	1
+N : hổ	18
+N : khi	4
+N : khu	1
+N : khuyết tật	1
+N : khách	3
+N : khắp	1
+N : khối	2
+N : kim loại	1
+N : kiểm lâm	1
+N : lang	2
+N : lá	1
+N : lúa	1
+N : lưỡi	1
+N : lửa	1
+N : lực lượng	1
+N : máu	1
+N : mâm	3
+N : mèo	1
+N : mình	1
+N : mạch máu	1
+N : mắt	2
+N : mặt	2
+N : mồm	1
+N : ngang dọc	1
+N : nghề	1
+N : nghệ nhân	1
+N : nghệ sĩ	1
+N : ngón	1
+N : người	5
+N : ngựa	1
+N : nhau	2
+N : nhiệt	1
+N : nhà	1
+N : nhãn	1
+N : nét	1
+N : năm	1
+N : nước ngoài	1
+N : nồi	2
+N : phương tiện	1
+N : phần	1
+N : quan khách	1
+N : quanh	1
+N : quí tộc	1
+N : ruột gan	1
+N : rượu	2
+N : rừng	1
+N : sơn dương	1
+N : sổ	2
+N : tay	1
+N : thanh niên	1
+N : thành phố	4
+N : tháng	1
+N : thùng	1
+N : thước	2
+N : thạch cao	1
+N : thịt	1
+N : thợ	1
+N : thợ săn	1
+N : thứ	1
+N : tiền	2
+N : toàn	1
+N : trang trại	1
+N : trong	1
+N : trung tâm	1
+N : trâu	1
+N : tròng	1
+N : trọng lượng	1
+N : tuần	1
+N : tâm	1
+N : tình trạng	1
+N : túi	1
+N : tế bào	1
+N : viện	1
+N : vùng	1
+N : vết	1
+N : xe hơi	1
+N : xương	19
+N : xương thịt	1
+N : ông	3
+N : Đêm	1
+N : Đường	1
+N : điêu khắc	1
+N : đàn ông	1
+N : đá	1
+N : đường	1
+N : đường nét	1
+N : đặc điểm	1
+N : đồ	1
+N : động vật	1
+N : đời	1
+NP : *E*	4
+NP : *T*	3
+Nb : nilông	1
+Nb : ximăng	2
+Nc : Người	1
+Nc : Sự	1
+Nc : anh	1
+Nc : bác	1
+Nc : chiếc	1
+Nc : chị	1
+Nc : con	3
+Nc : cây	1
+Nc : dòng	1
+Nc : khối	1
+Nc : lưỡi	1
+Nc : miếng	1
+Nc : người	1
+Nc : nỗi	1
+Nc : sự	1
+Nc : vụ	1
+Nc : Ông	2
+Nc : ánh	1
+Nc : đám	1
+Np : Bangladesh	1
+Np : Campuchia	1
+Np : Cả Tú	2
+Np : Cầu Treo	1
+Np : Dung	3
+Np : Hai Bà Trưng	1
+Np : Hoa	1
+Np : Hà Nội	4
+Np : Hà Tĩnh	1
+Np : Kiều	1
+Np : Lai Châu	1
+Np : Lào	1
+Np : Lủ	1
+Np : Mê Linh	1
+Np : Nga	1
+Np : Nguyễn Bá Thụ	1
+Np : Nguyễn Công Đức	1
+Np : Ninh Bình	1
+Np : Phúc Yên	1
+Np : Sri Lanka	1
+Np : Sóc Sơn	1
+Np : Thái Lan	1
+Np : Thưởng	4
+Np : Vui	1
+Np : Vĩnh Phúc	1
+Np : Định Công	1
+Np : Ấn Độ	2
+Nu : gam	1
+Nu : giờ	1
+Nu : kg	5
+Nu : lạng	2
+Nu : tạ	1
+Nu : đồng	6
+Ny : VN	3
+P : Nay	1
+P : Nó	1
+P : ai	1
+P : bao giờ	1
+P : hắn	1
+P : họ	1
+P : lúc nào	1
+P : này	3
+P : nó	1
+P : sao	1
+P : tôi	3
+P : từng	1
+P : đâu	1
+P : đây	1
+P : đó	2
+P : ấy	1
+R : Thật	1
+R : bất cứ	1
+R : chỉ	2
+R : có thể	1
+R : cũng	2
+R : cứ	1
+R : hầu hết	1
+R : hết	1
+R : không	4
+R : liên tục	1
+R : luôn	1
+R : lên	2
+R : lại	2
+R : ngay	1
+R : ra	2
+R : rón rén	1
+R : thêm	2
+R : thường	1
+R : thậm chí	1
+R : toàn	1
+R : vào	1
+R : vẫn	1
+R : về	2
+R : vừa	1
+R : đang	4
+R : đi	1
+R : đã	2
+R : được	4
+R : đến	1
+RBKT : RBKT	5
+T : cả	2
+V : Cách	1
+V : Có	2
+V : Cứu hộ	1
+V : Kiểm lâm	1
+V : Lọc lừa	1
+V : Lừa	2
+V : Muốn	1
+V : Tàn	1
+V : Tổng cộng	1
+V : biết	1
+V : buôn bán	3
+V : buộc	1
+V : bảo	1
+V : bảo kê	1
+V : bắt	1
+V : bị	2
+V : bớt	1
+V : cam kết	1
+V : che giấu	1
+V : chia	2
+V : cho	2
+V : chênh	1
+V : chảy	1
+V : chết	1
+V : còn	1
+V : có	7
+V : có mặt	1
+V : cười	1
+V : cắt	2
+V : diễn	1
+V : dặn	1
+V : giám định	1
+V : giúp	1
+V : giật	1
+V : giở	1
+V : giữ	1
+V : gật	1
+V : gắn	2
+V : hay	1
+V : hưởng	1
+V : hạ cánh	1
+V : hẹn	1
+V : kinh ngạc	1
+V : kinh sợ	1
+V : kiểm tra	1
+V : ký	1
+V : len lỏi	1
+V : là	13
+V : làm	3
+V : làm phép	1
+V : lái	1
+V : lên đồng	1
+V : lấy	2
+V : mua	3
+V : móc	1
+V : móp	1
+V : mời	1
+V : ngậm	1
+V : ngồi	1
+V : ngửa	1
+V : nhét	1
+V : nhồi	1
+V : nuôi	1
+V : nói	2
+V : nấu	4
+V : pha	2
+V : phù phép	1
+V : quyết toán	1
+V : quản lý	1
+V : rùng mình	1
+V : rẽ	1
+V : sống	2
+V : sợ	1
+V : thu giữ	1
+V : thuê	3
+V : thấy	2
+V : thẩm định	1
+V : thừa nhận	1
+V : trao	1
+V : truy quét	1
+V : tráng	1
+V : tránh	1
+V : tráo	1
+V : trúng thương	1
+V : trưng cầu	1
+V : trộm	1
+V : trộn	1
+V : tìm	1
+V : tùy	1
+V : uống	1
+V : vượt	1
+V : vận chuyển	2
+V : vằn	1
+V : về	2
+V : vờn	1
+V : xem	2
+V : xuống	1
+V : xác định	1
+V : yêu cầu	1
+V : ôm	1
+V : Đừng	1
+V : đem	1
+V : đuổi	1
+V : đâm	1
+V : đòi	1
+V : đón	1
+V : đưa	1
+V : được	3
+V : đẩy	1
+V : đập	1
+V : đếm	2
+V : đến	1
+V : để	1
+V : đọc	1
+V : đợi	1
+V : đứng	1
+V : ướm	1
+X : Hình như	1

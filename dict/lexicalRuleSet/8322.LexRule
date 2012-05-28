@@ -1,0 +1,359 @@
+" : "	8
+, : ,	39
+- : -	1
+. : .	21
+... : ...	5
+: : :	2
+; : ;	4
+A : Nhiều	1
+A : bé nhỏ	1
+A : bất ngờ	1
+A : chắc chắn	1
+A : cũ	1
+A : dài	1
+A : dọc	1
+A : già	1
+A : hoàn toàn	1
+A : kiên cố	1
+A : lạ	1
+A : lạ mắt	1
+A : lộ thiên	1
+A : lớn	1
+A : lớn lao	1
+A : mi-ni	1
+A : mịt mù	1
+A : ngát	1
+A : ngắn	1
+A : nhiều	5
+A : như	1
+A : nhất	1
+A : nhếch nhác	2
+A : quen thuộc	1
+A : rộng	3
+A : rực rỡ	1
+A : suốt	1
+A : sạch	1
+A : thân yêu	1
+A : trong	1
+A : trong vắt	1
+A : trước	2
+A : trẻ	2
+A : tất bật	1
+A : tốt	1
+A : vừa	1
+A : xa	1
+A : xanh	1
+A : ít	1
+A : đơn giản	1
+A : đầy	1
+A : đẹp	4
+A : ấm áp	1
+C : Không chỉ	1
+C : chứ	1
+C : mà	5
+C : mà còn	1
+C : nhưng	2
+C : nếu	2
+C : rằng	1
+C : thì	2
+C : và	3
+E : Theo	1
+E : Từ	2
+E : Với	1
+E : bên	1
+E : bằng	2
+E : cho	1
+E : của	3
+E : dưới	1
+E : ra	1
+E : sang	1
+E : sau	1
+E : trong	3
+E : trên	3
+E : từ	1
+E : vào	2
+E : vì	1
+E : về	3
+E : với	7
+E : đến	4
+E : để	5
+E : Ở	1
+E : ở	2
+L : Mấy	1
+L : các	7
+L : mấy	1
+L : mọi	1
+L : những	6
+L : toàn bộ	2
+L : vài	3
+M : 11	1
+M : 15	1
+M : 2,5	1
+M : hai	2
+M : một	4
+M : ngàn	1
+M : năm	1
+M : trăm	2
+N : Ban ngày	1
+N : Buổi	1
+N : Câu chuyện	1
+N : Khi	1
+N : Khách	1
+N : Kinh tế	1
+N : Kết quả	1
+N : Nước	1
+N : Thời	1
+N : Vỉa hè	1
+N : ban công	1
+N : biệt thự	1
+N : báo	1
+N : bên	5
+N : bước	1
+N : bến	2
+N : bồn	1
+N : bờ	9
+N : bụi	1
+N : chung kết	1
+N : chuyện	1
+N : chỗ	2
+N : chợ	1
+N : con người	1
+N : cuộc	1
+N : cây	1
+N : công viên	4
+N : cảng	1
+N : cảnh quan	1
+N : cầu cảng	1
+N : cọ	1
+N : cống	1
+N : cụ	1
+N : dân	2
+N : dãy	1
+N : dòng	7
+N : dừa	1
+N : dự án	1
+N : gia cầm	1
+N : gia đình	1
+N : giao thừa	1
+N : gió	1
+N : gạch	1
+N : gốm	1
+N : hoa	1
+N : hoa văn	1
+N : hàng	1
+N : hướng	1
+N : khi	1
+N : kiến trúc sư	1
+N : kỷ niệm	1
+N : lan can	1
+N : lúc	2
+N : lưng	1
+N : lưới	1
+N : môi trường	1
+N : mưa	1
+N : mặt	2
+N : một cách	1
+N : mức	1
+N : nguy cơ	1
+N : ngày	1
+N : ngày đêm	1
+N : người	1
+N : nhau	2
+N : nhà	1
+N : nhà máy	1
+N : nhân loại	1
+N : năm	2
+N : nơi	1
+N : nước	2
+N : nước thải	2
+N : nắng	1
+N : nỗ lực	1
+N : phía	1
+N : phương	1
+N : phương án	1
+N : phần	3
+N : rác thải	1
+N : sáng	1
+N : sân sau	1
+N : sông	34
+N : than	1
+N : thành phố	3
+N : thái độ	2
+N : tháng	1
+N : thế kỷ	1
+N : thời	1
+N : thời gian	1
+N : thứ	1
+N : triền	1
+N : trước kia	1
+N : tuổi	1
+N : tây	1
+N : tình trạng	1
+N : tối	1
+N : ven	1
+N : việc	1
+N : vòng	1
+N : văn minh	1
+N : vỉa hè	1
+N : xe	1
+N : xe máy	1
+N : xuân	3
+N : xưa	1
+N : ánh	1
+N : ô tô	3
+N : Đường	2
+N : điều	1
+N : đoạn	2
+N : đá	1
+N : đèn	1
+N : đêm	1
+N : đô thị	1
+N : đơn vị	1
+N : đường	7
+N : đường phố	1
+N : đất	1
+N : ảnh	1
+N : ống	1
+NP : *E*	8
+Nb : granite	1
+Nc : Người	1
+Nc : bãi	1
+Nc : con	4
+Nc : mùa	2
+Nc : mảnh	1
+Nc : người	2
+Nc : sự	1
+Np : Bạch Đằng	4
+Np : Bạch Đằng Đông	1
+Np : Giáp Thân	1
+Np : Hà Nội	1
+Np : Hà Thân	1
+Np : Hàn	11
+Np : Hòa Cường	1
+Np : Hồng	1
+Np : Pháp	1
+Np : Sài Gòn	1
+Np : Thủ Thiêm	1
+Np : Tết	1
+Np : Đà Nẵng	4
+Np : Đông	1
+Np : Đầm Rong	1
+Nu : km	1
+Nu : m	2
+Ny : SG	1
+Ny : VN	1
+P : Ai	1
+P : ai	2
+P : bao giờ	2
+P : bây giờ	1
+P : chúng ta	3
+P : mình	1
+P : nay	1
+P : người ta	1
+P : này	3
+P : đây	1
+P : đó	4
+P : ấy	2
+R : Thật	1
+R : chưa	1
+R : chỉ	6
+R : còn	2
+R : có thể	1
+R : cũng	2
+R : dường như	1
+R : hàng	1
+R : khá	1
+R : không	7
+R : lại	4
+R : qua	1
+R : ra	3
+R : rồi	1
+R : thật sự	1
+R : vẫn	1
+R : vừa	1
+R : Đã	2
+R : đang	1
+R : đi	1
+R : đã	5
+R : được	5
+V : Lấn	1
+V : biến	1
+V : bình chọn	1
+V : bảo	1
+V : bị	1
+V : chuẩn bị	1
+V : chạy	1
+V : chảy	2
+V : chấm dứt	2
+V : chất	1
+V : chặn	1
+V : chụp	1
+V : có	9
+V : cản	1
+V : dành	1
+V : giải tỏa	1
+V : giết mổ	1
+V : hãy	1
+V : hóng	1
+V : họp	1
+V : khỏi	1
+V : kè	1
+V : kết hợp	1
+V : lo	1
+V : là	6
+V : làm	3
+V : lát	1
+V : lên	1
+V : lập	1
+V : lột xác	1
+V : muốn	1
+V : mở	2
+V : mở rộng	3
+V : ngăn	1
+V : ngăn cách	2
+V : ngạc nhiên	1
+V : ngắm	1
+V : ngồi	1
+V : nhìn	1
+V : phát triển	1
+V : phơi	1
+V : phải	3
+V : qua	1
+V : quay	1
+V : ra	1
+V : thay đổi	4
+V : thi công	1
+V : thu hẹp	1
+V : thuộc	1
+V : thành	3
+V : thấy	1
+V : tin	1
+V : trang trí	1
+V : treo	1
+V : tránh	2
+V : trân trọng	1
+V : trở lại	1
+V : tìm	1
+V : tận dụng	1
+V : vào	1
+V : xây	1
+V : xây dựng	1
+V : xói lở	1
+V : xót xa	1
+V : xử lý	2
+V : ô nhiễm	1
+V : đi	2
+V : đua	1
+V : đào xới	1
+V : đưa	1
+V : được	3
+V : đặt chân	1
+V : đến	3
+V : đối xử	2
+V : đổ	1
+V : đột phá	1
+V : đứng	1
+V : ốp	1
+X : May mà	1
+X : dường như	2
+X : lời ra tiếng vào	1

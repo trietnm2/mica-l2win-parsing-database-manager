@@ -1,0 +1,621 @@
+! : !	1
+" : "	6
+, : ,	88
+- : -	10
+. : .	79
+... : ...	18
+: : :	16
+? : ?	7
+A : Chắc	2
+A : Có thể	1
+A : Hao hao	1
+A : Song song	1
+A : Tuyệt đối	1
+A : Tấp nập	1
+A : bí mật	5
+A : bạc phơ	1
+A : bất ngờ	1
+A : bộn bề	1
+A : chắc	2
+A : câm lặng	6
+A : có thể	2
+A : cùng	1
+A : cũ	3
+A : cương nghị	1
+A : cấp bách	1
+A : dày	1
+A : dọc	4
+A : già	2
+A : già yếu	1
+A : gần	1
+A : hiền hòa	1
+A : hoang vắng	1
+A : hẻo lánh	1
+A : không thể	1
+A : khắp	1
+A : kỳ lạ	1
+A : liền	1
+A : lâu	1
+A : lý thú	1
+A : lặng	1
+A : lịch sử	2
+A : lớn	2
+A : mênh mông	1
+A : mòn	1
+A : mạo hiểm	1
+A : mịt mùng	1
+A : mỏng manh	1
+A : mờ nhạt	1
+A : mục nát	1
+A : nguy hiểm	1
+A : ngổn ngang	1
+A : nhanh	1
+A : nhanh chóng	1
+A : như	3
+A : nhỏ	1
+A : nát	1
+A : phẳng lì	4
+A : quắc thước	1
+A : ròng	1
+A : rõ	1
+A : rộng	2
+A : suốt	1
+A : sâu	4
+A : thô sơ	1
+A : thù nghịch	1
+A : thăm thẳm	1
+A : thất bại	1
+A : thật	1
+A : thống nhất	1
+A : thống thiết	2
+A : tinh anh	1
+A : trước	1
+A : trầm tĩnh	1
+A : trắng phau	1
+A : tím	2
+A : tấp nập	1
+A : tự do	1
+A : vàng	1
+A : vô danh	3
+A : vô hình	1
+A : vĩnh hằng	1
+A : vội	1
+A : vụn	1
+A : xanh	1
+A : xưa	3
+A : đau đớn	1
+A : đen	1
+A : đáng kể	1
+A : đúng	3
+A : đầu tiên	5
+A : đầy	1
+A : đậm	1
+A : độc lập	1
+A : ố	1
+A : ồn ào	1
+C : Dù	1
+C : Nhưng	3
+C : Rồi	1
+C : Và	4
+C : còn	1
+C : dẫu	1
+C : hoặc	2
+C : là	8
+C : mà	2
+C : như	1
+C : nhưng	3
+C : nếu	1
+C : rồi	2
+C : thì	2
+C : và	11
+E : Bởi vì	1
+E : Của	1
+E : Trong	1
+E : Trên	1
+E : Vì	1
+E : bằng	1
+E : cho	2
+E : của	30
+E : do	1
+E : lên	1
+E : qua	1
+E : sau	1
+E : theo	4
+E : trong	12
+E : trên	9
+E : trước	2
+E : tại	2
+E : từ	5
+E : vào	8
+E : vì	5
+E : về	4
+E : với	1
+E : đến	1
+E : để	1
+E : ở	2
+L : Các	1
+L : Những	5
+L : các	3
+L : mọi	1
+L : những	19
+LBKT : LBKT	1
+M : 1	1
+M : 125	1
+M : 1959	9
+M : 25	1
+M : 30	2
+M : 5	3
+M : 559	1
+M : 60	1
+M : 644	2
+M : 7	2
+M : Một	4
+M : chín	1
+M : hai	3
+M : mười	1
+M : mỗi	1
+M : một	26
+M : triệu	1
+M : trăm	1
+M : tám	1
+M : tỉ	1
+M : ức	1
+N : Biển	2
+N : Bác	3
+N : Chuyến	2
+N : Câu chuyện	1
+N : Cửa	1
+N : Dấu vết	1
+N : Hôm nay	1
+N : Hôm qua	1
+N : Hải quân	1
+N : Khu	1
+N : Lịch sử	1
+N : Lữ đoàn	1
+N : Miền	3
+N : Người	4
+N : Nhà văn	1
+N : Nhân dân	1
+N : Năm	1
+N : Nơi	1
+N : Quân đội	1
+N : Sông	1
+N : Thuyền	1
+N : Tháng	1
+N : Tiếng	1
+N : Tài liệu	1
+N : Tư liệu	1
+N : Vầng	1
+N : biển	13
+N : buổi	1
+N : bà	1
+N : bà con	1
+N : bàn tay	1
+N : bãi	1
+N : bằng lăng	1
+N : bến	1
+N : bọ	1
+N : bờ	1
+N : chiến sĩ	1
+N : chiến tranh	4
+N : chiến trường	1
+N : chiều	1
+N : chuyến	2
+N : chài	1
+N : chân	2
+N : chỉ	1
+N : chỉ thị	1
+N : chứng cứ	2
+N : chữ	1
+N : con người	4
+N : con số	2
+N : cuối	1
+N : cuộc	2
+N : cuộc sống	2
+N : cách	1
+N : cát	2
+N : câu chuyện	1
+N : cây	2
+N : cõi	1
+N : cơ	1
+N : cồn	1
+N : cổ thụ	1
+N : cụ	2
+N : cụ già	1
+N : cửa	2
+N : cửa biển	1
+N : cửa sông	1
+N : di chứng	1
+N : dáng	1
+N : dáng vẻ	1
+N : dân tộc	1
+N : dãy	1
+N : dấu vết	4
+N : gió	2
+N : giấy	2
+N : giờ	1
+N : giữa	1
+N : hiện nay	1
+N : hoa	1
+N : huynh đệ	1
+N : huyền thoại	2
+N : hàng	1
+N : hành trình	1
+N : hôm nay	6
+N : hải quân	1
+N : hồi	1
+N : kho	1
+N : kháng chiến	1
+N : khổ	1
+N : kia	1
+N : kinh nghiệm	1
+N : kênh rạch	1
+N : ký ức	1
+N : kỳ	1
+N : kỷ niệm	1
+N : lính thủy	1
+N : lúc	2
+N : lịch sử	1
+N : lớp	1
+N : lời	1
+N : miền	5
+N : máu	1
+N : máu mủ	1
+N : mũi	1
+N : mắt	1
+N : mặt	1
+N : mặt nước	2
+N : mặt đất	1
+N : mẹ	1
+N : mốc	2
+N : một chút	1
+N : mực	1
+N : nghịch lý	1
+N : ngày	1
+N : ngày xưa	1
+N : ngày đêm	1
+N : người	4
+N : nhiệm vụ	2
+N : nhà	1
+N : nhà tư tưởng	1
+N : nhà văn	1
+N : nét	1
+N : năm	6
+N : năm tháng	1
+N : nước	1
+N : nước mắt	1
+N : nước mặn	1
+N : phi lao	3
+N : phà	1
+N : phó	1
+N : phần	2
+N : quân	1
+N : rạch	1
+N : rừng	1
+N : sách	1
+N : sóng gió	1
+N : sông	8
+N : súng	2
+N : súng đạn	1
+N : sấu	1
+N : sắt	1
+N : số	2
+N : sợi	1
+N : sự	3
+N : sự tích	1
+N : tay	2
+N : thiên	1
+N : thuyền	2
+N : thành	1
+N : tháng	4
+N : tháng chạp	1
+N : thân	1
+N : thời	6
+N : thời gian	3
+N : thủy thủ	2
+N : tiếng	2
+N : tiểu đoàn	2
+N : trang	3
+N : truyền thuyết	1
+N : trái đất	1
+N : trán	1
+N : trước mắt	1
+N : tài liệu	1
+N : tàu	2
+N : tên	2
+N : tên tuổi	1
+N : tóc	1
+N : tập	2
+N : tập đoàn	2
+N : tết	1
+N : tổng tham mưu	1
+N : tử địa	1
+N : ven	1
+N : vàm	1
+N : vũ khí	3
+N : vỏ	1
+N : xe cộ	1
+N : xác	1
+N : xóm làng	2
+N : ý chí	1
+N : Đường	1
+N : Đường mòn	1
+N : điều	1
+N : điểm	1
+N : đèo	2
+N : đêm	2
+N : đông	1
+N : đơn vị	1
+N : đường	19
+N : đường mòn	2
+N : đất nước	2
+N : đầu	1
+N : đồng chí	4
+N : độc lập	1
+N : đội	1
+NP : *E*	17
+Nc : Anh	1
+Nc : Con	3
+Nc : chiếc	1
+Nc : chuyến	1
+Nc : con	17
+Nc : cuộc	2
+Nc : cái	8
+Nc : cây	2
+Nc : căn	1
+Nc : người	4
+Nc : Ông	1
+Np : Bác	1
+Np : Bác Hồ	1
+Np : Bẩm	1
+Np : Bắc	4
+Np : Bến Tre	1
+Np : Chợ Được	1
+Np : Cà Mau	1
+Np : Gianh	5
+Np : Hoàng Hoa Thám	1
+Np : Hà Nội	2
+Np : Hà Văn Xá	1
+Np : Hướng Điền	1
+Np : Hải Vân	2
+Np : Hồ Chí Minh	1
+Np : Lưu Đức	1
+Np : Mỹ	2
+Np : Nam	14
+Np : Nam bộ	1
+Np : Nguyên Ngọc	1
+Np : Nguyễn	1
+Np : Nguyễn Chơn	1
+Np : Phan Đình Phùng	2
+Np : Pháp	1
+Np : Quảng Nam	1
+Np : Trà Bồng	1
+Np : Trường Sơn	3
+Np : Trịnh	1
+Np : VN	1
+Np : Võ Bẩm	2
+Np : Vĩnh Trinh	1
+Np : Đông	6
+P : Ai	1
+P : Chúng	1
+P : Chúng ta	3
+P : Chúng tôi	1
+P : Cả	1
+P : Cặp	1
+P : Họ	1
+P : Ta	3
+P : Tôi	1
+P : ai	5
+P : bao nhiêu	1
+P : chúng ta	5
+P : chúng tôi	2
+P : cả	2
+P : gì	2
+P : họ	1
+P : kia	1
+P : mình	1
+P : nhau	1
+P : nào	2
+P : này	8
+P : nó	3
+P : ta	5
+P : thế	1
+P : tôi	1
+P : tất cả	2
+P : vậy	2
+P : ông	1
+P : Đây	1
+P : Đó	2
+P : đâu	1
+P : đâu đó	2
+P : đây	2
+P : đó	6
+P : đấy	1
+P : ấy	10
+R : Chỉ	1
+R : Còn	1
+R : Hàng	1
+R : Không	3
+R : Mãi mãi	1
+R : Rất	1
+R : chưa	2
+R : chẳng	3
+R : chỉ	2
+R : còn	4
+R : cũng	8
+R : hoàn toàn	1
+R : hàng	3
+R : hơn	3
+R : hầu như	1
+R : hẳn	1
+R : khá	2
+R : không	13
+R : không thể	1
+R : lên	1
+R : lại	11
+R : mãi mãi	3
+R : nào	1
+R : quá	1
+R : quả thật	1
+R : ra	2
+R : rất	1
+R : rồi	1
+R : sẽ	1
+R : từng	5
+R : vào	1
+R : vẫn	2
+R : vốn	1
+R : vừa mới	1
+R : đang	6
+R : đi	1
+R : đã	17
+R : được	5
+RBKT : RBKT	1
+T : Ngay	1
+T : cho	1
+T : chính	2
+T : cả	3
+T : thật	1
+T : tận	1
+T : đến	1
+T : ư	1
+V : *E*	1
+V : Bắt đầu	1
+V : Chấp hành	1
+V : Còn	2
+V : Có	2
+V : Cố	1
+V : Gọi	1
+V : Là	1
+V : Lần	1
+V : Nghe	1
+V : Phải	1
+V : Tức là	1
+V : Xác minh	1
+V : biết	4
+V : biết ơn	1
+V : bán	1
+V : bí mật	2
+V : bảo	1
+V : bảo mật	1
+V : bấu víu	1
+V : bắt đầu	5
+V : bị	1
+V : bổ sung	1
+V : chen	1
+V : chia cắt	1
+V : chuyên	1
+V : cháy	1
+V : chìm	3
+V : chắc	2
+V : chỉ huy	1
+V : chống	2
+V : chờ	1
+V : chở	1
+V : còn	8
+V : có	13
+V : cố	1
+V : dậy	3
+V : ghi	1
+V : giao	1
+V : giành	1
+V : giả danh	1
+V : giữ	1
+V : gặp	2
+V : gỉ	1
+V : gọi	8
+V : hi sinh	3
+V : hiểu	1
+V : hát	2
+V : hết	2
+V : hề	1
+V : in roneo	1
+V : khắc nghiệt	1
+V : khởi nghĩa	1
+V : kéo dài	1
+V : kể	1
+V : la cà	1
+V : lo	1
+V : là	12
+V : làm	1
+V : lên đường	1
+V : lưu trữ	1
+V : lấy	1
+V : lần	5
+V : muốn	2
+V : mân mê	1
+V : mạo hiểm	1
+V : mất tích	2
+V : mở	2
+V : mở đường	1
+V : nghe	3
+V : ngồi	1
+V : nhằm	1
+V : nhớ	2
+V : nói	8
+V : nắm	1
+V : nằm	1
+V : nối	2
+V : nở	1
+V : phai mờ	1
+V : phác thảo	1
+V : phân tranh	1
+V : phải	3
+V : qua đời	1
+V : quyết	1
+V : quyết định	1
+V : quên	1
+V : ra	2
+V : ra đời	1
+V : sống còn	1
+V : sửa chữa	1
+V : tan	1
+V : tan tầm	1
+V : thành	2
+V : thành lập	1
+V : thí nghiệm	1
+V : thất lạc	1
+V : thấy	3
+V : trìu mến	1
+V : trải	1
+V : tìm	9
+V : tìm kiếm	1
+V : tản mác	1
+V : tắc	1
+V : tổ chức	1
+V : từ biệt	1
+V : từ giã	1
+V : tử chiến	1
+V : viết	1
+V : viết tay	1
+V : vào	2
+V : vùi	1
+V : vận chuyển	2
+V : xuyên	2
+V : xuất phát	1
+V : xóa	1
+V : xấu	1
+V : xẻ	4
+V : Đi	1
+V : đi	10
+V : đua chen	1
+V : đành	1
+V : đánh	1
+V : đánh cá	2
+V : đánh thức	1
+V : đòi	1
+V : đón	2
+V : đóng	2
+V : đưa	2
+V : được	4
+V : đặt	1
+V : đếm	1
+V : để	2
+V : đối mặt	1
+V : đốt	1
+V : đứng	2
+V : đứt	1
+V : ẩn danh	1
+X : Với lại	1
+X : may mà	1
+X : ngày càng	2

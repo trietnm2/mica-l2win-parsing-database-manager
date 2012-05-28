@@ -1,0 +1,1254 @@
+<s>
+(S-TTL(S(NP-SUB(N-H Áo)(A trắng))
+(VP(V-H xuống đường)))
+(LBKT LBKT)
+(NP(N-H kỳ)(M 2))
+(RBKT RBKT)
+(: :)
+(VP(V-H Giành)(R lấy)
+(NP-DOB(N-H ngọn)(N cờ)
+(VP(V-H đại diện))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Cuộc)(V đấu tranh)
+(VP(V-H giành)(V lấy)
+(NP-DOB(N-H Tổng hội)(Ny SV))))
+(VP(V-H diễn)(R ra)
+(AP(A-H quyết liệt)(C và)(A-H lâu dài)))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Ban chấp hành)(N tổng hội))
+(VP(V-H được)
+(SBAR(S(NP-SUB *E*)
+                  (VP(V-H bầu)(R ra)
+                              (PP(E-H từ)
+                                     (NP(N-H hội đồng)(V đại diện)(Ny SV)
+                                                 (VP(V-H được)
+(SBAR(S(NP-SUB *E*)
+(VP(V-H cử)
+(PP-LOC(E-H từ)
+(NP(L các)(N-H trường)))))))))))))
+(. .))
+
+</s>
+<s>
+(S(P Vậy)
+(VP-SUB(V-H muốn)
+(VP(V-H giành)(R được)
+(NP-DOB(N-H tổng hội))))
+(VP(V-H phải)
+       (VP(V-H nắm)(R lấy)
+                (NP-DOB(N-H ban)(V đại diện)
+                           (NP(L các)(N-H trường)))))
+(. .))
+
+
+</s>
+<s>
+(S-TTL(NP(N-H Khu)
+(NP(" ")(N-H tam giác)(N sắt)(" ")
+(PP(E-H của)
+(NP(N-H phong trào)
+(NP(Ny-H SVHS )(Np Sài Gòn))))))
+(. .))
+
+
+</s>
+<s>
+(S(S(NP-SUB(N-H Thành đoàn)(Np Sài Gòn)
+(- -)
+(NP(Np-H Gia Định)))
+(VP(R đã)(V-H gầy dựng)(R được)
+(NP-DOB(A nhiều)(N-H cơ sở))))
+(, ,)
+(S(PP-SUB(E-H trong)
+(NP(M 14)(N-H trường)
+(NP(N-H lúc)(P đó))))
+(VP(R đã)(" ")(V-H lồng)(N khung)(" ")(R được)
+(PP(E-H vào)
+(NP(L các)(N-H ban)(V đại diện)
+(NP(N-H Trường)
+(NP(Np-H Khoa học)(, ,)(Np-H Sư phạm)(, ,)(Np-H Văn khoa)(, ,)(Np-H Nông lâm súc)(, ,)(Np-H Y khoa)))))))
+(... ...))
+
+</s>
+<s>
+(S(XP(X-H Mặt khác))
+(, ,)
+(PP-MNR(E-H bằng)
+(NP(N-H việc)
+(VP(V-H tổ chức)
+(NP-DOB(NP(L các)(N-H nhóm)(N báo chí))
+(, ,)
+(NP(N-H văn nghệ))
+(, ,)
+(NP(N-H công tác)(N xã hội))))))
+(, ,)
+(NP-SUB(P-H ta))
+(VP(VP(R đã)(V-H thu hút)
+                   (NP-DOB(N-H lực lượng)))
+        (C và)
+       (VP(V-H khơi)(V dậy)
+                     (NP-DOB(A nhiều)(N-H phong trào))
+                     (PP-LOC(E-H ở)
+                            (NP(L một số)(N-H trường)))))
+(. .))
+
+</s>
+<s>
+(S(NP-TMP(N-H Ngày)(M 30)(- -)(M 4)(- -)(M 1967))
+(, ,)
+(PP-LOC-SUB(E-H tại)
+(NP(N-H số)(M 4)
+(NP(Np-H Duy Tân))))
+(VP(V-H diễn)(R ra)
+         (NP(N-H cuộc)(V bầu cử)
+                   (AP(A-H lịch sử))
+                   (PP(E-H giữa)
+                             (NP(M hai)(N-H liên danh)
+                             (C là)
+                                  (NP(Np-H Hồ Hữu Nhựt)(C và)(Np-H Lê Hồng Khanh))))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Kết quả))
+(C là)
+(S-PRD(NP-SUB(Nc-H anh)(Np Nhựt))
+                (VP(R đã)(V-H trở thành)
+                           (NP-DOB(N-H chủ tịch)
+                                     (NP(N-H tổng hội))
+                                     (PP(E-H với)
+                                                (NP(M 2 / 3)(N-H số)(N phiếu))))))
+(, ,)
+(VP(V-H làm)
+(VP(V-H thất bại)
+(NP-DOB(L mọi)(N-H thủ đoạn)
+(VP(V-H mua)(N phiếu))
+(AP(A-H tráo trở))
+(PP(E-H của)
+(NP(Nc-H bọn)(N phản động))))))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(N-H Ban chấp hành)(A mới))
+(VP(V-H ra mắt)
+(NP-TMP(N-H ngày)(M 14)(- -)(M 5)(- -)(M 1967)))
+(, ,)
+(VP(V-H biến)
+(NP-DOB(N-H trụ sở)
+(NP(N-H số)(M 4)
+(NP(Np-H Duy Tân))))
+(VP(V-H thành)
+(NP-DOB(N-H nơi)(V hội thảo)(, ,)(V hội nghị)(, ,)(V họp báo)(, ,)(V triển lãm)(... ...)
+(AP(R rất)(A-H sôi nổi)))))
+(. .))
+
+</s>
+<s>
+(S(NP-TMP-SUB(N-H Tháng)(M 9)(- -)(M 1967))
+(, ,)
+(VP(V-H bùng)(R lên)
+(NP-DOB(N-H cuộc)(V đấu tranh)
+(AP(A-H rầm rộ))
+(PP(E-H của)
+(NP(N-H SV)))
+(VP(VP(V-H chống)
+(NP-DOB(N-H trò)
+(VP(V-H bầu cử)
+(NP-DOB(N-H tổng thống)))))
+(C và)
+(VP(V-H chống)
+(NP-DOB(N-H kết quả)
+(VP(V-H bầu cử)(A gian lận)))))))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(N-H Phong trào)(Ny SV))
+(VP(R được)(V-H tập hợp)
+         (AP-MNR(A-H rộng rãi)(R hơn))
+         (PP(E-H với)
+                   (NP(N-H Đại hội)(Ny SV)
+                              (NP(S liên)(N-H viện))
+                              (NP(N-H kỳ)(M 1))
+                                      (LBKT LBKT)
+                               (NP(L các)(N-H viện)(N đại học)
+                                           (NP(Np-H Sài Gòn)(, ,)(Np-H Đà Lạt)(, ,)(Np-H Cần Thơ)(, ,)(Np-H Vạn Hạnh)))
+                                       (RBKT RBKT)
+                                       (, ,)
+                               (PP-LOC(E-H tại)
+                                         (NP(N-H số)(M 4)
+                                                       (NP(Np-H Duy Tân))))
+                                  (, ,)
+                                  (VP(V-H họp)
+                                                (NP-TMP(N-H ngày)(M 27)(- -)(M 9)(- -)(M 1967))
+                                                 (PP-MNR(E-H trong)
+                                                             (NP(N-H vòng vây)
+                                                                     (PP(E-H của)
+                                                                                   (NP(N-H cảnh sát))))))
+                                     (, ,)
+                                     (VP(V-H ra)(V tuyên bố)
+                                                   (VP(V-H đòi)
+                                                                 (VP(V-H hủy bỏ)
+                                                                            (NP-DOB(N-H kết quả)
+                                                                                                        (VP(V-H bầu cử)(N tổng thống))))))
+                                      (C và)
+                                        (VP(V-H yêu cầu)
+                                                          (NP-DOB(Np-H Mỹ))
+                                                           (VP-IOB(R không)(V-H được)
+                                                                    (VP(V-H can thiệp)
+                                                                                     (PP-LOC(E-H vào)
+                                                                                                         (NP(N-H nội bộ)(Np VN)))))))))
+(. .))
+
+</s>
+<s>
+(S(PP-TMP(E-H Sau)
+(NP(P-H đó)))
+(, ,)
+(NP-SUB(L những)(N-H người)
+(VP(V-H dự)
+(NP-DOB(N-H đại hội))))
+(AP-PRD(A-H cùng)
+         (NP-DOB(N-H lực lượng)(Ny SV))
+         (VP-IOB(V-H phá)
+                  (NP-DOB(N-H vòng vây)(N cảnh sát)))
+        (VP-IOB(V-H tiến)(R xuống)
+                           (NP-LOC(N-H trụ sở)(N Hạ nghị viện)))
+          (VP-IOB(V-H đốt)
+                      (NP-DOB(N-H thùng)(N phiếu)
+                                           (VP(V-H tượng trưng))))
+(, ,)
+(VP-IOB(V-H họp báo))
+(C và)
+(VP-IOB(V-H ra)(V tuyên cáo)))
+(. .))
+
+</s>
+<s>
+(S(NP-TMP(N-H Ngày)(M 5)(- -)(M 2)(- -)(M 1969))
+(, ,)
+(NP-SUB(Np-H Nguyễn Văn Thiệu))
+(VP(V-H tuyên bố)
+        (VP(V-H đặt)
+                 (PP-LOC(E-H ngoài)
+                          (NP(N-H vòng)(N pháp luật)))
+                   (NP-DOB(L những)(N-H người)
+                                (VP(V-H đòi)
+                                            (NP(N-H hòa bình))
+                                             (, ,)
+                                             (NP(N-H trung lập)))))
+       (C và)
+       (VP(V-H truy bắt)
+                   (NP-DOB(L những)(N-H người)
+                                (VP(V-H công khai)
+                                          (NP-DOB(N-H lãnh đạo)(N phong trào))))))
+(. .))
+
+</s>
+<s>
+(S(S(NP-SUB(Nc-H chị)(Np Trần Thị Ngọc Hảo)
+(, ,)
+(NP(N-H quyền)(N chủ tịch)
+(NP(N-H Tổng hội)(Np SV)
+(NP(Np-H Sài Gòn)))))
+(, ,)
+(VP(V-H phải)
+(VP(V-H rút)(R vào)
+(NP-LOC(N-H bí mật)))))
+(C và)
+(S(NP-SUB(N-H tổng hội))
+(AP-MNR(A-H tạm thời))
+(VP(R chưa)(V-H có)(N ban chấp hành)))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(N-H Cơ sở)(N Thành đoàn))
+(VP(V-H vận động)
+(NP-DOB(Nc-H anh)(Np Nguyễn Văn Quỳ)
+(, ,)
+(NP(N-H chủ tịch)
+(NP(N-H ban)(V đại diện)
+(NP(N-H Trường)(Np Nông lâm súc)))))
+(, ,)
+(VP-IOB(V-H nhận)
+        (NP(N-H nhiệm vụ)
+                  (NP(N-H chủ tịch)
+                            (NP(N-H hội đồng)(V đại diện)(Ny SV))))))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(N-H Sức mạnh)
+(PP(E-H của)
+(NP(N-H phong trào))))
+(PP-TMP(E-H sau)
+(NP(P-H đó)))
+(VP(R đã)(V-H biến)
+(NP-DOB(P toàn thể)(Nc-H ngôi)(N trường)
+(NP(N-H Nông lâm súc)))
+(VP-IOB(VP(V-H thành)
+(NP-DOB(N-H trụ sở)(N tổng hội)))
+(, ,)
+(AP-ADV(A-H cùng)
+       (PP(E-H với)
+             (NP(L các)(N-H trường)
+                        (NP(Np-H Dược))
+                        (, ,)
+                         (NP(Np-H Văn khoa)))))
+(VP(V-H thành)
+(NP-DOB(N-H khu)(" ")(N-H tam giác)(N sắt)(" ")
+(PP(E-H của)
+(NP(N-H phong trào)(Ny SVHS)
+(NP(Np-H Sài Gòn))
+(NP(L những)(N-H năm)(A sau)(P đó))))))))
+(. .))
+
+</s>
+<s>
+(S(S(PP-TMP(E-H Sau)
+(NP(M một)(N-H thời gian)
+(VP(V-H tranh thủ)
+(VP(V-H vận động)(A tích cực)))))
+(, ,)
+(NP-SUB(N-H cuộc)(V bầu cử)
+(NP(N-H ban chấp hành)
+(NP(N-H nhiệm kỳ)
+(QP(M-H 1969)(- -)(M-H 1970)))
+(PP(E-H của)
+(NP(N-H tổng hội)))))
+(VP(V-H được)
+      (SBAR(S(NP-SUB *E*)
+                        (VP(V-H tiến hành))))))
+(C và)
+(S(NP-SUB(N-H lễ)(V ra mắt))
+(VP(V-H được)
+(SBAR(S(NP-SUB *E*)
+                    (VP(V-H tổ chức)
+                               (NP-TMP(N-H ngày)(M 2)(- -)(M 8)(- -)(M 1969))
+(PP-LOC(E-H tại)
+(NP(N-H giảng đường)(A chính)
+(NP(N-H Trường)(Np Nông lâm súc)))))))))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(NP(A Hơn)(M 300)(Ny-H SV))
+(C và)
+(NP(" ")(N-H quan khách)(" ")))
+(VP(V-H được)
+(SBAR(S(NP-SUB *E*)
+                   (VP(V-H mời)(R đến)
+(VP-PRP(V-H dự)(N lễ))))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(Nc-H Ông)(Np Trần Văn Tấn)
+(, ,)
+(NP(N-H phó viện trưởng)
+(NP(N-H Viện)(N đại học)
+(NP(Np-H Sài Gòn)))))
+(, ,)
+(VP(V-H ký)
+(NP-DOB(N-H giấy)
+(VP(V-H chứng nhận)
+(NP-DOB(N-H Tổng hội)(Ny SV)))))
+(. .))
+
+</s>
+<s>
+(S(PP(E-H Trong)
+(NP(N-H ban chấp hành)
+(VP(V-H gồm)
+(NP-DOB(M bảy)(N-H người)))))
+(, ,)
+(NP-SUB(N-H Thành đoàn))
+(VP(V-H có)(M bốn)
+(: :)
+(NP(N-H chủ tịch)(Np Nguyễn Văn Quỳ)
+(LBKT LBKT)
+(NP(Np-H Nông lâm súc))
+(RBKT RBKT))
+(, ,)
+(NP(N-H phó chủ tịch)
+(NP(N-H nội vụ)
+(NP(Np-H Huỳnh Tấn Mẫm)
+(LBKT LBKT)
+(NP(N-H Y khoa))
+(RBKT RBKT))))
+(, ,)
+(NP(N-H phó tổng thư ký)(Np Nguyễn Hoàng Trúc)
+(LBKT LBKT)
+(NP(N-H Nông lâm súc))
+(RBKT RBKT))
+(C và)
+(NP(N-H thủ quĩ)(Np Nguyễn Thị Yến)
+(LBKT LBKT)
+(NP(Np-H Văn khoa))
+(RBKT RBKT)))
+(. .))
+
+</s>
+<s>
+(S(NP-TMP(N-H Khi)
+(SBAR(S(NP-SUB(Nc-H anh)(Np Quỳ))
+(VP(V-H tốt nghiệp)
+(VP(V-H ra)(N trường))))))
+(, ,)
+(NP-SUB(Nc-H anh)(Np Huỳnh Tấn Mẫm))
+(VP(V-H được)
+(SBAR(S(NP-SUB *E*)
+                  (VP(V-H cử)
+(VP(V-H làm)
+(NP-DOB(V quyền)(N-H chủ tịch)))))))
+(. .))
+
+</s>
+<s>
+(S-TTL(NP(L Những)(N-H trận)(V đánh)
+(PP(E-H của)
+(NP(Ny-H SVHS))))
+(. .))
+
+
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Ban chấp hành)(A mới))
+(VP(VP(V-H lãnh đạo)
+(NP-DOB(Ny-H SV))
+(VP-IOB(V-H chống)
+(VP(V-H quân sự hóa)
+(NP-DOB(N-H học đường)))))
+(, ,)
+(VP(V-H tổ chức)
+(NP-DOB(L những)(N-H đêm)
+(VP(" ")(V-H đốt)
+(NP-DOB(N-H giường)(N-H chiếu))
+(" "))))
+(C và)
+(VP(V-H ca hát)(A ầm ĩ)
+(PP-LOC(E-H ở)
+(NP(N-H quân trường)))))
+(. .))
+
+</s>
+<s>
+(S(PP-TMP(E-H Đến)
+(NP(N-H Noel)(M 1969)))
+(, ,)
+(PP-LOC(E-H tại)
+(NP(Np-H Nông lâm súc)))
+(VP(V-H có)
+(NP-DOB(N-H đêm)(N văn nghệ)
+(VP(" ")(V-H Hát)
+(SBAR-PRP(E-H cho)
+(S(NP-SUB(N-H đồng bào)(P tôi))
+     (VP-DOB(V-H nghe))))
+(" "))))
+(, ,)
+(VP(V-H có)
+(NP(N-H triển lãm)
+(NP(N-H tranh)(N dân tộc))))
+(, ,)
+(VP(V-H khơi)(V dậy)
+(NP-DOB(N-H lòng)
+(VP(V-H yêu)(N nước))
+(C và)
+(VP(V-H căm thù)(N giặc))))
+(. .))
+
+</s>
+<s>
+(S(VP-ADV(V-H Hoảng sợ)
+(PP(E-H trước)
+(NP(N-H phong trào))))
+(, ,)
+(NP-TMP(N-H tháng)(M 3)(- -)(M 1970))
+(NP-SUB(Np-H Mỹ)(- -)(Np-H Thiệu))
+(VP(V-H cho)(V-H bắt)
+(NP-DOB(NP(Np-H Huỳnh Tấn Mẫm))
+(C và)
+(NP(M 38)(Ny-H SV)(A chủ chốt)
+(PP(E-H của)
+(NP(L các)(N-H trường))))))
+(. .))
+
+</s>
+<s>
+(S(NP-TMP(N-H Ngày)(M 10)(- -)(M 3)(- -)(M 1970))
+(, ,)
+(NP-SUB(N-H học sinh)(Np Cao Thắng))
+(VP(V-H tổ chức)
+(NP(N-H cuộc)(N bãi khóa)
+(AP(A-H đầu tiên))
+(PP(E-H của)
+(NP(N-H phong trào)
+(NP(N-H năm)(M 1970))))))
+(. .))
+
+
+</s>
+<s>
+(S(VP-SUB(V-H Giao tranh)(A dữ dội)
+               (PP(E-H bằng)
+                         (NP(N-H sắt)(N-H thép))
+                         (, ,)
+                         (NP(N-H bom xăng)))
+                (VP(V-H diễn)(R ra)
+                         (PP(E-H giữa)
+                                   (NP(N-H học sinh)(Np Cao Thắng))
+                                   (C và)
+                                   (NP(N-H cảnh sát)(A dã chiến)))))
+(VP(V-H kéo dài)
+        (PP-TMP(E-H đến)
+                 (NP(N-H trưa))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Báo chí)(Np Sài Gòn))
+(VP(R đều)(V-H đưa)(N tin)
+(NP-LOC(N-H trang)(A nhất)))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(M Một)(N-H cao trào)(A mới))
+(VP(VP(R đã)(V-H nổ)(R ra)
+(PP(E-H với)
+(NP(L những)(N-H cuộc)(V đấu tranh)(A liên tiếp)
+(: :)
+(VP(V-H họp báo)(, ,)(V-H công bố)
+(NP(N-H tổng)(V bãi khóa)
+(VP(S vô)(V-H hạn định))
+(C và)
+(AP(A-H toàn diện))))
+(, ,)
+(VP(V-H sẵn sàng)
+(AP(A-H tuyệt thực))
+(C và)
+(VP(V-H tự thiêu))
+(PP-MNR(E-H với)
+(NP(N-H khẩu hiệu)
+(VP(" ")(V-H Chống)
+(VP(V-H đàn áp)(A vô cớ)
+(NP-DOB(Ny-H SVHS)))
+(" ")))))
+(, ,)
+(VP(V-H đòi)(V trình diện)
+(NP-DOB(L những)(Ny-H SV)
+(VP(V-H bị)
+(SBAR(S(NP-SUB *E*)
+(VP(V-H tra tấn)(A dã man)
+(PP(E-H trước)
+(NP(N-H công chúng))))))))))))
+(... ...)
+(VP(R đã)(V-H tạo)
+(NP-DOB(M một)(N-H dư luận)(N quần chúng)
+(AP(A-H rộng rãi))
+(VP(V-H chống)
+(NP-DOB(Np-H Mỹ)(- -)(Np-H Thiệu))
+(VP(V-H đàn áp)(Ny SV))))))
+(. .))
+</s>
+<s>
+(S(PP-PRP(E-H Để)
+(VP(V-H tập hợp)
+(NP-DOB(N-H lực lượng)
+(NP(N-H học sinh)(N trung học)))))
+(, ,)
+(NP-TMP(N-H tháng)(M 4)(- -)(M 1970))
+(, ,)
+(NP-SUB(N-H ban)(V đại diện)
+(NP(M 24)(N-H trường)(N trung học)(Np Sài Gòn)))
+(VP(VP(R đã)(V-H họp)
+              (PP-LOC(E-H tại)
+                  (NP(N-H Đại học)(N Văn khoa)))
+              (PP-PRP(E-H để)
+                   (VP(V-H thành lập)
+                              (NP-DOB(N-H Tổng đoàn)
+                                            (NP(N-H Học sinh)(Np Sài Gòn))))))
+(C và)
+(VP(V-H đề cử)
+                     (NP-DOB(N-H ban chấp hành)(A lâm thời)
+                                 (SBAR(E-H do)(S(NP-SUB(Np-H Lê Văn Nuôi)
+                                                                             (LBKT LBKT)
+                                                                    (NP(N-H đại diện)
+                                                                              (NP(N-H học sinh)(Np Cao Thắng)))
+                                                                        (RBKT RBKT))
+                                                                      (VP(V-H làm)
+                                                                                 (NP-DOB(N-H chủ tịch))))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H Lễ)(V ra mắt)
+(AP(A-H chính thức)))
+(VP(VP(V-H được)
+(SBAR-DOB(S(NP-SUB *E*)
+                              (VP(V-H tổ chức)
+                                        (PP-TMP(E-H vào)
+                                                     (NP(N-H tháng)(M 5)(- -)(M 1970)))
+                                        (PP(E-H trong)
+                                                      (NP(M một)(N-H đại hội)
+                                                                     (NP(A gần)(M 1 . 000)(N-H đại biểu)
+                                                                                    (NP(N-H học sinh)
+                                                                                                 (NP(L các)(N-H trường))))))))))
+(, ,)
+(VP(V-H diễn)(R ra)
+(PP-LOC(T ngay)(E-H trên)
+(NP(N-H đoạn)(N đường)
+(NP(Np-H Huỳnh Thúc Kháng))
+(, ,)
+(PP(E-H trước)
+(NP(N-H cổng)
+(NP(N-H Trường)(Np Cao Thắng))))))
+(PP-MNR(E-H trong)
+(NP(N-H vòng vây)
+(NP(N-H kẽm gai))
+(C và)
+(NP(N-H khói)
+(NP(N-H đạn)(A cay))
+(AP(A-H mịt mù))
+(PP(E-H của)
+(NP(N-H cảnh sát)(V dã chiến))))))))
+(. .))
+</s>
+<s>
+(S(NP-TMP(N-H Ngày)(M 1)(- -)(M 5)(- -)(M 1970))
+(, ,)
+(NP-SUB(N-H Đại hội)(Ny SVHS)
+        (NP(R toàn)(N-H miền)(Np Nam)))
+(VP(V-H khai mạc)
+       (PP(E-H với)
+                (NP(N-H con số)(A kỷ lục)
+                         (PP(E-H về)
+                                 (NP(N-H đại biểu)(V tham dự)
+         (: :)
+          (NP(M 5 . 000)(N-H người))))))
+        (, ,)
+         (VP-PRP(V-H biểu dương)
+                       (NP-DOB(N-H sức mạnh)
+                                    (PP(E-H của)
+                                                  (NP(T cả)(Ny-H SV)(C và)(Ny-H HS)
+                                                           (VP(V-H chống)
+                                                                    (NP-DOB(Np-H Mỹ)(- -)(Np-H Thiệu))))))))
+(. .))
+</s>
+<s>
+(S(NP-TMP(N-H Ngày)(M 13)(- -)(M 6)(- -)(M 1970))
+(, ,)
+(PP-PRP(E-H do)
+(NP(N-H áp lực)
+(PP(E-H của)
+(NP(N-H phong trào)))))
+(, ,)
+(NP-SUB(Np-H Mỹ)(- -)(Np-H Thiệu))
+(VP(VP(V-H phải)
+(VP(V-H thả)
+(NP-DOB(Np-H Huỳnh Tấn Mẫm)(C và)(N-H đồng đội))))
+(, ,)
+(C đồng thời)
+(VP(V-H giao)
+(NP-DOB(N-H biệt thự)
+(NP(N-H số)(M 207)
+(NP(Np-H Hồng Bàng)
+(, ,)
+(NP(N-H quận)(M 5)))))
+(VP-PRP(V-H làm)
+(NP-DOB(N-H trụ sở)(N tổng hội)))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(Ny-H SV)(Np Mỹ))
+(VP(V-H xuống đường)
+(VP-PRP(V-H chống)
+(NP-DOB(Np-H Mỹ)))
+(PP-LOC(E-H tại)
+(NP(Np-H Sài Gòn))))
+(. .))
+</s>
+<s>
+(S(NP-TMP(N-H Khi)
+(VP(V-H biết)
+(SBAR(S(NP-SUB(Np-H Huỳnh Tấn Mẫm))
+(VP(V-H ra)(N tù))))))
+(, ,)
+(NP-SUB(N-H Tổng hội)(Ny SV)(Np Hoa Kỳ))
+(VP(R đã)(V-H gửi)
+         (NP-DOB(N-H điện))
+         (VP-PRP(V-H mời)
+(NP-DOB(N-H anh))
+(VP-IOB(V-H sang)
+(NP-DIR(Np-H Mỹ))
+(VP-PRP(V-H nói chuyện)))))
+(. .))
+</s>
+<s>
+(S(S(NP-SUB(A Nhiều)(N-H thư)(V mời)
+(PP(E-H của)
+(NP(L các)(N-H tổng hội)
+(NP(Np-H Úc)(, ,)(Np-H Nhật)(, ,)(Np-H New Zealand)))))
+(VP(R đã)(V-H gửi)(R tới)))
+(C và)
+(S(PP-TMP-SUB(E-H sau)
+(NP(N-H cùng)))
+(VP(V-H là)
+(NP-DOB(M một)(N-H kháng cáo)
+(PP(E-H của)
+(NP(M 76)(N-H tổ chức)
+(NP(N-H tổng hội)(Ny SV)))
+(C và)
+(NP(L các)(N-H tổ chức)(A từ thiện)
+(NP(A nhiều)(N-H nước))))
+(VP(R đã)(V-H được)
+(SBAR(S(NP-SUB *E*)
+(VP(V-H công bố)
+(PP(E-H trước)
+(NP(N-H chính quyền)(Np Sài Gòn)))))))
+(VP(V-H đòi)
+(VP(V-H chống)
+(VP(V-H đàn áp)
+(NP-DOB(Ny-H SVHS)))))
+(, ,)
+(VP(V-H mời)
+(NP-DOB(Np-H Huỳnh Tấn Mẫm))
+(VP-IOB(V-H đi)
+(VP(V-H nói chuyện)))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H Chính quyền)(Np Sài Gòn))
+(VP(VP(R không)(V-H dám)
+(VP-DOB(V-H cho)
+(NP-DOB(N-H anh))
+(VP-IOB(V-H xuất ngoại))))
+(C và)
+(VP(V-H tìm)(N cách)
+(VP-PRP(V-H đánh trống lảng))))
+(. .))
+</s>
+<s>
+(S(NP-TMP-SUB(M Một)(N-H buổi)(N sáng)
+(NP(N-H tháng)(M 7)(- -)(M 1970)))
+(, ,)
+(VP(V-H có)
+(NP-DOB(M một)(N-H thư)
+(VP(V-H gửi)
+(PP-LOC(E-H đến)
+(NP(N-H Tổng hội)(Ny SV ))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB *E*)
+(AP-PRD(T Thật)(A-H bất ngờ)
+(NP-TMP(N-H khi)
+(VP(V-H biết)
+(SBAR-DOB(S(NP-SUB(P-H đó))
+(VP(V-H là)
+(NP-DOB(N-H thư)
+(PP(E-H của)
+(NP(M bảy)(N-H SV)(Np Mỹ)(, ,)(Np Úc)(, ,)(Np New Zealand)(, ,)(Np Hà Lan)(, ,)(Np Bỉ)
+(SBAR(E-H do)(S(NP-SUB(N-H chủ tịch)
+(NP(N-H Tổng hội)(Ny SV)(Np Mỹ))
+(NP(Np-H Charles Palmer)))
+(VP(V-H dẫn đầu)))))))))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(P-H Họ))
+(VP(VP(V-H khéo léo)
+(VP(V-H đến)
+(NP-LOC(Np-H Sài Gòn))
+(PP-MNR(E-H bằng)
+(NP(Nc-H con)(N đường)(V du lịch)))))
+(, ,)
+(VP(R đang)(V-H ở)
+(NP-LOC(N-H khách sạn)(Np Continental)))
+(C và)
+(VP(R rất)(V-H cần)
+(VP-DOB(V-H gặp)
+         (NP-DOB(P-H ta)))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(M Một)(N-H cuộc)(V họp)(A kín)
+(PP(E-H giữa)
+(NP(L các)(N-H bạn)(Ny SV)
+(AP(A-H quốc tế)))
+(C và)
+(NP(N-H khoảng)
+(NP(M trăm)(N-H bạn)(A trẻ)
+(NP(Np-H VN))))))
+(VP(R đã)(V-H diễn)(R ra)
+(PP-LOC(E-H tại)
+(NP(N-H chùa)(Np Ấn Quang)))
+(PP(E-H do)
+(NP(N-H sự)(V hỗ trợ)
+(PP(E-H của)
+(NP(N-H thượng tọa)(Np Thích Thiện Hoa))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(Nc-H Anh)(Np Charles Palmer)
+(, ,)
+(NP(M 32)(Nu-H tuổi)))
+(, ,)
+(VP(V-H thông báo)
+(NP-DOB(N-H tình hình)
+(SBAR(S(NP-SUB(Ny-H SV)(Np Mỹ))
+                  (VP(V-H đấu tranh)
+                            (VP(V-H ủng hộ)
+                                        (NP-DOB(Ny-H SV)(Np VN)))
+(C như)
+(: :)
+(VP(V-H tiến công)
+         (NP-DOB(N-H tòa)(N đại sứ)
+                  (NP(N-H chính quyền)(Np Sài Gòn))
+                  (PP-LOC(E-H ở)
+                            (NP(Np-H Washington)))))
+(, ,)
+(VP(V-H xiềng)
+      (NP-DOB(N-H tay))
+      (PP-LOC(E-H vào)
+                (NP(N-H hàng rào)))
+      (PP-PRP(E-H để)
+               (VP(V-H đòi)
+                          (VP(V-H thả)
+                                    (NP-DOB(Np-H Huỳnh Tấn Mẫm))))
+                (C và)
+                 (VP(V-H chấm dứt)
+                           (VP(V-H đàn áp)
+                                      (NP-DOB(Ny-H SVHS))))))
+(, ,)
+(VP(V-H treo)
+(NP-DOB(N-H ảnh)
+(NP(Nc-H anh)(Np Mẫm))
+(VP(V-H phóng)(A to)))
+(PP-LOC(E-H trước)
+(NP(N-H ngực))))
+(C và)
+(VP(V-H giăng)
+(NP-DOB(N-H tay)(N nhau))
+(VP-PRP(V-H đi)(V biểu tình)
+(VP(V-H đòi)
+(VP(V-H chấm dứt)
+(NP-DOB(N-H chiến tranh)(Np VN)))))))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(Ny-H SV)
+(NP(Np-H Úc)(C và)(Np-H New Zealand)))
+(VP(R cũng)(R đã)(V-H có)
+(NP-DOB(A nhiều)(N-H hoạt động)
+(VP(V-H ủng hộ)
+(NP-DOB(Ny-H SV)(Np Sài Gòn)))))
+(. .))
+</s>
+<s>
+(S(NP-TMP(M Chín)(Nu-H giờ)
+(NP(N-H sáng)
+(NP(N-H thứ hai))
+(QP(M-H 11)(- -)(M 7)(- -)(M 1970))))
+(, ,)
+(PP-LOC(E-H từ)
+(NP(M ba)(N-H xe)(N taxi)
+(VP(V-H đỗ)
+(PP-LOC(E-H trước)
+(NP(N-H cổng)
+(NP(N-H Trường)(Np Nông lâm súc)))))))
+(, ,)
+(NP-SUB(M bảy)(Ny-H SV)(N nước ngoài))
+(VP(V-H đi)(A thẳng)
+(PP-DIR(E-H vào)
+(NP(N-H giảng đường)(A lớn)
+(VP(V-H trương)(A sẵn)
+(NP-DOB(Nc-H dòng)(N chữ)
+(AP(A-H đỏ))
+(: :)
+(NP(N-H Đại hội)(Ny SV)
+(NP(N-H thế giới))
+(NP(N-H kỳ)(M 1))))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H Bài)(V ca)
+(VP(V-H Dậy)
+(C mà)
+(VP(V-H đi))))
+(VP(V-H vang)(R lên)
+(NP-MNR(A bừng bừng)(N-H khí thế)))
+(. .))
+
+
+
+
+
+
+
+
+</s>
+<s>
+(S(NP-SUB(NP(L Các)(N-H bạn)(A quốc tế))
+(C cùng)
+(NP(Nc-H anh)(Np Huỳnh Tấn Mẫm))
+(, ,)
+(NP(Np-H Lê Văn Nuôi)))
+(VP(V-H ngồi)(V chủ tọa)
+(NP-DOB(N-H đoàn)))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H Bản)(V tuyên cáo)
+(PP(E-H của)
+(NP(N-H đại hội))))
+(VP(V-H đòi)
+(NP-DOB(Np-H Mỹ)(- -)(Np-H Thiệu))
+(VP-IOB(VP(V-H chấm dứt)
+(NP-DOB(N-H chiến tranh)))
+(, ,)
+(VP(V-H hòa hợp)
+(NP-DOB(N-H dân tộc)))
+(, ,)
+(VP(V-H chống)
+(VP(V-H đàn áp)
+(NP-DOB(Ny-H HS))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H SV)(Np Palmer))
+(VP(V-H phát biểu)
+(: :)
+(SBAR-DOB(S(" ")(NP-LOC-SUB(N-H Bên)
+(NP(N-H nước)(Np Mỹ)))
+(VP(R cũng)(R không)(V-H có)
+(NP-DOB(N-H hòa bình))
+(SBAR-PRP(E-H vì)(S(NP-SUB(N-H chính quyền)(V hiếu chiến))
+(VP(R vẫn)(R còn)(V-H đưa)
+(NP-DOB(N-H lính)(Np Mỹ))
+(R sang)
+(VP-PRP(V-H xâm lược)
+(NP-DOB(L các)(N-H nước)(A khác)))))))
+(" "))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H Anh))
+(VP(V-H kêu gọi)
+(NP-DOB(Ny-H SV)
+(NP(L các)(N-H nước)))
+(VP-IOB(V-H đoàn kết)(, ,)(V-H xây đắp)
+(NP-DOB(N-H tình)(A hữu nghị))))
+(. .))
+
+
+</s>
+<s>
+(S(S(NP-SUB(Np-H Palmer))
+(VP(V-H nắm)
+(NP-DOB(N-H tay)(Np Mẫm))
+(VP-PRP(V-H giơ)(A cao))))
+(, ,)
+(S(NP-SUB(N-H pháo)(N tay))
+(VP(V-H nổ)(A vang)
+(VP-PRP(V-H chào mừng)
+(NP-DOB(N-H tình)(V đoàn kết)))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H Cuộc)(V xuống đường))
+(VP(V-H bắt đầu))
+(. .))
+
+
+
+
+
+
+
+
+
+
+
+
+</s>
+<s>
+(S(NP-SUB(M Một)(N-H biểu tượng)
+(NP(N-H chim)(N bồ câu)(A trắng)
+(PP(E-H bằng)
+(NP(N-H tre)(N-H nan)))
+(NP(Ny-H VN))))
+(VP(VP(V-H dang)
+(NP-DOB(M đôi)(N-H cánh)(A lớn)))
+(VP(V-H dẫn đầu)
+(NP-DOB(N-H đoàn)(V biểu tình))))
+(. .))
+</s>
+<s>
+(S(VP(V-H Có)
+(NP-DOB(R hàng)(M trăm)(N-H cụ già)
+(VP(R đã)(V-H đến)
+(VP-PRP(A cùng)(V-H tham gia)(V xuống đường)
+(PP(E-H với)
+(NP(N-H con cháu)))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(Nc-H Bà)(N ngoại)
+(NP(Np-H Diệu Nhàn)))
+(VP(R đã)(V-H trao tặng)
+(NP-IOB(Np-H Palmer))
+(NP-DOB(M một)(Nc-H chiếc)(N quan tài)
+(AP(A-H đỏ))
+(VP(V-H có)
+(VP(V-H ghi)
+(NP-DOB(N-H câu thơ)(Np Tố Hữu)
+(: :)
+(SBAR(S(NP-SUB(N-H Căm hờn))
+(VP(R lại)(V-H giục)(N căm hờn)))))))))
+(. .))
+</s>
+<s>
+(S(S(NP-SUB(N-H Máu))
+(VP(V-H kêu)
+(VP(V-H trả)
+(NP-DOB(N-H máu)))))
+(, ,)
+(S(NP-SUB(N-H đầu))
+(VP(V-H van)
+(VP(V-H trả)
+(NP-DOB(N-H đầu)))))
+(. .))
+
+
+
+
+
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Bà))
+(VP(V-H nói)
+(: :)
+(SBAR-DOB(S(" ")(NP-SUB(P-H Đây))
+(VP(V-H là)
+(NP-DOB(N-H máu xương)
+(VP(V-H gây)(R ra)
+(PP-PRP(E-H bởi)
+(NP(N-H bom đạn)(Np Mỹ))))
+(SBAR(C mà)(S(NP-SUB(P-H chúng tôi))
+(VP(V-H muốn)
+(VP(V-H gửi)(V-H tặng)
+(PP-LOC(E-H tới)
+(NP(N-H tổng thống)(Np Mỹ)))))))))
+(" "))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(NP(M Một)(Ny-H SV)(Np Mỹ))
+(C cùng)
+(NP(M một)(Ny-H SV)(Np VN)))
+(VP(VP(V-H gánh)
+(NP-DOB(Nc-H chiếc)(N quan tài)
+(AP(A-H uy nghi))))
+(, ,)
+(VP(V-H bước)(V-H đi)(A vững chãi)))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H Đoàn)(N người))
+(AP-PRD(A-H đông đảo))
+(, ,)
+(NP-PRD(N-H tay)
+(VP(V-H đeo)
+(NP-DOB(N-H băng)(N tang)))
+(, ,)
+(VP(V-H trương)
+(NP-DOB(L các)(N-H biểu ngữ)
+(: :)
+(VP(VP(" ")(Vb-H Stop)(Nb war)(" "))
+(, ,)
+(VP(" ")(Ab-H Peace)(Nb now)(" "))
+(, ,)
+(VP(" ")(Vb-H Đả đảo)(Vb đàn áp)(" "))))))
+(... ...))
+</s>
+<s>
+(S(NP-SUB(N-H Trực thăng)(Np Mỹ))
+(VP(R vẫn)(R đang)(V-H quần đảo)
+(PP-LOC(E-H trên)
+(NP(N-H đầu)(P họ))))
+(. .))
+
+
+
+
+
+
+
+
+</s>
+<s>
+(S(NP-SUB(P-H Chúng))
+(VP(V-H điện đàm)(A rối rít)
+(PP(E-H với)
+(NP(N-H cảnh sát)
+(PP(E-H dưới)
+(NP(N-H đất))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(N-H Cảnh sát))
+(VP(VP(R đã)(V-H chặn)
+(NP-MNR(M hai)(N-H đầu)))
+(, ,)
+(VP(V-H giăng)
+(NP-DOB(NP(N-H kẽm)(N gai))
+(, ,)
+(NP(N-H xe)(N thiết giáp))
+(C và)
+(NP(N-H xe)(N vòi rồng)))))
+(. .))
+</s>
+<s>
+(S(PP-LOC(T Ngay)(E-H ở)
+(NP(N-H lằn)(N-H ranh)
+(NP(Np-H Trường Dược)))
+(C và)
+(NP(N-H Tổng cục)(N Chiến tranh)
+(NP(N-H chính trị))
+(NP(N-H quân đội))
+(NP(Np-H Sài Gòn))))
+(, ,)
+(NP-SUB(N-H cảnh sát)(C cùng)(N-H máy bay trực thăng))
+(VP(V-H bắn)
+       (NP-DOB(NP(N-H phi tiễn))
+                          (C và)
+                          (NP(N-H lựu đạn)(A cay)))
+        (VP-PRP(V-H đàn áp)
+                       (NP-DOB(N-H đoàn)(V biểu tình))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(P-H Chúng))
+(VP(V-H giật)(R lấy)
+(NP-DOB(NP(N-H chim)(N bồ câu))
+(C và)
+(NP(N-H quan tài))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(A Nhiều)(N-H người))
+(VP(V-H ngã)(A gục))
+(. .))
+
+
+
+
+
+
+
+
+
+
+
+
+</s>
+<s>
+(S(S(NP-SUB(Np-H Huỳnh Tấn Mẫm))
+(VP(V-H bị)
+(VP(V-H ngất xỉu))))
+(C và)
+(S(NP-SUB(Np-H Palmer))
+(VP(R đã)(V-H ôm)
+(NP-DOB(N-H anh))
+(VP-PRP(V-H nhấc)(R qua)
+(NP-DOB(N-H hàng rào)
+(NP(N-H Trường)(Np Dược))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(M Một)(Nc-H người)(N bạn)(Np Mỹ)
+(VP(V-H khiêng)
+          (NP-DOB(N-H quan tài))))
+(VP(V-H vội)(V-H đỡ)
+                   (NP-DOB(M một)(N-H mẹ)(A già))
+                  (VP-PRP(V-H đưa)(R vào)
+                             (AP(A-H trong))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(M Một)(Ny-H SV)(Np VN))
+(VP(V-H kéo)(N tay)
+(NP-DOB(Np-H Palmer))
+(PP-PRP(E-H để)
+(VP(V-H leo)(R qua)
+(NP-DOB(N-H rào)))))
+(. .))
+
+
+
+
+
+
+
+</s>
+<s>
+(S(PP-LOC(E-H Từ)
+(NP(M hai)(N-H đầu)))
+(, ,)
+(NP-SUB(N-H bọn)(N cảnh sát))
+(VP(V-H thúc ép)
+(VP-PRP(V-H dồn)
+(NP-DOB(N-H đoàn)(N người))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(Ny-H SV))
+(VP(V-H kéo)(R vào)
+(NP-DOB(N-H Trường)(Np Nông lâm súc))
+(VP-PRP(V-H phòng thủ)))
+(. .))
+
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Cảnh sát))
+(VP(VP(V-H xông)
+(NP-DOB(N-H xe))
+(R vào))
+(VP(V-H hốt)(V trọn)
+(NP-DOB(M bảy)(Ny-H SV)(N bạn)))
+(VP(V-H chở)(R ngay)(R ra)
+(NP-LOC(N-H sân bay)(Np Tân Sơn Nhất)))
+(, ,)
+(VP(V-H trục xuất)
+(NP-DOB(P-H họ))
+(VP(V-H về)(N nước))))
+(. .))
+</s>

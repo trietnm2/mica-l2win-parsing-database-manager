@@ -1,0 +1,581 @@
+! : !	1
+" : "	22
+, : ,	72
+- : -	12
+. : .	43
+... : ...	11
+: : :	9
+; : ;	1
+A : Hơn	1
+A : Suốt	1
+A : Xác xơ	1
+A : bậy bạ	1
+A : cao	2
+A : chính	1
+A : cuối cùng	1
+A : dài	1
+A : dày	1
+A : dọc	2
+A : già	1
+A : gần	4
+A : gập ghềnh	1
+A : hoàn toàn	2
+A : hơn	3
+A : khoảng	1
+A : khác	1
+A : khó nghèo	1
+A : không	1
+A : khẩn cấp	1
+A : khắc khổ	1
+A : khổ	2
+A : kịp	1
+A : kịp thời	1
+A : liên tiếp	1
+A : lâu	1
+A : lâu dài	1
+A : lầy lội	1
+A : lớn	2
+A : mỏng manh	1
+A : nghèo	1
+A : nhanh	1
+A : nhiều	3
+A : nhất	1
+A : nặng	2
+A : nặng nề	3
+A : phờ phạc	2
+A : quí giá	1
+A : rõ	2
+A : rạng	1
+A : sinh tử	1
+A : sâu	2
+A : thiệt hại	2
+A : thấp	1
+A : thật sự	1
+A : tiêu điều	1
+A : trên	3
+A : trước	1
+A : trần	1
+A : trắng	2
+A : trắng tay	1
+A : trắng xóa	1
+A : tạm	1
+A : tận tay	2
+A : xa	1
+A : xiêu vẹo	1
+A : xác xơ	2
+A : xơ xác	1
+A : đúng	1
+A : ấm	1
+C : Còn	1
+C : Hơn nữa	1
+C : Mặc dù	1
+C : còn	1
+C : là	1
+C : mà	3
+C : như	3
+C : nhưng	3
+C : rằng	1
+C : rồi	2
+C : thì	3
+C : và	14
+E : Trong	1
+E : Trên	1
+E : Trước	2
+E : bởi	2
+E : cho	2
+E : của	13
+E : do	2
+E : dưới	1
+E : lên	2
+E : qua	3
+E : sau	7
+E : trong	9
+E : trên	7
+E : trước	1
+E : tại	2
+E : tận	1
+E : vào	2
+E : vì	2
+E : về	2
+E : với	7
+E : đến	5
+E : để	4
+E : Ở	1
+E : ở	4
+L : Các	1
+L : Mỗi	3
+L : Nhiều	1
+L : các	3
+L : mấy	2
+L : mỗi	4
+L : nhiều	1
+L : những	18
+L : tất cả	1
+L : vài	1
+L : Đa phần	1
+LBKT : LBKT	7
+M : 1	1
+M : 1.100	1
+M : 10	4
+M : 100.000	1
+M : 110	1
+M : 12	1
+M : 13	1
+M : 15	1
+M : 17	1
+M : 18	1
+M : 2	2
+M : 20	3
+M : 210	3
+M : 22	3
+M : 23	2
+M : 3	3
+M : 31	1
+M : 4	1
+M : 420	1
+M : 60	1
+M : 73	1
+M : 80	1
+M : 82	1
+M : 900	1
+M : bảy	1
+M : chục	1
+M : hai	3
+M : mấy	1
+M : mọi	1
+M : một	6
+M : nghìn	1
+M : năm	1
+M : nửa	1
+M : tám	1
+N : Bà con	1
+N : Bộ đồ	1
+N : Chị	1
+N : Cơn	1
+N : Già làng	1
+N : Huyện ủy	1
+N : Hạt	1
+N : Khi	1
+N : Nguy cơ	1
+N : Nước	1
+N : Phận	1
+N : Sáng	2
+N : Tay trắng	1
+N : anh	1
+N : buổi	1
+N : bà	1
+N : bà con	11
+N : bàn tay	1
+N : báo	4
+N : bên	2
+N : bí thư	1
+N : bạn đọc	3
+N : bắp	1
+N : bộ	1
+N : bờ	1
+N : bụng	1
+N : bữa	1
+N : chum	1
+N : chuyến	1
+N : chuyện	1
+N : chuồng	1
+N : chân	1
+N : chị	1
+N : chỗ	2
+N : chủ tịch	3
+N : con	1
+N : con cháu	1
+N : cuộc sống	1
+N : cách	1
+N : cái	1
+N : cán bộ	1
+N : cánh	2
+N : cát	2
+N : cây cối	1
+N : công tác	3
+N : cơn	1
+N : cụ	1
+N : củ	1
+N : dân	3
+N : dân cư	1
+N : dân tộc	2
+N : dòng	2
+N : ghe	1
+N : gia đình	1
+N : giao thông	1
+N : gió	1
+N : giờ	1
+N : gà	1
+N : gói	1
+N : gương mặt	2
+N : gạo	5
+N : heo	1
+N : hiện	1
+N : hiện nay	1
+N : huyện	10
+N : hàng	1
+N : hình ảnh	1
+N : hôm nay	1
+N : hồ	1
+N : hộ	4
+N : hội trường	1
+N : khi	2
+N : khu	1
+N : khu vực	1
+N : khuôn mặt	1
+N : khả năng	1
+N : kèo	1
+N : kênh mương	1
+N : làng	7
+N : lão	1
+N : lúa	1
+N : lúc	1
+N : lũ	15
+N : lũ lụt	1
+N : lũ quét	8
+N : lần	3
+N : lớp	1
+N : lời	1
+N : mì	3
+N : mình	1
+N : mía	1
+N : món	1
+N : mùa	2
+N : mưa lũ	2
+N : mẹ	1
+N : ngoài	1
+N : nguồn	1
+N : ngày	4
+N : người	8
+N : người lớn	1
+N : ngầm	1
+N : nhà	7
+N : nhà cửa	1
+N : nóc	9
+N : nông dân	1
+N : núi	11
+N : năm	3
+N : nơi	3
+N : nước	7
+N : nồi	1
+N : phá	1
+N : phía	1
+N : phương	1
+N : phần	1
+N : phận	1
+N : quanh	1
+N : quà	5
+N : rau	1
+N : sa bồi	1
+N : suất	2
+N : sáng	1
+N : sân	1
+N : sông	5
+N : tai	1
+N : thiệt hại	1
+N : thóc	1
+N : thôn	6
+N : thước	1
+N : thượng nguồn	2
+N : thế giới	1
+N : thủy	1
+N : tiếng	1
+N : tranh	1
+N : trung tâm	1
+N : trên	1
+N : trưa	1
+N : trước mắt	1
+N : trận	3
+N : trẻ con	1
+N : tuyến	2
+N : tuần	4
+N : tuổi	3
+N : tài sản	1
+N : tài xế	2
+N : tên	1
+N : tỉnh	2
+N : từng	3
+N : tử thần	1
+N : vách	1
+N : vùng	4
+N : vùng cao	4
+N : vùng sâu	1
+N : vùng đất	1
+N : vẻ	1
+N : vịt	1
+N : xe	3
+N : xe kéo	1
+N : xã	15
+N : xã hội	3
+N : Ông	1
+N : áo	1
+N : âu lo	1
+N : ông	1
+N : Điều	1
+N : điểm	1
+N : đoàn	4
+N : đoạn	2
+N : đá	1
+N : đêm	2
+N : đôi	1
+N : đường	7
+N : đất	3
+N : đầu	3
+N : đập	1
+N : đồng	2
+N : đồng bào	1
+N : đồng hồ	2
+N : độ	1
+N : đời	1
+N : đợt	1
+N : ốc đảo	1
+N : ổ trâu	1
+N : ổ voi	1
+N : ủy ban	1
+NP : *E*	8
+NP : *T*	5
+Nc : Anh	1
+Nc : Bà	1
+Nc : Chị	1
+Nc : Cái	1
+Nc : Căn	1
+Nc : con	5
+Nc : cái	5
+Nc : căn	1
+Nc : cơn	3
+Nc : cụ	1
+Nc : mùa	1
+Nc : ngôi	1
+Nc : người	2
+Nc : suất	1
+Nc : sự	2
+Nc : trái	1
+Nc : tấm	1
+Nc : Ông	3
+Np : An Điềm I	1
+Np : Bình Chương	4
+Np : Bình Minh	6
+Np : Bình Sơn	3
+Np : Hồ Văn Hiền	1
+Np : Hồ Văn Xuoi	1
+Np : Lê Công Cuộc	1
+Np : Nam Trà My	8
+Np : Nguyễn Rê	1
+Np : Phạm Văn Long	1
+Np : Quảng Nam	2
+Np : Quảng Ngãi	3
+Np : Tranh	3
+Np : Trà Bồng	1
+Np : Trà Lập	1
+Np : Trà Mai	2
+Np : Trà Nam	1
+Np : Trà Tập	2
+Np : Trịnh Thị Hạnh	1
+Np : Tu Đinh	1
+Np : Tuổi Trẻ	4
+Np : Tà Lung	1
+Np : Tân Phước	3
+Np : Tùy	1
+Np : Tắk Pỏ	2
+Np : Võ Chí Công	1
+Np : Võ Sỹ	1
+Np : Võ Thị Lĩnh	1
+Np : Xê Đăng	1
+Np : Đinh Mướt	1
+Nu : g	3
+Nu : ha	1
+Nu : hecta	1
+Nu : km	2
+Nu : m	2
+Nu : tiếng	2
+Nu : tạ	1
+Nu : đồng	1
+P : Cả	3
+P : Toàn	1
+P : Tất tả	1
+P : ai	1
+P : bao giờ	2
+P : chúng tôi	7
+P : cả	8
+P : gì	2
+P : họ	1
+P : mình	6
+P : mô	1
+P : người ta	1
+P : ni	2
+P : này	3
+P : tui	2
+P : tôi	2
+P : Đây	1
+P : đâu	1
+P : đây	2
+P : đó	1
+R : Cũng	1
+R : Hơn	1
+R : Không	1
+R : chưa	1
+R : chẳng	1
+R : chỉ	1
+R : chứ	1
+R : còn	2
+R : có thể	1
+R : cũng	11
+R : cứ	4
+R : hầu như	1
+R : hết	1
+R : không	5
+R : lại	5
+R : mới	5
+R : phải	1
+R : qua	3
+R : ra	1
+R : rất	1
+R : sắp	1
+R : từng	1
+R : vẫn	4
+R : về	1
+R : vừa	1
+R : đang	3
+R : đi	1
+R : đã	13
+R : được	8
+R : đến	1
+R : đều	1
+RBKT : RBKT	6
+RNKT : RBKT	1
+S : Phó	2
+T : cả	1
+T : lắm	4
+T : nào	1
+T : trời	1
+T : đâu	1
+T : đến	2
+V : Chạy	1
+V : Có	2
+V : Nhìn	1
+V : Vượt	1
+V : Xuống	1
+V : biết	4
+V : bảo	1
+V : bảo nhỏ	1
+V : bị	14
+V : bỏ	1
+V : bồi lấp	1
+V : canh tác	1
+V : che chắn	1
+V : chia	1
+V : chia cắt	1
+V : cho	3
+V : chuyển	1
+V : chết đứng	1
+V : chờ	1
+V : coi	1
+V : cuốn	3
+V : cách biệt	1
+V : còn	2
+V : có	8
+V : có mặt	1
+V : cô lập	1
+V : cảm ơn	1
+V : cứu trợ	1
+V : di dời	1
+V : dâng	1
+V : dời	4
+V : dựng	3
+V : giúp	1
+V : giúp đỡ	1
+V : gây	1
+V : gặp	1
+V : gồm	1
+V : gửi	1
+V : hiện	1
+V : hoàn	1
+V : hằn	2
+V : hết	1
+V : ki cóp	1
+V : kể	1
+V : lo	7
+V : lo lắng	1
+V : là	11
+V : lên	3
+V : lấp	1
+V : lấy	1
+V : lặng	1
+V : lở	6
+V : mang	1
+V : mưu sinh	1
+V : mất	3
+V : mất mát	1
+V : mặc	1
+V : mở đường	1
+V : nghe	1
+V : nghiêng ngả	1
+V : ngâm	1
+V : ngậm	1
+V : ngập	1
+V : ngớt	1
+V : ngủ	1
+V : nhận	1
+V : nhớ	1
+V : nhờ	4
+V : nép	1
+V : nên	1
+V : nói	5
+V : nằm	3
+V : nếm trải	1
+V : nổ	1
+V : nứt	1
+V : phát	1
+V : phải	9
+V : qua	2
+V : quay	1
+V : rộp	1
+V : sinh sống	1
+V : sạt	1
+V : sạt lở	2
+V : sản xuất	1
+V : sập	1
+V : sẻ	1
+V : sợ	1
+V : theo	2
+V : thêm	1
+V : thở dài	1
+V : thức	1
+V : tiếp	1
+V : trao	2
+V : tràn	2
+V : tránh	1
+V : trôi	4
+V : trị giá	1
+V : trở	1
+V : trữ	1
+V : tuột	1
+V : tàn phá	2
+V : tìm	1
+V : vượt	3
+V : về	4
+V : vỡ	1
+V : xiết	1
+V : xói lở	1
+V : xót ruột	1
+V : xúc	1
+V : ách tắc	1
+V : ăn	3
+V : Đến	1
+V : đe dọa	1
+V : đi	5
+V : đáng	1
+V : đưa	2
+V : được	3
+V : đẩy	1
+V : đến	5
+V : đối phó	1
+V : đổ	1
+V : đổi	1
+V : ập	1
+V : ổn định	1
+V : ở	5
+V : ủi	1
+X : làm sao	1
+X : lúc  mưa lúc gió	1
+X : vừa qua	2

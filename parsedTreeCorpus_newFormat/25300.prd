@@ -1,0 +1,524 @@
+<s id = "1">
+S(TTL)
+	NP(SUB)
+		Np(H)
+			 Tây nguyên
+		C
+			 và
+		Np(H)
+			 Nam bộ
+	:
+		 :
+	VP
+		V(H)
+			 Có
+		NP
+			N(H)
+				 khả năng
+			VP
+				V(H)
+					 thiếu
+				NP(DOB)
+					N(H)
+						 nước
+				PP(LOC)
+					E(H)
+						 trên
+					NP
+						N(H)
+							 diện
+						AP
+							A(H)
+								 rộng
+	.
+		 .
+</s>
+<s id = "2">
+S
+	NP(SUB)
+		N(H)
+			 Cục
+		Np
+			 Thủy lợi
+		LBKT
+			 LBKT
+		NP
+			N(H)
+				 Bộ
+			NP
+				N(H)
+					 Nông nghiệp
+			Ny
+				 &
+			VP
+				V(H)
+					 phát triển
+				NP
+					N(H)
+						 nông thôn
+		RBKT
+			 RBKT
+	VP
+		V(H)
+			 dự báo
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 khu vực
+					NP
+						Np(H)
+							 Tây nguyên
+						C
+							 và
+						Np(H)
+							 Nam bộ
+				VP
+					V(H)
+						 có
+					NP(DOB)
+						N(H)
+							 khả năng
+						VP
+							R
+								 sẽ
+							V(H)
+								 thiếu
+							NP(DOB)
+								N(H)
+									 nước ngọt
+						C
+							 và
+						VP
+							V(H)
+								 bị
+							SBAR
+								S
+									NP(SUB)
+										N(H)
+											 nước mặn
+									VP
+										V(H)
+											 xâm nhập
+										PP(LOC)
+											E(H)
+												 trên
+											NP
+												N(H)
+													 diện
+												AP
+													A(H)
+														 rộng
+						SBAR(PRP)
+							E(H)
+								 vì
+							S
+								PP(TMP)
+									PP
+										E(H)
+											 từ
+										NP
+											N(H)
+												 nay
+									PP
+										E(H)
+											 đến
+										NP
+											N(H)
+												 tháng
+											M
+												 5
+											-
+												 -
+											M
+												 2004
+								NP(SUB)
+									N(H)
+										 tổng
+									N
+										 lượng
+									N
+										 mưa
+									PP(LOC)
+										E(H)
+											 tại
+										NP
+											L
+												 các
+											N(H)
+												 tỉnh
+											PP(LOC)
+												E(H)
+													 trong
+												NP
+													N(H)
+														 khu vực
+								VP
+									R
+										 sẽ
+									V(H)
+										 thiếu hụt
+									VP
+										V(H)
+											 so
+										C
+											 với
+										AP
+											A(H)
+												 trung bình
+											NP(TMP)
+												A
+													 nhiều
+												N(H)
+													 năm
+												AP
+													A(H)
+														 cùng
+													NP
+														N(H)
+															 thời kỳ
+	.
+		 .
+</s>
+<s id = "3">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Dự báo
+		SBAR
+			S
+				C
+					 nếu
+				S(SUB)
+					S
+						NP(SUB)
+							 *E*
+						VP
+							V(H)
+								 tiếp tục
+							VP
+								R
+									 không
+								V(H)
+									 mưa
+					C
+						 và
+					S
+						NP(SUB)
+							N(H)
+								 nước mặn
+						VP
+							V(H)
+								 xâm nhập
+							AP
+								A(H)
+									 sâu
+				VP
+					R
+						 sẽ
+					V(H)
+						 khiến
+					NP(DOB)
+						A
+							 hơn
+						M
+							 44.000
+						Nu(H)
+							 ha
+						NP
+							N(H)
+								 đất
+							N
+								 nông nghiệp
+						VP
+							V(H)
+								 gặp
+							AP
+								A(H)
+									 khó khăn
+								PP
+									E(H)
+										 về
+									NP
+										N(H)
+											 nguồn
+										N
+											 nước
+										V
+											 tưới
+							PP(TMP)
+								E(H)
+									 vào
+								NP
+									N(H)
+										 cuối
+									NP
+										Nc(H)
+											 vụ
+										N
+											 đông xuân
+	.
+		 .
+</s>
+<s id = "4">
+S
+	PP(TMP)
+		E(H)
+			 Trong
+		NP
+			N(H)
+				 khi
+			P
+				 đó
+	,
+		 ,
+	PP(LOC)
+		E(H)
+			 tại
+		NP
+			N(H)
+				 lễ
+			N
+				 kỷ niệm
+			NP
+				N(H)
+					 Ngày
+				N
+					 nước
+				N
+					 thế giới
+				LBKT
+					 LBKT
+				QP(TMP)
+					M
+						 22
+					-
+						 -
+					M
+						 3
+				RBKT
+					 RBKT
+	,
+		 ,
+	NP(SUB)
+		Nc(H)
+			 bà
+		Np
+			 Kanni Wignaraja
+		,
+			 ,
+		NP
+			S
+				 phó
+			N(H)
+				 đại diện
+			V
+				 thường trú
+			PP
+				E(H)
+					 của
+				NP
+					N(H)
+						 Chương trình
+					VP
+						V(H)
+							 Phát triển
+						Np
+							 Liên Hiệp Quốc
+						LBKT
+							 LBKT
+						NP
+							Ny(H)
+								  UNDP
+						RBKT
+							 RBKT
+			PP(LOC)
+				E(H)
+					 tại
+				NP
+					Np(H)
+						 Hà Nội
+	,
+		 ,
+	VP
+		V(H)
+			 khẳng định
+		SBAR
+			S
+				C
+					 nếu
+				S
+					NP(SUB)
+						Ny(H)
+							 VN
+					VP
+						V(H)
+							 muốn
+						VP
+							V(H)
+								 giải quyết
+							R
+								 được
+							NP(DOB)
+								N(H)
+									 mục tiêu
+								VP
+									V(H)
+										 cung cấp
+									NP(DOB)
+										N(H)
+											 nước sạch
+									PP
+										PP
+											E(H)
+												 cho
+											NP
+												M
+													 85%
+												N(H)
+													 dân số
+										PP(TMP)
+											E(H)
+												 vào
+											NP
+												N(H)
+													 năm
+												M
+													 2010
+									C
+										 và
+									PP
+										PP
+											E(H)
+												 cho
+											NP
+												M
+													 100%
+												N(H)
+													 dân số
+										PP(TMP)
+											E(H)
+												 vào
+											NP
+												N(H)
+													 năm
+												M
+													 2020
+				C
+					 thì
+				S
+					NP(SUB)
+						 *T*
+					VP
+						V(H)
+							 phải
+						VP
+							V(H)
+								 có
+							NP(DOB)
+								M
+									 ba
+								N(H)
+									 yếu tố
+								:
+									 :
+								VP
+									V(H)
+										 tạo
+									R
+										 ra
+									AP
+										A(H)
+											 nhiều
+										A
+											 hơn
+										R
+											 nữa
+										NP
+											L
+												 các
+											N(H)
+												 nguồn
+											VP
+												V(H)
+													 đầu tư
+												PP(LOC)
+													E(H)
+														 trong
+													C
+														 và
+													E(H)
+														 ngoài
+													NP
+														N(H)
+															 nước
+								,
+									 ,
+								VP
+									V(H)
+										 xác định
+									VP
+										V(H)
+											 ưu tiên
+										PP
+											E(H)
+												 về
+											VP
+												V(H)
+													 xây dựng
+												NP(DOB)
+													N(H)
+														 năng lực
+												PP(LOC)
+													E(H)
+														 ở
+													NP
+														L
+															 những
+														N(H)
+															 nơi
+														VP
+															V(H)
+																 có
+															NP
+																N(H)
+																	 nhu cầu
+																N
+																	 nước
+																AP
+																	A(H)
+																		 lớn
+																	A
+																		 nhất
+								,
+									 ,
+								VP
+									V(H)
+										 huy động
+									NP(DOB)
+										A
+											 nhiều
+										N(H)
+											 đối tượng
+									VP
+										V(H)
+											 tham gia
+										VP
+											V(H)
+												 thực hiện
+											NP(DOB)
+												N(H)
+													 phương thức
+												VP
+													V(H)
+														 quản lý
+													NP(DOB)
+														N(H)
+															 tài nguyên
+														N
+															 nước
+	.
+		 .
+</s>

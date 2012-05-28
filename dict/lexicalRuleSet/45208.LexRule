@@ -1,0 +1,523 @@
+" : "	12
+, : ,	49
+- : -	5
+. : .	73
+... : ...	5
+: : :	20
+? : ?	2
+A : cao	1
+A : chuyên	1
+A : cùng	1
+A : duy nhất	1
+A : giống hệt	1
+A : gần	1
+A : hợp lý	1
+A : khoảng	1
+A : khác	1
+A : khó	1
+A : kịp	1
+A : lâu	1
+A : minh bạch	1
+A : nhiều	2
+A : nặng	1
+A : phức tạp	1
+A : rành rọt	1
+A : sát	1
+A : sâu	1
+A : thoải mái	1
+A : thân	1
+A : thân tình	1
+A : thường xuyên	1
+A : thảo hiền	1
+A : trực tiếp	2
+A : tư	2
+A : tối ưu	1
+A : tốt	1
+A : vắng	1
+A : xa	1
+A : xởi lởi	1
+A : đúng	1
+A : đầu tiên	1
+A : đặc chủng	1
+A : độc	1
+A : đột ngột	2
+A : đột xuất	1
+C : Như vậy	1
+C : Nhưng	1
+C : Tuy nhiên	2
+C : Vì vậy	1
+C : mà	3
+C : như	1
+C : nhưng	3
+C : nên	4
+C : nếu	3
+C : rồi	4
+C : thì	5
+C : và	19
+E : Qua	1
+E : Sau	1
+E : Theo	2
+E : Vì	1
+E : Với	1
+E : bằng	1
+E : bởi	1
+E : cho	5
+E : của	18
+E : do	3
+E : dưới	2
+E : ngoài	1
+E : sau	3
+E : trong	2
+E : trước	3
+E : tại	2
+E : tận	1
+E : từ	6
+E : vào	1
+E : vì	2
+E : về	2
+E : với	3
+E : đến	7
+E : để	3
+E : ở	8
+L : Các	3
+L : Những	1
+L : Toàn bộ	1
+L : các	10
+L : một số	3
+L : những	4
+L : toàn bộ	1
+LBKT : LBKT	6
+M : 0903404554	1
+M : 10	2
+M : 12 - 2003	1
+M : 18	1
+M : 2	1
+M : 20	1
+M : 49	1
+M : 4D	1
+M : 5	1
+M : 5727780	1
+M : 6 - 2004	1
+M : 67	1
+M : 7	2
+M : 8	3
+M : 84 . 4	3
+M : 8529126	2
+M : Ba	1
+M : Một	1
+M : ba	4
+M : hai	5
+M : một	15
+M : nhất	1
+M : sáu	1
+N : Bà	1
+N : Bác sĩ	3
+N : Bệnh viện	2
+N : Chủ	2
+N : Cuộc đời	2
+N : Câu chuyện	1
+N : Cô	1
+N : Công ty	2
+N : Gia đình	1
+N : Giám đốc	1
+N : Hà Nội	1
+N : Hôm	1
+N : Hồ sơ	1
+N : Hợp đồng	2
+N : Khi	1
+N : Khoảng	1
+N : Mũi	2
+N : Người	1
+N : Nhóm	1
+N : Nơi	1
+N : Phương pháp	1
+N : Quy luật	1
+N : Thám tử	1
+N : Thứ	3
+N : anh	4
+N : ba gác	4
+N : bà	14
+N : bài	1
+N : bác sĩ	5
+N : bè bạn	1
+N : bó tay	1
+N : bút	1
+N : băng	1
+N : bạn	3
+N : bảo hiểm	11
+N : bảo hiểm nhân thọ	1
+N : bệnh	3
+N : bệnh lý	1
+N : bệnh nhân	2
+N : bệnh viện	2
+N : chuyện	1
+N : cháu	7
+N : chồng	2
+N : chợ	5
+N : chủ	1
+N : chữ	3
+N : con	4
+N : con trai	3
+N : cà phê	2
+N : cách	1
+N : cán bộ	1
+N : câu chuyện	1
+N : công sức	1
+N : công ty	1
+N : căn bệnh	1
+N : căng xe	1
+N : cơ quan	1
+N : cớ	1
+N : dáng điệu	1
+N : dâu	4
+N : dấu	1
+N : dấu hiệu	1
+N : dịch vụ	1
+N : dịp	1
+N : gia đình	6
+N : giấy	3
+N : gái	1
+N : hoa quả	3
+N : hoạn thư	1
+N : hàng	8
+N : hãng	6
+N : hương	2
+N : hương nhang	1
+N : họ	5
+N : hồ sơ	5
+N : hợp đồng	3
+N : khi	7
+N : khoản	1
+N : khách	1
+N : khách hàng	3
+N : kế	1
+N : kết quả	2
+N : lý do	1
+N : lần	1
+N : màu	1
+N : máy	2
+N : mùi	1
+N : mũ	2
+N : mũi	3
+N : mưu	1
+N : mục tiêu	1
+N : nghi vấn	1
+N : nguyên nhân	1
+N : ngành	1
+N : ngày	1
+N : ngày mai	1
+N : ngách	1
+N : ngõ	1
+N : người	9
+N : người bệnh	1
+N : người nhà	1
+N : nhiệm vụ	1
+N : nhà	13
+N : nhân viên	3
+N : nhân vật	1
+N : năm	2
+N : nơi	2
+N : nội	3
+N : nợ	1
+N : phim	1
+N : phòng khám	1
+N : phương pháp	1
+N : phường	2
+N : phần	1
+N : phố	1
+N : quán	4
+N : quê	1
+N : quận	1
+N : sáng	1
+N : sạp	2
+N : số	2
+N : sổ	1
+N : thuốc	1
+N : thành phần	1
+N : thám tử	21
+N : tháng	4
+N : thông tin	1
+N : thời gian	2
+N : thời điểm	1
+N : tiền	6
+N : tiền bạc	1
+N : trai	1
+N : triệu chứng	1
+N : trên	1
+N : trước đây	1
+N : tuổi	3
+N : tuổi thọ	1
+N : tâm nhang	1
+N : tên	3
+N : tình yêu	1
+N : ung thư	7
+N : vai	1
+N : viện	4
+N : vong hồn	1
+N : vàng mã	1
+N : vành	2
+N : vùng	1
+N : vợ	1
+N : xe	4
+N : y học	1
+N : Ông	2
+N : ông	4
+N : ông già	2
+N : Điện thoại	1
+N : Địa chỉ	1
+N : Địa điểm	1
+N : Đối tượng	1
+N : Đống Đa	1
+N : Đội	1
+N : điều	1
+N : điều tra	1
+N : điểm	1
+N : đàn ông	1
+N : đơn	1
+N : đường	1
+N : đại học	1
+N : địa chỉ	3
+N : đồng nghiệp	1
+N : đời	1
+NP : *E*	10
+NP : *T*	4
+Nb : Fax	1
+Nb : Mobile	1
+Nc : Bà	1
+Nc : Cái	2
+Nc : Cô	2
+Nc : bà	29
+Nc : con	5
+Nc : cuộc	1
+Nc : cái	2
+Nc : cô	5
+Nc : loạt	1
+Nc : người	3
+Nc : nén	1
+Nc : sự	1
+Nc : thước	1
+Nc : ông	6
+Nc : đứa	1
+Np : Bắc	1
+Np : Bằng	7
+Np : Hà Nội	1
+Np : Khoa	5
+Np : Minh	5
+Np : Nguyễn Hữu Vinh	1
+Np : Nguyễn Thị Sinh	2
+Np : Sinh	32
+Np : Tân Bình	1
+Np : Tân Định	2
+Np : Ung bướu	2
+Np : Đặng Văn Ngữ	1
+Nu : g	6
+Ny : &	1
+Ny : TP. HCM	1
+Ny : TP.HCM	1
+Ny : UBND	2
+Ny : V	1
+Ny : VN	1
+Ny : Y	1
+P : Tôi	1
+P : Tất cả	1
+P : họ	2
+P : kia	1
+P : mình	1
+P : nay	2
+P : nào	2
+P : này	9
+P : sao	1
+P : đây	4
+P : đó	3
+P : đầu	1
+P : ấy	1
+R : Không	1
+R : chưa	1
+R : chỉ	1
+R : càng	1
+R : có	1
+R : có thể	3
+R : cũng	5
+R : dù sao	1
+R : hơn	2
+R : không	11
+R : không thể	2
+R : luôn	1
+R : lại	6
+R : lập tức	1
+R : mới	2
+R : ngay	2
+R : nhất	1
+R : ra	1
+R : rất	3
+R : sẽ	4
+R : từng	1
+R : vào	1
+R : vẫn	1
+R : về	1
+R : vừa	1
+R : đang	1
+R : đã	5
+R : được	7
+R : đều	1
+RBKLT : RBKT	1
+RBKT : RBKT	5
+T : ngay	1
+V : *E*	2
+V : Bị	1
+V : Gặp	1
+V : Làm	1
+V : Lựa	1
+V : Nhân danh	1
+V : Rà	1
+V : Sử dụng	1
+V : Tiếp cận	1
+V : Vào	1
+V : biết	9
+V : buôn bán	1
+V : bán	9
+V : báo	1
+V : bảo	1
+V : bảo hiểm	2
+V : bảo mật	1
+V : bảo vệ	1
+V : bắt chuyện	1
+V : bị	11
+V : bộc lộ	1
+V : chia	2
+V : chia sẻ	1
+V : cho	5
+V : chăm sóc	1
+V : chạy	2
+V : chết	7
+V : chọn	1
+V : chống	1
+V : chở	2
+V : chứng tỏ	1
+V : cách	1
+V : còn	1
+V : có	10
+V : có mặt	1
+V : công tác	1
+V : cư trú	1
+V : cảm	2
+V : cần	3
+V : diễn tiến	1
+V : dẫn	1
+V : ghi	1
+V : ghi âm	1
+V : ghé	1
+V : giúp đỡ	1
+V : giới thiệu	3
+V : gồm	1
+V : gửi	1
+V : hoạt động	1
+V : hóa	1
+V : học	1
+V : hỏi	2
+V : hứa	1
+V : khai	1
+V : khai thác	4
+V : khai tử	2
+V : khoanh	1
+V : khám	1
+V : khỏi	1
+V : kinh doanh	1
+V : kiếm	1
+V : kèm	2
+V : kéo dài	1
+V : ký	2
+V : la cà	1
+V : là	14
+V : làm	3
+V : làm việc	1
+V : lên	2
+V : lọt	1
+V : lựa chọn	1
+V : mang	1
+V : mua	2
+V : muốn	1
+V : mất	4
+V : mất mát	1
+V : mổ	1
+V : mở	1
+V : nghi ngờ	1
+V : nghỉ	1
+V : nhuốm	2
+V : nhận	5
+V : nhờ	4
+V : nói	5
+V : nợ	2
+V : phát	1
+V : phát hiện	1
+V : phải	2
+V : phẫu thuật	1
+V : qua	2
+V : qua đời	2
+V : quay	1
+V : quay phim	1
+V : quen	2
+V : rút lui	1
+V : sang tên	1
+V : soi	1
+V : sắm vai	1
+V : sống	2
+V : thanh lý	1
+V : thanh toán	1
+V : thay đổi	1
+V : theo	2
+V : theo dõi	2
+V : thi	1
+V : thuê	2
+V : thành	1
+V : thêm	1
+V : thông báo	1
+V : thù hận	1
+V : thương	1
+V : thấy	2
+V : thắp	2
+V : tiến hành	1
+V : tiếp cận	1
+V : trú	1
+V : trả	7
+V : trị giá	1
+V : trở nên	1
+V : tìm	3
+V : tìm hiểu	2
+V : tính	1
+V : tập trung	1
+V : tổ chức	1
+V : tới	1
+V : uống	1
+V : viết	1
+V : vào	3
+V : vào cuộc	1
+V : về	4
+V : xem	1
+V : xin	1
+V : xác minh	1
+V : xác nhận	2
+V : xóa	1
+V : ôn	1
+V : ăn	1
+V : Đi	1
+V : Đến	1
+V : đi	11
+V : điều tra	1
+V : điều trị	1
+V : đánh ghen	1
+V : đè	2
+V : đóng	2
+V : đưa	4
+V : đưa đẩy	1
+V : được	8
+V : đảm bảo	1
+V : đến	6
+V : đề nghị	1
+V : đột tử	1
+V : ảnh hưởng	1
+V : ốm	3
+V : ốm đau	1
+V : ở	2
+X : làm sao	1
+X : một mình	1

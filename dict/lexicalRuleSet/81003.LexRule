@@ -1,0 +1,548 @@
+! : !	1
+" : "	13
+, : ,	73
+- : -	17
+- : –	2
+. : .	53
+... : ...	8
+: : :	7
+? : ?	2
+A : Liên tục	1
+A : bạo	1
+A : cứng	1
+A : dâm	1
+A : dưới	1
+A : gần	1
+A : hơn	1
+A : khác	2
+A : lớn	1
+A : may	1
+A : may mắn	1
+A : mới	2
+A : nhiều	3
+A : nhỏ	1
+A : nữ	1
+A : phi chính phủ	1
+A : quyết liệt	1
+A : rõ	1
+A : sau	2
+A : suốt	1
+A : trên	1
+A : trước	2
+A : tốt	2
+A : vinh quang	1
+A : yếu	1
+A : đầu tiên	1
+A : đầy	1
+A : đồi bại	1
+C : Rồi	1
+C : and	2
+C : chứ	1
+C : do	1
+C : hoặc	3
+C : là	3
+C : mà	1
+C : mặc dù	1
+C : như	6
+C : nhưng	7
+C : nên	3
+C : rồi	2
+C : thì	11
+C : và	20
+C : với	1
+E : Sau	5
+E : Theo	3
+E : Trong	1
+E : Trên	1
+E : Từ	3
+E : bằng	2
+E : cho	6
+E : của	35
+E : do	2
+E : lên	1
+E : of	1
+E : trong	6
+E : trước	1
+E : tại	5
+E : từ	4
+E : vào	2
+E : vì	3
+E : về	4
+E : với	15
+E : Đối với	1
+E : đến	10
+E : để	5
+E : ở	6
+L : Các	1
+L : Một số	1
+L : Những	2
+L : các	19
+L : mấy	1
+L : một số	5
+L : những	6
+LBKT : LBKT	7
+M : 1	1
+M : 12	1
+M : 14	1
+M : 17	1
+M : 18	2
+M : 2	1
+M : 20	1
+M : 200	1
+M : 2005	2
+M : 22	1
+M : 23	1
+M : 24	1
+M : 27	2
+M : 28	2
+M : 30	1
+M : 330	1
+M : 4	1
+M : 48	1
+M : 5	8
+M : 7	1
+M : 70	1
+M : Bốn	1
+M : ba	1
+M : bốn	2
+M : chín	2
+M : chục	1
+M : hai	8
+M : một	17
+M : một mình	1
+M : năm	1
+N : Ban	3
+N : Cha	2
+N : Chị	2
+N : Con số	1
+N : Cuối	1
+N : Công ty	7
+N : Cơ quan	1
+N : Hiện	1
+N : Hiện nay	1
+N : Hôm	1
+N : Hôm nay	1
+N : Khi	3
+N : Lao động	1
+N : Lúc	1
+N : Lời	1
+N : Ngày	2
+N : Nội dung	1
+N : Trụ sở	1
+N : Tên	1
+N : Tầng	1
+N : ai	1
+N : ban đầu	1
+N : buổi	2
+N : báo chí	1
+N : bắc	1
+N : bệnh viện	1
+N : bố	1
+N : bức	1
+N : cha	20
+N : chiều	1
+N : chiều tối	1
+N : chuyện	1
+N : chân	2
+N : chính quyền	1
+N : chế độ	1
+N : chị	11
+N : chị em	1
+N : chủ	9
+N : chứng cứ	1
+N : comapany	1
+N : company	1
+N : con	7
+N : con người	1
+N : con số	1
+N : corporation	2
+N : cuộc	3
+N : cách	1
+N : công ty	5
+N : công việc	1
+N : công ăn việc làm	2
+N : cơ quan	1
+N : cơ quan chức năng	1
+N : cơ thể	1
+N : cơn	1
+N : cảnh sát	1
+N : development	1
+N : diễn tiến	1
+N : dã man	1
+N : engineering	1
+N : fisheries corporation	1
+N : giám đốc	2
+N : giọng	1
+N : giới chức	2
+N : giữa	1
+N : gậy	1
+N : gốc	1
+N : huyện	2
+N : hàng xóm	1
+N : hành động	2
+N : hôm	2
+N : hôm nay	1
+N : hỗ trợ	1
+N : hộp	1
+N : investment	1
+N : khi	5
+N : khoảng	1
+N : khoảnh khắc	1
+N : kỷ niệm	1
+N : labour	1
+N : lao động	15
+N : luật sư	4
+N : làm việc	1
+N : lá	1
+N : lần	4
+N : lầu	1
+N : miền	1
+N : máy	1
+N : máy bay	1
+N : mặt đường	1
+N : nghiệp	1
+N : nguồn	1
+N : ngày	8
+N : người	3
+N : nhà	11
+N : nhà riêng	2
+N : nhà thờ	4
+N : nhà trẻ	1
+N : nhân vật	1
+N : nút	1
+N : nơi	1
+N : nước	1
+N : nạn nhân	19
+N : nạng	1
+N : nữ	5
+N : pháp luật	1
+N : phía	2
+N : phòng	2
+N : phụ nữ	2
+N : province	1
+N : quyền	1
+N : quyền lợi	1
+N : quê	2
+N : quần	1
+N : rẫy	1
+N : rừng	1
+N : southern	1
+N : sắt	2
+N : số	2
+N : số liệu	1
+N : sổ	1
+N : sự	2
+N : sự nghiệp	1
+N : thuốc	1
+N : tháng	2
+N : thú	1
+N : thú tính	1
+N : thư	3
+N : thư thoại	1
+N : thống nhất	1
+N : thời gian	1
+N : thứ bảy	1
+N : tin	1
+N : tinh thần	1
+N : tiếng	1
+N : tiền	1
+N : tiền lương	1
+N : trade	1
+N : trường hợp	1
+N : trưởng	1
+N : trệt	1
+N : trợ lý	1
+N : tuần	3
+N : tài khoản	1
+N : tài sản	1
+N : tâm lý	1
+N : tên	24
+N : tầng	1
+N : tối	2
+N : tổ	1
+N : tổ chức	1
+N : tội ác	2
+N : vé	1
+N : võ	1
+N : võ sĩ	1
+N : vùng	1
+N : văn phòng	5
+N : vết thương	1
+N : xã hội	1
+N : y tế	1
+N : áo	2
+N : ông	3
+N : ông già	1
+N : Đêm	1
+N : điện	1
+N : điện thoại	2
+N : điện thoại di động	1
+N : đêm	1
+N : đông y	1
+N : đại diện	1
+N : đầu	1
+N : địa bàn	1
+N : đồng sự	1
+N : động thái	1
+NP : *E*	9
+NP : *T*	3
+Nc : Chị	4
+Nc : chị	1
+Nc : con	1
+Nc : cuốn	1
+Nc : lá	1
+Nc : ngôi	2
+Nc : người	5
+Nc : sự	2
+Nc : ông	8
+Np : Bắc	1
+Np : Daklak	1
+Np : Dũng Khang	1
+Np : Ha Long	1
+Np : HaNoi	1
+Np : Hoa	4
+Np : Hue	1
+Np : Hung Ching-chang	1
+Np : Hung Ming-yu	1
+Np : Huy	1
+Np : Huế	1
+Np : Hùng	12
+Np : Hạnh	1
+Np : Hồng	25
+Np : Hồng Kính Trương	1
+Np : Hồng Minh Du	1
+Np : Hồng Minh Vũ	1
+Np : Linh	1
+Np : Loan	2
+Np : Lý Bỉnh Sâm	1
+Np : Minh Sang	1
+Np : Muay Thái	1
+Np : Nguyễn Ngọc Bình	1
+Np : Nguyễn Văn Hùng	2
+Np : Thanh Hóa	1
+Np : Thua Thien	1
+Np : Thánh Paul	1
+Np : Thảo Linh	1
+Np : Thừa Thiên	1
+Np : Trung Hữu	6
+Np : Trần Đông Huy	1
+Np : Tuyên Quang	1
+Np : Tuổi Trẻ	1
+Np : VN	5
+Np : Vietnam	1
+Np : Việt	2
+Np : investment	1
+Np : ĐL	3
+Np : Đài Bắc	1
+Np : Đài Loan	3
+Np : Đài Nam	2
+Np : Đào Viên	2
+Nu : g	2
+Nu : tuổi	2
+Ny : Enlexco	1
+Ny : Hapexco	1
+Ny : VN	6
+Ny : VP	1
+Ny : coopimex	1
+Ny : ĐL	11
+P : Chúng tôi	1
+P : Nó	2
+P : Tôi	2
+P : chúng tôi	7
+P : chị	4
+P : gì	2
+P : hắn	3
+P : họ	3
+P : nhau	1
+P : nào	4
+P : này	7
+P : nó	9
+P : thế	1
+P : toàn bộ	1
+P : tôi	9
+P : vậy	1
+P : y	9
+P : Đây	1
+P : Đó	2
+P : đâu	1
+P : đây	1
+P : đó	9
+P : ấy	1
+R : Không	1
+R : chính	1
+R : chẳng	4
+R : chỉ	1
+R : cũng	8
+R : cứ	1
+R : hàng	1
+R : hơn	1
+R : hầu như	2
+R : hết	1
+R : không	12
+R : liên tục	1
+R : liền	1
+R : lên	2
+R : lại	9
+R : lắm	1
+R : mới	4
+R : nhất	1
+R : nữa	1
+R : quá	1
+R : ra	3
+R : sẽ	3
+R : vô cùng	1
+R : xong	1
+R : đang	3
+R : đi	1
+R : đã	23
+R : được	6
+R : đều	2
+RBKT : RBKT	7
+T : ngay	2
+T : đâu	1
+T : đến	1
+V : *E*	3
+V : Liên lạc	1
+V : Ngồi	1
+V : Qua	1
+V : Sang	1
+V : biết	6
+V : buộc	1
+V : bóp	1
+V : bảo	1
+V : bảo hiểm	1
+V : bảo vệ	3
+V : bắt	2
+V : bắt giữ	1
+V : bắt đầu	1
+V : bị	13
+V : can thiệp	1
+V : che chở	2
+V : cho	8
+V : chuyển	3
+V : chuẩn bị	2
+V : chăm sóc	1
+V : chạy	1
+V : chống cự	1
+V : chữa	1
+V : cáo buộc	1
+V : còn	1
+V : có	11
+V : cưỡng hiếp	7
+V : cưỡng ép	1
+V : cắt xén	1
+V : cử	1
+V : di chuyển	1
+V : dám	1
+V : dắt	1
+V : dọa	1
+V : dừng	2
+V : export	1
+V : export-import	1
+V : giúp đỡ	2
+V : giật	1
+V : giới thiệu	1
+V : gác	1
+V : gặp	2
+V : gặp gỡ	2
+V : gọi	2
+V : hiếp	1
+V : hoàn trả	1
+V : hoảng loạn	1
+V : hành hung	1
+V : hành hạ	3
+V : hãm hiếp	1
+V : hãm hại	1
+V : hưởng	1
+V : hạ	1
+V : họp	1
+V : hồi âm	1
+V : hỗ trợ	1
+V : hợp thức hóa	1
+V : import-export	1
+V : kiểm kê	1
+V : kể	4
+V : lao	1
+V : lao động	2
+V : liên lạc	5
+V : là	14
+V : làm	7
+V : làm chứng	1
+V : làm việc	3
+V : lên	3
+V : lôi	1
+V : mong	1
+V : mua	1
+V : muốn	1
+V : môi giới	4
+V : nghỉ	2
+V : ngất xỉu	2
+V : ngủ	1
+V : nhận	1
+V : nhắn	1
+V : nhắn tin	1
+V : nhờ	2
+V : nói	5
+V : nói chuyện	2
+V : nôn	1
+V : nương náu	2
+V : nằm	1
+V : nổi	1
+V : phiên dịch	2
+V : phong tỏa	1
+V : phải	5
+V : qua	3
+V : quen biết	1
+V : quản lý	3
+V : run	1
+V : sang	5
+V : sắp xếp	2
+V : sợ	1
+V : tha	1
+V : thu thập	1
+V : thêm	1
+V : thôi	1
+V : thông qua	1
+V : thông tấn	1
+V : tiếp	3
+V : tiếp nhận	1
+V : trò chuyện	1
+V : trốn	1
+V : tìm	4
+V : tư vấn	1
+V : tạm	1
+V : tịch thu	1
+V : tố cáo	2
+V : tố giác	1
+V : tự nguyện	1
+V : uống	1
+V : van xin	1
+V : viết	3
+V : vùng vẫy	1
+V : vượt	1
+V : vạch trần	1
+V : về	4
+V : xem	1
+V : xen kẽ	1
+V : xuất khẩu	1
+V : xác định	1
+V : xé	2
+V : yêu cầu	1
+V : Đến	1
+V : đi	5
+V : điều trị	1
+V : đuổi	1
+V : đánh	2
+V : đánh đập	4
+V : đòi	1
+V : đón	2
+V : đưa	9
+V : được	12
+V : đảm bảo	1
+V : đến	5
+V : đối chất	1
+V : đổi	1
+V : đứng	3
+V : Ở	1
+V : ở	5
+X : ít nhất	1

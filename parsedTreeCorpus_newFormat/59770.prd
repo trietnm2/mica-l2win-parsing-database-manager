@@ -1,0 +1,4663 @@
+<s id = "1">
+S(TTL)
+	NP
+		NP(TMP)
+			M
+				 60
+			N(H)
+				 năm
+			NP
+				N(H)
+					 Quân đội
+				N
+					 Nhân dân
+				Ny
+					 VN
+		-
+			 -
+		NP
+			N(H)
+				 Đường mòn
+			PP(LOC)
+				E(H)
+					 trên
+				NP
+					N(H)
+						 biển
+					N
+						 đông
+		LBKT
+			 LBKT
+		NP
+			N(H)
+				 kỳ
+			M
+				 2
+		RBKT
+			 RBKT
+		:
+			 :
+		VP
+			V(H)
+				 Tìm
+			NP(DOB)
+				N(H)
+					 người
+				A
+					 vô danh
+	.
+		 .
+</s>
+<s id = "2">
+S
+	NP(TMP)
+		N(H)
+			 Năm
+		M
+			 1959
+	,
+		 ,
+	NP(TMP)
+		L
+			 những
+		N(H)
+			 ngày
+		AP
+			A(H)
+				 đen tối
+			C
+				 và
+			A(H)
+				 quyết liệt
+	,
+		 ,
+	NP(TMP)
+		N(H)
+			 khi
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 cách mạng
+					NP
+						N(H)
+							 miền
+						Np
+							 Nam
+						PP
+							E(H)
+								 từ
+							PP
+								PP
+									N(H)
+										 trong
+									NP
+										N(H)
+											 máu
+										C
+											 và
+										N(H)
+											 nước mắt
+								,
+									 ,
+								PP
+									E(H)
+										 trong
+									AP
+										A(H)
+											 đau thương
+									C
+										 và
+									VP
+										V(H)
+											 chết chóc
+				VP
+					R
+						 đang
+					VP
+						V(H)
+							 gượng
+						NP(DOB)
+							P(H)
+								 mình
+						VP(PRP)
+							V(H)
+								 đứng
+							V
+								 dậy
+					,
+						 ,
+					VP
+						V(H)
+							 ra sức
+						VP(PRP)
+							V(H)
+								 chuyển
+							NP(DOB)
+								N(H)
+									 đêm
+								VP
+									V(H)
+										 thành
+									NP(DOB)
+										N(H)
+											 ngày
+	.
+		 .
+</s>
+<s id = "3">
+S(TTL)
+	NP
+		N(H)
+			 Câu chuyện
+		PP
+			E(H)
+				 của
+			NP
+				Np(H)
+					 Nguyễn Chơn
+	.
+		 .
+</s>
+<s id = "4">
+S
+	NP(SUB)
+		N(H)
+			 Tỉnh ủy
+		A
+			 bí mật
+		Np
+			 Quảng Nam
+	,
+		 ,
+	NP(TMP)
+		P(H)
+			 bấy giờ
+	VP
+		A
+			 thật sự
+		R
+			 chỉ
+		V(H)
+			 còn
+		SBAR
+			C
+				 là
+			S
+				NP(SUB)
+					M
+						 một
+					N(H)
+						 nhóm
+					N
+						 người
+				AP(PRD)
+					A(H)
+						 đói khát
+				C
+					 mà
+				VP
+					V(H)
+						 cháy bỏng
+					NP(DOB)
+						N(H)
+							 ý chí
+						C
+							 và
+						N(H)
+							 khát vọng
+				,
+					 ,
+				VP
+					R
+						 đang
+					V(H)
+						 náu
+					NP(DOB)
+						P(H)
+							 mình
+					PP(LOC)
+						E(H)
+							 trong
+						NP
+							M
+								 một
+							N(H)
+								 khu
+							N
+								 rừng
+							AP
+								A(H)
+									 sâu
+							PP(LOC)
+								E(H)
+									 dưới
+								NP
+									N(H)
+										 chân
+									NP
+										N(H)
+											 ngọn
+										N
+											 núi
+										Np
+											 Chúa
+	.
+		 .
+</s>
+<s id = "5">
+S
+	NP(SUB)
+		Nc(H)
+			 Cái
+		N
+			 tỉnh ủy
+		AP
+			A(H)
+				 bí mật
+		P
+			 ấy
+	VP
+		V(H)
+			 có
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 ban
+			N
+				 quân sự
+	.
+		 .
+</s>
+<s id = "6">
+S
+	VP(ADV)
+		V(H)
+			 Gọi
+		C
+			 là
+		NP
+			N(H)
+				 quân sự
+	,
+		 ,
+	C
+		 kỳ thực
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 chỉ
+		V(H)
+			 là
+		NP
+			M
+				 một
+			Nc(H)
+				 nhúm
+			N
+				 vũ trang
+			SBAR
+				C
+					 mà
+				S
+					NP(TPC)
+						N(H)
+							 số
+						N
+							 người
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 đếm
+						V
+							 được
+						PP(MNR)
+							E(H)
+								 trên
+							NP
+								N(H)
+									 đầu
+								N
+									 ngón
+								N
+									 tay
+			,
+				 ,
+			SBAR(PRP)
+				E(H)
+					 do
+				S
+					NP(SUB)
+						Nc(H)
+							 anh
+						Np
+							 Nguyễn Chơn
+					VP
+						V(H)
+							 phụ trách
+	.
+		 .
+</s>
+<s id = "7">
+S
+	NP(SUB)
+		P(H)
+			 Họ
+	VP
+		V(H)
+			 có
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 điện đài
+			AP
+				R
+					 hết sức
+				A(H)
+					 thô sơ
+	...
+		 ...
+</s>
+<s id = "8">
+S
+	NP(TMP)
+		M
+			 Một
+		N(H)
+			 đêm
+		P
+			 nọ
+	,
+		 ,
+	NP(SUB)
+		Nc(H)
+			 cái
+		N(H)
+			 điện đài
+		P
+			 ấy
+	VP
+		V(H)
+			 nhận
+		V
+			 được
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 bức điện
+			NP
+				N(H)
+					 bí mật
+			PP(DIR)
+				E(H)
+					 từ
+				NP
+					Np(H)
+						 Hà Nội
+					VP
+						V(H)
+							 chuyển
+						V
+							 vào
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 Trung ương
+					VP
+						V(H)
+							 gửi
+						PP(IOB)
+							E(H)
+								 cho
+							NP
+								L
+									 các
+								N(H)
+									 đồng chí
+								Np
+									 Quảng Nam
+						NP(DOB)
+							L
+								 một số
+							N(H)
+								 súng
+						PP(MNR)
+							E(H)
+								 bằng
+							NP
+								N(H)
+									 đường biển
+	.
+		 .
+</s>
+<s id = "9">
+S
+	NP(SUB)
+		N(H)
+			 Thuyền
+	VP
+		R
+			 sẽ
+		V(H)
+			 vào
+		NP(LOC)
+			N(H)
+				 bến
+			Np
+				 Hố Chuối
+			PP(LOC)
+				E(H)
+					 dưới
+				NP
+					N(H)
+						 chân
+					NP
+						N(H)
+							 đèo
+						Np
+							 Hải Vân
+	.
+		 .
+</s>
+<s id = "10">
+S
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 Hãy
+		V(H)
+			 cử
+		NP(DOB)
+			N(H)
+				 người
+			VP
+				V(H)
+					 đón
+				,
+					 ,
+				PP(TMP)
+					E(H)
+						 từ
+					NP
+						N(H)
+							 đêm
+						NP
+							N(H)
+								 mồng
+							N
+								 một
+					NP
+						N(H)
+							 Tết âm lịch
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "11">
+S(PV)
+	NP(SUB)
+		Np(H)
+			 Nguyễn Chơn
+	VP
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 giao
+					NP(DOB)
+						N(H)
+							 nhiệm vụ
+						VP(PRP)
+							V(H)
+								 đi
+							VP
+								V(H)
+									 đón
+								NP(DOB)
+									N(H)
+										 chuyến
+									N
+										 vũ khí
+						P
+							 đó
+	.
+		 .
+</s>
+<s id = "12">
+S(TTL)
+	NP(TMP)
+		N(H)
+			 Ngày
+		VP
+			V(H)
+				 trốn
+			PP(LOC)
+				E(H)
+					 trong
+				NP
+					N(H)
+						 hang
+					N
+						 đá
+	.
+		 .
+</s>
+<s id = "13">
+S
+	NP(TMP)
+		N(H)
+			 Đêm
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 ra
+		V
+			 ngồi
+		PP(LOC)
+			E(H)
+				 trên
+			NP
+				L
+					 những
+				N(H)
+					 tảng
+				N
+					 đá
+				AP
+					A(H)
+						 hoang vắng
+	,
+		 ,
+	AP(PRD)
+		A(H)
+			 tê
+		A
+			 buốt
+	,
+		 ,
+	VP
+		V(H)
+			 chong
+		NP(DOB)
+			N(H)
+				 mắt
+			VP(PRP)
+				V(H)
+					 nhìn
+				R
+					 ra
+				NP(LOC)
+					N(H)
+						 biển
+					A
+						 đen
+	,
+		 ,
+	VP
+		V(H)
+			 sục
+		V
+			 tìm
+		NP(DOB)
+			N(H)
+				 bóng dáng
+			NP
+				M
+					 một
+				Nc(H)
+					 con
+				N
+					 thuyền
+	.
+		 .
+</s>
+<s id = "14">
+S
+	NP(TMP)
+		N(H)
+			 Đêm
+		P
+			 nào
+	NP(SUB)
+		 *E*
+	NP(PRD)
+		R
+			 cũng
+		P(H)
+			 vậy
+	.
+		 .
+</s>
+<s id = "15">
+S
+	NP(SUB)
+		N(H)
+			 Gạo
+	VP
+		V(H)
+			 hết
+	.
+		 .
+</s>
+<s id = "16">
+S
+	NP(TPC)
+		T
+			 Cả
+		N(H)
+			 củ
+		NP
+			N(H)
+				 chuối
+			N
+				 rừng
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 cũng
+		R
+			 đã
+		V(H)
+			 đào
+		VP(PRP)
+			V(H)
+				 ăn
+			T
+				 hết
+	.
+		 .
+</s>
+<s id = "17">
+S(SPL)
+	NP(TMP)
+		M
+			 Một
+		N(H)
+			 đêm
+	.
+		 .
+</s>
+<s id = "18">
+S(SPL)
+	NP(TMP)
+		M
+			 Hai
+		N(H)
+			 đêm
+	.
+		 .
+</s>
+<s id = "19">
+S(SPL)
+	NP(TMP)
+		M
+			 Ba
+		N(H)
+			 đêm
+	...
+		 ...
+</s>
+<s id = "20">
+S(SPL)
+	NP(TMP)
+		M
+			 Mười
+		N(H)
+			 đêm
+	...
+		 ...
+</s>
+<s id = "21">
+S(SPL)
+	NP(TMP)
+		M
+			 Hai
+		M
+			 mươi
+		N(H)
+			 đêm
+	...
+		 ...
+</s>
+<s id = "22">
+S(SPL)
+	NP(TMP)
+		M
+			 Một
+		N(H)
+			 tháng
+		A
+			 ròng
+	...
+		 ...
+</s>
+<s id = "23">
+S
+	NP(SUB)
+		N(H)
+			 Thuyền
+	VP
+		R
+			 không
+		V(H)
+			 đến
+	.
+		 .
+</s>
+<s id = "24">
+S
+	NP(SUB)
+		N(H)
+			 Súng
+	VP
+		R
+			 không
+		V(H)
+			 đến
+	.
+		 .
+</s>
+<s id = "25">
+SQ(SPL)
+	C
+		 Còn
+	NP
+		N(H)
+			 người
+	?
+		 ?
+</s>
+<s id = "26">
+S
+	NP(SUB)
+		Nc(H)
+			 Anh
+		Np
+			 Nguyễn Chơn
+	VP
+		V(H)
+			 nói
+		:
+			 :
+		SBAR
+			S
+				PP(TMP)
+					R
+						 Cho
+					T
+						 đến
+					E(H)
+						 tận
+					NP
+						N(H)
+							 hôm nay
+				,
+					 ,
+				NP(SUB)
+					P(H)
+						 tôi
+				VP
+					R
+						 cũng
+					R
+						 không
+					T
+						 hề
+					V(H)
+						 được
+					V
+						 biết
+					SBAR
+						S
+							NP(SUB)
+								L
+									 những
+								N(H)
+									 người
+								SBAR
+									S
+										NP(SUB)
+											P(H)
+												 tôi
+										VP
+											V(H)
+												 phải
+											VP
+												V(H)
+													 đi
+												V
+													 đón
+												NP(TMP)
+													N(H)
+														 ngày
+													P
+														 ấy
+							VP
+								V(H)
+									 là
+								NP
+									P(H)
+										 ai
+	.
+		 .
+</s>
+<s id = "27">
+S
+	VP(ADV)
+		V(H)
+			 Im lặng
+		NP(TMP)
+			M
+				 một
+			N(H)
+				 lúc
+			A
+				 lâu
+	C
+		 rồi
+	NP(SUB)
+		N(H)
+			 anh
+	VP
+		R
+			 lại
+		V(H)
+			 nói
+		:
+			 :
+		SBAR
+			S
+				X
+					 Có lẽ
+				NP(SUB)
+					 *E*
+				VP
+					R
+						 chỉ
+					R
+						 có thể
+					V(H)
+						 đoán
+					SBAR
+						C
+							 rằng
+						S
+							NP(SUB)
+								L
+									 những
+								N(H)
+									 thủy thủ
+								P
+									 đó
+							AP(PRD)
+								AP
+									A(H)
+										 chắc
+									AP
+										A(H)
+											 phải
+										C
+											 là
+										NP
+											Nc(H)
+												 người
+											Np
+												 Quảng Nam
+								,
+									 ,
+								AP
+									A(H)
+										 hẳn
+									NP
+										N(H)
+											 quê
+										NP
+											M
+												 một
+											N(H)
+												 làng
+											,
+												 ,
+											M
+												 một
+											N(H)
+												 xã
+											P
+												 nào
+											P
+												 đó
+											NP(LOC)
+												R
+													 cũng
+												N(H)
+													 quanh
+												NP
+													N(H)
+														 chân
+													N
+														 đèo
+													P
+														 này
+													T
+														 thôi
+							,
+								 ,
+							VP
+								R
+									 có thể
+								R
+									 từng
+								V(H)
+									 là
+								NP
+									N(H)
+										 dân
+									V
+										 đánh cá
+									VP
+										R
+											 rất
+										V(H)
+											 am hiểu
+										NP(DOB)
+											N(H)
+												 biển bờ
+											N(H)
+												 núi non
+											PP(LOC)
+												E(H)
+													 ở
+												NP
+													P(H)
+														 đây
+							,
+								 ,
+							AP(PRD)
+								A(H)
+									 hẳn
+								SBAR
+									S
+										NP(SUB)
+											P(H)
+												 người ta
+										VP
+											V(H)
+												 phải
+											VP
+												V(H)
+													 chọn
+												NP(DOB)
+													L
+														 những
+													N(H)
+														 người
+													X
+														 như vậy
+												PP(PRP)
+													E(H)
+														 để
+													VP
+														V(H)
+															 đưa
+														NP(DOB)
+															Nc(H)
+																 con
+															N
+																 thuyền
+															AP
+																A(H)
+																	 bí mật
+																PP(LOC)
+																	E(H)
+																		 vào
+																	NP
+																		N(H)
+																			 bến
+																		P
+																			 này
+	...
+		 ...
+</s>
+<s id = "28">
+S(TTL)
+	NP
+		M
+			 Một
+		N(H)
+			 người
+		A
+			 vô danh
+	.
+		 .
+</s>
+<s id = "29">
+SQ
+	VP(SUB)
+		V(H)
+			 Ước
+		V
+			 đoán
+		P
+			 đó
+		PP
+			E(H)
+				 của
+			NP
+				Nc(H)
+					 anh
+				Np
+					 Nguyễn Chơn
+	VP
+		R
+			 bỗng
+		V(H)
+			 gợi
+		R
+			 lên
+		PP(IOB)
+			E(H)
+				 cho
+			NP
+				P(H)
+					 chúng tôi
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 ý tưởng
+			:
+				 :
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						R
+							 có thể
+						V(H)
+							 tìm
+						R
+							 ra
+						,
+							 ,
+						NP(DOB)
+							X
+								 ít nhất
+							C
+								 là
+							L
+								 đôi chút
+							N(H)
+								 dấu vết
+							PP
+								E(H)
+									 của
+								NP
+									L
+										 những
+									N(H)
+										 người
+									N
+										 thủy thủ
+									AP
+										A(H)
+											 vô danh
+									AP
+										R
+											 đã
+										A(H)
+											 biệt tích
+										R
+											 mãi mãi
+									P
+										 ấy
+						,
+							 ,
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								P(H)
+									 đâu đó
+								PP(LOC)
+									E(H)
+										 trong
+									NP
+										L
+											 các
+										N(H)
+											 xóm làng
+								NP(LOC)
+									N(H)
+										 ven
+									NP
+										N(H)
+											 chân
+										N
+											 ngọn
+										N
+											 đèo
+										P
+											 này
+								R
+									 chăng
+	?
+		 ?
+</s>
+<s id = "30">
+S
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		V(H)
+			 la cà
+		PP(LOC)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 làng
+				N
+					 chài
+				Np
+					 Nam Ô
+	.
+		 .
+</s>
+<s id = "31">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Gặp
+		NP(DOB)
+			NP
+				L
+					 các
+				N(H)
+					 mẹ
+			,
+				 ,
+			NP
+				L
+					 các
+				N(H)
+					 bà
+			,
+				 ,
+			NP
+				L
+					 các
+				N(H)
+					 cụ già
+	...
+		 ...
+</s>
+<s id = "32">
+S
+	S
+		C
+			 Và
+		AP(ADV)
+			A(H)
+				 kỳ lạ
+			I
+				 thay
+		NP(SUB)
+			P(H)
+				 chúng tôi
+		VP
+			V(H)
+				 tìm
+			R
+				 ra
+	,
+		 ,
+	S
+		NP(SUB)
+			 *E*
+		AP(PRD)
+			R
+				 không
+			A(H)
+				 phải
+			C
+				 là
+			NP
+				M
+					 một
+				N(H)
+					 dấu vết
+		C
+			 mà
+		VP
+			V(H)
+				 là
+			NP
+				M
+					 một
+				N(H)
+					 con người
+	.
+		 .
+</s>
+<s id = "33">
+S(TTL)
+	NP
+		M
+			 Một
+		N(H)
+			 thủy thủ
+		PP
+			E(H)
+				 của
+			NP
+				N(H)
+					 chuyến
+				V
+					 đi
+				AP
+					A(H)
+						 đầu tiên
+				NP(DOB)
+					N(H)
+						 huyền thoại
+				P
+					 ấy
+	.
+		 .
+</s>
+<s id = "34">
+S
+	NP(SUB)
+		N(H)
+			 Con người
+		P
+			 ấy
+	VP
+		V(H)
+			 còn
+		V
+			 sống
+	.
+		 .
+</s>
+<s id = "35">
+S(SPL)
+	NP
+		M
+			 Một
+		N(H)
+			 ngư dân
+		NP(LOC)
+			N(H)
+				 làng
+			N
+				 chài
+			Np
+				 Nam Ô
+		NP(TMP)
+			N(H)
+				 hôm nay
+		:
+			 :
+		NP
+			Nc(H)
+				 anh
+			Np
+				 Huỳnh Ba
+	.
+		 .
+</s>
+<s id = "36">
+S
+	NP(SUB)
+		P(H)
+			 Đó
+	VP
+		V(H)
+			 là
+		NP
+			M
+				 một
+			N(H)
+				 người
+			NP
+				R
+					 đã
+				A
+					 hơn
+				M
+					 60
+				N(H)
+					 tuổi
+			,
+				 ,
+			NP
+				N(H)
+					 tóc
+				N
+					 muối tiêu
+			,
+				 ,
+			NP
+				N(H)
+					 chân mày
+				VP
+					R
+						 đã
+					V(H)
+						 có
+					NP(DOB)
+						Nc(H)
+							 sợi
+						A
+							 bạc
+	.
+		 .
+</s>
+<s id = "37">
+S
+	VP(ADV)
+		V(H)
+			 Ngồi
+		V
+			 lẫn
+		PP
+			E(H)
+				 trong
+			NP
+				Nc(H)
+					 đám
+				N
+					 ngư dân
+		PP(LOC)
+			E(H)
+				 trên
+			NP
+				N(H)
+					 bãi
+				N
+					 biển
+	NP(TMP)
+		N(H)
+			 hôm nay
+	NP(SUB)
+		 *E*
+	AP(PRD)
+		R
+			 thật
+		A(H)
+			 khó
+		VP
+			V(H)
+				 nhận
+			V
+				 ra
+			SBAR
+				S
+					PP(LOC)
+						E(H)
+							 ở
+						NP
+							N(H)
+								 anh
+					VP
+						V(H)
+							 *E*
+						NP(DOB)
+							M
+								 một
+							N(H)
+								 nét
+							P
+								 gì
+							AP
+								A(H)
+									 đặc biệt
+	,
+		 ,
+	VP
+		V(H)
+			 *E*
+		SBAR
+			S
+				R
+					 thậm chí
+				NP(SUB)
+					N(H)
+						 anh
+				VP
+					XP
+						R
+							 còn
+						X(H)
+							 có vẻ
+					VP
+						R
+							 hơi
+						V(H)
+							 lẩn khuất
+						PP(LOC)
+							E(H)
+								 trong
+							NP
+								Nc(H)
+									 đám
+								N
+									 người
+								AP
+									A(H)
+										 ồn ào
+	.
+		 .
+</s>
+<s id = "38">
+S
+	AP(ADV)
+		R
+			 Chỉ
+		R
+			 thật
+		A(H)
+			 tinh
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 mới
+		R
+			 có thể
+		R
+			 dần dần
+		V(H)
+			 nhận
+		V
+			 ra
+		NP(DOB)
+			N(H)
+				 điều
+			P
+				 này
+		:
+			 :
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 anh
+				VP
+					VP
+						R
+							 không
+						V(H)
+							 có
+					C
+						 hoặc
+					C
+						 là
+					VP
+						R
+							 đã
+						V(H)
+							 đánh
+						V
+							 mất
+						T
+							 đi
+						NP(DOB)
+							N(H)
+								 nét
+							N
+								 tính cách
+							VP
+								R
+									 thường
+								V(H)
+									 gặp
+								AP
+									A(H)
+										 phổ biến
+								PP
+									E(H)
+										 ở
+									NP
+										L
+											 những
+										N(H)
+											 người
+										NP
+											N(H)
+												 dân
+											N
+												 biển
+								:
+									 :
+								AP
+									AP
+										A(H)
+											 khoáng đạt
+									,
+										 ,
+									AP
+										A(H)
+											 ồ ạt
+									,
+										 ,
+									AP
+										A(H)
+											 liều lĩnh
+									,
+										 ,
+									AP
+										A(H)
+											 ồn ào
+								,
+									 ,
+								VP
+									VP
+										V(H)
+											 ăn
+										N
+											 sóng
+									VP
+										V(H)
+											 nói
+										N
+											 gió
+								,
+									 ,
+								AP
+									A(H)
+										 bạt mạng
+	.
+		 .
+</s>
+<s id = "39">
+S
+	PP(LOC)
+		E(H)
+			 Ở
+		NP
+			N(H)
+				 anh
+	VP
+		V(H)
+			 là
+		NP
+			Nc(H)
+				 sự
+			AP
+				A(H)
+					 trầm tĩnh
+			,
+				 ,
+			VP
+				V(H)
+					 suy tính
+			,
+				 ,
+			AP
+				A(H)
+					 cẩn trọng
+	.
+		 .
+</s>
+<s id = "40">
+S
+	NP(SUB)
+		M
+			 Đôi
+		N(H)
+			 mắt
+	AP(PRD)
+		R
+			 rất
+		A(H)
+			 kín đáo
+	,
+		 ,
+	VP
+		R
+			 luôn
+		VP
+			V(H)
+				 quan sát
+		,
+			 ,
+		VP
+			V(H)
+				 dò xét
+		,
+			 ,
+		VP
+			V(H)
+				 tính toán
+	.
+		 .
+</s>
+<s id = "41">
+S
+	NP(SUB)
+		N(H)
+			 Anh
+	VP
+		V(H)
+			 nói
+		AP
+			A(H)
+				 chậm
+			C
+				 và
+			A(H)
+				 nhỏ
+	,
+		 ,
+	AP(PRD)
+		A(H)
+			 ít
+		NP
+			N(H)
+				 lời
+	,
+		 ,
+	C
+		 như
+	VP
+		V(H)
+			 cân nhắc
+		NP(DOB)
+			R
+				 từng
+			N(H)
+				 lời nói
+			R
+				 ra
+	.
+		 .
+</s>
+<s id = "42">
+S
+	NP(SUB)
+		P(H)
+			 Tất cả
+		PP(LOC)
+			E(H)
+				 ở
+			NP
+				N(H)
+					 anh
+	VP
+		R
+			 đều
+		V(H)
+			 thể hiện
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 tính cách
+			AP
+				A(H)
+					 chín chắn
+				,
+					 ,
+				A(H)
+					 cẩn trọng
+			,
+				 ,
+			AP
+				X
+					 có lẽ
+				A(H)
+					 đúng
+				R
+					 hơn
+				R
+					 nữa
+				:
+					 :
+				NP
+					N(H)
+						 cảnh giác
+	.
+		 .
+</s>
+<s id = "43">
+S
+	NP(SUB)
+		Nc(H)
+			 Sự
+		A
+			 gan dạ
+		,
+			 ,
+		NP
+			R
+				 có thể
+			C
+				 là
+			Nc(H)
+				 sự
+			A
+				 gan dạ
+			NP
+				T
+					 đến
+				A(H)
+					 quyết liệt
+				,
+					 ,
+				A(H)
+					 gan lì
+	VP
+		V(H)
+			 ẩn
+		A
+			 sâu
+		PP(LOC)
+			E(H)
+				 trong
+			NP
+				M
+					 đôi
+				N(H)
+					 mắt
+				NP
+					N(H)
+						 màu
+					A
+						 nâu
+					A
+						 đục
+				NP
+					A
+						 nặng trĩu
+					N(H)
+						 suy tư
+	.
+		 .
+</s>
+<s id = "44">
+S
+	NP(TMP)
+		N(H)
+			 Ngày
+		P
+			 ấy
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 người ta
+	VP
+		R
+			 đã
+		V(H)
+			 chọn
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 con người
+		X
+			 như vậy
+		PP(PRP)
+			E(H)
+				 để
+			VP
+				V(H)
+					 tiến hành
+				NP(DOB)
+					N(H)
+						 chuyến
+					V
+						 mở đường
+					AP
+						A(H)
+							 đầu tiên
+					VP
+						V(H)
+							 mạo hiểm
+						VP
+							V(H)
+								 xuyên
+							NP(LOC)
+								N(H)
+									 biển
+								Np
+									 Đông
+		:
+			 :
+		SBAR
+			S
+				S
+					NP(SUB)
+						M
+							 một
+						N(H)
+							 con người
+					VP
+						VP
+							R
+								 đã
+							V(H)
+								 từng trải
+							PP
+								E(H)
+									 trong
+								VP
+									V(H)
+										 hoạt động
+									N
+										 địch hậu
+						,
+							 ,
+						VP
+							V(H)
+								 biết
+							VP
+								V(H)
+									 giấu
+								PP
+									E(H)
+										 dưới
+									NP
+										T
+											 cái
+										N(H)
+											 vẻ
+										AP
+											A(H)
+												 mộc mạc
+										,
+											 ,
+										AP
+											A(H)
+												 giản dị
+										,
+											 ,
+										AP
+											A(H)
+												 bình thường
+										,
+											 ,
+										AP
+											A(H)
+												 tầm thường
+										NP
+											N(H)
+												 bên
+											N
+												 ngoài
+											PP
+												E(H)
+													 của
+												NP
+													P(H)
+														 mình
+				S
+					NP(SUB)
+						Nc(H)
+							 sự
+						A
+							 mưu trí
+					AP(PRD)
+						AP
+							R
+								 vừa
+							A(H)
+								 liều lĩnh
+							A(H)
+								 quyết liệt
+						AP
+							R
+								 vừa
+							A(H)
+								 cẩn trọng
+				,
+					 ,
+				C
+					 và
+				S
+					NP(SUB)
+						T
+							 cái
+						N(H)
+							 quyết tâm
+					AP(PRD)
+						R
+							 có thể
+						R
+							 còn
+						A(H)
+							 rắn
+						R
+							 hơn
+						NP
+							T
+								 cả
+							N(H)
+								 sắt thép
+	.
+		 .
+</s>
+<s id = "45">
+S
+	S(SUB)
+		NP(SUB)
+			N(H)
+				 Tiểu đoàn
+			M
+				 644
+			,
+				 ,
+			C
+				 hay
+			VP
+				X
+					 có khi
+				R
+					 còn
+				V(H)
+					 gọi
+				C
+					 là
+				NP
+					N(H)
+						 đơn vị
+					M
+						 759
+			,
+				 ,
+			NP
+				X
+					 tức là
+				T
+					 cái
+				"
+					 "
+				N(H)
+					 tập đoàn
+				V
+					 đánh cá
+				NP(LOC)
+					N(H)
+						 miền
+					Np
+						 Nam
+				"
+					 "
+		VP
+			VP
+				V(H)
+					 mạo danh
+				VP
+					V(H)
+						 đóng
+					PP(LOC)
+						E(H)
+							 ở
+						NP
+							N(H)
+								 cửa sông
+							Np
+								 Gianh
+							NP(TMP)
+								N(H)
+									 ngày
+								P
+									 ấy
+			,
+				 ,
+			VP
+				V(H)
+					 tập hợp
+				NP(DOB)
+					R
+						 toàn
+					L
+						 những
+					N(H)
+						 con người
+					X
+						 như vậy
+					T
+						 đấy
+	,
+		 ,
+	AP(PRD)
+		R
+			 không
+		A(H)
+			 nhiều
+	.
+		 .
+</s>
+<s id = "46">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Một số
+		VP(DIR)
+			V(H)
+				 ra
+			NP(LOC)
+				Np(H)
+					 Bắc
+			PP(TMP)
+				E(H)
+					 từ
+				NP
+					N(H)
+						 ngày
+					V
+						 tập kết
+				QP
+					M(H)
+						 1954
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 một số
+		VP
+			V(H)
+				 ở
+			V
+				 lại
+			PP(LOC)
+				E(H)
+					 trong
+				NP
+					Np(H)
+						 Nam
+	,
+		 ,
+	S
+		NP(SUB)
+			 *T*
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 đảng viên
+				VP
+					V(H)
+						 được
+					SBAR
+						S
+							NP(SUB)
+								 *E*
+							VP
+								V(H)
+									 bố trí
+								VP
+									V(H)
+										 nằm vùng
+									VP(PRP)
+										V(H)
+											 hoạt động
+										A
+											 bí mật
+										PP(LOC)
+											E(H)
+												 trong
+											NP
+												N(H)
+													 lòng
+												N
+													 địch
+	,
+		 ,
+	C
+		 rồi
+	S
+		PP(TMP)
+			E(H)
+				 sau
+			NP
+				P(H)
+					 đó
+		NP(SUB)
+			 *T*
+		VP
+			V(H)
+				 vượt tuyến
+			VP(DIR)
+				V(H)
+					 ra
+				NP
+					Np(H)
+						 Bắc
+			PP(MNR)
+				E(H)
+					 theo
+				NP
+					M
+						 một
+					N(H)
+						 mật lệnh
+					VP
+						V(H)
+							 phát
+						V
+							 ra
+					PP(LOC)
+						E(H)
+							 từ
+						NP
+							M
+								 một
+							N(H)
+								 trung tâm
+							VP
+								V(H)
+									 chỉ đạo
+							P
+								 nào
+							T
+								 đó
+					SBAR
+						C
+							 mà
+						S
+							NP(SUB)
+								T
+									 chính
+								P(H)
+									 họ
+							VP
+								R
+									 cũng
+								R
+									 không
+								T
+									 hề
+								V(H)
+									 biết
+	.
+		 .
+</s>
+<s id = "47">
+S
+	NP(SUB)
+		Np(H)
+			 Huỳnh Ba
+	VP
+		V(H)
+			 thuộc
+		NP(DOB)
+			N(H)
+				 loại
+			N
+				 thứ
+			M
+				 hai
+	.
+		 .
+</s>
+<s id = "48">
+S
+	NP(SUB)
+		N(H)
+			 Anh
+	VP
+		VP
+			V(H)
+				 là
+			NP
+				N(H)
+					 đảng viên
+		,
+			 ,
+		VP
+			V(H)
+				 được
+			VP
+				V(H)
+					 bố trí
+				VP
+					V(H)
+						 ở
+					V
+						 lại
+				VP(PRP)
+					V(H)
+						 nằm vùng
+	.
+		 .
+</s>
+<s id = "49">
+S
+	C
+		 Và
+	NP(TMP)
+		N(H)
+			 giữa
+		NP
+			N(H)
+				 năm
+			M
+				 1959
+	NP(SUB)
+		Np(H)
+			 Huỳnh Ba
+	VP
+		V(H)
+			 nhận
+		V
+			 được
+		NP(DOB)
+			N(H)
+				 lệnh
+			AP
+				A(H)
+					 bí mật
+				VP(PRP)
+					VP
+						V(H)
+							 tìm
+						NP(DOB)
+							N(H)
+								 đường
+							VP
+								V(H)
+									 vượt tuyến
+					,
+						 ,
+					VP
+						V(H)
+							 qua
+						NP(DOB)
+							N(H)
+								 sông
+							Np
+								 Hiền Lương
+					,
+						 ,
+					VP(DIR)
+						V(H)
+							 ra
+						NP(LOC)
+							Np(H)
+								 Bắc
+	...
+		 ...
+</s>
+<s id = "50">
+S
+	NP(SUB)
+		N(H)
+			 Anh
+	VP
+		V(H)
+			 trở thành
+		NP(DOB)
+			M
+				 một
+			E
+				 trong
+			L
+				 những
+			N(H)
+				 chiến sĩ
+			AP
+				A(H)
+					 đầu tiên
+			PP
+				E(H)
+					 của
+				"
+					 "
+				NP
+					N(H)
+						 tập đoàn
+					V
+						 đánh cá
+					NP(LOC)
+						N(H)
+							 miền
+						Np
+							 Nam
+				"
+					 "
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					N(H)
+						 cửa sông
+					Np
+						 Gianh
+	.
+		 .
+</s>
+<s id = "51">
+S
+	PP(LOC)
+		E(H)
+			 Ở
+		NP
+			P(H)
+				 đấy
+	NP(SUB)
+		P(H)
+			 họ
+	VP
+		V(H)
+			 đi
+		VP
+			V(H)
+				 đánh cá
+			AP
+				A(H)
+					 thật sự
+			AP
+				A(H)
+					 cùng
+				PP
+					E(H)
+						 với
+					NP
+						N(H)
+							 ngư dân
+						N
+							 địa phương
+			PP(PRP)
+				E(H)
+					 để
+				VP
+					V(H)
+						 ngụy trang
+	.
+		 .
+</s>
+<s id = "52">
+S
+	C
+		 Và
+	S
+		NP(SUB)
+			 *E*
+		AP(PRD)
+			A(H)
+				 bí mật
+			VP
+				V(H)
+					 đóng
+				NP(DOB)
+					N(H)
+						 thuyền
+					:
+						 :
+					SBAR
+						S
+							NP(SUB)
+								L
+									 những
+								Nc(H)
+									 chiếc
+								N
+									 thuyền
+								VP
+									V(H)
+										 đánh cá
+							AP(PRD)
+								A(H)
+									 hệt
+								NP
+									N(H)
+										 kiểu
+									NP
+										N(H)
+											 thuyền
+										Np
+											 Quảng Nam
+	,
+		 ,
+	S
+		PP(LOC)
+			E(H)
+				 ở
+			NP
+				Np(H)
+					 Quảng Nam
+		NP(SUB)
+			P(H)
+				 người ta
+		VP
+			V(H)
+				 gọi
+			C
+				 là
+			NP
+				N(H)
+					 ghe bầu
+	.
+		 .
+</s>
+<s id = "53">
+S(TTL)
+	NP(TMP)
+		L
+			 Những
+		N(H)
+			 ngày
+		NP
+			N(H)
+				 tháng chạp
+			NP
+				N(H)
+					 năm
+				M
+					 1959
+	.
+		 .
+</s>
+<s id = "54">
+S
+	PP(LOC)
+		PP
+			E(H)
+				 Ở
+			"
+				 "
+			NP
+				N(H)
+					 tập đoàn
+				V
+					 đánh cá
+				NP
+					N(H)
+						 miền
+					Np
+						 Nam
+			"
+				 "
+		PP
+			E(H)
+				 tại
+			NP
+				N(H)
+					 cửa sông
+				Np
+					 Gianh
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 người ta
+	VP
+		VP
+			V(H)
+				 khiêng
+		,
+			 ,
+		VP
+			V(H)
+				 chất
+			N
+				 đống
+			NP(DOB)
+				NP
+					L
+						 những
+					N(H)
+						 thùng
+					N
+						 hàng
+					VP
+						V(H)
+							 bọc
+						NP(DOB)
+							N(H)
+								 vỏ
+							N
+								 thiếc
+				,
+					 ,
+				NP
+					L
+						 những
+					Nc(H)
+						 bó
+					N
+						 súng
+					VP
+						V(H)
+							 quấn
+						NP(DOB)
+							N(H)
+								 vải
+							N
+								 dầu
+							VP(PRP)
+								V(H)
+									 chống
+								V
+									 thấm
+	.
+		 .
+</s>
+<s id = "55">
+S(TTL)
+	NP(TMP)
+		M
+			 4
+		Nu(H)
+			 giờ
+		N
+			 chiều
+	.
+		 .
+</s>
+<s id = "56">
+S
+	PP(LOC)
+		E(H)
+			 Trên
+		NP
+			N(H)
+				 bến
+			NP
+				N(H)
+					 sông
+				Np
+					 Gianh
+	,
+		 ,
+	NP(TPC)
+		M
+			 10
+		N(H)
+			 con người
+	,
+		 ,
+	S
+		NP(SUB)
+			M
+				 năm
+			N(H)
+				 người
+		VP
+			V(H)
+				 đi
+			VP
+				V(H)
+					 tiễn
+	S
+		NP(SUB)
+			M
+				 năm
+			N(H)
+				 người
+		VP
+			R
+				 sẽ
+			V(H)
+				 lên đường
+	.
+		 .
+</s>
+<s id = "57">
+S(SPL)
+	NP
+		N(H)
+			 Chén
+		N
+			 rượu
+		VP
+			V(H)
+				 chia tay
+	.
+		 .
+</s>
+<s id = "58">
+S
+	BP(SUB)
+		L
+			 Những
+		Nc(H)
+			 cái
+		V
+			 nắm
+		N
+			 tay
+		VP
+			V(H)
+				 siết
+			A
+				 chặt
+	,
+		 ,
+	VP
+		R
+			 rất
+		R
+			 có thể
+		V(H)
+			 là
+		NP(TMP)
+			N(H)
+				 lần
+			A
+				 cuối cùng
+	.
+		 .
+</s>
+<s id = "59">
+S
+	NP(SUB)
+		N(H)
+			 Cánh
+		N
+			 buồm
+	VP
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 kéo
+					V
+						 lên
+	,
+		 ,
+	AP(PRD)
+		A(H)
+			 trắng
+		A
+			 nhờ
+		NP(TMP)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 đêm
+				A
+					 đen
+	.
+		 .
+</s>
+<s id = "60">
+S
+	NP(SUB)
+		M
+			 Một
+		Nc(H)
+			 cơn
+		N
+			 gió
+	VP
+		A
+			 bất ngờ
+		V(H)
+			 ào
+		V
+			 đến
+	.
+		 .
+</s>
+<s id = "61">
+S
+	NP(SUB)
+		Nc(H)
+			 Chiếc
+		N
+			 ghe
+	VP
+		VP
+			V(H)
+				 giả
+			VP
+				V(H)
+					 rời
+				NP(LOC)
+					N(H)
+						 bến
+		,
+			 ,
+		VP
+			V(H)
+				 lao
+			V
+				 ra
+			NP(LOC)
+				N(H)
+					 khơi
+		,
+			 ,
+		VP
+			V(H)
+				 lao
+			PP(TMP)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 đêm
+					A
+						 đen
+	.
+		 .
+</s>
+<s id = "62">
+S
+	C
+		 Và
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 mất hút
+		PP(TMP)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 màn
+				N
+					 đêm
+				AP
+					A(H)
+						 đặc
+					A
+						 kín
+	.
+		 .
+</s>
+<s id = "63">
+S
+	NP(LOC)
+		N(H)
+			 Bên
+		NP
+			Nc(H)
+				 chiếc
+			N
+				 máy
+			NP
+				N(H)
+					 điện tín
+			AP
+				A(H)
+					 thô sơ
+	,
+		 ,
+	NP(SUB)
+		M
+			 một
+		N(H)
+			 cô
+		N
+			 báo vụ viên
+	VP
+		R
+			 đang
+		A
+			 hối hả
+		V(H)
+			 gõ
+		NP(DOB)
+			N(H)
+				 nhịp
+			N
+				 máy
+	.
+		 .
+</s>
+<s id = "64">
+S
+	NP(SUB)
+		N(H)
+			 Bức điện
+	VP
+		V(H)
+			 viết
+		:
+			 :
+		SBAR
+			S
+				VP
+					V(H)
+						 Gửi
+					NP(DOB)
+						N(H)
+							 Tỉnh ủy
+						Np
+							 Quảng Nam
+				,
+					 ,
+				NP(SUB)
+					N(H)
+						 Thuyền
+				VP
+					V(H)
+						 rời
+					NP(LOC)
+						N(H)
+							 bến
+					NP(TMP)
+						M
+							 30
+						N(H)
+							 tết
+	.
+		 .
+</s>
+<s id = "65">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Dự kiến
+		VP
+			V(H)
+				 đến
+			PP(TMP)
+				E(H)
+					 sau
+				NP
+					M
+						 hai
+					N(H)
+						 ngày
+	.
+		 .
+</s>
+<s id = "66">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Đón
+		PP(LOC)
+			E(H)
+				 tại
+			NP
+				Np(H)
+					 Hố Chuối
+			NP
+				N(H)
+					 chân
+				N
+					 đèo
+	.
+		 .
+</s>
+<s id = "67">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Nhận
+		V
+			 được
+		NP(DOB)
+			N(H)
+				 báo cáo
+	...
+		 ...
+</s>
+<s id = "68">
+S(TTL)
+	NP
+		N(H)
+			 Chuyến
+		V
+			 đi
+		VP
+			V(H)
+				 mở đường
+	.
+		 .
+</s>
+<s id = "69">
+S
+	NP(SUB)
+		Nc(H)
+			 Anh
+		Np
+			 Huỳnh Ba
+	VP
+		V(H)
+			 kể
+		V
+			 lại
+		PP
+			E(H)
+				 với
+			NP
+				P(H)
+					 chúng tôi
+		NP(DOB)
+			N(H)
+				 câu chuyện
+			NP(TMP)
+				N(H)
+					 năm
+				A
+					 xưa
+			PP
+				E(H)
+					 của
+				NP
+					N(H)
+						 anh
+			PP(TMP)
+				E(H)
+					 trên
+				NP
+					M
+						 một
+					N(H)
+						 chuyến
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 anh
+							VP
+								V(H)
+									 rủ
+								NP(DOB)
+									P(H)
+										 chúng tôi
+									AP
+										A(H)
+											 cùng
+										VP
+											V(H)
+												 đi
+											NP(DOB)
+												N(H)
+													 biển
+											VP(PRP)
+												V(H)
+													 đánh cá
+	.
+		 .
+</s>
+<s id = "70">
+S(PV)
+	NP(SUB)
+		N(H)
+			 Câu chuyện
+	VP
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					A
+						 rì rầm
+					V(H)
+						 kể
+					V
+						 lại
+					PP(LOC)
+						E(H)
+							 trên
+						NP
+							N(H)
+								 biển
+							N
+								 đêm
+							AP
+								A(H)
+									 yên tĩnh
+	.
+		 .
+</s>
+<s id = "71">
+S
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		V(H)
+			 có
+		NP(DOB)
+			M
+				 năm
+			N(H)
+				 người
+			:
+				 :
+			SBAR
+				S
+					NP(SUB)
+						Nc(H)
+							 anh
+						Np
+							 Nguyễn Xanh
+					,
+						 ,
+					NP(PRD)
+						N(H)
+							 quê
+						Np
+							 Tam Kỳ
+					,
+						 ,
+					VP
+						V(H)
+							 về
+						N
+							 sau
+						VP
+							R
+								 đã
+							V(H)
+								 hi sinh
+	.
+		 .
+</s>
+<s id = "72">
+S
+	NP(SUB)
+		Nc(H)
+			 Anh
+		Np
+			 Trần Mức
+	,
+		 ,
+	NP(PRD)
+		N(H)
+			 quê
+		NP(LOC)
+			Np(H)
+				 Quảng Ngãi
+	,
+		 ,
+	VP
+		V(H)
+			 về
+		N
+			 sau
+		VP
+			R
+				 có
+			V(H)
+				 về
+			VP
+				V(H)
+					 làm
+				NP(DOB)
+					N(H)
+						 cán bộ
+					N
+						 huyện đội
+					NP
+						Np(H)
+							 Mộ Đức
+					,
+						 ,
+					NP
+						Np(H)
+							 Quảng Ngãi
+	,
+		 ,
+	VP
+		R
+			 cũng
+		R
+			 đã
+		V(H)
+			 hi sinh
+	.
+		 .
+</s>
+<s id = "73">
+S
+	NP(SUB)
+		Nc(H)
+			 Anh
+		Np
+			 Huỳnh Sơn
+		,
+			 ,
+		NP
+			Nc(H)
+				 người
+			Np
+				 Thăng Bình
+	,
+		 ,
+	VP
+		R
+			 đã
+		V(H)
+			 hi sinh
+	.
+		 .
+</s>
+<s id = "74">
+S
+	NP(SUB)
+		Nc(H)
+			 Anh
+		Np
+			 Nguyễn Nử
+		,
+			 ,
+		NP
+			N(H)
+				 người
+			NP(LOC)
+				Np(H)
+					 Duy Nghĩa
+				,
+					 ,
+				Np(H)
+					 Duy Xuyên
+	,
+		 ,
+	VP
+		R
+			 cũng
+		R
+			 đã
+		V(H)
+			 hi sinh
+	.
+		 .
+</s>
+<s id = "75">
+S(SPL)
+	C
+		 Và
+	NP
+		P(H)
+			 tôi
+	.
+		 .
+</s>
+<s id = "76">
+S
+	NP(TMP)
+		P(H)
+			 Nay
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 còn
+		V
+			 lại
+		NP(DOB)
+			M
+				 mỗi
+			P(H)
+				 mình
+			P
+				 tôi
+	.
+		 .
+</s>
+<s id = "77">
+S
+	NP(SUB)
+		P(H)
+			 Tất cả
+		P
+			 chúng tôi
+	VP
+		R
+			 đều
+		R
+			 từng
+		V(H)
+			 là
+		NP
+			N(H)
+				 thủy thủ
+			PP
+				PP(LOC)
+					E(H)
+						 trong
+					NP
+						L
+							 các
+						N(H)
+							 đội
+						N
+							 thuyền
+						VP
+							V(H)
+								 chở
+							NP(DOB)
+								N(H)
+									 vũ khí
+								AP
+									A(H)
+										 bí mật
+				PP(DIR)
+					PP
+						E(H)
+							 từ
+						NP
+							N(H)
+								 Khu
+							M
+								 5
+					PP
+						E(H)
+							 vào
+						NP
+							NP
+								N(H)
+									 Khu
+								M
+									 6
+							C
+								 và
+							NP
+								Np(H)
+									 Nam bộ
+				PP(TMP)
+					E(H)
+						 thời
+					NP
+						M
+							 chín
+						N(H)
+							 năm
+						VP
+							V(H)
+								 chống
+							NP(DOB)
+								Np(H)
+									 Pháp
+	.
+		 .
+</s>
+<s id = "78">
+S
+	NP(TMP)
+		N(H)
+			 Thời
+		P
+			 ấy
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		R
+			 từng
+		V(H)
+			 có
+		NP(DOB)
+			N(H)
+				 kinh nghiệm
+			:
+				 :
+			VP
+				V(H)
+					 ra
+				V
+					 đi
+				PP(TMP)
+					E(H)
+						 vào
+					AP
+						A(H)
+							 đúng
+						NP
+							L
+								 những
+							N(H)
+								 ngày
+							NP
+								NP
+									N(H)
+										 dông
+									N(H)
+										 bão
+									AP
+										A(H)
+											 lớn
+								,
+									 ,
+								NP
+									N(H)
+										 biển
+									V
+										 động
+								C
+									 hoặc
+								NP
+									L
+										 những
+									N(H)
+										 ngày
+									N
+										 tết
+	.
+		 .
+</s>
+<s id = "79">
+S
+	NP(SUB)
+		P(H)
+			 Ấy
+	VP
+		V(H)
+			 là
+		NP(TMP)
+			L
+				 những
+			N(H)
+				 lúc
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 địch
+					VP
+						V(H)
+							 xao nhãng
+						V
+							 tuần tra
+						PP(LOC)
+							E(H)
+								 trên
+							NP
+								N(H)
+									 biển
+	.
+		 .
+</s>
+<s id = "80">
+S
+	NP(TMP)
+		P(H)
+			 Giờ đây
+		NP
+			R
+				 cũng
+			P(H)
+				 vậy
+	,
+		 ,
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 ra
+		V
+			 đi
+		AP(TMP)
+			A(H)
+				 đúng
+			NP
+				N(H)
+					 đêm
+				M
+					 30
+				N
+					 tết
+	.
+		 .
+</s>
+<s id = "81">
+S
+	NP(TMP)
+		N(H)
+			 Đêm
+		NP
+			N(H)
+				 thứ
+			N
+				 nhất
+	,
+		 ,
+	C
+		 tức
+	NP(TMP)
+		N(H)
+			 đêm
+		N
+			 giao thừa
+	,
+		 ,
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 đã
+		V(H)
+			 phải
+		VP
+			V(H)
+				 vật lộn
+			PP
+				E(H)
+					 với
+				NP
+					N(H)
+						 gió
+					NP
+						NP
+							N(H)
+								 cấp
+							M
+								 5
+						,
+							 ,
+						NP
+							N(H)
+								 cấp
+							M
+								 6
+	.
+		 .
+</s>
+<s id = "82">
+S
+	PP(TMP)
+		E(H)
+			 Đến
+		NP
+			N(H)
+				 sáng
+			NP
+				N(H)
+					 mồng
+				M
+					 1
+	C
+		 thì
+	NP(SUB)
+		N(H)
+			 trời
+	VP
+		V(H)
+			 xuống
+		NP(DOB)
+			N(H)
+				 gió
+			AP
+				A(H)
+					 to
+				R
+					 hơn
+				:
+					 :
+				NP
+					N(H)
+						 cấp
+					M
+						 7
+				,
+					 ,
+				NP
+					N(H)
+						 cấp
+					M
+						 8
+	.
+		 .
+</s>
+<s id = "83">
+S
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 Vẫn
+		V(H)
+			 ra sức
+		VP(PRP)
+			V(H)
+				 chống chèo
+	.
+		 .
+</s>
+<s id = "84">
+S
+	NP(TMP)
+		A
+			 Khoảng
+		M
+			 12
+		Nu(H)
+			 giờ
+		N
+			 trưa
+	,
+		 ,
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 bị
+		VP
+			V(H)
+				 gãy
+			T
+				 mất
+			NP(DOB)
+				N(H)
+					 tay lái
+	.
+		 .
+</s>
+<s id = "85">
+S
+	C
+		 Nhưng
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		V(H)
+			 còn
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 tay lái
+			VP
+				V(H)
+					 dự phòng
+	.
+		 .
+</s>
+<s id = "86">
+S
+	PP(TMP)
+		E(H)
+			 Đến
+		NP
+			N(H)
+				 trưa
+			NP
+				N(H)
+					 mồng
+				M
+					 2
+	C
+		 thì
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 gãy
+		V
+			 tiếp
+		NP(DOB)
+			N(H)
+				 tay lái
+			NP
+				N(H)
+					 thứ
+				M
+					 hai
+	.
+		 .
+</s>
+<s id = "87">
+S
+	NP(SUB)
+		 *E*
+	VP
+		VP
+			V(H)
+				 Kéo
+			R
+				 lên
+		VP
+			V(H)
+				 sửa
+			NP(EXT)
+				L
+					 mấy
+				N(H)
+					 lần
+			VP
+				R
+					 không
+				V(H)
+					 được
+	.
+		 .
+</s>
+<s id = "88">
+S
+	NP(TMP)
+		P(H)
+			 Bây giờ
+	C
+		 thì
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 đành
+		VP
+			V(H)
+				 thả
+			V
+				 trôi
+	.
+		 .
+</s>
+<s id = "89">
+S
+	NP(TMP)
+		N(H)
+			 Sáng
+		NP
+			N(H)
+				 mồng
+			M
+				 4
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 tôi
+	VP
+		V(H)
+			 nhận
+		V
+			 ra
+		SBAR
+			S
+				NP(LOC)
+					N(H)
+						 đảo
+					Np
+						 Lý Sơn
+				VP
+					V(H)
+						 cách
+					NP(EXT)
+						A
+							 chừng
+						M
+							 6
+						-
+							 -
+						M
+							 7
+						Nu(H)
+							 km
+	.
+		 .
+</s>
+<s id = "90">
+S
+	NP(SUB)
+		N(H)
+			 Biển
+	AP(PRD)
+		R
+			 đã
+		A(H)
+			 lặng
+	.
+		 .
+</s>
+<s id = "91">
+S
+	SBAR(PRP)
+		S
+			NP(SUB)
+				N(H)
+					 Biển
+			AP(PRD)
+				A(H)
+					 lặng
+	C
+		 thì
+	S
+		NP(SUB)
+			N(H)
+				 dân
+			Np
+				 Lý Sơn
+		VP
+			V(H)
+				 đổ
+			V
+				 ra
+			VP(PRP)
+				V(H)
+					 đánh cá
+				AP
+					A(H)
+						 nhiều
+	.
+		 .
+</s>
+<s id = "92">
+S
+	C
+		 Mà
+	NP(SUB)
+		Nc(H)
+			 bọn
+		N
+			 thuyền
+		N
+			 địch
+	VP
+		R
+			 cũng
+		V(H)
+			 ra
+	.
+		 .
+</s>
+<s id = "93">
+S
+	X
+		 Tức là
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 có
+		NP(DOB)
+			N(H)
+				 nguy cơ
+			VP
+				V(H)
+					 bị
+				V
+					 bắt
+	.
+		 .
+</s>
+<s id = "94">
+S
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		V(H)
+			 quyết định
+		VP
+			V(H)
+				 thủ tiêu
+			NP(DOB)
+				N(H)
+					 hàng hóa
+	.
+		 .
+</s>
+<s id = "95">
+S
+	NP(SUB)
+		P(H)
+			 Tất cả
+	VP
+		V(H)
+			 có
+		NP(DOB)
+			M
+				 6
+			Nu(H)
+				 tấn
+			:
+				 :
+			NP
+				NP
+					M
+						 500
+					Nu(H)
+						 kg
+					N
+						 vải
+				,
+					 ,
+				NP
+					M
+						 400
+					Nu(H)
+						 kg
+					N
+						 nilông
+					VP
+						V(H)
+							 đi
+						N
+							 mưa
+				C
+					 và
+				NP
+					N(H)
+						 thuốc men
+					,
+						 ,
+					AP
+						A(H)
+							 chủ yếu
+						C
+							 là
+						NP
+							N(H)
+								 thuốc
+							VP
+								V(H)
+									 chống
+								NP(DOB)
+									N(H)
+										 sốt rét
+	.
+		 .
+</s>
+<s id = "96">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Còn
+		R
+			 lại
+		NP(DOB)
+			R
+				 toàn
+			N(H)
+				 súng đạn
+	.
+		 .
+</s>
+<s id = "97">
+S
+	NP(AUB)
+		 *E*
+	VP
+		V(H)
+			 Vứt
+		T
+			 hết
+		VP
+			V(H)
+				 xuống
+			NP(LOC)
+				E(H)
+					 biển
+	.
+		 .
+</s>
+<s id = "98">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Có
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 nguyên tắc
+			:
+				 :
+			AP
+				A(H)
+					 tuyệt đối
+				VP
+					R
+						 không
+					V(H)
+						 để
+					NP(DOB)
+						N(H)
+							 hàng
+						VP
+							V(H)
+								 rơi
+							V
+								 vào
+							NP(DOB)
+								N(H)
+									 tay
+								N
+									 địch
+	...
+		 ...
+</s>
+<s id = "99">
+S(PV)
+	NP(TMP)
+		M
+			 4
+		Nu(H)
+			 g
+		M
+			 30
+		NP
+			N(H)
+				 chiều
+			NP
+				N(H)
+					 hôm
+				P
+					 đó
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		V(H)
+			 bị
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 bắt
+	.
+		 .
+</s>
+<s id = "100">
+S
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 Đã
+		V(H)
+			 bàn
+		PP
+			E(H)
+				 với
+			N
+				 nhau
+			NP
+				N(H)
+					 trước
+		:
+			 :
+		SBAR
+			S
+				NP(SUB)
+					P(H)
+						 chúng tôi
+				VP
+					VP
+						V(H)
+							 là
+						NP
+							N(H)
+								 thuyền
+							V
+								 đánh cá
+					,
+						 ,
+					VP
+						V(H)
+							 bị
+						NP(DOB)
+							N(H)
+								 bão
+						VP
+							V(H)
+								 trôi dạt
+							VP
+								V(H)
+									 vô
+								NP(LOC)
+									P(H)
+										 đây
+	.
+		 .
+</s>
+<s id = "101">
+S
+	AP(ADV)
+		A(H)
+			 Tất nhiên
+	C
+		 là
+	NP(SUB)
+		P(H)
+			 chúng
+	VP
+		R
+			 không
+		V(H)
+			 tin
+	.
+		 .
+</s>
+<s id = "102">
+S(PV)
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Bị
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 giam
+					PP(LOC)
+						E(H)
+							 ở
+						NP
+							N(H)
+								 đảo
+							Np
+								 Lý Sơn
+					NP(TMP)
+						M
+							 một
+						N(H)
+							 tuần
+	.
+		 .
+</s>
+<s id = "103">
+S
+	C
+		 Rồi
+	NP(SUB)
+		 *E*
+	VP
+		VP
+			V(H)
+				 đưa
+			VP(DIR)
+				V(H)
+					 về
+				NP(LOC)
+					Np(H)
+						 Đà Nẵng
+		VP
+			V(H)
+				 nhốt
+			NP(TMP)
+				M
+					 hai
+				N(H)
+					 tháng
+				M
+					 rưỡi
+	.
+		 .
+</s>
+<s id = "104">
+S
+	C
+		 Rồi
+	NP(SUB)
+		 *E*
+	VP(DIR)
+		V(H)
+			 vào
+		NP(LOC)
+			Np(H)
+				 Tổng nha
+			Np
+				 Sài Gòn
+	.
+		 .
+</s>
+<s id = "105">
+S(SPL)
+	C
+		 Rồi
+	NP
+		Np(H)
+			 Chí Hòa
+	.
+		 .
+</s>
+<s id = "106">
+S
+	NP(LOC)
+		N(H)
+			 Lao
+		Np
+			 Chí Hòa
+	AP(PRD)
+		A(H)
+			 đầy
+		R
+			 quá
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					R
+						 lại
+					V(H)
+						 gửi
+					VP
+						V(H)
+							 qua
+						NP(LOC)
+							N(H)
+								 lao
+							Np
+								 Gia Định
+	.
+		 .
+</s>
+<s id = "107">
+S
+	NP(TMP)
+		N(H)
+			 Đầu
+		NP
+			N(H)
+				 năm
+			M
+				 1961
+	NP(SUB)
+		 *E*
+	VP(DIR)
+		V(H)
+			 về
+		NP(LOC)
+			Np(H)
+				 Phú Lợi
+	.
+		 .
+</s>
+<s id = "108">
+S
+	NP(TMP)
+		N(H)
+			 Năm
+		M
+			 1964
+	S
+		NP(SUB)
+			N(H)
+				 nhà lao
+			Np
+				 Phú Lợi
+		VP
+			V(H)
+				 giải tán
+	,
+		 ,
+	S
+		NP(SUB)
+			P(H)
+				 tôi
+		VP(DIR)
+			V(H)
+				 ra
+			NP(LOC)
+				Np(H)
+					 Côn Đảo
+	.
+		 .
+</s>
+<s id = "109">
+S
+	PP(LOC)
+		E(H)
+			 Ở
+		NP
+			Np(H)
+				 Côn Đảo
+	,
+		 ,
+	PR(TMP)
+		R(H)
+			 lâu lâu
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 lại
+		V(H)
+			 bị
+		VP
+			V(H)
+				 gọi
+			VP(DIR)
+				V(H)
+					 về
+				NP(LOC)
+					Np(H)
+						 Sài Gòn
+				VP(PRP)
+					V(H)
+						 tra khảo
+					,
+						 ,
+					V(H)
+						 khai thác
+	.
+		 .
+</s>
+<s id = "110">
+S
+	NP(TMP)
+		N(H)
+			 Trước sau
+	NP(SUB)
+		P(H)
+			 tôi
+	VP(DIR)
+		V(H)
+			 ra
+		NP(LOC)
+			Np(H)
+				 Côn Đảo
+		NP
+			P(H)
+				 tất cả
+			NP(EXT)
+				M
+					 12
+				N(H)
+					 lần
+	...
+		 ...
+</s>
+<s id = "111">
+S(PV)
+	PP(TMP)
+		T
+			 Cho
+		E(H)
+			 đến
+		NP
+			N(H)
+				 cuối
+			NP
+				N(H)
+					 năm
+				M
+					 1974
+	NP(SUB)
+		P(H)
+			 tôi
+	VP
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 thả
+					R
+						 ra
+	.
+		 .
+</s>
+<s id = "112">
+S
+	NP(SUB)
+		 *E*
+	AP(PRD)
+		A(H)
+			 Bệnh tật
+		,
+			 ,
+		A(H)
+			 xơ xác
+	.
+		 .
+</s>
+<s id = "113">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Lần mò
+		VP
+			V(H)
+				 về
+			R
+				 được
+		PP(LOC)
+			E(H)
+				 đến
+			NP
+				Np(H)
+					 Nam Ô
+				AP
+					R
+						 cũng
+					A(H)
+						 vừa
+					C
+						 là
+					NP(TMP)
+						N(H)
+							 ngày
+						VP
+							V(H)
+								 giải phóng
+							NP(LOC)
+								Np(H)
+									 Đà Nẵng
+						,
+							 ,
+						QP
+							M(H)
+								 29
+							-
+								 -
+							M
+								 3
+							-
+								 -
+							M
+								 1975
+	...
+		 ...
+</s>
+<s id = "114">
+S
+	PP(TMP)
+		E(H)
+			 Sau
+		NP
+			N(H)
+				 chuyến
+			V
+				 mở đường
+			AP
+				A(H)
+					 đầu tiên
+			VP
+				V(H)
+					 thất bại
+	,
+		 ,
+	VP(SUB)
+		V(H)
+			 có
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 cuộc
+			V
+				 họp
+	VP
+		R
+			 đã
+		V(H)
+			 diễn
+		V
+			 ra
+		NP(LOC)
+			N(H)
+				 bên
+			NP
+				NP
+					Nc(H)
+						 tấm
+					N
+						 bản đồ
+					AP
+						A(H)
+							 lớn
+				,
+					 ,
+				NP
+					N(H)
+						 đất
+					C
+						 và
+					N(H)
+						 biển
+					NP(LOC)
+						N(H)
+							 miền
+						Np
+							 Nam
+	.
+		 .
+</s>
+<s id = "115">
+S(PV)
+	C
+		 Rồi
+	NP(SUB)
+		M
+			 một
+		N(H)
+			 bức điện
+		AP
+			A(H)
+				 tuyệt mật
+	VP
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 đánh
+					V
+						 đi
+					PP(DIR)
+						E(H)
+							 từ
+						NP
+							N(H)
+								 cơ quan
+							N
+								 đầu não
+							AP
+								A(H)
+									 tối cao
+					:
+						 :
+					SBAR
+						S
+							S
+								NP(SUB)
+									 *E*
+								VP
+									V(H)
+										 Gửi
+									NP(LOC)
+										NP
+											Np(H)
+												 Trung ương
+											N
+												 Cục
+										C
+											 và
+										NP
+											P
+												 tất cả
+											L
+												 các
+											N(H)
+												 tỉnh
+											NP(LOC)
+												N(H)
+													 ven
+												N
+													 biển
+												NP
+													N(H)
+														 miền
+													Np
+														 Nam
+							,
+								 ,
+							S
+								NP(SUB)
+									L
+										 Các
+									N(H)
+										 tỉnh
+								VP
+									V(H)
+										 tổ chức
+									SBAR(PRP)
+										E(H)
+											 cho
+										S
+											S
+												NP(SUB)
+													N(H)
+														 thuyền
+												AP(PRD)
+													A(H)
+														 bí mật
+													VP
+														V(H)
+															 vượt
+														NP(DOB)
+															N(H)
+																 biển
+															VP(DIR)
+																V(H)
+																	 ra
+																NP(LOC)
+																	Np(H)
+																		 Bắc
+											,
+												 ,
+											S
+												NP(SUB)
+													 *E*
+												VP
+													V(H)
+														 báo cáo
+													NP(DOB)
+														NP
+															N(H)
+																 tình hình
+															N
+																 bến bãi
+														,
+															 ,
+														NP
+															N(H)
+																 tình hình
+															SBAR
+																S
+																	NP(SUB)
+																		N(H)
+																			 địch
+																	VP
+																		V(H)
+																			 bố phòng
+																		NP(LOC)
+																			N(H)
+																				 ven
+																			N
+																				 biển
+																	C
+																		 và
+																	NP(PRD)
+																		N(H)
+																			 tuần tiễu
+																		PP(LOC)
+																			E(H)
+																				 trên
+																			NP
+																				N(H)
+																					 mặt biển
+	.
+		 .
+</s>
+<s id = "116">
+S
+	C
+		 Rồi
+	NP(SUB)
+		 *E*
+	VP
+		A
+			 trực tiếp
+		V(H)
+			 dẫn
+		NP(DOB)
+			N(H)
+				 tàu
+			VP
+				V(H)
+					 vào
+	...
+		 ...
+</s>
+<s id = "117">
+S
+	NP(SUB)
+		M
+			 Một
+		N(H)
+			 hành trình
+		AP
+			A(H)
+				 mới
+	VP
+		VP
+			V(H)
+				 xuyên
+			NP(DOB)
+				N(H)
+					 biển
+		VP
+			R
+				 lại
+			V(H)
+				 bắt đầu
+		,
+			 ,
+		PP(LOC)
+			E(H)
+				 từ
+			NP
+				N(H)
+					 phía
+				Np
+					 Nam
+				VP
+					V(H)
+						 ra
+	...
+		 ...
+</s>

@@ -1,0 +1,1139 @@
+<s>
+(S-TTL 
+     (NP (N-H Doanh nghiệp) (Np Việt)
+          (PP-LOC (E-H trên)
+               (NP (N-H đất) (Np Campuchia))))
+     (. .))
+
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (A Nhiều) (N-H doanh nghiệp) (LBKT LBKT)
+          (NP (Ny-H DN))
+          (RBKT RBKT)
+          (NP (Ny-H VN)))
+     (VP (R đang) (V-H mở rộng)
+          (VP (V-H hoạt động) (V kinh doanh)
+               (PP-LOC (E-H trên)
+                    (NP (N-H thị trường) (Np Campuchia) (LBKT LBKT)
+                         (NP (Ny-H CPC))
+                         (RBKT RBKT)))))
+     (. .))
+
+
+
+</s>
+<s>
+(S (C Và)
+     (NP-SUB (T chính) (P-H họ))
+     (VP (R đã) (V-H tạo)
+          (NP-DOB (N-H điều kiện))
+          (SBAR-PRP (E-H cho)
+               (S 
+                    (NP-SUB (N-H thương hiệu)
+                         (NP (N-H hàng) (Np Việt)))
+                    (VP (V-H trở nên)
+                         (AP (R ngày càng) (A-H quen thuộc)
+                              (PP (E-H với)
+                                   (NP (N-H người) (V tiêu dùng)))
+                              (PP-LOC (E-H trên)
+                                   (NP (N-H đất nước) (P này))))))))
+     (... ...))
+
+
+
+</s>
+<s>
+(S-TTL 
+     (NP (N-H Hàng) (Ny VN)
+          (NP (N-H chất lượng) (A cao)
+               (PP-LOC (E-H giữa)
+                    (NP (N-H lòng) (Np Phnom Penh)))))
+     (. .))
+
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (L Những) (N-H người) (Ny VN)
+          (NP (N-H lần) (A đầu tiên)
+               (VP (V-H đặt chân)
+                    (PP-LOC (E-H đến)
+                         (NP (Np-H Phnom Penh))))))
+     (VP (R rất) (V-H ngạc nhiên)
+          (NP (N-H khi)
+               (SBAR 
+                    (S (NP-SUB *E*)
+                         (VP 
+                              (VP (V-H gặp)
+                                   (NP-DOB 
+                                        (NP (Nb-H logo)
+                                             (NP (N-H hàng) (Ny VN)
+                                                  (NP (N-H chất lượng) (A cao)))
+                                             (AP (R rất) (A-H quen thuộc)))
+                                        (C và)
+                                        (NP (N-H bảng hiệu)
+                                             (VP (V-H có)
+                                                  (NP-DOB (Nc-H dòng) (N chữ) (Ny VN) (" ")
+                                                       (NP (N-H Siêu thị)
+                                                            (NP (N-H hàng) (Ny VN)))
+                                                       (" ")
+                                                       (PP-LOC (E-H ở)
+                                                            (NP (N-H số) (M 310)
+                                                                 (NP (N-H đại lộ) (Np Monivong)))))))))
+                              (, ,)
+                              (C hoặc)
+                              (VP (V-H thấy)
+                                   (NP-DOB (Nb-H logo) (P này)
+                                        (PP-LOC 
+                                             (PP (E-H ở)
+                                                  (NP (N-H nhà hàng) (Np Angkor)))
+                                             (PP (E-H tại)
+                                                  (NP (N-H địa chỉ)
+                                                       (QP (M-H 443)
+                                                            (NP (N-H đường)
+                                                                 (NP(N-H số) (M 105))))))))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (S-SUB 
+          (NP-SUB 
+               (NP (Nc-H Anh) (Np Lê Quang Ninh))
+               (- -)
+               (NP (N-H tổng giám đốc)
+                    (NP (N-H Công ty) (Np Angkor Europa Diffusion))))
+          (VP (R đang) (V-H quản lý)
+               (NP-DOB (M hai) (N-H mặt bằng) (V kinh doanh)
+                    (NP (N-H trên)))))
+     (- -)
+     (VP (V-H cho) (V biết) (: :) (" ")
+          (SBAR 
+               (S 
+                    (S 
+                         (NP-TMP (N-H Khi)
+                              (VP (R mới) (V-H mở)
+                                   (NP-DOB (N-H siêu thị)
+                                        (NP (N-H đầu)
+                                             (NP (N-H năm) (M 2000))))))
+                         (NP-SUB *E*)
+                         (VP (R chỉ) (V-H có)
+                              (NP-DOB (L vài) (M trăm) (N-H sản phẩm)
+                                   (NP (N-H hàng) (Ny VN)))))
+                    (, ,)
+                    (S 
+                         (PP-TMP (E-H đến)
+                              (NP (P-H nay)))
+                         (S (NP-SUB *E*)
+                              (VP (R đã) (V-H tăng) (R lên)
+                                   (NP-DOB (M 1 . 300) (N-H sản phẩm))))
+                         (C và)
+                         (S 
+                              (AP-ADV (A-H bình quân)
+                                   (NP-TMP (M mỗi) (N-H năm)))
+                              (NP-SUB (N-H doanh thu))
+                              (VP (V-H tăng)
+                                   (NP-DOB (T đến)(Ny-H 30 %)))))))
+          (" "))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-SUB (A Nhiều) (N-H mặt hàng)
+          (AP (A-H có tiếng)
+               (PP-LOC (E-H trong)
+                    (NP (N-H nước)))))
+     (VP (R đã) (V-H có mặt)
+          (PP-LOC (E-H ở)
+               (NP (N-H siêu thị)
+                    (NP (N-H hàng) (Ny VN))))
+          (C như)
+          (NP 
+               (NP (N-H sữa) (Np Vinamilk))
+               (, ,)
+               (NP (N-H bánh kẹo)
+                    (NP (N-H Công ty cổ phần) (Np Biên Hòa)))
+               (, ,)
+               (NP (Np-H Kinh Đô))
+               (, ,)
+               (NP (N-H cà phê) (Np Trung Nguyên))
+               (, ,)
+               (NP (N-H nước mắm))
+               (, ,)
+               (NP (N-H nước tương)
+                    (PP (E-H của)
+                         (NP (A nhiều) (N-H hãng))))))
+     (... ...))
+
+
+
+</s>
+<s>
+(S (C Không những) (P vậy) (, ,)
+     (NP-SUB (N-H công ty)
+          (PP (E-H của)
+               (NP (Nc-H anh) (Np Ninh))))
+     (VP 
+          (VP (R còn) (V-H làm)
+               (NP-DOB (N-H đầu mối)
+                    (VP-PRP (V-H đưa)
+                         (NP-DOB (N-H hàng) (Ny VN)
+                              (PP-LOC (E-H đến)
+                                   (NP 
+                                        (NP (M 11) (N-H siêu thị))
+                                        (C và)
+                                        (NP (L các) (N-H trung tâm) (N thương mại))
+                                        (PP-LOC (E-H ở)
+                                             (NP (Np-H Phnom Penh)))))))))
+          (; ;)
+          (VP (R đồng thời) (R cũng) (V-H là)
+               (NP (N-H đầu mối)
+                    (VP-PRP (V-H phân phối)
+                         (NP-DOB (N-H hàng))
+                         (PP-LOC (E-H về)
+                              (NP (L các) (N-H tỉnh)
+                                   (NP 
+                                        (NP (Np-H Battambang))
+                                        (, ,)
+                                        (NP (Np-H Siem Reap))
+                                        (, ,)
+                                        (NP (Np-H Pray Veng))
+                                        (C và)
+                                        (NP (Np-H Kompong Som)))))))))
+     (. .))
+
+
+
+</s>
+<s>
+(S 
+     (PP-ADV (E-H Theo)
+          (NP (Nc-H anh) (Np Ninh)))
+     (, ,)
+     (S 
+          (NP-SUB-1 (N-H hàng) (Ny VN))
+          (VP (V-H có)
+               (NP-DOB (N-H chất lượng) (A tốt)))
+          (C và)
+          (NP-PRD (N-H giá cả)
+               (VP (R rất) (V-H phù hợp)
+                    (PP (E-H với)
+                         (NP (Nc-H người) (Ny CPC))))))
+     (, ,)
+     (C vì vậy)
+     (C mà)
+     (S-PV (NP-SUB-1 *T*)
+          (VP (V-H được)
+               (SBAR 
+                    (S 
+                         (NP-SUB (A nhiều) (N-H người) (Ny CPC))
+                         (VP (V-H biết) (R đến))))))
+     (. .))
+
+
+
+</s>
+<s>
+(S 
+     (PP-LOC-SUB 
+          (PP (E-H Ở)
+               (NP (N-H khu vực) (N nhà hàng)
+                    (VP-LOC (V-H nằm)
+                         (NP (N-H bên) (N hông)
+                              (NP (N-H siêu thị))))))
+          (, ,)
+          (PP (E-H trên)
+               (NP (N-H tầng) (M 1)
+                    (VP (V-H hướng) (R ra)
+                         (NP-DOB (N-H mặt đường) (Np Monivong))))))
+     (VP 
+          (VP (V-H có)
+               (NP-DOB (A gần) (M 40) (N-H bàn) (V ăn)
+                    (AP (R luôn) (A-H đông)
+                         (NP (N-H khách)))))
+          (, ,)
+          (VP 
+               (NP-TMP (N-H buổi) (N sáng))
+               (VP (V-H bán)
+                    (NP-DOB (N-H phở))))
+          (, ,)
+          (VP 
+               (NP-TMP (N-H buổi) (N trưa) (C và) (N chiều))
+               (VP (V-H bán)
+                    (NP-DOB (L các) (N-H món) (V nhậu)))))
+     (. .))
+
+
+
+</s>
+<s>
+(S 
+     (NP-SUB-1 (Nc-H Anh) (Np Ninh))
+     (VP (V-H nói)
+          (SBAR 
+               (S 
+                    (S 
+                         (NP-TMP 
+                              (NP (N-H lúc)
+                                   (VP (R mới) (V-H mở)
+                                        (NP-DOB (N-H quán) (N phở))))
+                              (NP (M mỗi) (N-H ngày)))
+                         (NP-SUB-1 *T*)
+                         (VP (V-H bán) (R được)
+                              (NP-DOB (M 2) (Nu-H kg)
+                                   (NP (N-H bánh phở)))))
+                    (, ,)
+                    (C còn)
+                    (S 
+                         (NP-TMP (N-H hiện nay))
+                         (NP-SUB-1 *T*)
+                         (VP (V-H bán)
+                              (NP-DOB (M 50) (Nu-H kg) (N bánh phở) (/ /)
+                                   (NP-TMP (N-H ngày))))))))
+     (. .))
+
+
+
+</s>
+<s>
+(S 
+     (AP-ADV (A-H Đặc biệt))
+     (C là)
+     (NP-SUB (Nc-H giới) (N trẻ)
+          (VP (V-H đến)
+               (NP-LOC (P-H đây))
+               (VP-PRP (V-H ăn uống))))
+     (AP-PRD 
+          (AP (R rất) (A-H đông))
+          (C và)
+          (AP (A-H khoái khẩu)
+               (NP (N-H món) (N bia) (Np Fan Sài Gòn) (- -)
+                    (SBAR-PRP (E-H do)
+                         (S 
+                              (NP-SUB (M một) (N-H cơ sở)
+                                   (PP-LOC (E-H ở)
+                                        (NP (N-H quận) (Np Tân Bình))))
+                              (VP 
+                                   (VP (V-H sản xuất))
+                                   (VP 
+                                        (NP-TMP (M mỗi) (N-H ngày))
+                                        (- -)
+                                        (VP (V-H tiêu thụ)
+                                             (NP-DOB (T đến) (M 70) (N-H thùng))))))))))
+     (. .))
+
+</s>
+<s>
+(S (C Còn)
+     (PP-LOC-SUB (E-H ở)
+          (NP (N-H nhà hàng) (Np Angkor)
+               (PP-LOC (E-H trên)
+                    (NP (N-H đường)
+                         (NP (N-H số) (M 105))))))
+     (VP (V-H có)
+          (NP-DOB 
+               (NP (N-H diện tích)
+                    (NP (M 1 . 500) (Nu-H m2)))
+               (C với)
+               (NP (M 50) (N-H bàn) (V ăn))
+               (, ,)
+               (PP (E-H trong)
+                    (NP (P-H đó)
+                         (NP (A gần) (M một nửa) (N-H diện tích)
+                              (VP (V-H làm)
+                                   (NP-DOB (N-H bãi) (V đậu)
+                                        (NP (N-H ôtô) (N khách)))))))))
+     (. .))
+
+
+</s>
+<s>
+(S-PV 
+     (NP-SUB 
+          (NP (A Nhiều) (Nc-H loại) (N gia vị))
+          (, ,)
+          (NP (N-H hàng) (N đặc sản)
+               (PP-LOC (E-H từ)
+                    (NP 
+                         (NP (Np-H Hà Nội))
+                         (, ,)
+                         (NP (Np-H Long An))
+                         (C và)
+                         (NP (Ny-H TP .HCM))))))
+     (VP (V-H được)
+          (SBAR 
+               (S 
+                    (NP-SUB (T chính) (L các) (N-H đầu bếp) (Ny VN))
+                    (VP (V-H chế biến)
+                         (AP (R rất) (A-H ngon))))))
+     (. .))
+
+
+</s>
+<s>
+(S (X Ngoài ra) (, ,)
+     (NP-SUB (N-H công ty)
+          (PP (E-H của)
+               (NP (Nc-H anh) (Np Ninh))))
+     (NP-TMP (M mỗi) (N-H tháng))
+     (VP (R còn) (V-H xuất khẩu)
+          (NP-DOB (A khoảng) (M 150) (- -) (M 200) (Nu-H tấn)
+               (NP (N-H da) (N trâu bò)))
+          (VP-DIR (V-H sang)
+               (NP-LOC (N-H thị trường)
+                    (NP (Np-H Trung Quốc) (C và) (Np Thái Lan)))))
+     (. .))
+
+
+</s>
+<s>
+(S-TTL 
+     (NP (Ny-H DN)
+          (AP (A-H lớn)
+               (PP (E-H về)
+                    (NP (N-H máy vi tính)))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (VP-SUB (V-H Đứng)
+          (PP-LOC (E-H từ)
+               (NP (Nc-H bờ) (N tường)
+                    (NP (N-H hoàng cung)))))
+     (VP (R đã) (V-H nhìn) (V thấy)
+          (NP-DOB (Nc-H dòng) (N chữ)
+               (NP (N-H Công ty) (Np AnAnA Computer)
+                    (PP-LOC (E-H ở)
+                         (NP 
+                              (NP (N-H địa chỉ)
+                                   (NP (M 274) (Np-H Sihanouk)))
+                              (, ,)
+                              (NP (N-H quận) (Np Chămkamoom)))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (P-H Đó))
+     (VP (V-H là)
+          (NP (N-H siêu thị) (N máy tính)
+               (AP (A-H lớn) (R nhất)
+                    (NP (Np-H Phnom Penh)))
+               (, ,)
+               (VP (V-H có)
+                    (NP-DOB (N-H diện tích)
+                         (NP 
+                              (NP (A khoảng) (M 500) (Nu-H m2)
+                                   (PP-LOC (E-H ở)
+                                        (NP (N-H tầng) (A trệt))))
+                              (C và)
+                              (NP (M 500) (Nu-H m2)
+                                   (PP-LOC (E-H ở)
+                                        (NP (N-H tầng) (M 1))))
+                              (VP-PRP (V-H làm)
+                                   (NP-DOB (N-H kho) (V chứa)
+                                        (NP (N-H hàng hóa)
+                                             (PP-LOC (E-H trong)
+                                                  (NP (Nc-H tòa) (N nhà)
+                                                       (AP (A-H cao)
+                                                            (NP (M sáu) (N-H tầng)))
+                                                       (P này)))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (VP-ADV (V-H Bước) (V vào)
+          (NP-LOC (N-H siêu thị)))
+     (, ,)
+     (NP-SUB (N-H khách hàng))
+     (VP 
+          (VP (V-H đi)
+               (AP-LOC (A-H dọc)
+                    (PP (E-H theo)
+                         (NP (L các) (N-H kệ) (N hàng)))))
+          (VP (V-H tìm)
+               (VP-PRP (V-H mua)
+                    (NP-DOB 
+                         (NP (P từng) (N-H món) (N linh kiện)
+                              (NP (N-H máy tính)))
+                         (C hoặc)
+                         (NP (L những) (Nc-H bộ) (N máy vi tính)
+                              (NP (N-H đời mới) (R nhất)))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB 
+          (NP (Nc-H Chị) (Np Phạm Phương Dung))
+          (- -)
+          (NP (N-H giám đốc) (N công ty)))
+     (- -)
+     (VP (V-H cho) (V biết)
+          (SBAR 
+               (S 
+                    (NP-ADV (N-H ngoài)
+                         (NP (N-H siêu thị)))
+                    (, ,)
+                    (NP-SUB (N-H công ty))
+                    (VP (R còn) (V-H cung cấp)
+                         (PP-IOB (E-H cho)
+                              (NP (A hơn) (M 120) (N-H đại lý)
+                                   (NP (N-H vi tính)
+                                        (PP-LOC (E-H ở)
+                                             (NP 
+                                                  (NP (Np-H Phnom Penh))
+                                                  (C và)
+                                                  (NP (L một số) (N-H tỉnh)))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (PP-MNR (E-H Với)
+          (NP (N-H doanh số)
+               (VP (V-H bán) (R ra)
+                    (NP-TMP (R hằng) (N-H tháng))
+                    (PP-LOC (E-H ở)
+                         (NP (N-H siêu thị) (Np AnAnA))))
+               (VP (R luôn) (V-H tăng) (A cao))))
+     (, ,)
+     (NP-SUB (Nc-H chị) (Np Phạm Phương Dung))
+     (VP (V-H khẳng định)
+          (SBAR 
+               (S 
+                    (NP-SUB (N-H thị trường) (N máy tính)
+                         (PP-LOC (E-H ở)
+                              (NP (Ny-H CPC))))
+                    (AP-PRD (R còn) (R rất) (A-H lớn)))))
+     (. .))
+
+
+</s>
+<s>
+(S (T Thế) (C nhưng)
+     (PP-PRP (E-H để)
+          (VP (V-H thành đạt) (C như)
+               (NP-TMP (N-H ngày) (N hôm nay))))
+     (, ,)
+     (S 
+          (NP-SUB (Nc-H chị) (Np Dung))
+          (VP (V-H phải)
+               (VP (V-H khởi đầu)
+                    (PP (E-H từ)
+                         (NP (N-H sự nghiệp)
+                              (VP (V-H mở)
+                                   (NP-DOB (N-H trường)
+                                        (VP-PRP (V-H dạy)
+                                             (NP-DOB (N-H vi tính))
+                                             (PP-IOB (E-H cho)
+                                                  (NP (N-H học viên)))))))))))
+     (C và)
+     (S 
+          (AP-SUB (A-H quan trọng) (R nhất))
+          (VP (V-H là)
+               (VP (V-H mời)
+                    (NP-DOB (N-H thầy)
+                         (VP-PRP (V-H dạy)
+                              (NP-DOB (N-H vi tính )
+                                   (PP-DIR 
+                                        (PP (E-H từ)
+                                             (NP (Ny-H TP . HCM)))
+                                        (PP (E-H sang)
+                                             (NP (Np-H Phnom Penh))))))))))
+     (, ,)
+     (SBAR-PRP (E-H bởi)
+          (S 
+               (SBAR 
+                    (S-CND 
+                         (NP-SUB (N-H số)
+                              (NP (N-H người)
+                                   (VP (V-H biết)
+                                        (NP-DOB (N-H vi tính)))))
+                         (AP-PRD (R càng) (A-H nhiều))))
+               (C thì)
+               (S 
+                    (NP-SUB (N-H sức) (V tiêu thụ)
+                         (NP (N-H máy tính)))
+                    (VP (X ngày càng) (V-H tăng)))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Việc) (V đào tạo)
+          (NP (N-H học viên) (N vi tính)))
+     (VP (V-H phải)
+          (VP (V-H đạt)
+               (NP-DOB (N-H yêu cầu) (C là)
+                    (VP 
+                         (VP (V-H học) (A xong))
+                         (VP (V-H biết)
+                              (VP (V-H sử dụng)
+                                   (NP-DOB (N-H máy tính))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (PP-ADV (E-H Theo)
+          (NP (Nc-H chị) (Np Dung)))
+     (, ,)
+     (AP-TMP (A-H gần) (P đây))
+     (NP-SUB *E*)
+     (VP (R không) (R còn) (V-H mở)
+          (NP-DOB (N-H trường)
+               (VP-PRP (V-H dạy)
+                    (NP-DOB (N-H vi tính))))
+          (SBAR-PRP (E-H vì)
+               (S (NP-SUB *E*)
+                    (AP-PRD (R quá) (A-H bận)
+                         (NP (N-H việc)
+                              (PP (E-H cho)
+                                   (NP 
+                                        (NP (N-H siêu thị))
+                                        (C và)
+                                        (NP (L các) (N-H đại lý) (N máy vi tính)))))))))
+     (. .))
+
+
+</s>
+<s>
+(S (C Không những) (T vậy) (, ,)
+     (PP-PRP (E-H để)
+          (VP (V-H thúc đẩy)
+               (NP-DOB (N-H thị trường) (V máy tính)
+                    (VP (V-H phát triển)))))
+     (, ,)
+     (NP-SUB-1 (N-H chị))
+     (VP 
+          (VP (R còn) (V-H đứng) (R ra)
+               (VP-PRP (V-H tổ chức)
+                    (NP-DOB (M một) (N-H hội chợ)
+                         (VP (V-H triển lãm)
+                              (NP-DOB (N-H máy vi tính)))
+                         (NP-TMP (N-H năm) (M 2003)))))
+          (C và)
+          (VP (V-H dự định)
+               (SBAR 
+                    (S 
+                         (PP-TMP (E-H trong)
+                              (NP (N-H năm) (M 2005)))
+                         (NP-SUB-1 *T*)
+                         (VP (R sẽ) (V-H tổ chức)
+                              (NP-DOB (M một) (N-H hội chợ)
+                                   (VP (V-H có)
+                                        (NP-DOB (N-H qui mô)
+                                             (AP (A-H lớn) (R hơn))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S(NP-SUB(N-H điều)
+(SBAR(S(NP-SUB(Nc-H chị)(Np Dung))
+(VP(V-H mong muốn)))))
+(VP(V-H là)
+(PP-TMP(E-H trong)
+(NP(L các)(Nc-H cuộc)(N hội chợ)
+(VP(V-H tới))
+(VP(R sẽ)(V-H có)
+(NP-DOB(A nhiều)(Ny-H DN)(Ny VN)
+(VP(V-H tham gia))
+(SBAR-PRP(E-H vì)
+(S(NP-SUB(N-H hàng)(Ny VN))
+(VP(VP(V-H có)
+(NP-DOB(N-H chất lượng)(A tốt)))
+(VP(R không)(V-H thua)(T gì)
+(NP-DOB(N-H hàng)(Np Trung Quốc)(, ,)(Np Thái Lan)))))))))))
+(. .))
+
+
+</s>
+<s>
+(S 
+     (PP-MNR (E-H Với)
+          (NP (N-H sức) (V phát triển)
+               (PP (E-H của)
+                    (NP (Ny-H DN)))))
+     (, ,)
+     (NP-SUB (N-H Công ty) (Np AnAnA))
+     (VP (V-H dự định)
+          (VP (V-H đầu tư)
+               (NP-DOB (M 10 . 000) (Nu-H m2) (N đất)
+                    (PP-LOC (R-H trên)
+                         (NP (N-H đường)
+                              (VP (V-H đến)
+                                   (NP-LOC (N-H sân bay) (Np Pochentong))))))
+               (PP-PRP (E-H nhằm)
+                    (VP (V-H mở rộng)
+                         (NP-DOB (N-H qui mô)
+                              (VP (V-H làm ăn)))))))
+     (. .))
+
+
+</s>
+<s>
+(SQ (NP-SUB *E*)
+     (VP (V-H Làm)
+          (WHNP (P-H gì)
+               (SBAR-PRP (E-H để)
+                    (S 
+                         (NP-SUB 
+                              (NP (Ny-H DN))
+                              (C và)
+                              (NP (N-H hàng) (Ny VN)))
+                         (VP-DIR (V-H sang)
+                              (NP-LOC (Ny-H CPC))
+                              (AP (A-H nhiều) (R hơn)))))))
+     (? ?))
+
+
+</s>
+<s>
+(S 
+     (PP-ADV (E-H Theo)
+          (NP (L các) (N-H thành viên) (N Câu lạc bộ)
+               (NP (Ny-H DN) (Ny VN))
+               (PP-LOC (E-H ở)
+                    (NP (Np-H Phnom Penh)))))
+     (, ,)
+     (VP (V-H có)
+          (SBAR 
+               (S 
+                    (NP-SUB (A nhiều) (N-H người) (Np Việt))
+                    (VP (V-H làm ăn)
+                         (VP (V-H thành đạt)
+                              (PP-LOC (E-H ở)
+                                   (NP (Ny-H CPC)))
+                              (, ,)
+                              (C như)
+                              (SBAR 
+                                   (S 
+                                        (NP-SUB (Np-H Việt kiều)
+                                             (NP (N-H quê)
+                                                  (NP-LOC (Np-H Bình Định))))
+                                        (VP (V-H mở)
+                                             (NP-DOB (L các) (N-H tiệm) (N điêu khắc)
+                                                  (NP (N-H đồ) (N gỗ))
+                                                  (PP-LOC (E-H trên)
+                                                       (NP (N-H đường)
+                                                            (NP (A gần) (Nc-H bờ) (N sông) (Np Tonle Sap))))
+                                                  (VP (A chuyên) (V-H cung cấp)
+                                                       (PP-IOB (E-H cho)
+                                                            (NP (L các) (N-H biệt thự) (, ,) (N-H khách sạn)
+                                                                 (AP (A-H lớn))
+                                                                 (PP-LOC (E-H ở)
+                                                                      (NP (Np-H Phnom Penh)))))))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (L Một số) (Nc-H người) (Np Việt))
+     (VP 
+          (VP (R không) (V-H trưng)
+               (NP-DOB (N-H thương hiệu)))
+          (C nhưng)
+          (VP (V-H làm ăn)
+               (AP (R rất) (A-H lớn)
+                    (PP (E-H về)
+                         (VP 
+                              (VP (V-H xuất nhập khẩu))
+                              (C và)
+                              (VP (V-H cung ứng)
+                                   (NP-DOB (N-H hàng))
+                                   (PP-IOB (E-H cho)
+                                        (NP (N-H đại lý) (V tiêu thụ))))
+                              (PP-LOC (E-H tại)
+                                   (NP (A nhiều) (N-H tỉnh)
+                                        (PP-LOC (E-H ở)
+                                             (NP (Ny-H CPC ))))))))))
+     (. .))
+
+
+</s>
+<s>
+(SQ 
+     (NP-SUB (N-H Bí quyết)
+          (WHPR (P-H nào)))
+     (SBAR-PRP (E-H để)
+          (S-PRD 
+               (NP-SUB (L các) (Ny-H DN))
+               (VP (V-H đưa)
+                    (NP-DOB (N-H hàng) (Ny VN)
+                         (VP (V-H tiêu thụ)
+                              (AP (A-H nhiều))
+                              (PP-LOC (E-H ở)
+                                   (NP (Ny-H CPC))))))))
+     (? ?))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (Nc-H Anh) (Np Lê Quang Ninh))
+     (VP (V-H cho) (V biết)
+          (SBAR 
+               (S 
+                    (SBAR-PRP 
+                         (S 
+                              (NP-SUB (Ny-H CPC))
+                              (VP (V-H là)
+                                   (NP (L một) (N-H thị trường)
+                                        (VP (V-H tiêu thụ)
+                                             (NP-DOB (N-H hàng hóa)))))))
+                    (C nên)
+                    (S (NP-SUB *E*)
+                         (VP (V-H cần)
+                              (VP (V-H tính toán)
+                                   (AP (A-H kỹ))
+                                   (, ,)
+                                   (SBAR-PRP (E-H bởi)
+                                        (S (X có khi)
+                                             (S-SUB (NP-SUB *E*)
+                                                  (VP (V-H đưa)
+                                                       (NP-DOB (N-H hàng))
+                                                       (VP (V-H về)
+                                                            (NP-LOC (P-H đây)))))
+                                             (VP (V-H có)
+                                                  (AP (A-H lợi) (R hơn)
+                                                       (VP (V-H so)
+                                                            (PP (E-H với)
+                                                                 (VP (V-H đầu tư)
+                                                                      (NP-DOB (N-H sản xuất)))))))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Hàng) (Ny VN))
+     (VP 
+          (VP (V-H có)
+               (NP-DOB 
+                    (NP (N-H chất lượng) (A tốt))
+                    (, ,)
+                    (NP (N-H giá thành) (A thấp))))
+          (C và)
+          (VP (V-H có)
+               (NP-DOB (N-H lợi thế) (C là)
+                    (VP (V-H vận chuyển)
+                         (PP-MNR (E-H bằng)
+                              (NP (N-H đường sông) (C và) (N-H đường bộ)
+                                   (AP (R đều) (A-H thuận lợi)
+                                        (AP (A-H hơn) (R hẳn)
+                                             (NP (Np-H Thái Lan) (C hoặc) (Np-H Trung Quốc))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S (C Tuy nhiên) (, ,)
+     (PP-PRP (E-H để)
+          (VP (V-H tiêu thụ)
+               (NP-DOB (N-H hàng hóa)
+                    (VP (V-H được) (A nhiều)))))
+     (S (NP-SUB *E*)
+          (VP (V-H cần)
+               (VP (V-H có)
+                    (NP-DOB (N-H đầu mối)
+                         (VP-PRP (V-H phân phối) (C như)
+                              (NP (N-H Công ty) (Np Angkor Europa Diffusion)
+                                   (VP (R từng) (V-H làm))))))))
+     (, ,)
+     (S 
+          (NP-SUB (Ny-H DN) (Ny VN))
+          (VP (R chỉ) (V-H cần)
+               (VP (V-H đặt)
+                    (NP-DOB (N-H văn phòng) (V đại diện)
+                         (PP-PRP (E-H để)
+                              (VP (V-H giám sát)
+                                   (NP-DOB (N-H kênh) (V phân phối))))))))
+     (. .))
+
+
+</s>
+<s>
+(S (C Bởi) (NP-SUB *E*)
+     (VP (R đã) (R từng) (V-H xảy) (V ra)
+          (NP-DOB (L một số) (N-H vụ)
+               (NP (Ny-H DN) (Ny VN)
+                    (VP (V-H giao khoán)
+                         (PP-IOB (E-H cho)
+                              (NP (Ny-H DN) (Ny CPC)))))
+               (, ,)
+               (VP (V-H dẫn) (V đến)
+                    (NP (N-H việc)
+                         (AP (A-H khó)
+                              (VP (V-H đòi)
+                                   (NP-DOB (N-H tiền)
+                                        (SBAR-PRP (R chỉ) (E-H vì)
+                                             (S (NP-SUB *E*)
+                                                  (VP (R không) (V-H có)
+                                                       (NP-DOB (N-H văn phòng) (V đại diện)
+                                                            (VP-PRP (V-H giám sát)))))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Việc)
+          (SBAR 
+               (S (NP-SUB *E*)
+                    (VP (V-H lập)
+                         (NP-DOB (N-H văn phòng) (V đại diện)
+                              (PP-PRP (E-H để)
+                                   (VP (V-H tiếp cận) (C và) (V-H tiêu thụ)
+                                        (NP-DOB (N-H sản phẩm))))
+                              (PP-LOC (E-H tại)
+                                   (NP (N-H thị trường) (Ny CPC))))))))
+     (VP (R cũng) (V-H giúp)
+          (SBAR 
+               (S 
+                    (NP-SUB (L các) (Ny-H DN))
+                    (VP 
+                         (VP (V-H bán)
+                              (NP-DOB (N-H hàng)
+                                   (VP (V-H được) (A nhiều) (R hơn))))
+                         (C và)
+                         (VP (V-H khắc phục)
+                              (NP-DOB (A nhiều) (N-H thiếu sót)
+                                   (PP (E-H trong)
+                                        (VP (V-H kinh doanh)))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (Nc-H Anh) (Np Đỗ Ngọc Nhân) (- -)
+          (NP (N-H đại diện)
+               (NP (N-H Công ty) (Np Diana)
+                    (PP-LOC (E-H tại)
+                         (NP (Ny-H Phnom Penh) (LBKT LBKT)
+                              (NP (NNy-H DN) (Ny VN)
+                                   (PP-LOC (E-H ở)
+                                        (NP (Ny-H TP . HCM))))
+                              (RBKT RBKT))))))
+     (- -)
+     (VP (R đã) (V-H bật) (V cười)
+          (NP (N-H khi)
+               (SBAR 
+                    (S (NP-SUB *E*)
+                         (VP 
+                              (VP (V-H nói)
+                                   (NP-DOB (N-H chương trình)
+                                        (VP (V-H quảng cáo)
+                                             (NP-DOB (N-H sản phẩm) (Np Diana)))
+                                        (PP-LOC (E-H trên)
+                                             (NP (N-H truyền hình)
+                                                  (PP-LOC (E-H ở)
+                                                       (NP (Ny-H VN)))))))
+                              (VP (V-H đưa) (V sang)
+                                   (VP (V-H chiếu)
+                                        (PP-LOC (E-H trên)
+                                             (NP (N-H đài truyền hình) (Ny CPC)))))
+                              (C thì)
+                              (SBAR 
+                                   (S 
+                                        (NP-SUB (L các) (N-H cô) (N gái)
+                                             (PP-LOC (E-H ở)
+                                                  (NP (P-H đây))))
+                                        (VP (A hoàn toàn) (R không) (V-H hiểu)
+                                             (SBAR 
+                                                  (S 
+                                                       (NP-SUB (Np-H Diana))
+                                                       (VP (V-H là)
+                                                            (NP (N-H sản phẩm)
+                                                                 (VP (V-H dùng)
+                                                                      (PP (E-H vào)
+                                                                           (NP (N-H việc) (P gì))))))))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S (C Vì vậy) (, ,)
+     (NP-SUB (N-H việc)
+          (VP (V-H tiếp cận)
+               (PP (E-H với)
+                    (NP (N-H thị trường) (Ny CPC)))))
+     (VP 
+          (VP (V-H phải)
+               (VP (V-H đưa) (R ra)
+                    (NP-DOB (M một) (N-H chương trình) (V quảng cáo)
+                         (AP (A-H tốt)))))
+          (C và)
+          (VP (V-H hướng)
+               (NP-DOB (L các) (N-H nhân viên)
+                    (VP (V-H tiếp thị)
+                         (NP-DOB (N-H cách)
+                              (VP 
+                                   (VP (V-H tiếp cận))
+                                   (R cũng)
+                                   (C như)
+                                   (VP (V-H giới thiệu)
+                                        (NP-DOB (N-H sản phẩm)
+                                             (VP (V-H đến)
+                                                  (NP-DOB (N-H người) (V tiêu dùng)
+                                                       (NP (N-H một cách)
+                                                            (VP (V-H phù hợp)))))))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (Nc-H Chị) (Np Phạm Phương Dung))
+     (VP (V-H cho)
+          (SBAR (C rằng)
+               (S 
+                    (NP-SUB (N-H điều kiện) (V làm ăn)
+                         (PP-LOC (E-H ở)
+                              (NP (Ny-H CPC))))
+                    (AP-PRD (R còn) (A-H dễ) (R hơn)
+                         (VP (V-H so)
+                              (PP (E-H với)
+                                   (NP (Ny-H VN))))
+                         (PP-PRP (E-H vì)
+                              (AP (A-H ít)
+                                   (NP (N-H tính)
+                                        (VP (V-H cạnh tranh) (R hơn)))))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (NP-TMP (N-H Hiện nay))
+     (S-PV 
+          (NP-SUB (A nhiều) (N-H mặt hàng) (Ny VN)
+               (VP (V-H có)
+                    (NP-DOB (N-H chất lượng) (A tốt))))
+          (VP (R đã) (V-H được)
+               (SBAR 
+                    (S 
+                         (NP-SUB (N-H bà con) (Ny CPC))
+                         (VP (V-H tin dùng))))))
+     (, ,)
+     (S 
+          (NP-SUB (N-H vấn đề) (A quan trọng))
+          (VP (V-H là)
+               (NP (N-H hàng) (Ny VN)
+                    (VP (V-H phải)
+                         (AP (A-H rẻ) (R hơn)
+                              (NP (N-H hàng) (Np Thái Lan)))))))
+     (. .))
+
+
+</s>
+<s>
+(S 
+     (PP-PRP (E-H Để)
+          (VP (V-H tạo)
+               (NP-DOB (N-H ấn tượng) (A tốt))
+               (PP-IOB (E-H cho)
+                    (NP (N-H người) (V tiêu dùng) (Ny CPC)
+                         (PP (E-H về)
+                              (NP (N-H hàng) (Ny VN)))))))
+     (, ,)
+     (NP-SUB (L các) (Ny-H DN)
+          (PP-LOC (E-H trong)
+               (NP (N-H nước))))
+     (VP (V-H cần)
+          (VP (V-H tham gia)
+               (NP-DOB (N-H hội chợ) (V triển lãm)
+                    (PP-LOC (E-H ở)
+                         (NP (Ny-H CPC))))
+               (AP (A-H nhiều) (R hơn))))
+     (. .))
+
+
+</s>
+<s>
+(S(R Đồng thời)
+(NP-SUB(N-H Nhà nước))
+(VP(V-H cần)
+(VP(V-H có)
+(NP-DOB(Nc-H sự)(V hỗ trợ)
+(NP(Ny-H DN)
+(VP(V-H tham gia)(V triển lãm))))))
+(. .))
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (Nc-H Anh) (Np Lê Quang Ninh))
+     (VP (V-H cho) (V biết)
+          (SBAR 
+               (S 
+                    (NP-SUB (N-H Câu lạc bộ)
+                         (NP (Ny-H DN) (Ny VN))
+                         (PP-LOC (E-H ở)
+                              (NP (Ny-H CPC))))
+                    (VP (A sẵn sàng) (V-H tư vấn)
+                         (PP-IOB (E-H cho)
+                              (NP (L các) (Ny-H DN) (Ny VN)
+                                   (VP (V-H làm ăn))
+                                   (PP-LOC (E-H ở)
+                                        (NP (Ny-H CPC)))))))))
+     (. .))
+
+
+</s>
+<s>
+(S (C Còn)
+     (NP-SUB (Nc-H anh) (Np Lê Trọng Nhân) (LBKT LBKT)
+          (NP (N-H giám đốc)
+               (NP (N-H Công ty) (Np World Heritage)))
+          (RBKT RBKT))
+     (VP (V-H cho)
+          (SBAR (C rằng)
+               (S 
+                    (S (NP-SUB *E*)
+                         (VP (R đừng) (V-H nói)
+                              (PP-LOC (E-H ở)
+                                   (NP (P-H đâu)
+                                        (AP (A-H xa))))))
+                    (, ,)
+                    (S 
+                         (SBAR (C nếu)
+                              (S-CND 
+                                   (NP-SUB (N-H tham tán) (N thương mại) (Ny VN)
+                                        (PP-LOC (E-H ở)
+                                             (NP (Ny-H CPC)))
+                                        (VP (V-H tạo)
+                                             (NP-DOB (N-H điều kiện))
+                                             (PP-IOB (E-H cho)
+                                                  (NP (Ny-H DN) (Ny VN)
+                                                       (PP-LOC (E-H ở)
+                                                            (NP (Np-H Phnom Penh)))))))
+                                   (VP (V-H được)
+                                        (VP (A dễ dàng) (V-H tiếp xúc)))))
+                         (C thì)
+                         (S 
+                              (NP-SUB (N-H việc) (V làm ăn)
+                                   (PP (E-H của)
+                                        (NP (Ny-H DN))))
+                              (AP-PRD (R càng) (A-H thuận lợi)
+                                   (AP (R hơn) (A-H nhiều))))))))
+     (. .))
+
+
+</s>

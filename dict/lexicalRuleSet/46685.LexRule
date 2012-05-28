@@ -1,0 +1,559 @@
+" : "	35
+, : ,	71
+- : -	23
+. : .	36
+... : ...	9
+/ : /	1
+: : :	7
+? : ?	2
+A : cao	2
+A : chung	1
+A : chăm chăm	1
+A : dễ	2
+A : giỏi	1
+A : gần	2
+A : heo hút	1
+A : hơn	2
+A : hại	1
+A : khá	1
+A : khác	1
+A : khó	2
+A : kiên cố	1
+A : liêu xiêu	1
+A : lạ	1
+A : lớn	2
+A : lợi	1
+A : miết	1
+A : miệt mài	1
+A : móm mém	1
+A : mạnh	1
+A : mẩy	1
+A : mới	2
+A : mờ	1
+A : mởn	1
+A : ngon	1
+A : ngót	1
+A : nhanh	2
+A : nhiều	8
+A : như	1
+A : nhất	1
+A : no đủ	1
+A : quen	1
+A : rầm rộ	1
+A : rộng	1
+A : sau	1
+A : sần	1
+A : sớm	1
+A : thiếu	3
+A : thẳm	1
+A : to	1
+A : triền miên	1
+A : trên	1
+A : trước	2
+A : trẻ	1
+A : tốt	1
+A : vàng ươm	1
+A : xanh	2
+A : xuôi	2
+A : yếu	1
+A : ít	1
+A : ít nhất	1
+A : ít ỏi	1
+A : Đúng	1
+A : đói	1
+A : đói nghèo	1
+A : đông	1
+A : được	1
+A : đầu	3
+A : đầu tiên	1
+A : đầy	1
+A : đắt	1
+A : đẹp	3
+A : đủ	2
+C : Mà	1
+C : Nhưng	4
+C : Nếu	1
+C : Rồi	1
+C : Thế là	1
+C : Và	2
+C : Với lại	1
+C : còn	1
+C : cùng	2
+C : cũng như	1
+C : hay	2
+C : hay là	1
+C : hoặc	1
+C : huống	1
+C : là	2
+C : mà	6
+C : mà còn	1
+C : như	8
+C : nhưng	2
+C : rằng	4
+C : rồi	2
+C : thì	3
+C : và	5
+C : với	2
+E : Bởi	1
+E : bằng	2
+E : cho	6
+E : của	8
+E : dưới	1
+E : giữa	3
+E : ngoài	1
+E : qua	1
+E : theo	2
+E : trong	5
+E : trên	2
+E : tại	1
+E : từ	4
+E : vào	1
+E : vì	2
+E : vô	2
+E : về	3
+E : với	11
+E : đến	3
+E : để	8
+E : ở	8
+L : các	3
+L : mỗi	6
+L : nhiều	1
+L : những	11
+LBKT : LBKT	5
+M : 1	1
+M : 100	1
+M : 135	1
+M : 17	1
+M : 2	1
+M : 2000	1
+M : 2004	2
+M : 2005	1
+M : 22	1
+M : 3	3
+M : 300	1
+M : 4	1
+M : 5	2
+M : 6	2
+M : 649	3
+M : 68	1
+M : 7	1
+M : 90 %	1
+M : 95 %	1
+M : ba	4
+M : bốn	3
+M : chục	1
+M : hai	3
+M : mươi	1
+M : một	6
+M : năm	1
+M : sáu	1
+M : vài ba	1
+N : Chuyện	1
+N : Chủ tịch	1
+N : Dân	2
+N : Già làng	3
+N : Hồi	1
+N : Khi	1
+N : Lúa	1
+N : Trung úy	1
+N : Trên	1
+N : Trước	1
+N : Trưởng thôn	1
+N : ang	2
+N : anh	1
+N : anh em	1
+N : biên	1
+N : biên giới	2
+N : biên phòng	5
+N : biên ải	1
+N : buổi	1
+N : bà con	1
+N : bài	2
+N : bàn tay	1
+N : bí thư	1
+N : bước	1
+N : bắp	1
+N : bắp chân	1
+N : bếp	1
+N : bộ đội	3
+N : chai	1
+N : chi đoàn	1
+N : chiến sĩ	1
+N : chiến tranh	1
+N : chuyên viên	1
+N : chuyện	1
+N : chân	1
+N : chòi	1
+N : chương trình	1
+N : chảo	1
+N : chỗ	2
+N : chủ tịch	2
+N : chừ	1
+N : chừng	2
+N : con	2
+N : con người	1
+N : cuộc	1
+N : cách	2
+N : cái	3
+N : công	2
+N : cơm	1
+N : cột	1
+N : dao	1
+N : dân	10
+N : dân làng	4
+N : gia cầm	1
+N : gia súc	1
+N : giul	1
+N : già làng	5
+N : giường	1
+N : giống	4
+N : giờ	1
+N : gác	2
+N : gò	2
+N : gươl	4
+N : gạch men	1
+N : gạo	1
+N : gỗ	1
+N : hiện	1
+N : huyện	1
+N : hạt	2
+N : hệ thống	1
+N : hồi	5
+N : hộ	2
+N : khi	3
+N : kho	1
+N : khoản	1
+N : kiểu	1
+N : kỹ thuật	1
+N : loại	1
+N : làng	6
+N : lúa	7
+N : lúa nước	5
+N : lúa rẫy	2
+N : lúc	1
+N : lượng	2
+N : lời	1
+N : lửa	1
+N : miền	1
+N : miền xuôi	1
+N : miệng	1
+N : máy phát điện	1
+N : mương	1
+N : mười lăm	1
+N : mắt	2
+N : nghề	3
+N : ngày	1
+N : người	8
+N : nhà	23
+N : nhà mồ	1
+N : nhà nước	2
+N : nhà riêng	1
+N : nhà rường	5
+N : nhà sàn	3
+N : nhà trệt	2
+N : núi	1
+N : năm	17
+N : nơi	3
+N : nước	2
+N : nền	1
+N : nứa	1
+N : phong trào	1
+N : quanh	2
+N : ruộng	4
+N : rìu	1
+N : rẫy	3
+N : rừng	1
+N : rựa	2
+N : sàn	2
+N : sân	2
+N : sóng	1
+N : sắn	1
+N : số	5
+N : tay	1
+N : thanh thiếu niên	1
+N : tháng	2
+N : thóc	7
+N : thôn	7
+N : thể dục	1
+N : thị xã	1
+N : thời	1
+N : thời vụ	1
+N : thợ	5
+N : thợ cả	1
+N : thợ mộc	5
+N : tivi	2
+N : tiền	3
+N : trai trẻ	1
+N : tre	1
+N : trung tá	1
+N : trà	2
+N : trước nay	1
+N : trưởng thôn	2
+N : tuyến	1
+N : tuổi	1
+N : tên	1
+N : tôn	2
+N : tơ	1
+N : tỉnh	1
+N : tỉnh lỵ	1
+N : tốc độ	1
+N : tủ	1
+N : vách	1
+N : ván	1
+N : vùng	2
+N : vùng biên	3
+N : vùng đất	1
+N : văn hóa	1
+N : văn minh	1
+N : vụ	3
+N : xã	7
+N : âm thanh	1
+N : ông	3
+N : đài	1
+N : đường	2
+N : đại lộ	1
+N : đất	2
+N : đầu	5
+N : đập	1
+N : địa	1
+N : địa phương	2
+N : đồi	2
+N : đồn	4
+N : đồng	1
+N : đồng ruộng	1
+N : đội	2
+NP : *E*	12
+Nc : Cái	1
+Nc : Mái	1
+Nc : chiếc	1
+Nc : con	2
+Nc : cái	22
+Nc : cánh	1
+Nc : cây	5
+Nc : hạt	2
+Nc : ngôi	3
+Nc : người	4
+Nc : sự	1
+Nc : đám	1
+Np : Agrí	4
+Np : Agrí Tờngôn Dâu	1
+Np : Arằng	1
+Np : Axan	3
+Np : Axan Pơloong Đinh	1
+Np : Bhling Chrlâng	3
+Np : Bhling Cưng	1
+Np : Ch’ um	1
+Np : Cơlâu Bhưới	1
+Np : Cơlâu Nhới	1
+Np : Gari	1
+Np : Hồ Chí Minh	1
+Np : Jơrum Xia	1
+Np : Kơtu	4
+Np : Lào	1
+Np : Nguyễn Giầu	1
+Np : Nguyễn Tấn Lạc	1
+Np : Pơloong Zơra	4
+Np : Pơloong Đinh	1
+Np : Quảng Nam	1
+Np : Tam Kỳ	1
+Np : Trường Sơn	3
+Np : Tr’ hy	2
+Np : Tây Giang	3
+Np : Tờngôn Dâu	2
+Np : Việt	1
+Np : Voòng	1
+Np : Zơra	1
+Np : Đinh	1
+Nu : ha	2
+Nu : hecta	1
+Nu : km	2
+Nu : tháng	1
+Nu : triệu	1
+Nu : tuổi	2
+Nu : tấn	1
+Ny : UBND	1
+P : Ai	1
+P : Chúng tôi	1
+P : Cả	1
+P : ai	2
+P : bộ đội	1
+P : chi	3
+P : chúng tôi	1
+P : chừ	1
+P : giờ đây	1
+P : họ	1
+P : mình	13
+P : mô	4
+P : nay	3
+P : ni	1
+P : nào	1
+P : này	4
+P : nó	1
+P : ri	1
+P : rứa	1
+P : thế này	1
+P : toàn	1
+P : tôi	5
+P : vậy	1
+P : đây	2
+P : đó	4
+P : ấy	1
+R : Không	2
+R : chỉ	7
+R : còn	1
+R : cũng	12
+R : cứ	3
+R : dần	1
+R : dần dần	1
+R : hằng	3
+R : khá	2
+R : không	5
+R : lên	4
+R : lại	9
+R : lắm	2
+R : mới	3
+R : nhất	1
+R : nữa	1
+R : quá	1
+R : ra	3
+R : rất	2
+R : rứa	1
+R : sẽ	2
+R : theo	1
+R : tiếp	1
+R : vào	1
+R : vô	1
+R : vẫn	1
+R : vốn	2
+R : vừa	2
+R : đang	2
+R : đã	7
+R : được	8
+R : đến	3
+RBKT : RBKT	5
+T : Chính	1
+T : ngay	1
+T : thôi	4
+T : đến	2
+V : Làm	2
+V : Thấy	2
+V : Xong	1
+V : biên phòng	1
+V : biến	1
+V : biết	1
+V : biểu diễn	2
+V : bàn	1
+V : bán	3
+V : bắt đầu	1
+V : bỏ	1
+V : cho	5
+V : chui	2
+V : chuẩn bị	1
+V : chìa	1
+V : chín	1
+V : chôn	1
+V : chăn nuôi	1
+V : chạm khắc	1
+V : cách	2
+V : cách mạng	1
+V : còn	1
+V : có	18
+V : có mặt	1
+V : công	1
+V : cười	1
+V : cấy	1
+V : cầm	1
+V : cố	1
+V : diễn	1
+V : dư	1
+V : dựng	4
+V : giúp	2
+V : giữ	1
+V : gặp	1
+V : gặt	1
+V : gọi	1
+V : gồm	1
+V : hình thành	1
+V : hóa	1
+V : hết	1
+V : học	7
+V : khai	2
+V : khoe	2
+V : khuyên	1
+V : kết	1
+V : kề	1
+V : kể	4
+V : là	5
+V : làm	14
+V : làm ăn	1
+V : lát	2
+V : lên	2
+V : lại	1
+V : lắc đầu	1
+V : lắp	1
+V : lợp	2
+V : mượn	1
+V : mất mùa	1
+V : mừng	3
+V : nghe	1
+V : nghĩ	1
+V : ngại	1
+V : ngủ	1
+V : nhắc	1
+V : nhờ	3
+V : nói	8
+V : nản	1
+V : nối	1
+V : phát	1
+V : phát động	1
+V : phải	4
+V : quay	1
+V : quét dọn	2
+V : ra	1
+V : ra sức	1
+V : run	1
+V : rước	1
+V : rường	1
+V : sản xuất	1
+V : sống	1
+V : theo	1
+V : thiếu	1
+V : thiếu đói	1
+V : thoát	1
+V : thuyết phục	1
+V : thành	1
+V : thêm	1
+V : thí điểm	1
+V : thích	1
+V : thông	1
+V : thăm	1
+V : thể dục	1
+V : thừa	1
+V : tin tưởng	1
+V : tiếp	1
+V : tính	2
+V : tập	1
+V : tốn	1
+V : uống	1
+V : về	1
+V : vỡ	2
+V : xem	1
+V : xuyên	1
+V : xẻ	1
+V : ăn	5
+V : Đi	1
+V : Đưa	1
+V : đào	1
+V : đáng	1
+V : đói	1
+V : đưa	2
+V : được	8
+V : đạt	1
+V : đẩy mạnh	1
+V : đắp	1
+V : đặt	1
+V : đối mặt	1
+V : đứng	1
+V : đừng	1
+V : ở	4
+X : Mới đây	1

@@ -1,0 +1,537 @@
+" : "	11
+, : ,	81
+- : -	10
+. : .	55
+... : ...	8
+: : :	4
+? : ?	2
+A : Hơn	2
+A : cao	3
+A : chịu khó	1
+A : có thể	1
+A : cùng	2
+A : dài	1
+A : dơ bẩn	1
+A : dư	1
+A : dẻo dai	1
+A : dễ dàng	1
+A : giản dị	1
+A : giỏi	2
+A : hơn	5
+A : hư	1
+A : hạn hẹp	1
+A : khó khăn	1
+A : lè tè	1
+A : lớn	2
+A : may mắn	1
+A : nghiêm túc	1
+A : nghèo	14
+A : nguy hiểm	1
+A : nhiều	6
+A : nhỏ	2
+A : nhỏ bé	1
+A : nặng nhọc	1
+A : oai	1
+A : sớm	1
+A : thêm	1
+A : thấp	1
+A : thầm lặng	1
+A : thực tế	1
+A : trên	1
+A : trước	2
+A : tương lai	1
+A : tối tăm	1
+A : tới tấp	1
+A : vui	1
+A : vừa	1
+A : yếu	1
+A : âm thầm	1
+A : ít	1
+A : đầu	1
+A : đầu tiên	1
+A : đủ	3
+C : Còn	1
+C : Dù	1
+C : Nhưng	1
+C : Nếu	2
+C : Thế	1
+C : Tuy vậy	1
+C : Vậy là	1
+C : hay	1
+C : là	3
+C : mà	3
+C : như	5
+C : nhưng	9
+C : nên	2
+C : rồi	3
+C : thì	4
+C : và	18
+C : vì thế	1
+E : Bởi	1
+E : Sau	1
+E : bằng	5
+E : cho	16
+E : của	16
+E : do	1
+E : mà	1
+E : ngoài	2
+E : nhờ	2
+E : sau	5
+E : theo	1
+E : trong	4
+E : trên	1
+E : tại	7
+E : từ	7
+E : vào	2
+E : vì	2
+E : về	1
+E : với	6
+E : đến	2
+E : để	8
+E : ở	4
+L : Các	1
+L : các	4
+L : những	8
+L : vài	2
+LBKT : LBKT	2
+M : 1	2
+M : 13	1
+M : 17	1
+M : 1959	1
+M : 1967	2
+M : 1973	1
+M : 1974	1
+M : 1988	1
+M : 1991	2
+M : 1992	1
+M : 2	2
+M : 20 . 000	1
+M : 200	1
+M : 2005	1
+M : 30	2
+M : 300	2
+M : 4	1
+M : 40 . 000	1
+M : 400	1
+M : 41	1
+M : 5	1
+M : 57	1
+M : 9	1
+M : Mỗi	1
+M : Một	5
+M : ba	1
+M : bảy	1
+M : bốn	2
+M : mỗi	1
+M : một	15
+M : triệu	2
+M : trăm	2
+N : Anh	1
+N : Buổi	1
+N : Bà	1
+N : Bí thư	1
+N : Bộ	2
+N : Bộ trưởng	2
+N : Giáo dục	2
+N : Huynh đệ	1
+N : Hôm	1
+N : Học trò	3
+N : Kinh tế	1
+N : Người	1
+N : Nhà Bè	1
+N : Nhật	2
+N : Nhật ngữ	1
+N : Năm	2
+N : Thành ủy	2
+N : Tiến sĩ	1
+N : Tokyo	1
+N : Trường	1
+N : Tài chính	1
+N : Việt Nam	1
+N : anh	1
+N : bà	2
+N : bàn	1
+N : báo	4
+N : bát	2
+N : bước	1
+N : bạn bè	1
+N : bấy giờ	1
+N : bằng	1
+N : chi phí	1
+N : chiến lược	1
+N : chiến tranh	2
+N : chuyến	1
+N : chuyện	2
+N : chí	1
+N : chí hướng	1
+N : chính sách	1
+N : chúng tôi	1
+N : chương trình	3
+N : chỗ	2
+N : chữ	1
+N : con số	1
+N : cua	2
+N : cuộc sống	1
+N : cái	1
+N : cây số	1
+N : công	1
+N : công việc	2
+N : cầu	1
+N : cậu	1
+N : du học	1
+N : du học sinh	8
+N : em	2
+N : ghế	1
+N : gia đình	2
+N : giám đốc	1
+N : giáo sư	1
+N : giờ	1
+N : gì	1
+N : gỗ	1
+N : hiện	2
+N : hôm	1
+N : hôm nay	1
+N : hạnh phúc	1
+N : hầm	1
+N : họa sĩ	1
+N : học	1
+N : học bổng	4
+N : học phí	4
+N : học sinh	1
+N : học trò	11
+N : học xá	2
+N : hồi	1
+N : khi	5
+N : khoảng	1
+N : khu chế xuất	2
+N : khả năng	1
+N : ký túc xá	3
+N : kỷ luật	1
+N : lòng	2
+N : lý tưởng	1
+N : lưng	1
+N : lần	1
+N : lẽ	1
+N : mình	1
+N : mô hình	1
+N : mặt	1
+N : mẹ	2
+N : mối	1
+N : nghìn	1
+N : nghề	1
+N : nghị lực	1
+N : nguồn	1
+N : ngày	1
+N : người	6
+N : nhau	1
+N : nhà	2
+N : nhà cầu	1
+N : nhà giáo	4
+N : nhà in	1
+N : nhân tài	1
+N : nhịp	1
+N : niềm	2
+N : nó	1
+N : năm	13
+N : nước	4
+N : nước ngoài	1
+N : nỗ lực	1
+N : quan hệ	1
+N : quanh năm	1
+N : quê hương	1
+N : quốc gia	1
+N : quỹ	1
+N : rèn luyện	1
+N : sinh hoạt phí	2
+N : sinh viên	1
+N : suất	3
+N : sáng	3
+N : số	1
+N : sức	2
+N : sức lực	1
+N : sự	4
+N : tay	2
+N : tay áo	1
+N : thuyết khách	1
+N : tháng	2
+N : thạc sĩ	2
+N : thầy	2
+N : thế hệ	1
+N : thế nào	1
+N : thế ấy	1
+N : thời gian	2
+N : thứ ba	1
+N : tin	2
+N : tinh thần	1
+N : tiến sĩ	2
+N : tiền	7
+N : trang	1
+N : trò	1
+N : trường	3
+N : trời	1
+N : tuổi	1
+N : tài	2
+N : tài năng	1
+N : tác phẩm	3
+N : tâm nguyện	2
+N : tên	1
+N : tòa soạn	1
+N : tư bản	1
+N : tương lai	2
+N : tấm	1
+N : tối	1
+N : việc	7
+N : vợ	1
+N : xã hội	1
+N : Ông	3
+N : ông	23
+N : Đào tạo	2
+N : Đầu	1
+N : đêm	1
+N : đôi	1
+N : đũa	1
+N : đường	4
+N : đạo đức	1
+N : đất	1
+N : đất nước	1
+N : đầu	1
+N : đặc khu kinh tế	1
+N : đến	1
+N : đồng	1
+N : đức	1
+NP : *E*	2
+NP : *T*	4
+Nc : Con	1
+Nc : Người	2
+Nc : bà	1
+Nc : bạn	1
+Nc : chiếc	1
+Nc : con	6
+Nc : cuộc	1
+Nc : căn	1
+Nc : người	1
+Nc : Ông	1
+Nc : ông	1
+Np : Asahi	1
+Np : Australia	1
+Np : Ba Lan	1
+Np : Chu Văn An	1
+Np : Hòe	2
+Np : Liên Xô	1
+Np : Mỹ	1
+Np : Nguyễn Đức Hòe	5
+Np : Nhật	14
+Np : Nhật Bản	1
+Np : Sài Gòn	1
+Np : Trung Quốc	2
+Np : Trần Hồng Quân	1
+Np : Việt Nam	7
+Np : Võ Minh Tuấn	1
+Np : Võ Trần Chí	1
+Np : Yomiuri	1
+Np : Đông Du	7
+Np : Đông du	2
+Nu : suất	1
+Nu : yen	1
+Nu : đồng	1
+Ny : HCM	3
+Ny : HS	9
+Ny : SV	2
+Ny : TP	3
+Ny : ĐH	2
+P : Bấy giờ	1
+P : Mình	1
+P : Tôi	5
+P : Vậy	1
+P : ai	1
+P : cả	2
+P : gì	1
+P : mình	12
+P : nay	3
+P : nào	2
+P : này	6
+P : thế	1
+P : tôi	8
+P : tất cả	1
+P : tự	1
+P : vậy	1
+P : đó	6
+P : ấy	1
+R : Không	1
+R : chính	1
+R : chưa	1
+R : chỉ	5
+R : còn	2
+R : cũng	4
+R : hàng	1
+R : không	11
+R : lên	1
+R : lại	2
+R : mới	3
+R : nữa	1
+R : quá	4
+R : sắp	1
+R : sẽ	1
+R : thật	2
+R : tiếp	1
+R : từng	2
+R : về	3
+R : vừa	5
+R : Đã	1
+R : đang	2
+R : đã	12
+R : được	13
+RBKT : RBKT	2
+T : Cho	1
+T : Riêng	1
+T : chính	1
+T : cả	1
+T : gì	1
+T : rồi	1
+T : thôi	1
+T : thật	1
+V : Cho	1
+V : Có	2
+V : Du học	1
+V : Gọi	1
+V : Mở	1
+V : Trở	1
+V : Xuất thân	1
+V : ao ước	1
+V : biết	1
+V : biếu	1
+V : bán	2
+V : báo cáo	2
+V : bảo lãnh	2
+V : bảo trợ	2
+V : bận	1
+V : bắt	2
+V : bắt đầu	2
+V : bị	1
+V : bổ nhiệm	1
+V : chiến thắng	1
+V : cho	5
+V : chuẩn bị	2
+V : chê	1
+V : chạy	1
+V : chắc	1
+V : chọn	1
+V : còn	2
+V : có	28
+V : công cán	1
+V : cấm vận	1
+V : cống hiến	1
+V : du học	9
+V : dành	1
+V : dành dụm	2
+V : dám	1
+V : dùng	1
+V : dậy	1
+V : dự kiến	1
+V : dựa	1
+V : giao	2
+V : giúp	2
+V : giúp đỡ	1
+V : giải phóng	1
+V : giấu	1
+V : gây dựng	1
+V : gặp	1
+V : gửi	2
+V : ham	1
+V : hiện diện	1
+V : học	7
+V : học tập	2
+V : hỏi	1
+V : khai thông	1
+V : khóc	2
+V : khởi xướng	2
+V : khởi đầu	1
+V : kiếm	1
+V : kết thúc	1
+V : kể	5
+V : là	9
+V : làm	11
+V : làm việc	1
+V : làm đồng	1
+V : lấy	1
+V : lập	1
+V : mang	1
+V : mượn	1
+V : mất	1
+V : mời	1
+V : mở	1
+V : nghe	2
+V : nghị lực	1
+V : nguyện	1
+V : ngồi	1
+V : nhận	1
+V : nói	5
+V : nói chuyện	1
+V : nề hà	1
+V : nối	1
+V : nợ	1
+V : phát triển	1
+V : phải	8
+V : phết	1
+V : qua	1
+V : quyết định	1
+V : quét	1
+V : rửa	1
+V : sang	7
+V : say mê	2
+V : sàng lọc	1
+V : sơn	1
+V : sống	1
+V : sửa	1
+V : sửa sang	1
+V : tan rã	1
+V : theo	2
+V : thuê	1
+V : thành	1
+V : thành danh	1
+V : thành lập	1
+V : thành đạt	1
+V : thêm	2
+V : thấy	1
+V : thừa nhận	1
+V : thử	1
+V : thực hiện	1
+V : tin	1
+V : trang trải	1
+V : triển khai	1
+V : trân trọng	1
+V : trọ	1
+V : trọn	1
+V : trở	1
+V : trở lại	1
+V : trợ giúp	1
+V : tìm	2
+V : tốn	1
+V : tổ chức	1
+V : tới	1
+V : tự túc	1
+V : vào	2
+V : vận động	1
+V : vẽ	1
+V : về	2
+V : vụ lợi	1
+V : xem	1
+V : xin	2
+V : xây dựng	1
+V : xắn	1
+V : xếp	1
+V : yêu	1
+V : yêu cầu	1
+V : ôn luyện	1
+V : ăn ở	1
+V : đi	12
+V : đào tạo	2
+V : đóng	1
+V : đưa	5
+V : được	12
+V : đến	4
+V : ở	2
+X : hai bàn tay trắng	1
+X : làm sao	2
+X : nhất là	1
+X : đối với	1

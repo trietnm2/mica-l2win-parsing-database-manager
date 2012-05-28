@@ -1,0 +1,494 @@
+" : "	16
+, : ,	55
+- : -	13
+. : .	30
+... : ...	2
+/ : /	2
+: : :	7
+A : Bình yên	1
+A : Hơn	1
+A : bình yên	1
+A : cao	1
+A : chính thức	1
+A : chắc chắn	2
+A : cuối cùng	1
+A : dài	4
+A : dày	1
+A : dốc	1
+A : gần	1
+A : hiểm nguy	1
+A : hiểm trở	1
+A : hiện đại	1
+A : hoàn chỉnh	1
+A : hoành tráng	1
+A : hào hứng	1
+A : háo hức	1
+A : hơn	4
+A : hư hỏng	1
+A : hẻo lánh	1
+A : hồ hởi	1
+A : khiếp sợ	1
+A : khuya	1
+A : khác	1
+A : khác thường	1
+A : khó	1
+A : liên tục	1
+A : liền	1
+A : lớn	2
+A : mờ	1
+A : nhiều	3
+A : nhất	1
+A : nhỏ bé	2
+A : nhộn nhịp	1
+A : nức lòng	1
+A : quanh co	1
+A : rạng rỡ	1
+A : rộn ràng	1
+A : rộng	1
+A : say sưa	1
+A : sớm	2
+A : tan	1
+A : thường xuyên	1
+A : thảm khốc	1
+A : thẳng	1
+A : trong	1
+A : trung bình	1
+A : trước	3
+A : trọng đại	2
+A : tất bật	1
+A : tận mắt	2
+A : vui	1
+A : vui vẻ	1
+A : xanh	1
+A : xuôi ngược	1
+A : Đúng	1
+A : đông	1
+A : đầy	1
+A : đẹp	1
+A : đồ sộ	1
+A : đủ	1
+A : ồn ào	1
+C : Còn	1
+C : Nhưng	1
+C : cùng	1
+C : là	1
+C : mà	3
+C : như	1
+C : nhưng	2
+C : nên	1
+C : thì	4
+C : và	10
+C : với	3
+E : Theo	1
+E : Trong	3
+E : Từ	1
+E : Vào	1
+E : Với	1
+E : bằng	1
+E : cho	5
+E : của	12
+E : do	1
+E : dưới	3
+E : qua	2
+E : sau	1
+E : trong	6
+E : trên	3
+E : trước	2
+E : tại	6
+E : từ	6
+E : vào	2
+E : vì	1
+E : với	5
+E : đến	2
+E : để	2
+E : ở	4
+L : các	4
+L : những	11
+L : nửa	1
+L : toàn bộ	2
+LBKT : LBKT	2
+M : 1	1
+M : 10	3
+M : 11	2
+M : 11,9	1
+M : 12	1
+M : 21	1
+M : 23	1
+M : 25	1
+M : 29	1
+M : 30	1
+M : 36	1
+M : 400 triệu	1
+M : 45	1
+M : 47	1
+M : 496	1
+M : 5+020	1
+M : 50	1
+M : 6	1
+M : 6.247	1
+M : 7	1
+M : 7,5	1
+M : 70	1
+M : 8	2
+M : Hai	1
+M : Một	1
+M : chục	1
+M : hai	5
+M : mười	2
+M : một	3
+M : sáu	1
+N : Công an	1
+N : Công ty	1
+N : Dân	1
+N : Hầm	2
+N : Hồi	1
+N : Khu	1
+N : Sau này	1
+N : an toàn lao động	1
+N : bia	1
+N : biển	1
+N : buổi	1
+N : bán kính	1
+N : bán đảo	1
+N : bên	2
+N : bóng	1
+N : bắc	1
+N : chiếc	1
+N : chiều	1
+N : chuyến	1
+N : chài	1
+N : chân	3
+N : chủ tịch	2
+N : câu chuyện	1
+N : công trình	2
+N : công trường	1
+N : cơ hội	1
+N : cơm	1
+N : cạnh	1
+N : cầu	1
+N : cửa	4
+N : dân	4
+N : dãy	2
+N : giai đoạn	1
+N : giao thông	3
+N : giám đốc	2
+N : giọng	1
+N : giờ	1
+N : huyết mạch	1
+N : hàng quán	2
+N : hành trình	1
+N : hình ảnh	2
+N : hôm	1
+N : hạng mục	1
+N : hầm	18
+N : hốc	1
+N : hội	1
+N : khi	6
+N : khoảng	1
+N : khu	3
+N : khuôn mặt	1
+N : khách	3
+N : khách sạn	1
+N : khách vãng lai	1
+N : kíp	1
+N : ký ức	1
+N : kỹ thuật	1
+N : liên danh	1
+N : làng	1
+N : lý	1
+N : lượng	1
+N : lần	1
+N : lễ	2
+N : lịch sử	1
+N : lớp	1
+N : lời	1
+N : mái	1
+N : mìn	2
+N : mùa	1
+N : mưa	1
+N : mạch máu	1
+N : mốc	1
+N : một mạch	1
+N : mực	1
+N : nam	1
+N : ngày	7
+N : người	5
+N : nhau	2
+N : nhà	2
+N : nhà nghỉ	1
+N : núi	5
+N : năm	5
+N : nước	2
+N : nước biển	1
+N : nước mắt	1
+N : nước ngoài	1
+N : phía	2
+N : phường	2
+N : quang cảnh	1
+N : quán	1
+N : quận	2
+N : quốc lộ	1
+N : quốc tế	1
+N : rắn	1
+N : son	1
+N : sáng	4
+N : số	2
+N : số liệu	1
+N : sức	1
+N : tai nạn	2
+N : thiệt hại	1
+N : tháng	3
+N : thôn	2
+N : thị trấn	2
+N : thợ	2
+N : tin vui	4
+N : tiến trình	1
+N : trình	1
+N : trưởng thôn	2
+N : tuyến	1
+N : tuổi	2
+N : tài xế	3
+N : tư nhân	1
+N : tường	1
+N : tỉnh	1
+N : việc	2
+N : vòm	1
+N : vẻ	2
+N : vỏ	1
+N : xe	3
+N : xe khách	3
+N : xe tải	3
+N : xóm	1
+N : áo	1
+N : Đêm	1
+N : đá	1
+N : đèo	12
+N : đêm	1
+N : đường	7
+N : đường bộ	7
+N : đường hầm	4
+N : đường sá	1
+N : đất đá	1
+N : đầm	2
+N : đầu	1
+N : độ	1
+N : ốc đảo	1
+NP : *E*	6
+Nb : bêtông	1
+Nb : resort	1
+Nc : Anh	1
+Nc : buổi	1
+Nc : bức	1
+Nc : chuyến	1
+Nc : chú	1
+Nc : con	2
+Nc : cái	2
+Nc : ngành	1
+Nc : người	5
+Nc : nỗi	1
+Nc : phát	1
+Nc : sự	1
+Nc : việc	1
+Nc : Ông	2
+Nc : ông	3
+Np : 1A	1
+Np : An Cư Đông	1
+Np : Bình Hiên	1
+Np : Bắc	3
+Np : Công Đoàn	1
+Np : Hoàng Diệu	1
+Np : Hoàng Sĩ Hải	1
+Np : Huế	1
+Np : Hòa Hiệp	1
+Np : Hói Mít	1
+Np : Hương Giang	1
+Np : Hải Châu	1
+Np : Hải Vân	11
+Np : Lang Co Beach Resort	2
+Np : Liên Chiểu	1
+Np : Lê Duy Hiệp	1
+Np : Lăng Cô	7
+Np : Lập An	1
+Np : Nam	3
+Np : Nam Hải Vân	1
+Np : Nguyễn Hường	1
+Np : Ngô Đăng Quang	1
+Np : Răng Cưa	1
+Np : Sông Đà	2
+Np : Thanh Tâm	1
+Np : Thác Mơ	1
+Np : Thừa Thiên	1
+Np : Trần Sỏ	1
+Np : Đà Nẵng	5
+Np : Đông Ah	1
+Np : Đông Nam Á	1
+Nu : cm	1
+Nu : g	1
+Nu : giờ	1
+Nu : km	1
+Nu : m	4
+Nu : phút	1
+Nu : đồng	1
+Ny : TP	2
+Ny : UBND	1
+Ny : VN	1
+P : Bây chừ	1
+P : Chúng tôi	3
+P : Họ	1
+P : Tất cả	1
+P : bây giờ	2
+P : chúng tôi	2
+P : cả	1
+P : họ	1
+P : mình	1
+P : mô	1
+P : nay	3
+P : nào	4
+P : này	2
+P : tui	2
+P : tôi	3
+P : vậy	1
+P : Đó	1
+P : đây	1
+P : đó	2
+R : Chỉ	1
+R : Không	2
+R : chỉ	1
+R : cũng	5
+R : cứ	1
+R : hàng	1
+R : hơn	1
+R : hằng	2
+R : khá	2
+R : không	1
+R : không thể	1
+R : lên	2
+R : lại	3
+R : lẫn	1
+R : mới	4
+R : nữa	1
+R : qua	1
+R : ra	2
+R : rồi	1
+R : sẽ	9
+R : thậm chí	1
+R : thật	1
+R : từng	1
+R : vào	2
+R : vừa	1
+R : đang	7
+R : đã	7
+R : được	1
+R : đến	2
+R : đều	1
+RBKT : RBKT	2
+S : phó	2
+T : Ngay	1
+T : chính	1
+T : ngay	1
+T : nữa	1
+T : đâu	1
+T : đây	1
+T : ấy	1
+V : Nhìn	1
+V : biết	1
+V : bán	1
+V : báo hiệu	1
+V : bù	1
+V : bấm	1
+V : bắc	1
+V : bắt tay	1
+V : bắt đầu	1
+V : bị thương	1
+V : chen	1
+V : chuẩn bị	1
+V : chạy	1
+V : chảy	1
+V : chứng kiến	2
+V : còn	1
+V : có	4
+V : có mặt	2
+V : cười	2
+V : cắt	1
+V : diễn tả	1
+V : du lịch	5
+V : ghé	2
+V : giải trí	1
+V : gây	1
+V : gấp	1
+V : hoàn tất	1
+V : hát	1
+V : hò	1
+V : hội nhập	1
+V : khai thông	1
+V : liên tục	1
+V : lo lắng	1
+V : là	5
+V : làm	4
+V : lái	1
+V : lên	1
+V : lưu thông	1
+V : lưu trú	1
+V : lượn	1
+V : lở	1
+V : lợi ích	1
+V : mang	2
+V : muốn	1
+V : mọc	1
+V : mở	1
+V : mở cửa	1
+V : nghĩ	1
+V : ngắm	1
+V : nhìn	2
+V : nhảy múa	1
+V : nhằm	1
+V : nói	5
+V : năn nỉ	1
+V : nằm	2
+V : nối liền	1
+V : nổ	1
+V : phun	1
+V : phá	1
+V : phân tích	1
+V : phải	2
+V : phụ trách	1
+V : qua	4
+V : ra đời	1
+V : so	1
+V : sụt	1
+V : tham quan	1
+V : thay vì	1
+V : theo	1
+V : thi công	4
+V : thiệt mạng	1
+V : thông	5
+V : tin	1
+V : trò chuyện	1
+V : trú	1
+V : trở nên	1
+V : tăng	1
+V : tắm	1
+V : tự hào	1
+V : vui chơi	1
+V : vào	1
+V : về	1
+V : xin	1
+V : xuyên	5
+V : xuất hiện	1
+V : xây dựng	2
+V : xúc tiến	1
+V : xảy	1
+V : ôm	1
+V : ăn mừng	1
+V : đào	1
+V : đánh dấu	1
+V : đón	3
+V : đón nhận	1
+V : đón đầu	1
+V : đưa	1
+V : được	7
+V : đến	2
+V : đồng ý	1
+V : đợi	1
+V : đứng	2
+V : đứt	1

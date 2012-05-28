@@ -1,0 +1,638 @@
+! : !	2
+" : "	7
+, : ,	81
+- : -	1
+. : .	50
+... : ...	5
+: : :	5
+A : Cuối cùng	1
+A : chu toàn	1
+A : chính	1
+A : chủ yếu	1
+A : cuối	1
+A : cuối cùng	1
+A : gian nan	1
+A : giỏi	1
+A : gần	3
+A : hơn	3
+A : hạnh phúc	1
+A : khoảng	4
+A : khác	5
+A : khách quan	1
+A : khô	1
+A : khỏe	1
+A : liên tục	1
+A : lớn	1
+A : may mắn	1
+A : mãnh liệt	1
+A : mới	1
+A : nhiều	7
+A : nhỏ	1
+A : nhỏ nhắn	1
+A : quen thuộc	1
+A : quá tải	1
+A : riêng	1
+A : rộng rãi	1
+A : suốt	1
+A : sáng	2
+A : sạch	1
+A : thiệt	1
+A : thích hợp	1
+A : tiện	1
+A : to đùng	1
+A : trung bình	1
+A : trung ương	1
+A : trước	2
+A : tái	1
+A : túi bụi	1
+A : tạm	1
+A : tối	1
+A : xa	1
+A : xứng đáng	1
+A : Đặc biệt	1
+A : đau lòng	1
+A : đông	3
+A : đầu	1
+A : đầy	2
+A : đồng	1
+A : đủ	1
+A : ổn	1
+C : Cho dù	1
+C : Hơn nữa	1
+C : cho dù	1
+C : hay	1
+C : hoặc	2
+C : là	2
+C : mà	6
+C : như	6
+C : nhưng	8
+C : nên	4
+C : nếu	1
+C : rằng	2
+C : rồi	2
+C : thì	3
+C : tuy	1
+C : và	33
+E : Cho	1
+E : Do	1
+E : Trong	1
+E : bằng	4
+E : bởi	3
+E : cho	13
+E : của	25
+E : ngoài	1
+E : qua	2
+E : sau	1
+E : trong	11
+E : trên	5
+E : tại	4
+E : từ	5
+E : vào	3
+E : vì	3
+E : về	8
+E : với	8
+E : đến	4
+E : để	8
+E : Ở	2
+E : ở	8
+L : Các	1
+L : Mỗi	1
+L : Những	1
+L : các	20
+L : hàng	1
+L : hàng loạt	2
+L : muôn	1
+L : mấy	2
+L : mọi	1
+L : mỗi	3
+L : một	1
+L : nhiều	1
+L : những	23
+L : phần nào	1
+LBKT : LBKT	1
+M : 1 . 000	1
+M : 10	1
+M : 11	1
+M : 15 . 000	1
+M : 1998	1
+M : 200	1
+M : 2001	1
+M : 30	2
+M : 33	1
+M : 4	1
+M : 50.000	1
+M : 8	1
+M : 80%	1
+M : Hai	1
+M : ba	4
+M : bốn	1
+M : hai	3
+M : một	17
+M : sáu	2
+N : Ban đầu	1
+N : Bà	1
+N : Bản thân	1
+N : Chị	2
+N : Chị em	1
+N : Cô dâu	1
+N : Cục	2
+N : Gia cảnh	1
+N : Hôm	1
+N : Hồi	1
+N : Khi	1
+N : Khách	1
+N : Mối	1
+N : Ngoài	1
+N : Ngày	2
+N : Nàng	1
+N : Năm	1
+N : Quán	1
+N : Thực đơn	2
+N : Trường	2
+N : Tổ chức	2
+N : Viện	1
+N : Vị trí	1
+N : buổi	1
+N : bài vở	1
+N : bàn ghế	1
+N : bách hóa	1
+N : bánh tét	1
+N : bánh ít	1
+N : báo chí	1
+N : bên	1
+N : băng đĩa nhạc	1
+N : bản thân	1
+N : bản xứ	1
+N : bằng	1
+N : bệnh viện	1
+N : chuối	1
+N : chân dung	1
+N : chính quyền	1
+N : chính sách	1
+N : chương trình	2
+N : chả giò	2
+N : chị	5
+N : chị em	8
+N : chồng	7
+N : chủ	1
+N : chủ biên	1
+N : chữ	1
+N : con	1
+N : con cái	1
+N : con người	1
+N : cuộc sống	2
+N : cà phê	2
+N : cách	2
+N : câu chuyện	1
+N : cô	2
+N : cô dâu	6
+N : công sức	1
+N : công ty	1
+N : công việc	4
+N : cản trở	1
+N : cảnh ngộ	1
+N : cảnh sát	1
+N : cửa hàng	5
+N : doanh thu	1
+N : du khách	1
+N : dâu	7
+N : dạng	1
+N : dạo	1
+N : gam	1
+N : gia đình	5
+N : giáo dục	1
+N : giáo sư	1
+N : giáo viên	1
+N : giờ	3
+N : giữa	1
+N : gái	4
+N : góc cạnh	1
+N : gỏi cuốn	1
+N : hoạt động	1
+N : hàng	3
+N : hàng hóa	1
+N : hàng xóm	1
+N : hình ảnh	1
+N : hôn nhân	4
+N : học bổng	1
+N : hột vịt lộn	1
+N : hợp đồng	1
+N : khi	2
+N : khu vực	1
+N : khách	4
+N : khó khăn	2
+N : khóa	1
+N : khổ	1
+N : kinh nghiệm	2
+N : kinh phí	1
+N : kinh tế	1
+N : kiến thức	4
+N : kệ	1
+N : luận án	1
+N : lúc	2
+N : lăng kính	1
+N : lối	1
+N : lớp	1
+N : lợi thế	1
+N : màu	2
+N : máy tính	1
+N : món	6
+N : mắt	1
+N : mặt	1
+N : mặt bằng	4
+N : mặt hàng	2
+N : mẹ	3
+N : mục đích	1
+N : mỹ phẩm	1
+N : nem	1
+N : nghiên cứu	1
+N : nghiên cứu sinh	1
+N : nghề	1
+N : ngoài	2
+N : nguyệt san	1
+N : ngành	1
+N : ngày	11
+N : người	16
+N : người ta	1
+N : nhau	2
+N : nhu cầu	1
+N : nhà	4
+N : nhà ga	1
+N : nhân	2
+N : nhân viên	1
+N : nàng	4
+N : núi	1
+N : năm	6
+N : năm ngoái	1
+N : nơi	5
+N : nước	1
+N : nước ngoài	3
+N : nước ngọt	1
+N : nếp	1
+N : nền	2
+N : nỗi niềm	1
+N : nội dung	1
+N : phin	1
+N : phong tục	1
+N : phương tiện	1
+N : phần thưởng	1
+N : phận	1
+N : phổ thông	1
+N : phở	1
+N : phụ nữ	3
+N : phụ sản	1
+N : quan điểm	1
+N : quanh	1
+N : quyết tâm	1
+N : quá trình	1
+N : quán	4
+N : sau	2
+N : sinh hoạt	1
+N : siêu thị	1
+N : sách	1
+N : sáng	1
+N : sóng	1
+N : số	1
+N : số phận	2
+N : sốc	1
+N : tay	4
+N : tay nghề	1
+N : tháng	5
+N : thân phận	1
+N : thông tin	2
+N : thạc sĩ	2
+N : thức ăn	1
+N : thực khách	1
+N : thực phẩm	2
+N : thực tế	1
+N : tiếng	11
+N : tiền	1
+N : trang	1
+N : trung tâm	2
+N : truyền thống	1
+N : trách nhiệm	1
+N : trí thức	1
+N : trường	1
+N : trạm	1
+N : trẻ em	1
+N : tuần	1
+N : tuổi	2
+N : tàu biển	1
+N : tàu điện ngầm	1
+N : tên	2
+N : tình cảm	1
+N : tô	1
+N : tư cách	1
+N : tập quán	1
+N : việc	5
+N : vùng sâu vùng xa	1
+N : văn bản	1
+N : văn hóa	2
+N : vấn đề	4
+N : vốn	1
+N : vợ	4
+N : xe điện ngầm	2
+N : xá xị	1
+N : xã hội	5
+N : xứ	2
+N : ánh	1
+N : ĐH	1
+N : điện	1
+N : đêm	1
+N : đường	2
+N : đường sá	1
+N : đại học	2
+N : đất	3
+N : đầu	2
+N : đậu	1
+N : đề tài	2
+N : địa chỉ	1
+N : đồ	1
+N : đồng hương	1
+N : đồng hồ	1
+N : ước mơ	1
+NP : *E*	12
+NP : *T*	6
+Nc : Cuộc	1
+Nc : chiếc	1
+Nc : con	1
+Nc : cuộc	1
+Nc : cái	2
+Nc : cô	4
+Nc : người	10
+Nc : sự	2
+Nc : tấm	1
+Nc : tờ	3
+Nc : đống	1
+Np : A4	1
+Np : Anh	2
+Np : Chương Dương	1
+Np : Diễm Quyên	1
+Np : Dân chính	1
+Np : Eden	2
+Np : Giáo dục	1
+Np : Hoa	5
+Np : Hoàng Phượng	2
+Np : Linh Sơn	3
+Np : Luật	1
+Np : Mở - bán công	1
+Np : Nguyễn Thị Diễm Quyên	1
+Np : Người Phụ Nữ VN	2
+Np : Nhật	2
+Np : Phước Hoa	1
+Np : Phượng	17
+Np : Quyên	11
+Np : Thực Tiễn	1
+Np : Trần Thị Hoàng Phượng	1
+Np : VN	5
+Np : Việt	6
+Np : châu Âu	1
+Np : Đài	1
+Np : Đài Bắc	4
+Np : Đài Loan	1
+Nu : giờ	1
+Nu : tiếng	1
+Nu : đài tệ	2
+Ny : SV	1
+Ny : TP	3
+Ny : TP.HCM	1
+Ny : VN	20
+Ny : ĐH	2
+Ny : ĐL	15
+P : Bây giờ	1
+P : Tôi	4
+P : ai	1
+P : chúng tôi	1
+P : cả	1
+P : gì	2
+P : họ	4
+P : kia	2
+P : mình	8
+P : người ta	1
+P : này	8
+P : tôi	16
+P : tự	5
+P : Đó	1
+P : đâu	1
+P : đây	3
+P : đó	3
+R : Không	1
+R : Riết	1
+R : chuyên	1
+R : chưa	2
+R : chẳng	3
+R : chỉ	2
+R : còn	5
+R : có	2
+R : cũng	8
+R : cứ	2
+R : hơi	1
+R : hơn	2
+R : hằng	1
+R : khá	2
+R : không	8
+R : không thể	1
+R : luôn	2
+R : lên	2
+R : lại	5
+R : mãi	2
+R : mới	3
+R : ngay	1
+R : nhất	2
+R : nữa	1
+R : quá	3
+R : ra	2
+R : rất	4
+R : sắp sửa	1
+R : sẽ	4
+R : thêm	1
+R : thường	1
+R : thậm chí	1
+R : thật	1
+R : thỉnh thoảng	1
+R : vẫn	4
+R : về	1
+R : vừa	4
+R : đang	5
+R : đã	11
+R : được	9
+R : đều	3
+RBKT : RBKT	1
+T : chính	2
+T : cái	2
+T : cả	1
+T : ngay	3
+T : đến	2
+V : Hẹn	1
+V : Lấy	1
+V : Mở	1
+V : Nghiên cứu	1
+V : Sang	1
+V : Vượt	1
+V : biên tập	1
+V : biết	6
+V : bày	1
+V : bám	1
+V : bán	4
+V : bình chọn	1
+V : bươn chải	1
+V : bảo	6
+V : bận	1
+V : bắt đầu	2
+V : bị	2
+V : bỏ cuộc	1
+V : bỏ mối	1
+V : chia sẻ	1
+V : chiên	1
+V : chuyên doanh	1
+V : chuyền	1
+V : chuẩn bị	1
+V : chất	1
+V : chịu	1
+V : chọn	1
+V : chờ	1
+V : chủ biên	1
+V : chủ động	1
+V : coi thường	1
+V : còn	3
+V : có	17
+V : cấp	1
+V : diễn thuyết	1
+V : duy trì	1
+V : dành	1
+V : dùng	2
+V : dạy	3
+V : giúp	3
+V : giúp đỡ	1
+V : giảng dạy	3
+V : giới thiệu	1
+V : gặp	3
+V : gọi	1
+V : gồm	1
+V : gửi	1
+V : hình thành	1
+V : hướng dẫn	1
+V : hết	1
+V : học	10
+V : học tập	2
+V : hỗ trợ	2
+V : hội nhập	1
+V : khóc	1
+V : kinh doanh	2
+V : kiên trì	1
+V : ký	1
+V : kết thúc	2
+V : kỳ thị	1
+V : lao động	1
+V : liên quan	3
+V : là	10
+V : làm	15
+V : lên lớp	3
+V : lùng	1
+V : lưu	1
+V : lấy	3
+V : mang	3
+V : mua	2
+V : mua sắm	1
+V : muốn	4
+V : mướn	1
+V : mở rộng	2
+V : nghiên cứu	2
+V : nghĩ	2
+V : ngại	1
+V : ngắt quãng	1
+V : ngồi	2
+V : nhìn	4
+V : nhập	1
+V : nhập cư	1
+V : nhằm	2
+V : nhờ	2
+V : nuôi	1
+V : nói	2
+V : nấu	2
+V : nấu nướng	2
+V : nấu ăn	1
+V : nằm	3
+V : phiên dịch	2
+V : phát hành	1
+V : phát thanh	1
+V : phát triển	1
+V : phân phát	1
+V : phân tích	1
+V : phù hợp	1
+V : phải	8
+V : phụ	1
+V : qua	6
+V : quan hệ	1
+V : quyết tâm	1
+V : quyết định	1
+V : quản lý	1
+V : ra	3
+V : rành	1
+V : rơi	1
+V : sang	4
+V : sinh hoạt	1
+V : sống	3
+V : sử dụng	1
+V : tham gia	2
+V : thay đổi	2
+V : theo	2
+V : thiết kế	1
+V : thiếu	1
+V : thuê	2
+V : thành lập	2
+V : thành thạo	1
+V : thán phục	1
+V : thêm	5
+V : thấu hiểu	1
+V : thấy	2
+V : tin	2
+V : tiến bộ	1
+V : tiếp	1
+V : tiếp tục	1
+V : trang bị	1
+V : trao đổi	1
+V : trân trọng	1
+V : trò chuyện	1
+V : trợ lý	1
+V : tâm sự	1
+V : tìm	6
+V : tưởng	1
+V : tọa lạc	1
+V : tốt nghiệp	1
+V : tổ chức	1
+V : tới	1
+V : tự nguyện	1
+V : tự tin	1
+V : viết	2
+V : vào	1
+V : vượt	1
+V : về	2
+V : xin	1
+V : xuất hiện	1
+V : xách	1
+V : ăn	1
+V : ăn uống	2
+V : Đến	1
+V : đi	6
+V : đi lại	1
+V : điện thoại	1
+V : đánh giá	1
+V : đăng ký	1
+V : được	10
+V : đảo lộn	1
+V : đặt hàng	1
+V : đến	3
+V : đền bù	1
+V : đọc	2
+V : đối mặt	1
+V : đứng	1
+V : ẩm thực	1
+V : ở	1
+X : Ngoài ra	1
+X : kể cả	1
+X : làm sao	1
+X : ngày càng	1
+X : như vậy	3
+X : vùng sâu vùng xa	1
+… : ...	1

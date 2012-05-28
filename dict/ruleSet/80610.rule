@@ -1,0 +1,240 @@
+AP : " A "	2
+AP : A	18
+AP : A A	1
+AP : A N	1
+AP : A N VP	1
+AP : A NP	7
+AP : A NP VP	1
+AP : A R	1
+AP : A R NP	1
+AP : A SBAR	1
+AP : A VP	3
+AP : AP , AP	1
+AP : AP , AP PP	2
+AP : R A	1
+AP : R A AP , SBAR	1
+AP : R A PP PP	1
+AP : R A R P : SBAR	1
+AP : R A VP	1
+AP : R AP , AP , AP A	1
+NP : " N " PP	1
+NP : " N A "	1
+NP : " N N " PP	1
+NP : " N NP "	1
+NP : A M - M Nu	1
+NP : A N	5
+NP : L M N	1
+NP : L M N LBKT NP RBKT	1
+NP : L N	2
+NP : L N A	1
+NP : L N NP	1
+NP : L N Nb	1
+NP : L N P	2
+NP : L Nc N A PP	1
+NP : L Nc N AP	1
+NP : L Nc N C	1
+NP : L Nc N M AP	1
+NP : L Nc N P	1
+NP : L Nc N SBAR	1
+NP : L Nu VP	1
+NP : M - M Nc	1
+NP : M - M Nu	1
+NP : M N	1
+NP : M N AP , VP , VP	1
+NP : M N N NP	1
+NP : M N NP VP	1
+NP : M N SBAR	1
+NP : M N VP	1
+NP : M N VP PP : NP	1
+NP : M Nc N	2
+NP : M Nc VP	1
+NP : M Nu	3
+NP : M Nu / NP	2
+NP : M Nu N	1
+NP : N	65
+NP : N " Vb "	1
+NP : N A	2
+NP : N A PP	1
+NP : N AP	2
+NP : N AP , NP	1
+NP : N AP PP	1
+NP : N I NP	1
+NP : N LBKT NP RBKT	1
+NP : N M	1
+NP : N M - M	1
+NP : N N	13
+NP : N N " LBKT S RBKT	1
+NP : N N AP	1
+NP : N N AP NP NP	1
+NP : N N M	1
+NP : N N N	1
+NP : N N NP	1
+NP : N N NP VP	1
+NP : N N PP PP PP	1
+NP : N NP	15
+NP : N NP NP	1
+NP : N NP VP	2
+NP : N Nb	1
+NP : N Np	10
+NP : N Np PP	1
+NP : N Ny Np , NP	1
+NP : N P	3
+NP : N P R	1
+NP : N PP	7
+NP : N SBAR	1
+NP : N V	5
+NP : N V PP	3
+NP : N V PP ... VP	1
+NP : N V VP	2
+NP : N VP	13
+NP : N VP PP	1
+NP : NP , NP , NP , NP	1
+NP : NP : NP	1
+NP : NP C NP	1
+NP : Nb	1
+NP : Nb PP : NP	1
+NP : Nc	1
+NP : Nc N	8
+NP : Nc N AP	1
+NP : Nc N AP , AP VP	1
+NP : Nc N AP P	2
+NP : Nc N LBKT NP RBKT	1
+NP : Nc N M	1
+NP : Nc N NP	3
+NP : Nc N P	2
+NP : Nc N PP , PP VP , PP , AP	1
+NP : Nc N SBAR	1
+NP : Nc N VP	1
+NP : Nc V	1
+NP : Np	17
+NP : Np - NP	1
+NP : Np LBKT NP RBKT	1
+NP : Np VP	1
+NP : Nu	1
+NP : Ny Np	2
+NP : P	8
+NP : P AP	1
+NP : P N	1
+NP : P N N	1
+NP : P Np	1
+NP : P VP	2
+NP : R A M N VP	1
+NP : R A N NP AP	1
+NP : R N NP	1
+NP : R P	5
+NP : T A M Nc	1
+PP : E ... NP	2
+PP : E ... VP	1
+PP : E E NP	1
+PP : E E NP VP	1
+PP : E NP	57
+PP : E NP LBKT S ! RBKT	1
+PP : E VP	8
+PP : R E NP	1
+S : AP C NP VP .	1
+S : AP NP VP	1
+S : C , NP AP .	1
+S : C , NP VP .	1
+S : C AP , NP C VP .	1
+S : C C VP .	1
+S : C NP C NP AP .	1
+S : C NP VP .	1
+S : C S - C S !	1
+S : NP , AP	1
+S : NP , C NP VP .	1
+S : NP .	1
+S : NP ... AP	1
+S : NP ... NP VP .	1
+S : NP AP	4
+S : NP C VP	4
+S : NP C VP .	2
+S : NP NP VP	3
+S : NP NP VP - AP	1
+S : NP PP VP	1
+S : NP S VP .	1
+S : NP VP	25
+S : NP VP .	9
+S : NP VP ... VP "	1
+S : NP VP C NP AP	1
+S : PP , NP VP .	2
+S : PP , S , S , S , S , S .	1
+S : PP - PP , PP NP NP VP .	1
+S : PP C VP VP .	1
+S : S , C S .	1
+S : S , S	2
+S : S , S .	1
+S : S , S ...	1
+S : S , VP .	1
+S : S C VP .	1
+S : S R S .	1
+S : VP !	1
+S : VP , NP VP .	2
+S : VP .	1
+S : VP NP VP	1
+S : VP VP	1
+SBAR : C S	2
+SBAR : E S	1
+SBAR : S	20
+VP : " R V NP	1
+VP : " V " NP	3
+VP : " V " PP	1
+VP : " V " V NP VP PP	1
+VP : " V N " LBKT VP RBKT	1
+VP : " V R " NP X	1
+VP : " V V NP	1
+VP : A V VP	1
+VP : P V VP	1
+VP : R " V " NP	1
+VP : R R V SBAR	1
+VP : R V ... PP	1
+VP : R V ... VP	1
+VP : R V AP	2
+VP : R V NP	3
+VP : R V NP PP	1
+VP : R V PP	3
+VP : R V PP R	1
+VP : R V R	1
+VP : R V SBAR	1
+VP : R V V NP	1
+VP : R V VP	3
+VP : V	17
+VP : V ... VP	2
+VP : V : SBAR	2
+VP : V AP	2
+VP : V AP , C PP	1
+VP : V C NP	1
+VP : V C VP	1
+VP : V LBKT SBAR RBKT	1
+VP : V N	1
+VP : V N NP	1
+VP : V N VP	1
+VP : V NP	46
+VP : V NP - C NP	1
+VP : V NP C C NP	1
+VP : V NP PP	5
+VP : V NP VP	4
+VP : V PP	10
+VP : V PP NP PP	1
+VP : V PP PP	1
+VP : V R	4
+VP : V R , PP	1
+VP : V R NP	4
+VP : V SBAR	11
+VP : V V AP PP	1
+VP : V V NP	6
+VP : V V NP VP , PP , C NP	1
+VP : V V PP	1
+VP : V VP	21
+VP : VP , C VP C VP C VP	1
+VP : VP , VP	3
+VP : VP , VP C VP	1
+VP : VP - VP	1
+VP : VP C VP PP	1
+VP : VP C VP VP	1
+VP : VP VP	2
+VP : VP VP C VP PP	1
+VP : VP VP NP	1
+VP : VP VP VP	1
+VP : Vb NP	1
+VP : X V N VP	1
+VP : X V VP	1

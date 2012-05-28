@@ -1,0 +1,607 @@
+! : !	2
+" : "	10
+, : ,	49
+- : -	7
+- : –	4
+. : .	58
+... : ...	6
+: : :	7
+; : ;	1
+? : ?	2
+A : Băn khoăn	1
+A : Nhiều	1
+A : Trước	1
+A : an toàn	4
+A : bí	1
+A : bấp bênh	1
+A : bất ổn	1
+A : bế tắc	1
+A : cao	2
+A : chính thức	1
+A : chóng vánh	1
+A : chậm	3
+A : chật hẹp	2
+A : chủ quan	1
+A : cong	1
+A : có thể	2
+A : cùng	1
+A : cần thiết	2
+A : dài	2
+A : dở dang	1
+A : gấp rút	1
+A : gần	2
+A : gắt	2
+A : hiểm	1
+A : hơn	1
+A : khác	1
+A : khách quan	1
+A : khó	4
+A : khó khăn	1
+A : kỹ	3
+A : lù lù	1
+A : lớn	1
+A : manh mún	1
+A : mới	1
+A : ngang	1
+A : nghiệt ngã	1
+A : nguy hiểm	1
+A : ngót nghét	1
+A : ngắc ngứ	1
+A : nhanh	1
+A : nhiều	1
+A : nhỏ	2
+A : non	2
+A : nặng	3
+A : phức tạp	1
+A : quan trọng	1
+A : rải rác	1
+A : rộng	1
+A : sau	1
+A : suốt	1
+A : thiệt	1
+A : thuận	1
+A : thuận lợi	1
+A : thẳng	1
+A : trung tâm	1
+A : trái	1
+A : trước	3
+A : tuyệt đối	1
+A : tình thế	1
+A : tương đối	1
+A : tạm	9
+A : tạm bợ	1
+A : tạm thời	1
+A : tối ưu	1
+A : vòng	1
+A : vừa	1
+A : xấu	1
+A : Đặc biệt	1
+A : đúng	5
+A : đầu tiên	1
+A : đặc biệt	1
+A : đột ngột	1
+A : đột xuất	1
+A : đủ	2
+C : Còn	1
+C : Mặc dù	1
+C : Như vậy	3
+C : Nhưng	2
+C : Nếu	2
+C : Song	1
+C : Tuy nhiên	1
+C : Và	1
+C : Vì vậy	1
+C : cho dù	1
+C : cho nên	1
+C : chứ	1
+C : còn	2
+C : do	2
+C : do vậy	1
+C : hoặc	1
+C : là	5
+C : mà	3
+C : như	2
+C : nhưng	4
+C : nên	4
+C : nếu	4
+C : nếu như	1
+C : rằng	1
+C : song	1
+C : thì	7
+C : và	22
+C : Đối với	1
+E : Ngoài	1
+E : Trong	3
+E : Từ	1
+E : bằng	1
+E : bởi	1
+E : cho	13
+E : của	6
+E : do	6
+E : giữa	1
+E : sau	3
+E : theo	2
+E : trong	2
+E : trên	4
+E : trước	3
+E : tại	7
+E : từ	11
+E : vào	15
+E : vì	5
+E : về	6
+E : với	11
+E : đến	9
+E : để	5
+E : đối với	1
+E : ở	10
+L : các	17
+L : hầu hết	1
+L : một số	1
+LBKT : LBKT	8
+M : 1	2
+M : 1 . 223 tỉ	1
+M : 1/4	1
+M : 13	1
+M : 2	11
+M : 2003	2
+M : 2004	2
+M : 25	1
+M : 28%	1
+M : 3	1
+M : 341 tỉ	1
+M : 4	1
+M : 40	1
+M : 40ft	1
+M : 5	7
+M : 71 , 85	1
+M : 9	2
+M : Một	1
+M : bốn	2
+M : hai	3
+M : một	5
+M : sáu	1
+M : tư	7
+N : Anh	1
+N : Buổi	1
+N : Báo chí	1
+N : Băn khoăn	1
+N : Chúng tôi	1
+N : Chủ	1
+N : Câu	1
+N : Công trình	1
+N : Cầu	1
+N : Giao thông	1
+N : Giải pháp	1
+N : Hiểm họa	1
+N : Khi	1
+N : Khoảng cách	1
+N : Kinh tế	1
+N : Nhóm	1
+N : Sở	1
+N : Thành phố	1
+N : Trạm	1
+N : Tổng công ty	1
+N : Việc	1
+N : Vấn đề	1
+N : an toàn	1
+N : ban	1
+N : ban ngày	3
+N : ban đầu	4
+N : bánh	1
+N : bên	1
+N : bản thân	1
+N : bắc	2
+N : bờ	1
+N : cao điểm	1
+N : chiều	2
+N : chân	4
+N : chỗ	1
+N : chủ	2
+N : chủ trương	1
+N : cua	3
+N : công chánh	1
+N : công luận	1
+N : công trình	5
+N : cảng	1
+N : cảnh báo	2
+N : cảnh sát	1
+N : cầu	18
+N : cầu đường	3
+N : cục	1
+N : cửa ngõ	2
+N : doanh nghiệp	1
+N : dân	5
+N : dư luận	1
+N : dốc	1
+N : dự án	5
+N : ga	2
+N : giao lộ	2
+N : giao thông	14
+N : giải pháp	3
+N : giờ	1
+N : giữa	1
+N : hi vọng	1
+N : hiện nay	1
+N : hàng	1
+N : hướng	3
+N : hạn	1
+N : hạng mục	2
+N : hậu quả	3
+N : hộ	1
+N : hợp đồng	3
+N : khi	10
+N : khoản	2
+N : khoảng	1
+N : khu vực	3
+N : khách	1
+N : khó khăn	1
+N : khúc	3
+N : khối lượng	3
+N : kinh phí	3
+N : kiểu	1
+N : kế hoạch	1
+N : luồng	1
+N : làn	3
+N : lãi	1
+N : lãnh đạo	1
+N : lúa	2
+N : lúc	3
+N : lý do	2
+N : lượng	1
+N : lượt	1
+N : lập luận	1
+N : lỗi	1
+N : mình	1
+N : mật độ	1
+N : mặt bằng	1
+N : mức	2
+N : ngoại thành	1
+N : nguy cơ	1
+N : nguyên nhân	1
+N : ngành	1
+N : ngân hàng	1
+N : ngân sách	1
+N : ngã	5
+N : người	1
+N : nhau	1
+N : nhà đầu tư	4
+N : năng lực	1
+N : nội thành	1
+N : nội ô	1
+N : nợ	1
+N : phép	1
+N : phí	24
+N : phía	5
+N : phó chủ tịch	1
+N : phương tiện	3
+N : phương án	3
+N : phường	1
+N : phần	1
+N : qui mô	2
+N : quận	1
+N : quốc lộ	1
+N : sáng	2
+N : số lượng	1
+N : sức	1
+N : tay lái	1
+N : thiết kế	3
+N : thành phố	2
+N : tháng	1
+N : thế	3
+N : thời gian	1
+N : thời điểm	4
+N : thứ	3
+N : thực tế	2
+N : tiến độ	2
+N : tiền lệ	1
+N : trung tâm	3
+N : trách nhiệm	2
+N : trước	1
+N : trạm	25
+N : tuyến	2
+N : tài	1
+N : tài chính	1
+N : tài xế	3
+N : tâm lý	1
+N : tình huống	3
+N : tình trạng	1
+N : tương lai	1
+N : tải trọng	1
+N : tầm nhìn xa	1
+N : tỉnh	1
+N : tốc độ	3
+N : tổng	2
+N : việc	7
+N : vé	3
+N : văn bản	1
+N : vấn đề	2
+N : vốn	3
+N : vực	1
+N : xe	19
+N : xe lửa	8
+N : xe máy	1
+N : xe tải	4
+N : xe ôm	1
+N : ôtô	4
+N : ý kiến	1
+N : ý định	1
+N : Điều	2
+N : Đơn vị	1
+N : điều	2
+N : điều kiện	2
+N : đoạn	1
+N : đèn xanh	1
+N : đèn đỏ	1
+N : đơn vị	1
+N : đường	18
+N : đường bộ	1
+N : đường ray	3
+N : đại diện	1
+N : đầu	2
+N : đầu tiên	1
+N : địa điểm	1
+NP : *E*	17
+NP : *T*	5
+Nb : container	2
+Nc : bác	1
+Nc : con	2
+Nc : cuộc	1
+Nc : dòng	2
+Nc : hộ	1
+Nc : loại	3
+Nc : làn	4
+Nc : người	2
+Nc : nhà	2
+Nc : sự	3
+Nc : Ông	1
+Nc : đoàn	1
+Nc : đoạn	6
+Np : Bình Dương	1
+Np : Bình Lợi	1
+Np : Bình Triệu	17
+Np : Chơn Thành	1
+Np : Cienco	6
+Np : HCM	1
+Np : Hiệp Bình Chánh	1
+Np : Hồ Chí Minh	1
+Np : Nguyễn Hữu Cả	1
+Np : Phạm Xuân Ái	1
+Np : Sài Gòn	1
+Np : Thủ Đức	2
+Np : Ông Dầu	1
+Np : Đúc Nhỏ	1
+Nu : m	2
+Ny : BOT	1
+Ny : BT2	2
+Ny : HCM	6
+Ny : HĐND	6
+Ny : TP	14
+Ny : UBND	4
+P : Ai	1
+P : Thế	1
+P : Tôi	2
+P : chúng tôi	1
+P : cả	1
+P : gì	1
+P : nào	1
+P : này	8
+P : ta	2
+P : Đó	1
+P : đây	6
+P : đó	3
+R : Chưa	1
+R : Mãi	1
+R : Quả thật	1
+R : Thậm chí	1
+R : bất cứ	1
+R : cho	1
+R : chung qui	1
+R : chưa	10
+R : chẳng	1
+R : chỉ	5
+R : chợt	1
+R : có	1
+R : cũng	15
+R : cứ	2
+R : giữa chừng	1
+R : hàng	2
+R : hết sức	2
+R : khá	1
+R : không	16
+R : không thể	2
+R : lên	5
+R : lại	3
+R : mới	3
+R : nhất	1
+R : nổi	1
+R : qua	2
+R : quá	1
+R : ra	5
+R : rất	6
+R : sẽ	7
+R : thường	1
+R : thật	1
+R : vẫn	1
+R : vốn	1
+R : vừa	1
+R : xong	1
+R : đang	4
+R : đã	9
+R : được	3
+R : đều	1
+RBKT : RBKT	8
+S : trưởng	1
+T : hề	1
+T : ngay	9
+T : sao	1
+V : *E*	1
+V : Có	1
+V : Phải	1
+V : Trở lại	1
+V : Xây dựng	1
+V : biết	2
+V : bán	2
+V : băng	1
+V : bảo đảm	2
+V : bắt buộc	1
+V : bắt đầu	1
+V : bị	3
+V : cho	3
+V : chạy	2
+V : chịu	3
+V : chờ	2
+V : chở	1
+V : chứa	1
+V : cua	2
+V : cách	1
+V : cân nhắc	3
+V : câu thúc	1
+V : còn	1
+V : có	10
+V : cảnh báo	1
+V : cấm	2
+V : cần	2
+V : cộng	2
+V : cứu	1
+V : di dời	1
+V : duyệt	1
+V : dồn	2
+V : dồn ứ	1
+V : dừng	2
+V : dự phòng	1
+V : dựng	1
+V : giải quyết	2
+V : giải tỏa	3
+V : giảm	1
+V : gây	1
+V : gặp	1
+V : gặt	2
+V : gỡ	1
+V : gửi	1
+V : hoàn	1
+V : hoàn thành	6
+V : hạn chế	1
+V : họp	1
+V : hụt	1
+V : khai thác	1
+V : khiến	2
+V : kiểm soát	6
+V : kéo dài	2
+V : ký kết	1
+V : kẹt	3
+V : kể	1
+V : leo	1
+V : liên quan	1
+V : là	19
+V : làm	5
+V : lên	1
+V : lưu thông	9
+V : lưu ý	2
+V : lựa chọn	2
+V : mua	2
+V : muốn	1
+V : mở rộng	1
+V : nghĩ	1
+V : ngồi	1
+V : nhìn	1
+V : nhắc	1
+V : nhằm	2
+V : né	1
+V : nên	1
+V : nói	3
+V : nối	1
+V : nối liền	1
+V : nối đuôi	2
+V : nộp	1
+V : phá sản	1
+V : phát triển	1
+V : phép	1
+V : phê duyệt	1
+V : phù hợp	1
+V : phải	10
+V : qua	5
+V : quanh	1
+V : qui hoạch	1
+V : quyết định	1
+V : ra sao	1
+V : sắp	1
+V : thanh toán	1
+V : thay	1
+V : thay đổi	3
+V : thi công	1
+V : thoát	1
+V : thu	23
+V : thuộc	1
+V : tháo dỡ	1
+V : thêm	1
+V : thông	1
+V : thông qua	1
+V : thông thoáng	1
+V : thông thoát	2
+V : thất bại	1
+V : thấy	2
+V : thực hiện	4
+V : tiến	1
+V : tiếp tục	2
+V : tràn ngập	1
+V : tránh	2
+V : trả	2
+V : trả lời	1
+V : tuyên bố	1
+V : tài trợ	1
+V : tăng	8
+V : tạo	2
+V : tổ chức	1
+V : tới	1
+V : từ chối	1
+V : uốn	1
+V : vay	1
+V : vào	3
+V : vướng	1
+V : vượt	1
+V : về	3
+V : vọt	1
+V : xem xét	2
+V : xin	2
+V : xoay	1
+V : xong	1
+V : xác định	1
+V : xây	1
+V : xây dựng	3
+V : xô đẩy	1
+V : xả	1
+V : xảy	4
+V : ách tắc	4
+V : áp	1
+V : áp dụng	1
+V : ép	1
+V : ùn tắc	1
+V : Đến	1
+V : đi	4
+V : đi lại	1
+V : đáng	1
+V : đánh vòng	1
+V : đáp ứng	2
+V : đưa	2
+V : được	8
+V : đảm bảo	2
+V : đầu tư	10
+V : đặt	8
+V : đến	2
+V : đề nghị	1
+V : đền bù	1
+V : để	2
+V : định	1
+V : đồng tình	1
+V : đổ	1
+V : đứng	1
+V : đứt quãng	1
+V : ảnh hưởng	1
+Vđầu : tư	1
+X : chẳng hạn	1
+X : hầu hết	1
+X : nhất là	2
+X : thay vì	1
+X : tiến thoái lưỡng nan	1
+“ : “	3
+” : “	3

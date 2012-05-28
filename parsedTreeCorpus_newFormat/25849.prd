@@ -1,0 +1,4462 @@
+<s id = "1">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Cầu
+			Np
+				 Bình Triệu
+			M
+				 2
+		VP
+			R
+				 chưa
+			V(H)
+				 xây
+			V
+				 xong
+	,
+		 ,
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 làm
+			NP(DOB)
+				N(H)
+					 đường
+				A
+					 tạm
+			SBAR(PRP)
+				E(H)
+					 cho
+				S
+					NP(SUB)
+						L
+							 các
+						N(H)
+							 phương tiện
+						N
+							 giao thông
+					VP
+						V(H)
+							 đi lại
+	.
+		 .
+</s>
+<s id = "2">
+S
+	NP(SUB)
+		N(H)
+			 Điều
+		VP
+			V(H)
+				 đáng
+			V
+				 nói
+	VP
+		V(H)
+			 là
+		PP
+			PP
+				E(H)
+					 sau
+				NP
+					N(H)
+						 đường
+					A
+						 tạm
+			PP
+				E(H)
+					 đến
+				...
+					 ...
+				NP
+					N(H)
+						 trạm
+					VP
+						V(H)
+							 thu
+						N
+							 phí
+						AP
+							A(H)
+								 tạm
+	...
+		 ...
+</s>
+<s id = "3">
+S(TTL)
+	PP(LOC)
+		E(H)
+			 Từ
+		NP
+			N(H)
+				 đường
+			A
+				 tạm
+	.
+		 .
+</s>
+<s id = "4">
+S
+	PP(TMP)
+		R
+			 Mãi
+		E(H)
+			 đến
+		NP
+			N(H)
+				 tháng
+			M
+				 9
+			-
+				 –
+			M
+				 2003
+	NP(SUB)
+		N(H)
+			 cầu
+		NP
+			Np(H)
+				 Bình Triệu
+			M
+				 2
+	VP
+		R
+			 mới
+		R
+			 được
+		V(H)
+			 thông
+		NP(DOB)
+			N(H)
+				 xe
+		PP(MNR)
+			E(H)
+				 bằng
+			NP
+				N(H)
+					 đường
+				A
+					 tạm
+		LBKT
+			 LBKT
+		PP(PRP)
+			R
+				 cũng
+			E(H)
+				 vì
+			VP
+				V(H)
+					 phải
+				VP
+					V(H)
+						 né
+					NP(DOB)
+						M
+							 sáu
+						Nc(H)
+							 hộ
+						N
+							 dân
+						VP
+							R
+								 chưa
+							V(H)
+								 di dời
+		RBKT
+			 RBKT
+	.
+		 .
+</s>
+<s id = "5">
+S
+	C
+		 Như vậy
+	,
+		 ,
+	PP(TMP)
+		E(H)
+			 trước
+		NP
+			N(H)
+				 thời điểm
+			VP
+				V(H)
+					 cấm
+				NP(DOB)
+					N(H)
+						 xe tải
+					A
+						 nặng
+				VP
+					V(H)
+						 lưu thông
+					PP
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								N(H)
+									 nội ô
+						PP(TMP)
+							E(H)
+								 vào
+							NP
+								N(H)
+									 ban ngày
+			LBKT
+				 LBKT
+			QP
+				M
+					 1
+				-
+					 -
+				M
+					 9
+				-
+					 –
+				M
+					 2003
+			RBKT
+				 RBKT
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 cầu
+		Np
+			 Bình Triệu
+		M
+			 2
+	VP
+		V(H)
+			 được
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					"
+						 "
+					V(H)
+						 ép
+					"
+						 "
+					VP(PRP)
+						V(H)
+							 đưa
+						PP
+							E(H)
+								 vào
+							VP
+								V(H)
+									 khai thác
+								PP(ADV)
+									E(H)
+										 trong
+									NP
+										N(H)
+											 tình trạng
+										SBAR
+											S
+												NP(SUB)
+													Nc(H)
+														 dòng
+													N
+														 xe
+												VP
+													V(H)
+														 phải
+													VP
+														V(H)
+															 đi
+														A
+															 vòng
+														NP(DOB)
+															M
+																 một
+															Nc(H)
+																 đoạn
+															NP(LOC)
+																N(H)
+																	 phía
+																Np
+																	 Thủ Đức
+	.
+		 .
+</s>
+<s id = "6">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Giải pháp
+			AP
+				A(H)
+					 tạm thời
+			P
+				 này
+		VP
+			V(H)
+				 nhằm
+			VP
+				V(H)
+					 gỡ
+				NP(DOB)
+					N(H)
+						 thế
+					A
+						 bí
+					VP
+						V(H)
+							 câu thúc
+						PP
+							E(H)
+								 về
+							NP
+								N(H)
+									 tiến độ
+				PP(IOB)
+					E(H)
+						 cho
+					NP
+						N(H)
+							 nhà đầu tư
+						NP
+							N(H)
+								 Tổng công ty
+							V
+								 Xây dựng
+							NP
+								N(H)
+									 công trình
+								NP
+									N(H)
+										 giao thông
+									M
+										 5
+						LBKT
+							 LBKT
+						NP
+							Np(H)
+								 Cienco
+							M
+								 5
+						RBKT
+							 RBKT
+	C
+		 và
+	S
+		AP(SUB)
+			A(H)
+				 quan trọng
+			A
+				 hơn
+		VP
+			V(H)
+				 là
+			VP
+				V(H)
+					 nhằm
+				VP
+					V(H)
+						 giải quyết
+					PP(IOB)
+						E(H)
+							 cho
+						NP
+							N(H)
+								 luồng
+							NP
+								N(H)
+									 xe tải
+								A
+									 nặng
+					VP
+						V(H)
+							 được
+						V
+							 lưu thông
+						NP(TMP)
+							N(H)
+								 ban ngày
+						PP
+							E(H)
+								 theo
+							NP
+								N(H)
+									 hướng
+								V
+									 bắt buộc
+								LBKT
+									 LBKT
+								PP(LOC)
+									E(H)
+										 từ
+									NP
+										N(H)
+											 đường
+										Np
+											 Nguyễn Hữu Cả
+								RBKT
+									 RBKT
+	.
+		 .
+</s>
+<s id = "7">
+S
+	NP(SUB)
+		Nc(H)
+			 Ông
+		Np
+			 Phạm Xuân Ái
+		,
+			 ,
+		NP
+			S
+				 trưởng
+			N(H)
+				 ban
+			NP
+				N(H)
+					 Kinh tế
+				-
+					 -
+				N(H)
+					 ngân sách
+				NP
+					Ny(H)
+						 HĐND
+					Ny
+						 TP
+					.
+						 .
+					Np
+						 HCM
+	:
+		 :
+	VP
+		V(H)
+			 *E*
+		SBAR
+			S(EXC)
+				AP(SUB)
+					A(H)
+						 Băn khoăn
+					PP
+						E(H)
+							 của
+						NP
+							Nc(H)
+								 người
+							N
+								 dân
+				VP
+					V(H)
+						 là
+					AP
+						A(H)
+							 đúng
+	!
+		 !
+</s>
+<s id = "8">
+S
+	NP(TPC)
+		N(H)
+			 Công trình
+		NP
+			N(H)
+				 cầu đường
+			NP
+				Np(H)
+					 Bình Triệu
+				M
+					 2
+			LBKT
+				 LBKT
+			NP
+				Ny(H)
+					 BT2
+			RBKT
+				 RBKT
+	SBAR(PRP)
+		E(H)
+			 do
+		S
+			NP(SUB)
+				 *E*
+			VP
+				R
+					 có
+				V(H)
+					 thay đổi
+				NP(DOB)
+					N(H)
+						 thiết kế
+					N
+						 ban đầu
+	C
+		 nên
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 làm
+			R
+				 cho
+			NP(DOB)
+				N(H)
+					 tiến độ
+				VP
+					V(H)
+						 kéo dài
+	.
+		 .
+</s>
+<s id = "9">
+S
+	NP(SUB)
+		P(H)
+			 Đó
+	VP
+		V(H)
+			 là
+		NP
+			N(H)
+				 nguyên nhân
+			A
+				 khách quan
+	.
+		 .
+</s>
+<s id = "10">
+S
+	C
+		 Còn
+	PP(TPC)
+		E(H)
+			 về
+		AP
+			A(H)
+				 chủ quan
+	C
+		 thì
+	C
+		 do
+	PP(TMP)
+		T
+			 ngay
+		E(H)
+			 từ
+		NP
+			N(H)
+				 ban đầu
+	NP(SUB)
+		P(H)
+			 ta
+	VP
+		R
+			 chưa
+		V(H)
+			 có
+		NP(DOB)
+			N(H)
+				 tầm nhìn xa
+			PP(ADV)
+				E(H)
+					 về
+				NP
+					N(H)
+						 vấn đề
+					VP
+						V(H)
+							 qui hoạch
+						NP(DOB)
+							N(H)
+								 giao thông
+	.
+		 .
+</s>
+<s id = "11">
+S
+	AP(TMP)
+		A(H)
+			 Trước
+	NP(SUB)
+		P(H)
+			 ta
+	VP
+		V(H)
+			 định
+		VP
+			V(H)
+				 làm
+			A
+				 nhỏ
+			,
+				 ,
+			A
+				 vừa
+			PP(PRP)
+				E(H)
+					 để
+				VP
+					V(H)
+						 giải quyết
+					NP(DOB)
+						N(H)
+							 vấn đề
+						VP
+							V(H)
+								 ách tắc
+							N
+								 giao thông
+							PP(LOC)
+								E(H)
+									 ở
+								NP
+									N(H)
+										 cửa ngõ
+									N
+										 thành phố
+	.
+		 .
+</s>
+<s id = "12">
+S
+	C
+		 Nhưng
+	PP(TMP)
+		E(H)
+			 sau
+		NP
+			P(H)
+				 đó
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 mới
+		V(H)
+			 thấy
+		SBAR
+			S
+				NP(SUB)
+					P(H)
+						 đây
+				VP
+					VP
+						V(H)
+							 là
+						NP
+							Nc(H)
+								 con
+							N
+								 đường
+							VP
+								V(H)
+									 nối liền
+								PP
+									E(H)
+										 với
+									NP
+										Np(H)
+											 Bình Dương
+							VP
+								R
+									 đang
+								V(H)
+									 phát triển
+					,
+						 ,
+					VP
+						V(H)
+							 là
+						NP
+							N(H)
+								 đường
+							VP
+								V(H)
+									 nối
+								PP
+									E(H)
+										 với
+									NP
+										N(H)
+											 đường
+										Np
+											 Hồ Chí Minh
+										NP
+											Nc(H)
+												 đoạn
+											PP(LOC)
+												E(H)
+													 từ
+												NP
+													Np(H)
+														 Chơn Thành
+													VP
+														V(H)
+															 đổ
+														V
+															 về
+	.
+		 .
+</s>
+<s id = "13">
+S
+	NP(SUB)
+		N(H)
+			 Việc
+		VP
+			V(H)
+				 thay đổi
+			N
+				 thiết kế
+	VP
+		V(H)
+			 là
+		UCP
+			AP
+				A(H)
+					 cần thiết
+			,
+				 ,
+			VP
+				V(H)
+					 phù hợp
+			PP
+				E(H)
+					 với
+				NP
+					N(H)
+						 tương lai
+	.
+		 .
+</s>
+<s id = "14">
+S
+	C
+		 Song
+	VP(SUB)
+		V(H)
+			 thay
+		NP(DOB)
+			N(H)
+				 qui mô
+			P
+				 đó
+	VP
+		R
+			 cũng
+		V(H)
+			 làm
+		PP
+			E(H)
+				 cho
+			NP(DOB)
+				N(H)
+					 kinh phí
+				V
+					 đầu tư
+				VP
+					V(H)
+						 tăng
+					R
+						 lên
+	.
+		 .
+</s>
+<s id = "15">
+S
+	PP(ADV)
+		E(H)
+			 Ngoài
+		NP
+			N(H)
+				 việc
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 kinh phí
+					VP
+						V(H)
+							 tăng
+						R
+							 lên
+						SBAR(PRP)
+							E(H)
+								 do
+							S
+								NP(SUB)
+									N(H)
+										 khối lượng
+									N
+										 công trình
+								VP
+									V(H)
+										 tăng
+	,
+		 ,
+	NP(SUB)
+		 *T*
+	C
+		 còn
+	C
+		 là
+	VP
+		V(H)
+			 tăng
+		PP(ADV)
+			E(H)
+				 ở
+			NP
+				N(H)
+					 khoản
+				VP
+					V(H)
+						 đền bù
+					,
+						 ,
+					V(H)
+						 giải tỏa
+	.
+		 .
+</s>
+<s id = "16">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Thành phố
+		VP
+			R
+				 hết sức
+			V(H)
+				 tạo
+			NP(DOB)
+				N(H)
+					 điều kiện
+			PP(IOB)
+				E(H)
+					 cho
+				NP
+					Nc(H)
+						 nhà
+					Vđầu
+						 tư
+	C
+		 song
+	S
+		NP(SUB)
+			N(H)
+				 việc
+			VP
+				VP
+					V(H)
+						 tăng
+					NP(DOB)
+						N(H)
+							 khối lượng
+				,
+					 ,
+				VP
+					V(H)
+						 cộng
+					PP
+						E(H)
+							 với
+						VP
+							V(H)
+								 giải tỏa
+							A
+								 chậm
+		VP
+			V(H)
+				 khiến
+			NP(DOB)
+				N(H)
+					 nhà đầu tư
+			VP(IOB)
+				V(H)
+					 gặp
+				A
+					 khó khăn
+	.
+		 .
+</s>
+<s id = "17">
+S
+	C
+		 Mặc dù
+	S
+		S
+			NP(SUB)
+				N(H)
+					 công trình
+				NP
+					N(H)
+						 cầu đường
+					Ny(H)
+						 BT2
+			VP
+				R
+					 chưa
+				V(H)
+					 hoàn thành
+		,
+			 ,
+		S
+			NP(SUB)
+				Ny(H)
+					 HĐND
+			VP
+				R
+					 cũng
+				R
+					 rất
+				V(H)
+					 cân nhắc
+	C
+		 nhưng
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 quyết định
+			VP
+				V(H)
+					 tạo
+				NP(DOB)
+					N(H)
+						 điều kiện
+				PP(IOB)
+					E(H)
+						 cho
+					NP
+						Nc(H)
+							 nhà
+						V
+							 đầu tư
+						VP
+							V(H)
+								 tiếp tục
+							VP
+								V(H)
+									 thi công
+								,
+									 ,
+								V(H)
+									 hoàn thành
+								NP(DOB)
+									N(H)
+										 công trình
+	.
+		 .
+</s>
+<s id = "18">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Phải
+		VP
+			V(H)
+				 xác định
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 bản thân
+						N
+							 thành phố
+					VP
+						R
+							 cũng
+						V(H)
+							 có
+						NP(DOB)
+							N(H)
+								 phần
+							N
+								 lỗi
+							C
+								 là
+							VP
+								R
+									 đã
+								V(H)
+									 thay đổi
+								NP(DOB)
+									N(H)
+										 thiết kế
+									N
+										 ban đầu
+	.
+		 .
+</s>
+<s id = "19">
+S
+	C
+		 Tuy nhiên
+	.
+		 .
+	NP(TMP)
+		N(H)
+			 khi
+		AP
+			A(H)
+				 thuận
+			PP(ADV)
+				E(H)
+					 cho
+				VP
+					V(H)
+						 thu
+					NP
+						N(H)
+							 phí
+	,
+		 ,
+	S
+		NP(SUB)
+			Ny(H)
+				 HĐND
+		VP
+			R
+				 cũng
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 cảnh báo
+				N
+					 trước
+			:
+				 :
+			VP
+				V(H)
+					 phải
+				V
+					 xem xét
+				AP
+					A(H)
+						 kỹ
+				SBAR
+					E(H)
+						 vì
+					S
+						NP(SUB)
+							P(H)
+								 đây
+						VP
+							VP
+								V(H)
+									 là
+								NP(DOB)
+									N(H)
+										 đoạn
+									AP
+										A(H)
+											 gần
+										NP
+											N(H)
+												 giao lộ
+											NP
+												NP
+													N(H)
+														 đường
+													N
+														 xe lửa
+												C
+													 và
+												NP
+													N(H)
+														 đường bộ
+							,
+								 ,
+							VP
+								R
+									 không
+								V(H)
+									 được
+								VP
+									V(H)
+										 để
+									VP
+										VP
+											V(H)
+												 ách tắc
+										,
+											 ,
+										VP
+											V(H)
+												 ảnh hưởng
+											PP
+												E(H)
+													 đến
+												AP
+													A(H)
+														 an toàn
+													NP
+														N(H)
+															 giao thông
+	.
+		 .
+</s>
+<s id = "20">
+S
+	NP(SUB)
+		N(H)
+			 Báo chí
+	,
+		 ,
+	VP
+		V(H)
+			 cảnh báo
+		AP
+			R
+				 rất
+			A(H)
+				 đúng
+			PP(ADV)
+				E(H)
+					 với
+				NP
+					N(H)
+						 cảnh báo
+					PP(ADV)
+						E(H)
+							 của
+						NP
+							P(H)
+								 chúng tôi
+	.
+		 .
+</s>
+<s id = "21">
+S
+	NP(SUB)
+		N(H)
+			 Băn khoăn
+		PP
+			PP
+				E(H)
+					 của
+				NP
+					N(H)
+						 cảnh sát
+					N
+						 giao thông
+			,
+				 ,
+			PP
+				E(H)
+					 của
+				NP
+					N(H)
+						 dư luận
+	VP
+		V(H)
+			 là
+		AP
+			A(H)
+				 đúng
+			C
+				 và
+			A(H)
+				 cần thiết
+	.
+		 .
+</s>
+<s id = "22">
+S
+	NP(SUB)
+		N(H)
+			 Chúng tôi
+	VP
+		V(H)
+			 nhắc
+		R
+			 lại
+		:
+			 :
+		SBAR
+			S
+				NP(SUB)
+					NP
+						Ny(H)
+							 UBND
+						Ny
+							 TP
+					C
+						 và
+					NP
+						L
+							 các
+						N(H)
+							 ngành
+						VP
+							V(H)
+								 liên quan
+				VP
+					V(H)
+						 phải
+					VP
+						V(H)
+							 lưu ý
+						NP(DOB)
+							L
+								 các
+							N
+								 ý kiến
+							PP
+								E(H)
+									 của
+								NP
+									N(H)
+										 công luận
+						PP(PRP)
+							E(H)
+								 để
+							VP
+								V(H)
+									 bảo đảm
+								AP
+									A(H)
+										 an toàn
+									NP
+										N(H)
+											 giao thông
+	.
+		 .
+</s>
+<s id = "23">
+S
+	NP(SUB)
+		P(H)
+			 Tôi
+	VP
+		V(H)
+			 nghĩ
+		SBAR
+			S
+				NP(TMP)
+					N(H)
+						 hiện nay
+				NP(SUB)
+					N(H)
+						 việc
+					VP
+						V(H)
+							 đảm bảo
+						VP
+							R
+								 không
+							V(H)
+								 xảy
+							R
+								 ra
+							VP
+								V(H)
+									 ách tắc
+								NP(DOB)
+									N(H)
+										 giao thông
+				VP
+					V(H)
+						 là
+					VP
+						R
+							 chưa
+						V(H)
+							 đảm bảo
+	.
+		 .
+</s>
+<s id = "24">
+S
+	NP(SUB)
+		N(H)
+			 Đơn vị
+		V
+			 đầu tư
+	VP
+		V(H)
+			 cần
+		VP
+			V(H)
+				 xem xét
+			A
+				 kỹ
+		C
+			 và
+		VP
+			V(H)
+				 cân nhắc
+			A
+				 kỹ
+		NP(DOB)
+			L
+				 các
+			N(H)
+				 phương án
+			V
+				 lựa chọn
+			PP
+				T
+					 sao
+				E(H)
+					 cho
+				AP
+					R
+						 thật
+					A(H)
+						 tối ưu
+	.
+		 .
+</s>
+<s id = "25">
+S
+	NP(SUB)
+		P(H)
+			 Tôi
+	VP
+		R
+			 cũng
+		V(H)
+			 lưu ý
+		:
+			 :
+		SBAR
+			S
+				NP(SUB)
+					P(H)
+						 đây
+				VP
+					V(H)
+						 là
+					NP(DOB)
+						N(H)
+							 giao lộ
+						PP
+							E(H)
+								 với
+							NP
+								N(H)
+									 đường
+								N
+									 xe lửa
+	.
+		 .
+</s>
+<s id = "26">
+S(TC)
+	C
+		 Nếu
+	VP(TPC)
+		V(H)
+			 ách tắc
+		VP
+			V(H)
+				 dồn
+			N
+				 cục
+	C
+		 thì
+	AP(TH)
+		R
+			 sẽ
+		A(H)
+			 khó
+		VP
+			V(H)
+				 tránh
+			NP(DOB)
+				N(H)
+					 hậu quả
+				A
+					 lớn
+	.
+		 .
+</s>
+<s id = "27">
+S
+	SBAR(PRP)
+		C
+			 Nếu
+		NP(SUB)
+			N(H)
+				 đơn vị
+			V
+				 đầu tư
+		VP
+			VP
+				R
+					 không
+				V(H)
+					 cân nhắc
+				,
+					 ,
+				V(H)
+					 lựa chọn
+				NP(DOB)
+					N(H)
+						 phương án
+					AP
+						A(H)
+							 an toàn
+						A
+							 tuyệt đối
+			,
+				 ,
+			VP
+				V(H)
+					 để
+				VP
+					V(H)
+						 xảy
+					R
+						 ra
+					NP(DOB)
+						N(H)
+							 hậu quả
+	C
+		 thì
+	S
+		NP(SUB)
+			 *T*
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 chịu
+				NP(DOB)
+					N(H)
+						 trách nhiệm
+	.
+		 .
+</s>
+<s id = "28">
+S
+	NP(SUB)
+		NP
+			N(H)
+				 cầu
+			Np
+				 Sài Gòn
+		-
+			 -
+		NP
+			N(H)
+				 cầu
+			Np
+				 Bình Triệu
+	VP
+		V(H)
+			 về
+		NP(LOC)
+			N(H)
+				 phía
+			N
+				 bắc
+			Ny
+				 TP
+		NP(TMP)
+			N(H)
+				 khi
+			SBAR
+				S
+					NP(SUB)
+						Ny(H)
+							 TP
+					VP
+						V(H)
+							 có
+						NP(DOB)
+							N(H)
+								 chủ trương
+							VP
+								V(H)
+									 cấm
+								NP(DOB)
+									N(H)
+										 xe tải
+									A
+										 nặng
+								VP
+									V(H)
+										 lưu thông
+									NP(TMP)
+										N(H)
+											 ban ngày
+									PP(LOC)
+										E(H)
+											 ở
+										NP
+											X
+												 hầu hết
+											L
+												 các
+											N(H)
+												 tuyến
+											A
+												 trung tâm
+	.
+		 .
+</s>
+<s id = "29">
+S
+	C
+		 Nhưng
+	NP(SUB)
+		P(H)
+			 đây
+	VP
+		R
+			 cũng
+		R
+			 chỉ
+		V(H)
+			 là
+		NP(DOB)
+			N(H)
+				 giải pháp
+			A
+				 tạm
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					M
+						 một
+					Nc(H)
+						 đoạn
+					AP
+						R
+							 rất
+						A(H)
+							 nhỏ
+					VP
+						V(H)
+							 thuộc
+						NP(DOB)
+							M
+								 1/4
+							N(H)
+								 dự án
+							NP
+								N(H)
+									 cầu đường
+								Np
+									 Bình Triệu
+								M
+									 2
+	.
+		 .
+</s>
+<s id = "30">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Điều
+			VP
+				V(H)
+					 khiến
+				NP(DOB)
+					N(H)
+						 chủ
+					V
+						 đầu tư
+				AP
+					"
+						 "
+					A(H)
+						 ngắc ngứ
+					"
+						 "
+		VP
+			V(H)
+				 là
+			PP
+				E(H)
+					 từ
+				NP
+					N(H)
+						 tổng
+					NP
+						N(H)
+							 mức
+						V(H)
+							 đầu tư
+					QP
+						M(H)
+							 341 tỉ
+						VP
+							V(H)
+								 được
+							SBAR
+								S
+									NP(SUB)
+										 *E*
+									VP
+										V(H)
+											 duyệt
+										NP(TMP)
+											N(H)
+												 khi
+											VP
+												V(H)
+													 áp
+												PP
+													E(H)
+														 vào
+													NP
+														N(H)
+															 thực tế
+			NP
+				N(H)
+					 tổng
+				NP
+					N(H)
+						 mức
+					V
+						 đầu tư
+					VP
+						R
+							 đã
+						V(H)
+							 vọt
+						R
+							 lên
+						QP(DOB)
+							M(H)
+								 1 . 223 tỉ
+	,
+		 ,
+	S
+		NP(SUB)
+			Np(H)
+				 Cienco
+			M
+				 5
+		VP
+			V(H)
+				 tuyên bố
+			VP
+				R
+					 không
+				V(H)
+					 đáp ứng
+				R
+					 nổi
+				NP(DOB)
+					N(H)
+						 kinh phí
+	C
+		 và
+	S
+		NP(SUB)
+			L
+				 các
+			N(H)
+				 ngân hàng
+		VP
+			R
+				 cũng
+			V(H)
+				 từ chối
+			VP
+				V(H)
+					 tài trợ
+				NP(DOB)
+					N(H)
+						 vốn
+				PP(IOB)
+					E(H)
+						 cho
+					NP
+						N(H)
+							 khoản
+						V
+							 tăng
+						NP
+							P(H)
+								 này
+	...
+		 ...
+</s>
+<s id = "31">
+S
+	VP(ADV)
+		V(H)
+			 Có
+		NP(DOB)
+			A
+				 nhiều
+			N(H)
+				 lý do
+	,
+		 ,
+	C
+		 nhưng
+	NP(TPC)
+		R
+			 bất cứ
+		N(H)
+			 lý do
+		P
+			 gì
+	C
+		 thì
+	NP(SUB)
+		Nc(H)
+			 sự
+		V
+			 thất bại
+		R
+			 giữa chừng
+		PP(PRD)
+			PP
+				R
+					 chung qui
+				R
+					 cũng
+				E(H)
+					 do
+				VP
+					V(H)
+						 hạn chế
+					PP
+						E(H)
+							 về
+						NP
+							N(H)
+								 năng lực
+							VP
+								V(H)
+									 thực hiện
+								NP(DOB)
+									N(H)
+										 dự án
+			,
+				 ,
+			PP
+				E(H)
+					 do
+				AP
+					A(H)
+						 bấp bênh
+					PP
+						E(H)
+							 về
+						NP
+							N(H)
+								 tài chính
+				VP
+					V(H)
+						 cộng
+					PP
+						E(H)
+							 với
+						NP
+							N(H)
+								 nợ
+							VP
+								V(H)
+									 đến
+								NP(TMP)
+									N(H)
+										 hạn
+									VP
+										V(H)
+											 phải
+										V
+											 trả
+	VP
+		R
+			 đã
+		V(H)
+			 xô đẩy
+		NP(DOB)
+			N(H)
+				 nhà đầu tư
+			PP(LOC)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 thế
+					AP
+						A(H)
+							 bế tắc
+			,
+				 ,
+			VP
+				V(H)
+					 hụt
+				NP(DOB)
+					N(H)
+						 vốn
+			C
+				 và
+			VP
+				V(H)
+					 xin
+				A
+					 gấp rút
+				PP
+					E(H)
+						 cho
+					VP
+						V(H)
+							 thu
+						N
+							 phí
+						VP(PRP)
+							V(H)
+								 hoàn
+							NP(DOB)
+								N(H)
+									 vốn
+								NP
+									T
+										 ngay
+									N(H)
+										 hạng mục
+									VP
+										R
+											 vừa
+										V(H)
+											 hoàn thành
+									VP
+										V(H)
+											 là
+										NP(DOB)
+											N(H)
+												 cầu
+											Np(H)
+												 Bình Triệu
+											M
+												 2
+	.
+		 .
+</s>
+<s id = "32">
+S
+	VP(ADV)
+		R
+			 Chưa
+		T
+			 hề
+		V(H)
+			 có
+		NP(DOB)
+			N(H)
+				 tiền lệ
+	,
+		 ,
+	NP(SUB)
+		Np(H)
+			 Cienco
+		M
+			 5
+	VP
+		V(H)
+			 là
+		NP
+			N(H)
+				 doanh nghiệp
+			Ny
+				 BOT
+			AP
+				A(H)
+					 đầu tiên
+			VP
+				V(H)
+					 đặt
+				NP(DOB)
+					Ny(H)
+						 UBND
+					Ny
+						 TP
+					.
+						 .
+					Ny
+						 HCM
+					PP(ADV)
+						E(H)
+							 vào
+						NP
+							N(H)
+								 thế
+							"
+								 "
+							X
+								 tiến thoái lưỡng nan
+							"
+								 "
+					VP
+						V(H)
+							 phải
+						VP
+							V(H)
+								 thanh toán
+							NP(DOB)
+								N(H)
+									 hợp đồng
+							NP(TMP)
+								N(H)
+									 khi
+								VP
+									R
+										 chỉ
+									V(H)
+										 thực hiện
+									AP
+										A(H)
+											 ngót nghét
+										NP
+											M
+												 28%
+											N(H)
+												 khối lượng
+											N
+												 hợp đồng
+											VP
+												R
+													 đã
+												V(H)
+													 ký kết
+	.
+		 .
+</s>
+<s id = "33">
+SQ
+	NP(SUB)
+		A
+			 Nhiều
+		Nc(H)
+			 cuộc
+		V
+			 họp
+		PP
+			E(H)
+				 giữa
+			NP
+				N(H)
+					 đại diện
+				NP
+					Ny(H)
+						 HĐND
+					Ny
+						 TP
+					.
+						 .
+					Ny
+						 HCM
+			C
+				 và
+			NP
+				N(H)
+					 lãnh đạo
+				NP
+					Ny(H)
+						 UBND
+					Ny
+						 TP
+	PP(PRD)
+		E(H)
+			 để
+		VP
+			R
+				 chỉ
+			V(H)
+				 xoay
+			V
+				 quanh
+			NP(DOB)
+				N(H)
+					 việc
+				VP
+					V(H)
+						 có
+					V
+						 nên
+					VP
+						V(H)
+							 cho
+						N
+							 phép
+						VP
+							V(H)
+								 thu
+							N
+								 phí
+							NP(DOB)
+								N(H)
+									 cầu
+								NP
+									Np(H)
+										 Bình Triệu
+									M
+										 2
+							NP(TMP)
+								N(H)
+									 khi
+								SBAR
+									S
+										NP(SUB)
+											N(H)
+												 dự án
+										VP
+											V(H)
+												 còn
+											AP
+												A(H)
+													 dở dang
+												,
+													 ,
+												A(H)
+													 manh mún
+	?
+		 ?
+</s>
+<s id = "34">
+S
+	R
+		 Thậm chí
+	,
+		 ,
+	NP(SUB)
+		M
+			 một
+		N(H)
+			 phó chủ tịch
+		NP
+			Ny(H)
+				 HĐND
+			Ny
+				 TP
+	VP
+		R
+			 đã
+		V(H)
+			 có
+		NP(TMP)
+			N(H)
+				 lúc
+			VP
+				V(H)
+					 cho
+				SBAR
+					C
+						 rằng
+					S
+						VP(SUB)
+							V(H)
+								 thu
+							N
+								 phí
+							PP(TMP)
+								E(H)
+									 vào
+								NP
+									N(H)
+										 thời điểm
+									VP
+										R
+											 chưa
+										V(H)
+											 hoàn thành
+										NP(DOB)
+											N(H)
+												 hợp đồng
+						AP(PRD)
+							R
+								 chẳng
+							A(H)
+								 khác
+							P
+								 nào
+							VP
+								“
+									 “
+								V(H)
+									 gặt
+								NP(DOB)
+									N(H)
+										 lúa
+									A
+										 non
+									”
+										 “
+	.
+		 .
+</s>
+<s id = "35">
+S
+	P
+		 Thế
+	C
+		 nhưng
+	PP(ADV)
+		E(H)
+			 với
+		NP
+			N(H)
+				 lập luận
+			:
+				 :
+			SBAR
+				S
+					C
+						 nếu
+					S
+						VP(SUB)
+							V(H)
+								 kéo dài
+							NP(DOB)
+								N(H)
+									 thời gian
+								VP
+									R
+										 không
+									V(H)
+										 thu
+									N
+										 phí
+						VP
+							R
+								 sẽ
+							V(H)
+								 làm
+							VP
+								V(H)
+									 tăng
+								NP(DOB)
+									N(H)
+										 lãi
+									V
+										 vay
+					-
+						 -
+					S
+						NP(SUB)
+							N(H)
+								 điều
+							P
+								 này
+						VP
+							R
+								 không
+							R
+								 chỉ
+							V(H)
+								 gây
+							NP(DOB)
+								N(H)
+									 khó khăn
+								PP(IOB)
+									E(H)
+										 cho
+									NP
+										N(H)
+											 chủ
+										V
+											 đầu tư
+					C
+						 mà
+					S
+						NP(SUB)
+							P
+								 cả
+							Nc(H)
+								 người
+							N
+								 dân
+						VP
+							R
+								 cũng
+							V(H)
+								 chịu
+							A
+								 thiệt
+	...
+		 ...
+	C
+		 và
+	NP(SUB)
+		N(H)
+			 việc
+		VP
+			V(H)
+				 tổ chức
+			VP
+				V(H)
+					 thu
+				N
+					 phí
+				NP(DOB)
+					N(H)
+						 cầu
+					Np(H)
+						 Bình Triệu
+					M
+						 2
+	VP
+		VP
+			V(H)
+				 được
+			SBAR(DOB)
+				S
+					NP(SUB)
+						Ny(H)
+							 HĐND
+						Ny
+							 TP
+					VP
+						V(H)
+							 thông qua
+		,
+			 ,
+		VP
+			A
+				 chính thức
+			V(H)
+				 áp dụng
+			PP(TMP)
+				E(H)
+					 vào
+				QP
+					M
+						 1
+					-
+						 -
+					M
+						 4
+					-
+						 –
+					M
+						 2004
+	.
+		 .
+</s>
+<s id = "36">
+S
+	S(SUB)
+		NP(SUB)
+			N(H)
+				 Chủ
+			V
+				 đầu tư
+			NP
+				Np(H)
+					 Cienco
+				M
+					 5
+		VP
+			R
+				 đang
+			V(H)
+				 đứng
+			PP
+				E(H)
+					 trước
+				NP
+					N(H)
+						 bờ
+					N
+						 vực
+					VP
+						V(H)
+							 phá sản
+	VP
+		R
+			 chợt
+		V(H)
+			 tràn ngập
+		NP(DOB)
+			N(H)
+				 hi vọng
+			VP
+				V(H)
+					 thoát
+				A
+					 hiểm
+	.
+		 .
+</s>
+<s id = "37">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Đến
+		NP(LOC)
+			N(H)
+				 trạm
+			VP
+				V(H)
+					 thu
+				N
+					 phí
+				A(H)
+					 tạm
+	...
+		 ...
+</s>
+<s id = "38">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Vấn đề
+		VP
+			R
+				 không
+			V(H)
+				 dừng
+			R
+				 lại
+	,
+		 ,
+	S
+		PP(ADV)
+			R
+				 cũng
+			E(H)
+				 từ
+			NP
+				N(H)
+					 ý định
+				VP
+					"
+						 "
+					V(H)
+						 cứu
+					"
+						 "
+					NP(DOB)
+						N(H)
+							 nhà đầu tư
+		,
+			 ,
+		NP(SUB)
+			L
+				 các
+			N(H)
+				 trạm
+			VP
+				V(H)
+					 thu
+				N
+					 phí
+		VP
+			V(H)
+				 được
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						A
+							 chóng vánh
+						V(H)
+							 dựng
+						R
+							 lên
+						PP(MNR)
+							R
+								 cũng
+							E(H)
+								 theo
+							NP
+								N(H)
+									 kiểu
+								"
+									 "
+								VP
+									V(H)
+										 gặt
+									NP(DOB)
+										N(H)
+											 lúa
+										A
+											 non
+								"
+									 "
+	.
+		 .
+</s>
+<s id = "39">
+S
+	PP(TMP)
+		E(H)
+			 Trong
+		NP
+			N(H)
+				 khi
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 dự án
+						V
+							 đầu tư
+						VP
+							V(H)
+								 xây dựng
+							NP(DOB)
+								N(H)
+									 cầu
+								Np(H)
+									 Bình Triệu
+								M
+									 2
+					VP
+						R
+							 không
+						V(H)
+							 hoàn thành
+						NP(DOB)
+							L
+								 các
+							N(H)
+								 hạng mục
+							N
+								 công trình
+						AP
+							A(H)
+								 đúng
+							C
+								 như
+							SBAR
+								S
+									NP(SUB)
+										N(H)
+											 qui mô
+									VP
+										R
+											 đã
+										V(H)
+											 được
+										SBAR
+											S
+												NP(SUB)
+													 *E*
+												VP
+													V(H)
+														 phê duyệt
+	,
+		 ,
+	C
+		 cho nên
+	NP(SUB)
+		N(H)
+			 kế hoạch
+		VP
+			V(H)
+				 đặt
+			NP(DOB)
+				N(H)
+					 trạm
+				VP
+					V(H)
+						 thu
+					N
+						 phí
+					NP
+						N(H)
+							 ban đầu
+					PP(LOC)
+						PP
+							E(H)
+								 ở
+							NP
+								N(H)
+									 giữa
+								NP
+									NP
+										N(H)
+											 cầu
+										Np
+											 Đúc Nhỏ
+									C
+										 và
+									NP
+										N(H)
+											 cầu
+										Np
+											 Ông Dầu
+						PP
+							E(H)
+								 trên
+							NP
+								N(H)
+									 quốc lộ
+								M
+									 13
+	VP
+		R
+			 không thể
+		V(H)
+			 thực hiện
+		R
+			 được
+		LBKT
+			 LBKT
+		SBAR(PRP)
+			S
+				NP(SUB)
+					N(H)
+						 đường
+				VP
+					R
+						 chưa
+					V(H)
+						 xây dựng
+		RBKT
+			 RBKT
+	.
+		 .
+</s>
+<s id = "40">
+S
+	C
+		 Vì vậy
+	NP(SUB)
+		Np(H)
+			 Cienco
+		M
+			 5
+	VP
+		VP
+			R
+				 đã
+			V(H)
+				 đề nghị
+			VP
+				V(H)
+					 đặt
+				NP(DOB)
+					N(H)
+						 trạm
+					VP
+						V(H)
+							 thu
+						N
+							 phí
+						AP
+							A(H)
+								 tạm
+				NP(LOC)
+					T
+						 ngay
+					N(H)
+						 chân
+					NP
+						N(H)
+							 cầu
+						Np(H)
+							 Bình Triệu
+						M
+							 2
+		C
+			 và
+		VP
+			V(H)
+				 xin
+			R
+				 được
+			VP
+				V(H)
+					 thu
+				NP(DOB)
+					N(H)
+						 phí
+					N
+						 giao thông
+				NP(MNR)
+					M
+						 một
+					N(H)
+						 chiều
+				LBKT
+					 LBKT
+				X
+					 thay vì
+				VP
+					V(H)
+						 thu
+					NP(DOB)
+						N(H)
+							 phí
+						N
+							 giao thông
+					NP(MNR)
+						M
+							 hai
+						N(H)
+							 chiều
+					C
+						 nếu
+					VP(PRP)
+						V(H)
+							 hoàn thành
+						NP(DOB)
+							N(H)
+								 dự án
+				RBKT
+					 RBKT
+				PP
+					E(H)
+						 đối với
+					NP
+						N(H)
+							 xe
+						VP
+							V(H)
+								 lưu thông
+							NP(DOB)
+								N(H)
+									 hướng
+								PP(DIR)
+									PP
+										E(H)
+											 từ
+										NP
+											N(H)
+												 ga
+											Np
+												 Bình Triệu
+									PP
+										E(H)
+											 vào
+										NP(LOC)
+											N(H)
+												 trung tâm
+											NP
+												Ny(H)
+													 TP
+												.
+													 .
+												Ny
+													 HCM
+	.
+		 .
+</s>
+<s id = "41">
+S
+	PP(LOC)
+		E(H)
+			 Trong
+		NP
+			N(H)
+				 văn bản
+			VP
+				V(H)
+					 gửi
+				NP
+					Ny(H)
+						 UBND
+					NP
+						Ny(H)
+							 TP
+						.
+							 .
+						Ny
+							 HCM
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 Sở
+			NP
+				N(H)
+					 Giao thông
+				N
+					 công chánh
+				Ny
+					 TP
+				.
+					 .
+				Ny
+					 HCM
+		VP
+			R
+				 đã
+			V(H)
+				 đồng tình
+			NP(LOC)
+				N(H)
+					 địa điểm
+				VP(PRP)
+					V(H)
+						 đặt
+					NP(DOB)
+						N(H)
+							 trạm
+						VP
+							V(H)
+								 thu
+							N
+								 phí
+							AP
+								A(H)
+									 tạm
+					PP(LOC)
+						E(H)
+							 tại
+						NP
+							N(H)
+								 phía
+							N
+								 bắc
+							NP
+								N(H)
+									 đầu
+								N
+									 cầu
+								Np
+									 Bình Triệu
+								M
+									 2
+								LBKT
+									 LBKT
+								NP(LOC)
+									NP
+										N(H)
+											 phường
+										Np
+											 Hiệp Bình Chánh
+									,
+										 ,
+									NP
+										N(H)
+											 quận
+										Np
+											 Thủ Đức
+								RBKT
+									 RBKT
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 trung tâm
+			NP
+				N(H)
+					 trạm
+				V
+					 thu
+				N
+					 phí
+		VP
+			V(H)
+				 cách
+			NP(DOB)
+				N(H)
+					 đầu
+				N
+					 cầu
+				NP
+					Np(H)
+						 Bình Triệu
+					A
+						 mới
+			C
+				 là
+			NP(EXT)
+				M
+					 71 , 85
+				Nu(H)
+					 m
+	.
+		 .
+</s>
+<s id = "42">
+S
+	C
+		 Như vậy
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 việc
+			VP
+				V(H)
+					 đặt
+				NP(DOB)
+					N(H)
+						 trạm
+					VP
+						V(H)
+							 thu
+						NP(DOB)
+							N(H)
+								 phí
+							N
+								 giao thông
+						PP(LOC)
+							E(H)
+								 tại
+							NP
+								N(H)
+									 chân
+								N
+									 cầu
+		VP
+			V(H)
+				 là
+			NP(DOB)
+				N(H)
+					 giải pháp
+				AP
+					A(H)
+						 tình thế
+					C
+						 và
+					A(H)
+						 đột xuất
+	,
+		 ,
+	C
+		 nhưng
+	S
+		NP(SUB)
+			Np(H)
+				 Cienco
+			M
+				 5
+		VP
+			R
+				 đã
+			R
+				 không
+			V(H)
+				 đưa
+			R
+				 ra
+			NP(DOB)
+				NP
+					L
+						 các
+					N(H)
+						 phương án
+					V
+						 dự phòng
+				NP
+					L
+						 các
+					N(H)
+						 tình huống
+					AP
+						A(H)
+							 xấu
+						R
+							 nhất
+					VP
+						A
+							 có thể
+						V(H)
+							 xảy
+						R
+							 ra
+						PP(LOC)
+							E(H)
+								 tại
+							NP
+								N(H)
+									 khu vực
+								N
+									 giao thông
+								AP
+									R
+										 vốn
+									R
+										 rất
+									A(H)
+										 phức tạp
+	.
+		 .
+</s>
+<s id = "43">
+S
+	AP(SUB)
+		A(H)
+			 Đặc biệt
+	VP
+		V(H)
+			 là
+		NP
+			N(H)
+				 tình huống
+			VP
+				V(H)
+					 kẹt
+				N
+					 xe
+				PP(LOC)
+					T
+						 ngay
+					E(H)
+						 trên
+					NP
+						N(H)
+							 đường ray
+				PP(TMP)
+					E(H)
+						 trong
+					NP
+						N(H)
+							 thời điểm
+						SBAR
+							S
+								NP(SUB)
+									N(H)
+										 xe lửa
+								VP
+									R
+										 đang
+									V(H)
+										 qua
+									NP(LOC)
+										N(H)
+											 khu vực
+										P
+											 này
+	.
+		 .
+</s>
+<s id = "44">
+S
+	PP(ADV)
+		E(H)
+			 Trong
+		NP
+			N(H)
+				 khi
+			P
+				 đó
+	,
+		 ,
+	PP(LOC)
+		E(H)
+			 tại
+		NP
+			N(H)
+				 khu vực
+			NP
+				N(H)
+					 trạm
+				VP
+					V(H)
+						 thu
+					N
+						 phí
+	SBAR(PRP)
+		C
+			 do
+		S
+			NP(SUB)
+				 *E*
+			VP
+				V(H)
+					 bị
+				VP
+					V(H)
+						 vướng
+					VP
+						V(H)
+							 giải tỏa
+						NP(DOB)
+							L
+								 một số
+							N(H)
+								 hộ
+							N
+								 dân
+	C
+		 nên
+	S
+		NP(SUB)
+			N(H)
+				 đường
+			VP
+				V(H)
+					 vào
+				NP(LOC)
+					N(H)
+						 trạm
+		VP
+			V(H)
+				 bị
+			VP
+				V(H)
+					 uốn
+				A
+					 cong
+		AP(PRD)
+			R
+				 không
+			A(H)
+				 thuận lợi
+			PP
+				E(H)
+					 cho
+				NP
+					L
+						 các
+					N(H)
+						 phương tiện
+				VP
+					V(H)
+						 vào
+					NP(LOC)
+						N(H)
+							 trạm
+		C
+			 và
+		X
+			 nhất là
+		AP(PRD)
+			R
+				 không
+			A(H)
+				 đủ
+			NP
+				N(H)
+					 sức
+				V
+					 chứa
+				NP(TMP)
+					N(H)
+						 khi
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 lượng
+								N
+									 xe
+							AP(TMP)
+								A(H)
+									 cùng
+								N
+									 lúc
+							VP
+								V(H)
+									 dồn
+								PP(LOC)
+									E(H)
+										 đến
+									NP
+										N(H)
+											 trạm
+	.
+		 .
+</s>
+<s id = "45">
+S
+	C
+		 Và
+	S
+		SBAR(PRP)
+			R
+				 cũng
+			E(H)
+				 do
+			S
+				NP(SUB)
+					N(H)
+						 mặt bằng
+					NP
+						N(H)
+							 trạm
+						V
+							 thu
+						N
+							 phí
+				VP
+					R
+						 không thể
+					V(H)
+						 mở rộng
+					V
+						 thêm
+		C
+			 nên
+		S
+			NP(SUB)
+				N(H)
+					 việc
+				V
+					 xây dựng
+				NP(DOB)
+					M
+						 bốn
+					Nc(H)
+						 làn
+					N
+						 xe
+					N
+						 ôtô
+					VP
+						V(H)
+							 vào
+						NP(LOC)
+							N(H)
+								 trạm
+			AP(PRD)
+				R
+					 rất
+				A(H)
+					 chật hẹp
+	;
+		 ;
+	C
+		 còn
+	S
+		PP(LOC)
+			E(H)
+				 ở
+			NP
+				Nc(H)
+					 làn
+				N
+					 xe
+				NP
+					M
+						 hai
+					N(H)
+						 bánh
+		AP(PRD)
+			R
+				 cũng
+			R
+				 quá
+			A(H)
+				 chật hẹp
+		VP
+			R
+				 không
+			V(H)
+				 đáp ứng
+			NP(DOB)
+				N(H)
+					 số lượng
+				NP
+					N(H)
+						 phương tiện
+					NP
+						N(H)
+							 xe
+						VP
+							V(H)
+								 lưu thông
+							VP
+								V(H)
+									 đi
+								R
+									 qua
+			X
+				 nhất là
+			PP(TMP)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 giờ
+					N
+						 cao điểm
+					N
+						 sáng
+			,
+				 ,
+			NP(TMP)
+				N(H)
+					 lúc
+				SBAR
+					S
+						NP(SUB)
+							N(H)
+								 mật độ
+							V
+								 lưu thông
+						VP
+							V(H)
+								 tăng
+							A
+								 cao
+							PP(LOC)
+								E(H)
+									 từ
+								NP
+									N(H)
+										 hướng
+									NP
+										N(H)
+											 ngoại thành
+										C
+											 và
+										L
+											 các
+										N(H)
+											 tỉnh
+									VP
+										V(H)
+											 qua
+										NP(DOB)
+											N(H)
+												 cầu
+											Np
+												 Bình Triệu
+									VP
+										V(H)
+											 về
+										NP(DOB)
+											N(H)
+												 trung tâm
+											Ny
+												 TP
+	.
+		 .
+</s>
+<s id = "46">
+S
+	NP(SUB)
+		N(H)
+			 Trạm
+		V
+			 thu
+		N
+			 phí
+	VP
+		VP
+			V(H)
+				 đặt
+			PP(LOC)
+				E(H)
+					 tại
+				NP
+					N(H)
+						 chân
+					NP
+						N(H)
+							 cầu
+						Np
+							 Bình Triệu
+		VP
+			V(H)
+				 cho
+			V
+				 thấy
+			SBAR
+				S
+					PP(TMP)
+						E(H)
+							 sau
+						NP
+							N(H)
+								 khi
+							SBAR
+								S
+									NP(SUB)
+										N(H)
+											 xe
+									VP
+										V(H)
+											 nộp
+										NP(DOB)
+											N(H)
+												 phí
+					NP(SUB)
+						 *T*
+					AP(PRD)
+						R
+							 sẽ
+						A(H)
+							 khó
+						VP
+							V(H)
+								 thông thoát
+							A
+								 nhanh
+						PP(PRP)
+							E(H)
+								  vì
+							SBAR
+								S
+									VP(PPR)
+										V(H)
+											 muốn
+										VP
+											V(H)
+												 qua
+											NP
+												N(H)
+													 trạm
+									C
+										 là
+									NP(SUB)
+										N(H)
+											 xe
+									VP
+										V(H)
+											 bắt đầu
+										VP
+											VP
+												V(H)
+													 leo
+												NP(DOB)
+													N(H)
+														 dốc
+											VP
+												V(H)
+													 lên
+												NP(DOB)
+													N(H)
+														 cầu
+											PP(MNR)
+												E(H)
+													 với
+												NP
+													N(H)
+														 tốc độ
+													AP
+														R
+															 rất
+														A(H)
+															 chậm
+	.
+		 .
+</s>
+<s id = "47">
+S
+	C
+		 Như vậy
+	,
+		 ,
+	S
+		NP(SUB)
+			P(H)
+				 đây
+		VP
+			R
+				 sẽ
+			V(H)
+				 là
+			NP(DOB)
+				N(H)
+					 điều
+				A
+					 bất ổn
+				NP(TMP)
+					N(H)
+						 khi
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 xe
+							VP
+								V(H)
+									 dồn ứ
+								PP(LOC)
+									E(H)
+										 ở
+									NP
+										N(H)
+											 phía
+										A
+											 trước
+										NP
+											N(H)
+												 trạm
+											VP
+												V(H)
+													 thu
+												N
+													 phí
+	C
+		 và
+	C
+		 cho dù
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 thực hiện
+			NP(DOB)
+				N(H)
+					 giải pháp
+				VP
+					V(H)
+						 xả
+					N
+						 cảng
+	S
+		NP(SUB)
+			 *E*
+		AP(PRD)
+			R
+				 cũng
+			A(H)
+				 khó
+			VP
+				V(H)
+					 thông thoát
+				NP(DOB)
+					Nc(H)
+						 dòng
+					N
+						 xe
+			,
+				 ,
+			VP
+				R
+					 chưa
+				V(H)
+					 kể
+				PP
+					E(H)
+						 đến
+					NP
+						N(H)
+							 tình huống
+						VP
+							V(H)
+								 kẹt
+							N
+								 xe
+							PP(LOC)
+								PP
+									T
+										 ngay
+									E(H)
+										 trên
+									NP
+										N(H)
+											 đường ray
+										N
+											 xe lửa
+								PP
+									E(H)
+										 tại
+									NP
+										N(H)
+											 ngã
+										M
+											 tư
+										NP
+											Np
+												 Bình Lợi
+	.
+		 .
+</s>
+<s id = "48">
+SQ
+	NP(SUB)
+		P(H)
+			 Ai
+	VP
+		R
+			 sẽ
+		V(H)
+			 chịu
+		NP(DOB)
+			N(H)
+				 trách nhiệm
+			PP
+				E(H)
+					 về
+				NP
+					N(H)
+						 trạm
+					VP
+						V(H)
+							 thu
+						N
+							 phí
+						AP
+							A(H)
+								 tạm bợ
+						C
+							 và
+						VP
+							R
+								 không
+							V(H)
+								 bảo đảm
+							NP(DOB)
+								N(H)
+									 an toàn
+								N
+									 giao thông
+								PP(LOC)
+									E(H)
+										 ở
+									NP
+										T
+											 ngay
+										N(H)
+											 cửa ngõ
+										Ny
+											 TP
+										.
+											 .
+										Ny
+											 HCM
+	?
+		 ?
+</s>
+<s id = "49">
+S
+	NP(SUB)
+		N(H)
+			 Câu
+		V
+			 trả lời
+		PP(ADV)
+			E(H)
+				 từ
+			NP
+				N(H)
+					 thực tế
+	VP
+		V(H)
+			 là
+		:
+			 :
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 cần
+					V
+						 phải
+					VP
+						VP
+							V(H)
+								 tháo dỡ
+							NP(DOB)
+								N(H)
+									 trạm
+								VP
+									V(H)
+										 thu
+									N
+										 phí
+								NP
+									P(H)
+										 này
+						,
+							 ,
+						VP
+							V(H)
+								 trả
+							R
+								 lại
+							NP(DOB)
+								NP
+									Nc(H)
+										 sự
+									V
+										 thông thoáng
+									PP(IOB)
+										E(H)
+											 cho
+										NP
+											Nc(H)
+												 con
+											N
+												 đường
+								C
+									 và
+								NP
+									Nc(H)
+										 sự
+									A
+										 an toàn
+									PP
+										E(H)
+											 của
+										NP
+											N(H)
+												 người
+											N
+												 dân
+	.
+		 .
+</s>
+<s id = "50">
+S
+	NP(SUB)
+		N(H)
+			 Nhóm
+		N
+			 Hiểm họa
+	AP(PRD)
+		A(H)
+			 khó
+		VP
+			V(H)
+				 tránh
+	!
+		 !
+</s>
+<s id = "51">
+S
+	S
+		NP(TMP)
+			N(H)
+				 Buổi
+			N
+				 sáng
+			QP
+				M
+					 25
+				-
+					 -
+				M
+					 3
+				-
+					 –
+				M
+					 2004
+		AP(TMP)
+			A(H)
+				 đúng
+			PP
+				E(H)
+					 vào
+				NP
+					N(H)
+						 thời điểm
+					SBAR
+						S
+							NP(SUB)
+								N(H)
+									 xe tải
+							VP
+								V(H)
+									 được
+								V
+									 phép
+								VP
+									V(H)
+										 lưu thông
+									PP(LOC)
+										E(H)
+											 vào
+										NP
+											N(H)
+												 nội thành
+		,
+			 ,
+		NP(SUB)
+			R
+				 hàng
+			Nc(H)
+				 đoàn
+			N
+				 ôtô
+		VP
+			VP
+				V(H)
+					 nối đuôi
+				NP(DOB)
+					N(H)
+						 nhau
+			VP
+				V(H)
+					 chạy
+				PP
+					E(H)
+						 với
+					NP
+						N(H)
+							 tốc độ
+						AP
+							A(H)
+								 tương đối
+							A
+								 chậm
+	,
+		 ,
+	S
+		SBAR(PRP)
+			E(H)
+				 do
+			S
+				NP(SUB)
+					 *E*
+				VP
+					R
+						 chưa
+					V(H)
+						 thu
+					NP(DOB)
+						N(H)
+							 phí
+		C
+			 nên
+		S
+			NP(SUB)
+				L
+					 các
+				Nc(H)
+					 loại
+				N
+					 xe
+			VP
+				R
+					 không
+				V(H)
+					 dừng
+				PP(LOC)
+					E(H)
+						 ở
+					NP
+						L
+							 các
+						N(H)
+							 trạm
+						VP
+							V(H)
+								 bán
+							NP(DOB)
+								N(H)
+									 vé
+						VP
+							V(H)
+								 đặt
+							A
+								 rải rác
+							NP(DOB)
+								A
+									 suốt
+								N(H)
+									 tuyến
+								N
+									 đường
+	.
+		 .
+</s>
+<s id = "52">
+S
+	NP(TMP)
+		N(H)
+			 Khi
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					A
+						 gần
+					V(H)
+						 qua
+					NP(DOB)
+						N(H)
+							 trạm
+						V
+							 kiểm soát
+					PP(MNR)
+						E(H)
+							 với
+						NP
+							NP
+								M
+									 bốn
+								Nc(H)
+									 làn
+								VP
+									V(H)
+										 lưu thông
+									NP(DOB)
+										N(H)
+											 ôtô
+							C
+								 và
+							NP
+								M
+									 một
+								Nc(H)
+									 làn
+								VP
+									V(H)
+										 lưu thông
+									NP(DOB)
+										N(H)
+											 xe máy
+	,
+		 ,
+	NP(SUB)
+		L
+			 hầu hết
+		N(H)
+			 tài xế
+	VP
+		R
+			 đều
+		V(H)
+			 giảm
+		NP(DOB)
+			N(H)
+				 tốc độ
+			AP
+				A(H)
+					 đột ngột
+			SBAR(PRP)
+				E(H)
+					 vì
+				S
+					NP(SUB)
+						N(H)
+							 khúc
+						N
+							 cua
+					AP(PRD)
+						R
+							 khá
+						A(H)
+							 gắt
+	.
+		 .
+</s>
+<s id = "53">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Khoảng cách
+			PP(DIR)
+				PP
+					E(H)
+						 từ
+					NP
+						N(H)
+							 khúc
+						N
+							 cua
+						P
+							 này
+				PP
+					E(H)
+						 đến
+					NP
+						N(H)
+							 trạm
+		NP(PRD)
+			R
+				 chỉ
+			N(H)
+				 khoảng
+			QP(EXT)
+				M
+					 40
+				Nu(H)
+					 m
+	,
+		 ,
+	C
+		 do vậy
+	S
+		NP(SUB)
+			R
+				 thường
+			L
+				 các
+			N(H)
+				 tài xế
+		VP
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 tâm lý
+				VP
+					V(H)
+						 chạy
+					A
+						 thẳng
+					PP(LOC)
+						E(H)
+							 vào
+						NP
+							N(H)
+								 làn
+							V
+								 kiểm soát
+							NP
+								NP
+									N(H)
+										 đầu tiên
+								C
+									 hoặc
+								NP
+									N(H)
+										 thứ
+									M
+										 hai
+								PP(MNR)
+									E(H)
+										 từ
+									NP
+										N(H)
+											 bên
+										A
+											 trái
+										V
+											 qua
+	,
+		 ,
+	C
+		 nếu
+	S
+		VP(ADV)
+			V(H)
+				 đi
+			PP(LOC)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 làn
+					V
+						 kiểm soát
+					NP
+						N(H)
+							 thứ
+						M
+							 tư
+		NP(SUB)
+			N(H)
+				 tài xế
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 đánh vòng
+				VP(PRP)
+					V(H)
+						 cua
+					NP(DOB)
+						N(H)
+							 tay lái
+	.
+		 .
+</s>
+<s id = "54">
+S
+	C
+		 Đối với
+	NP(TPC)
+		L
+			 các
+		Nc(H)
+			 loại
+		N
+			 xe
+		NP
+			N(H)
+				 tải trọng
+			AP
+				A(H)
+					 cao
+				C
+					 và
+				A(H)
+					 dài
+		C
+			 như
+		NP
+			N(H)
+				 xe
+			VP
+				V(H)
+					 chở
+				NP(DOB)
+					Nb(H)
+						 container
+					,
+						 ,
+					AP
+						A(H)
+							 đặc biệt
+						C
+							 là
+						NP
+							Nc(H)
+								 loại
+							Nb
+								 container
+							AP
+								A(H)
+									 dài
+								M
+									 40ft
+							X
+								 chẳng hạn
+	C
+		 thì
+	AP(TH)
+		R
+			 hết sức
+		A(H)
+			 nguy hiểm
+		PP(PRP)
+			E(H)
+				 vì
+			VP
+				V(H)
+					 cua
+				A
+					 gắt
+				C
+					 nếu
+				VP
+					V(H)
+						 đi
+					PP(LOC)
+						E(H)
+							 vào
+						NP
+							N(H)
+								 làn
+							V
+								 kiểm soát
+							NP
+								N(H)
+									 thứ
+								M
+									 tư
+	.
+		 .
+</s>
+<s id = "55">
+S
+	VP(MNR)
+		V(H)
+			 Trở lại
+		NP(DOB)
+			NP
+				Nc(H)
+					 đoạn
+				N
+					 đường
+				PP(DIR)
+					PP
+						E(H)
+							 từ
+						PP
+							E(H)
+								 trước
+							NP
+								N(H)
+									 ga
+								Np
+									 Bình Triệu
+					PP
+						E(H)
+							 đến
+						NP
+							N(H)
+								 ngã
+							M
+								 tư
+							NP
+								N(H)
+									 đường ray
+								N
+									 xe lửa
+			C
+				 và
+			NP
+				Nc(H)
+					 đoạn
+				PP(LOC)
+					E(H)
+						 đến
+					NP
+						N(H)
+							 trạm
+						V
+							 kiểm soát
+	,
+		 ,
+	NP(SUB)
+		R
+			 hàng
+		N(H)
+			 ôtô
+	VP
+		R
+			 vẫn
+		V(H)
+			 tiếp tục
+		VP
+			V(H)
+				 nối đuôi
+		C
+			 và
+		VP
+			V(H)
+				 bị
+			V
+				 đứt quãng
+			SBAR(PRP)
+				E(H)
+					 bởi
+				S
+					NP(SUB)
+						N(H)
+							 ngã
+						M
+							 tư
+						NP
+							N(H)
+								 đèn xanh
+							N(H)
+								 đèn đỏ
+					VP
+						V(H)
+							 có
+						NP(DOB)
+							N(H)
+								 đường
+							N
+								 xe lửa
+							VP
+								V(H)
+									 băng
+								AP
+									A(H)
+										 ngang
+									R
+										 qua
+	.
+		 .
+</s>
+<s id = "56">
+S
+	NP(SUB)
+		M
+			 Một
+		Nc(H)
+			 bác
+		N
+			 tài
+		NP
+			N(H)
+				 xe ôm
+	VP
+		VP
+			V(H)
+				 ngồi
+			V
+				 chờ
+			NP(DOB)
+				N(H)
+					 khách
+			NP(LOC)
+				T
+					 ngay
+				N(H)
+					 ngã
+				M
+					 tư
+		VP
+			V(H)
+				 nói
+			:
+				 :
+			“
+				 “
+			SBAR
+				S
+					S
+						NP(SUB)
+							N(H)
+								 Anh
+						VP
+							VP
+								R
+									 cứ
+								V(H)
+									 nhìn
+								PP(LOC)
+									E(H)
+										 vào
+									NP
+										L
+											 các
+										N(H)
+											 trạm
+										V
+											 bán
+										N
+											 vé
+							C
+								 thì
+							VP
+								V(H)
+									 biết
+					,
+						 ,
+					S
+						NP(SUB)
+							Nc(H)
+								 đoạn
+							N
+								 đường
+						AP(PRD)
+							R
+								 không
+							A(H)
+								 đủ
+							A
+								 rộng
+							SBAR(PRP)
+								E(H)
+									 để
+								S
+									NP(SUB)
+										N(H)
+											 xe
+										A
+											 sau
+									AP(PRD)
+										A(H)
+											 có thể
+										VP
+											V(H)
+												 vượt
+											R
+												 lên
+											NP(DOB)
+												N(H)
+													 trạm
+												NP
+													N(H)
+														 phía
+													A
+														 trước
+											PP(PRP)
+												E(H)
+													 để
+												VP
+													V(H)
+														 mua
+													NP(DOB)
+														N(H)
+															 vé
+					C
+						 mà
+					S
+						NP(SUB)
+							 *T*
+						VP
+							V(H)
+								 phải
+							VP
+								V(H)
+									 sắp
+								NP(DOB)
+									N(H)
+										 hàng
+									VP(PRP)
+										V(H)
+											 chờ
+										NP(DOB)
+											N(H)
+												 xe
+											A
+												 trước
+										VP(IOB)
+											V(H)
+												 mua
+											R
+												 xong
+									VP
+										R
+											 mới
+										V(H)
+											 đến
+										NP
+											N(H)
+												 lượt
+											N
+												 mình
+					,
+						 ,
+					S
+						NP(SUB)
+							N(H)
+								 nguy cơ
+							VP
+								V(H)
+									 kẹt
+								NP(DOB)
+									N(H)
+										 xe
+						VP
+							R
+								 sẽ
+							V(H)
+								 xảy
+							R
+								 ra
+							PP(LOC)
+								T
+									 ngay
+								E(H)
+									 tại
+								NP
+									P(H)
+										 đây
+									-
+										 -
+									NP
+										N(H)
+											 chỗ
+										NP
+											N(H)
+												 đường
+											NP
+												N(H)
+													 xe lửa
+											P
+												 này
+					C
+						 chứ
+					VP
+						R
+							 chưa
+						V(H)
+							 nói
+						PP(LOC)
+							E(H)
+								 đến
+							NP
+								N(H)
+									 khúc
+								N
+									 cua
+								AP
+									“
+										 “
+									A(H)
+										 nghiệt ngã
+									”
+										 “
+							C
+								 và
+							NP
+								N(H)
+									 trạm
+								V
+									 kiểm soát
+								VP
+									V(H)
+										 đặt
+									NP(DOB)
+										T
+											 ngay
+										N(H)
+											 chân
+										N
+											 cầu
+										...
+											 ...
+				”
+					 “
+	.
+		 .
+</s>
+<s id = "57">
+S(TC)
+	RP(MDP)
+		R(H)
+			 Quả thật
+	C
+		 nếu như
+	VP(TPC)
+		R
+			 đang
+		V(H)
+			 có
+		VP
+			V(H)
+				 ùn tắc
+			NP(DOB)
+				N(H)
+					 giao thông
+			PP(LOC)
+				E(H)
+					 trên
+				NP
+					N(H)
+						 ngã
+					M
+						 tư
+					P
+						 này
+	C
+		 mà
+	S
+		NP(SUB)
+			N(H)
+				 xe lửa
+		AP(PRD)
+			R
+				 cứ
+			A(H)
+				 lù lù
+			VP
+				V(H)
+					 tiến
+				V
+					 tới
+	C
+		 thì
+	S
+		NP(SUB)
+			 *T*
+		VP
+			R
+				 không
+			V(H)
+				 biết
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 hậu quả
+					VP
+						R
+							 sẽ
+						V(H)
+							 ra sao
+	.
+		 .
+</s>

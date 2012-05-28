@@ -1,0 +1,578 @@
+" : "	4
+, : ,	61
+- : -	15
+. : .	67
+... : ...	8
+? : ?	5
+A : Giống	1
+A : buồn	2
+A : bình yên	1
+A : bận rộn	1
+A : cay đắng	1
+A : chung	1
+A : chân thành	1
+A : chắc	2
+A : cuối cùng	1
+A : có thể	11
+A : cùng	3
+A : dài	2
+A : dũng cảm	1
+A : dễ chịu	1
+A : dịu	1
+A : dịu dàng	1
+A : dịu hiền	1
+A : giống	1
+A : gần	1
+A : huênh hoang	1
+A : hơn	1
+A : khác	3
+A : khác biệt	1
+A : khó	1
+A : kiên định	1
+A : lành	1
+A : lâu	2
+A : lắm	1
+A : may mắn	1
+A : mặn chát	1
+A : nghiêm túc	1
+A : ngạo mạn	1
+A : nhanh	3
+A : nhiều	8
+A : nhân ái	1
+A : như	1
+A : nhỏ bé	1
+A : nặng nề	1
+A : nổi tiếng	1
+A : phải	3
+A : quan trọng	1
+A : rộng lớn	1
+A : sung sướng	1
+A : suốt	1
+A : sáng suốt	3
+A : sâu sắc	1
+A : sâu thẳm	1
+A : tha thiết	1
+A : thành thật	1
+A : thơ ấu	1
+A : thương mến	1
+A : thật	1
+A : trước	1
+A : tuyệt vời	4
+A : tận tụy	1
+A : tốt đẹp	1
+A : tự hào	1
+A : tự nhiên	1
+A : vô tình	2
+A : vất vả	1
+A : xa lạ	1
+A : ác liệt	1
+A : đa cảm	1
+A : đau	1
+A : đen	1
+A : điềm tĩnh	1
+A : đầu	1
+A : đằng đẵng	1
+A : đẹp	2
+A : đủ	1
+C : Hay	1
+C : Nhưng	3
+C : Và	1
+C : giá như	1
+C : hay	5
+C : hoặc	1
+C : là	3
+C : mà	7
+C : mặc dù	1
+C : như	12
+C : nhưng	8
+C : nếu	4
+C : rằng	14
+C : rồi	3
+C : thì	7
+C : và	43
+C : vì	2
+C : với	1
+E : *E*	1
+E : Cho	1
+E : Sau	1
+E : Trong	1
+E : Trước	1
+E : bằng	1
+E : cho	16
+E : của	30
+E : mà	1
+E : sau	3
+E : theo	1
+E : trong	14
+E : trước	1
+E : tới	2
+E : từ	6
+E : vào	3
+E : vì	6
+E : về	13
+E : với	9
+E : đến	9
+E : để	8
+E : đối với	7
+E : ở	10
+I : ơi	1
+I : ạ	1
+L : Các	1
+L : Mọi	1
+L : Những	2
+L : bao	1
+L : các	3
+L : mấy	1
+L : mọi	2
+L : một số	1
+L : những	44
+L : vài	1
+L : vô số	1
+LBKT : LBKT	2
+M : 1	1
+M : 1860	1
+M : 1970	1
+M : 20	1
+M : 2005	1
+M : 23	1
+M : 28	1
+M : 30	2
+M : 47	1
+M : 5	1
+M : 7	1
+M : Bốn	1
+M : Một	1
+M : ba	2
+M : bốn	1
+M : chín	2
+M : chục	1
+M : hai	3
+M : một	25
+M : tám	1
+M : đôi	1
+N : *E*	1
+N : Bà	7
+N : Chiến tranh	1
+N : Chị	3
+N : Cụ	1
+N : Giờ	1
+N : Khi	2
+N : Mẹ	5
+N : Thùy	1
+N : Thư	1
+N : anh	6
+N : anh trai	1
+N : bà	48
+N : bài học	7
+N : bên	3
+N : bạn	2
+N : bạn bè	1
+N : cay đắng	1
+N : chiến	1
+N : chiến tranh	3
+N : chiến tuyến	1
+N : chuyện	2
+N : cháu	2
+N : chính trị	2
+N : chúng ta	1
+N : chắt	2
+N : chị	17
+N : chữ	1
+N : con	3
+N : con  gái	1
+N : con  trai	1
+N : con cháu	1
+N : con gái	6
+N : con người	1
+N : cuộc đời	3
+N : cách	2
+N : câu	5
+N : câu chuyện	2
+N : cô	1
+N : cô gái	1
+N : cạnh	1
+N : cầu	4
+N : cụ	11
+N : cựu chiến binh	1
+N : da	1
+N : danh dự	1
+N : dòng	2
+N : dòng sông	1
+N : dũng cảm	1
+N : em gái	1
+N : gia đình	10
+N : giáo sĩ	1
+N : giấc	1
+N : giờ	1
+N : gái	2
+N : gương	1
+N : hôm nay	1
+N : hạnh phúc	1
+N : hồi âm	1
+N : khi	4
+N : khả năng	1
+N : kẻ	2
+N : kế hoạch	1
+N : lòng	4
+N : lúc	6
+N : lần	1
+N : lịch sử	1
+N : lớp	1
+N : lời	11
+N : miền	3
+N : mất mát	1
+N : mẹ	19
+N : một cách	2
+N : mục đích	1
+N : nghĩa	1
+N : ngoài	1
+N : ngày	4
+N : người	11
+N : nhau	2
+N : nhiệm vụ	1
+N : nhà văn	1
+N : nhật ký	11
+N : nhịp	1
+N : niềm tin	2
+N : nét mặt	1
+N : nô lệ	1
+N : nông dân	1
+N : nông trang	1
+N : năm	7
+N : năm tháng	2
+N : nơi	1
+N : nước	1
+N : nước mắt	1
+N : nỗi	3
+N : nội chiến	1
+N : phương thuốc	1
+N : phần	1
+N : riêng tư	1
+N : suy nghĩ	2
+N : sông	1
+N : số	2
+N : số phận	1
+N : sức mạnh	1
+N : sự	3
+N : sự nghiệp	3
+N : tháng	1
+N : thơ	1
+N : thư	5
+N : thầy giáo	1
+N : thế giới	1
+N : thế hệ	1
+N : thị trấn	1
+N : thời gian	2
+N : tim	2
+N : tin	1
+N : tinh thần	1
+N : trai	2
+N : trách nhiệm	2
+N : trái tim	1
+N : trường	1
+N : trận	3
+N : trận địa	1
+N : tuổi	1
+N : tình	1
+N : tình thương	1
+N : tình yêu	4
+N : tổ	1
+N : việc	5
+N : vô tình	1
+N : văn hóa	1
+N : vầng	1
+N : vẻ	2
+N : vết thương	1
+N : vị	1
+N : xung quanh	1
+N : xã hội	1
+N : xúc động	1
+N : xưa	1
+N : y khoa	1
+N : ánh sáng	2
+N : ông	2
+N : ý kiến	1
+N : Điều	1
+N : đau đớn	1
+N : điều	12
+N : đường	1
+N : đất nước	2
+N : đề xuất	1
+N : đời	1
+NP : *E*	4
+NP : *T*	6
+Nc : Cây	1
+Nc : Người	2
+Nc : Sự	1
+Nc : bà	1
+Nc : bài	1
+Nc : bức	4
+Nc : chị	1
+Nc : con	1
+Nc : cuốn	10
+Nc : cuộc	1
+Nc : cái	3
+Nc : câu	2
+Nc : cây	3
+Nc : người	13
+Nc : niềm	1
+Nc : nỗi	2
+Nc : sự	3
+Nc : thứ	1
+Nc : tấm	1
+Np : Abraham Lincoln	1
+Np : Doãn Ngọc Trâm	1
+Np : Fred	9
+Np : Hà Nội	2
+Np : Mỹ	2
+Np : Nam	3
+Np : Nguyên Ngọc	1
+Np : Rob	1
+Np : Robert Whitehurst	1
+Np : Steve Maxner	1
+Np : Texas	1
+Np : Thuỳ	1
+Np : Thùy	23
+Np : Thùy Trâm	1
+Np : Trâm	2
+Np : Tuổi Trẻ	1
+Np : y	1
+Np : Đức Phổ	1
+Nu : g	1
+Ny : VN	2
+P : Chúng tôi	2
+P : Cả	1
+P : Giờ đây	1
+P : Tôi	15
+P : Tất cả	1
+P : ai	6
+P : bao giờ	3
+P : bao nhiêu	1
+P : bây giờ	1
+P : chúng	2
+P : chúng ta	2
+P : chúng tôi	21
+P : cả	3
+P : gì	6
+P : họ	2
+P : kia	3
+P : mình	6
+P : nay	2
+P : nào	4
+P : này	11
+P : nó	2
+P : ta	7
+P : thế	3
+P : thế nào	2
+P : tôi	39
+P : tất cả	7
+P : tự	1
+P : vậy	1
+P : Đây	1
+P : Đó	3
+P : đâu	1
+P : đây	5
+P : đó	19
+P : ấy	7
+R : Hơn	1
+R : Không	1
+R : bất cứ	1
+R : cho	1
+R : chưa	4
+R : chẳng	1
+R : chỉ	4
+R : còn	6
+R : có lẽ	2
+R : cũng	16
+R : cứ	1
+R : dường như	1
+R : dần dần	1
+R : hãy	1
+R : hơn	7
+R : hầu hết	1
+R : hết sức	1
+R : hề	1
+R : không	23
+R : lên	1
+R : lại	7
+R : lần lượt	1
+R : nhất	1
+R : phải	1
+R : qua	2
+R : quá	5
+R : ra	10
+R : rất	11
+R : rồi	3
+R : sắp	1
+R : sẽ	23
+R : thường	2
+R : từng	3
+R : vào	1
+R : vô cùng	1
+R : vẫn	2
+R : xuống	1
+R : đi	7
+R : đã	26
+R : được	22
+R : đến	1
+R : đều	9
+RBKT : RBKT	2
+T : chính	4
+T : cả	2
+T : hết	1
+T : hề	1
+T : thật	1
+T : thế	3
+T : đó	1
+T : đấy	1
+T : đến	2
+V : Có	3
+V : Gửi	2
+V : Trả lời	1
+V : biết	10
+V : buộc	1
+V : bày tỏ	1
+V : báo tử	1
+V : bảo	1
+V : bảo quản	1
+V : bảo vệ	1
+V : bắc	2
+V : bắt đầu	1
+V : bị	2
+V : bỏ qua	1
+V : bực mình	1
+V : ca ngợi	1
+V : chia cắt	2
+V : chiến đấu	1
+V : cho	5
+V : cho phép	1
+V : chuyển	1
+V : chăm sóc	1
+V : chất chứa	1
+V : chắp cánh	1
+V : chữa	1
+V : cách	1
+V : có	13
+V : cảm nhận	1
+V : cảm thấy	1
+V : cảm thụ	1
+V : cảm động	1
+V : cần	8
+V : cần thiết	1
+V : cố	1
+V : cống hiến	1
+V : cộng tác	1
+V : củng cố	1
+V : diễn	1
+V : dám	1
+V : dạy	2
+V : dấn thân	1
+V : e sợ	1
+V : giải bày	1
+V : giải phóng	1
+V : gìn giữ	1
+V : gặp	3
+V : gọi	2
+V : gửi	6
+V : hi vọng	1
+V : hiểu	3
+V : hòa	1
+V : hướng	1
+V : học	8
+V : hỏi	7
+V : hứa	2
+V : khiến	3
+V : khuyên	1
+V : khóc	1
+V : khỏi	1
+V : kiên nhẫn	1
+V : kiên định	1
+V : kính trọng	2
+V : kết liễu	1
+V : kết thúc	1
+V : kể	2
+V : là	18
+V : làm	9
+V : lấy	2
+V : lầm lạc	1
+V : lớn	1
+V : mai một	1
+V : mong	1
+V : muốn	7
+V : mơ	1
+V : mất	3
+V : mở đầu	1
+V : nghe	4
+V : nghĩ	5
+V : ngã	1
+V : ngồi	1
+V : nhìn	4
+V : nhận	6
+V : nhắc	1
+V : nhắc nhở	2
+V : nuôi	2
+V : nuôi dạy	1
+V : nên	4
+V : nói	7
+V : nối tiếp	1
+V : nổ	2
+V : phải	8
+V : quyết tâm	1
+V : quyết định	1
+V : ra	1
+V : rời	2
+V : sang	1
+V : suy nghĩ	1
+V : sống	8
+V : sợ	1
+V : sử dụng	1
+V : tha thứ	1
+V : tham gia	1
+V : thay đổi	2
+V : theo đuổi	1
+V : thêm	1
+V : thương yêu	1
+V : thấy	10
+V : thử thách	1
+V : thực hiện	1
+V : tin	4
+V : tiến	1
+V : trao	1
+V : trao đổi	1
+V : trích đăng	1
+V : trưởng thành	2
+V : trả lời	1
+V : trở nên	2
+V : trở thành	2
+V : tuyệt vọng	1
+V : tìm	1
+V : tước đoạt	3
+V : tốt nghiệp	2
+V : viết	11
+V : xin	5
+V : xuất bản	2
+V : xây	1
+V : xúc phạm	1
+V : xúc động	1
+V : xử	1
+V : yêu thương	1
+V : ôm ấp	1
+V : Đọc	1
+V : đi	1
+V : điện	1
+V : đánh giá	1
+V : đáp	1
+V : đòi	1
+V : được	14
+V : đặt	1
+V : đến	1
+V : đề	1
+V : định	2
+V : đọc	11
+V : đồng ý	1
+V : Ước	1
+V : ở	1
+V : ủng hộ	2
+X : có lẽ	1
+X : vì sao	2
+X : vậy mà	1

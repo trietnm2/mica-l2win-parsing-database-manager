@@ -1,0 +1,489 @@
+" : "	17
+, : ,	69
+- : -	2
+. : .	45
+... : ...	5
+: : :	8
+? : ?	3
+A : bình yên	1
+A : bạc	1
+A : cay đắng	1
+A : chi li	1
+A : chán nản	1
+A : chăm chú	1
+A : còm cõi	1
+A : còng	1
+A : cô đơn	1
+A : cũ	1
+A : cắm cúi	1
+A : cặm cụi	2
+A : già	1
+A : gần	2
+A : hiếm	1
+A : hân hoan	1
+A : hơn	4
+A : hẻo lánh	1
+A : hợp lý	1
+A : hợp pháp	1
+A : hợp tình	1
+A : lom khom	1
+A : lân cận	1
+A : lạnh lẽo	1
+A : lẻ loi	1
+A : lớn	1
+A : mênh mông	1
+A : mệt mỏi	1
+A : nham nhở	1
+A : nhiều	2
+A : nhỏ	1
+A : phải	1
+A : riêng	2
+A : ruột thịt	1
+A : sần	1
+A : sớm	1
+A : thơ dại	1
+A : trực tiếp	1
+A : tốt	1
+A : tốt bụng	1
+A : tự tiện	1
+A : u	1
+A : vắng lặng	2
+A : xanh	2
+A : xuôi	1
+A : xấp xỉ	1
+A : yên	1
+A : yên ổn	1
+A : út	3
+A : đau lòng	3
+A : đơn lẻ	1
+A : đều	1
+C : Dù	1
+C : Nhưng	2
+C : Thế mà	1
+C : còn	1
+C : là	2
+C : mà	2
+C : như	1
+C : nhưng	9
+C : thì	9
+C : và	7
+E : Trong	1
+E : Vào	1
+E : bởi	1
+E : cho	7
+E : của	14
+E : do	1
+E : dù	3
+E : giữa	2
+E : lên	1
+E : trong	4
+E : trên	1
+E : trước	2
+E : tận	1
+E : tức	1
+E : từ	5
+E : vào	1
+E : vì	1
+E : về	8
+E : với	1
+E : đến	1
+E : để	5
+E : Ở	1
+E : ở	5
+L : Các	2
+L : Mấy	1
+L : Mọi	1
+L : Những	1
+L : các	3
+L : mấy	3
+L : mọi	1
+L : những	17
+LBKT : LBKT	1
+M : 17 - 4 - 2004	1
+M : 20	2
+M : 40	1
+M : 80	1
+M : 90	1
+M : Hai	3
+M : Mỗi	1
+M : hai	6
+M : mỗi	2
+M : một	11
+M : rưỡi	1
+N : Bà	4
+N : Bên	1
+N : Chuyện	1
+N : Chồng	1
+N : Cô	1
+N : Dáng	1
+N : Khi	2
+N : Mất mát	1
+N : Người	1
+N : Nước mắt	1
+N : Phần	1
+N : Tòa	2
+N : Tòa án	1
+N : Vườn	1
+N : anh	1
+N : anh em	1
+N : biên bản	1
+N : biên lai	1
+N : bà	28
+N : bên	5
+N : bên bị	1
+N : bên nguyên	1
+N : bóng	1
+N : bản án	1
+N : bếp	1
+N : bị đơn	1
+N : chuyện	2
+N : chái	1
+N : cháu	5
+N : chó	1
+N : chị em	1
+N : chị gái	1
+N : chồng	3
+N : chủ	1
+N : chữ ký	1
+N : con	6
+N : con cháu	1
+N : con gái	9
+N : con trai	2
+N : cuộc đời	1
+N : cành	1
+N : câu	2
+N : câu hỏi	1
+N : cây	1
+N : cô	5
+N : cạnh	2
+N : cấp	1
+N : cụ	9
+N : dân	1
+N : ghế	1
+N : gia đình	3
+N : giấy	3
+N : giấy tờ	1
+N : giờ	1
+N : gà	1
+N : gạo	3
+N : gốc	2
+N : hi vọng	1
+N : hiện giờ	1
+N : hàng xóm	4
+N : hội đồng	1
+N : khi	3
+N : kẻ	1
+N : kết luận	1
+N : kết quả	1
+N : luật sư	3
+N : lá	1
+N : lòng	1
+N : lúc	1
+N : lý	1
+N : lưng	1
+N : lần	1
+N : lẽ	1
+N : lời	1
+N : lửa	2
+N : muối	1
+N : mái tóc	1
+N : mất mát	1
+N : mẹ	4
+N : mẹ con	3
+N : mồ hôi	1
+N : ngoài	1
+N : nguyên đơn	1
+N : ngày	3
+N : người	7
+N : nhau	2
+N : nhà	6
+N : nhận định	1
+N : núi	1
+N : năm	2
+N : nước mắt	1
+N : phiên tòa	3
+N : phía	1
+N : phòng	1
+N : phóng viên	1
+N : phần	6
+N : quan hệ	1
+N : quanh	2
+N : quyền	7
+N : quyền lợi	2
+N : rêu	1
+N : sổ đỏ	2
+N : tay	3
+N : thanh niên	1
+N : thuế	1
+N : thuốc thang	1
+N : thư	1
+N : thư ký	1
+N : thời điểm	1
+N : tiền	1
+N : trai	1
+N : trước	1
+N : tuổi	2
+N : tài sản	1
+N : tâm trạng	2
+N : tên	3
+N : tòa	13
+N : tòa án	2
+N : vai trò	1
+N : việc	1
+N : vùng	1
+N : vườn	4
+N : vợ chồng	1
+N : vụ	1
+N : vụ việc	1
+N : xe	1
+N : án	1
+N : điều	12
+N : đất	12
+NP : *E*	7
+NP : *T*	6
+Nc : Bà	1
+Nc : bà	3
+Nc : bọc	1
+Nc : chiếc	1
+Nc : con	2
+Nc : cái	4
+Nc : cây	1
+Nc : căn	2
+Nc : giọt	1
+Nc : hạt	4
+Nc : hột	1
+Nc : loại	1
+Nc : lá	1
+Nc : mảnh	1
+Nc : mẩu	1
+Nc : người	3
+Nc : niềm	1
+Nc : sự	1
+Nc : thửa	1
+Nc : đứa	1
+Np : Kiên Giang	1
+Np : Long Thành	1
+Np : Mừng	1
+Np : Nguyễn Thị Ngại	1
+Np : Nguyễn Thị Thửa	1
+Np : Nguyện	2
+Np : Sang	1
+Np : Thửa	2
+Np : Tuổi Trẻ	1
+Np : Tây Ninh	1
+Np : Vui	1
+Nu : mẫu	2
+P : Cả	2
+P : Nó	1
+P : Tôi	3
+P : Vậy	1
+P : ai	5
+P : bao giờ	1
+P : bao lâu	1
+P : chúng tôi	1
+P : gì	1
+P : họ	1
+P : mình	2
+P : nào	3
+P : này	2
+P : nó	4
+P : nấy	1
+P : sao	1
+P : thế	1
+P : thế nào	1
+P : tôi	14
+P : tự	2
+P : vậy	1
+P : đâu	1
+R : Càng	1
+R : Cứ	1
+R : Không	1
+R : Lại	1
+R : cho	2
+R : chưa	1
+R : chẳng	3
+R : chỉ	5
+R : còn	6
+R : có thể	1
+R : cũng	8
+R : cả	4
+R : cứ	3
+R : gì	1
+R : hẳn	1
+R : không	17
+R : không thể	1
+R : khỏi	1
+R : lại	16
+R : lấy	2
+R : lục tục	1
+R : mãi	2
+R : nhất quyết	1
+R : nào	1
+R : nữa	2
+R : quả là	1
+R : ra	1
+R : sẽ	2
+R : thật	2
+R : toàn	1
+R : từng	4
+R : vào	1
+R : vẫn	7
+R : đang	1
+R : đi	1
+R : đã	13
+R : được	1
+R : đều	1
+RBKT : RBKT	1
+T : Chính	1
+T : Thế	1
+T : chính	2
+T : cả	1
+T : gì	1
+T : hề	1
+T : mà	1
+T : ngay	3
+T : nữa	4
+T : rồi	3
+T : thật	1
+T : thế	1
+T : được	1
+V : *E*	1
+V : Có	1
+V : Ra	2
+V : Trả lời	1
+V : Xin	1
+V : biết	4
+V : bám	1
+V : bán	1
+V : bảo	5
+V : bảo vệ	2
+V : bắt	1
+V : bị	4
+V : chia	1
+V : cho	2
+V : chơi	1
+V : chảy	1
+V : chặt	2
+V : chỉ	1
+V : chứng minh	1
+V : chứng nhận	2
+V : coi	1
+V : có	13
+V : cướp	1
+V : cắt	3
+V : dồn	1
+V : dự	1
+V : dự khán	1
+V : dựa	1
+V : giao	1
+V : giả	1
+V : giấu	1
+V : giữ	2
+V : gần	2
+V : gắn bó	1
+V : gặp	4
+V : gửi	1
+V : hiểu	2
+V : hoài thai	1
+V : hoãn	1
+V : hái	1
+V : hỏi	1
+V : hỏi han	1
+V : khai sinh	1
+V : khao khát	1
+V : kiện	1
+V : kết thúc	1
+V : kể	2
+V : lo	3
+V : là	8
+V : làm	4
+V : lên	1
+V : lấy	1
+V : lập	1
+V : lắc đầu	2
+V : lặp	2
+V : mong muốn	1
+V : mua	2
+V : muốn	5
+V : mất	1
+V : mặc	1
+V : nghe	1
+V : nghiên cứu	1
+V : ngăn  cản	1
+V : ngồi	1
+V : ngờ	1
+V : nhen nhóm	1
+V : nhóm	2
+V : nhắc	1
+V : nhặt	4
+V : nhờ	1
+V : nuôi	1
+V : nói	7
+V : phiêu bạt	1
+V : phá	1
+V : phát hiện	1
+V : phúc thẩm	1
+V : phải	5
+V : phụng dưỡng	1
+V : quơ	1
+V : ra	1
+V : sang	1
+V : sang  nhượng	1
+V : suy nghĩ	1
+V : sơ thẩm	1
+V : sống	4
+V : sở hữu	1
+V : sử dụng	6
+V : thay đổi	1
+V : theo	2
+V : thi hành	1
+V : thu hoạch	1
+V : thua	1
+V : thuê	1
+V : thuộc	1
+V : tháp tùng	2
+V : thông báo	1
+V : thấy	1
+V : thắng	1
+V : thể hiện	1
+V : thờ ơ	1
+V : thở dài	2
+V : thừa kế	1
+V : tranh chấp	2
+V : trả	2
+V : trả lời	1
+V : trồng	1
+V : trở thành	1
+V : tuyên	1
+V : tuyên xử	1
+V : tìm	1
+V : tạo lập	1
+V : tần tảo	1
+V : vào	3
+V : về	3
+V : xong	1
+V : xuống	3
+V : xác nhận	1
+V : xét xử	2
+V : xử	3
+V : yêu cầu	3
+V : yêu thương	1
+V : ám ảnh	1
+V : ăn	1
+V : đi	2
+V : đong	2
+V : đánh	1
+V : đóng	2
+V : đưa	3
+V : được	7
+V : đặt	1
+V : đếm	2
+V : đến	4
+V : đổ	1
+V : đổi	2
+V : ở	1
+X : mang nặng đẻ đau	1
+X : một mình	1
+X : như thế nào	1
+X : thế nào	1
+X : ăn đậu ở nhờ	1

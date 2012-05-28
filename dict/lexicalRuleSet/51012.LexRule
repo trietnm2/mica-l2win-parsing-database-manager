@@ -1,0 +1,631 @@
+! : !	5
+" : "	50
+, : ,	61
+- : -	4
+. : .	70
+... : ...	21
+/ : /	2
+: : :	9
+; : ;	1
+? : ?	7
+A : Chắc	1
+A : Cuối cùng	1
+A : bất ngờ	1
+A : chuyên nghiệp	2
+A : chính hiệu	2
+A : chính thức	1
+A : chủ yếu	1
+A : cáu	1
+A : duyên	1
+A : duyên dáng	1
+A : dư	1
+A : dưới	1
+A : dỏm	1
+A : dở	1
+A : dự bị	1
+A : gần	2
+A : hay	1
+A : hơn	3
+A : hư	1
+A : hẳn hoi	1
+A : khác	4
+A : khấm khá	1
+A : kịp	1
+A : kỹ	2
+A : làng nhàng	1
+A : lèo tèo	1
+A : lùi xùi	1
+A : mau	1
+A : may mắn	2
+A : mạnh	1
+A : mềm	2
+A : ngay	1
+A : nhanh	1
+A : nhiều	7
+A : như	1
+A : nổi tiếng	3
+A : oai	1
+A : riêng	1
+A : rõ	1
+A : rẻ	1
+A : sau	2
+A : suốt	1
+A : sồn sồn	1
+A : thiếu	2
+A : thong thả	1
+A : thoáng đãng	1
+A : thân yêu	1
+A : thẳng	1
+A : to	1
+A : to tướng	1
+A : to đùng	1
+A : tròm trèm	1
+A : trước	1
+A : trẻ	1
+A : trịnh trọng	1
+A : tùm lum	1
+A : tất nhiên	1
+A : tội nghiệp	1
+A : tự hào	1
+A : vui	2
+A : vô số	1
+A : vắng	1
+A : xong	1
+A : xui xẻo	1
+A : xịn	2
+A : yêu quí	1
+A : êm	1
+A : Đắt	1
+A : đông	1
+A : đúng	2
+A : đầy	1
+A : đắt	2
+A : đẹp	1
+A : độc quyền	1
+A : đủ	1
+C : Còn	1
+C : Mà	1
+C : Ngoài ra	1
+C : Rồi	1
+C : Thành ra	1
+C : Thế	1
+C : Và	1
+C : còn	4
+C : hay	3
+C : hoặc	1
+C : là	9
+C : mà	6
+C : nhân	1
+C : như	12
+C : nhưng	5
+C : nếu	3
+C : rằng	1
+C : rồi	2
+C : thì	9
+C : và	12
+C : với	1
+E : Bằng	1
+E : Bởi	1
+E : Sau	1
+E : Vào	1
+E : bằng	4
+E : cho	10
+E : của	17
+E : sau	1
+E : theo	2
+E : trong	5
+E : trên	10
+E : trước	1
+E : vào	3
+E : vì	2
+E : về	3
+E : với	6
+E : đến	1
+E : để	7
+E : Ở	1
+E : ở	16
+L : Các	1
+L : Mỗi	1
+L : các	10
+L : mấy	2
+L : những	3
+L : toàn	1
+L : vài	2
+LBKT : LBKT	7
+M : 1	1
+M : 1 . 000	2
+M : 1 . 200	1
+M : 1.725 . 000	1
+M : 10	1
+M : 144	1
+M : 150	1
+M : 19	1
+M : 2	3
+M : 2,95	1
+M : 3	4
+M : 3,4	1
+M : 4	1
+M : 40	1
+M : 500 . 000	1
+M : 75 . 000	1
+M : 98 . 000	1
+M : Hai	1
+M : Một	1
+M : bốn	2
+M : chục	1
+M : cặp	1
+M : hai	5
+M : mỗi	1
+M : một	13
+M : ngàn	1
+M : triệu	8
+M : đôi	2
+N : Anh	1
+N : Bóng đá	1
+N : Cô	1
+N : Cầu thủ	1
+N : Cửa hàng	2
+N : Em	3
+N : Giá cả	1
+N : Hàng họ	1
+N : Hóa đơn	1
+N : Hôm	1
+N : Hồi	1
+N : Khách  hàng	1
+N : Khách hàng	2
+N : Ngày	1
+N : Quán quân	1
+N : Quần soóc	1
+N : TP. HCM	1
+N : Trường	2
+N : Vai	1
+N : Vợt	1
+N : anh	4
+N : biểu trưng	1
+N : biểu tượng	2
+N : buổi	1
+N : bên	3
+N : bên cạnh	1
+N : bóng	6
+N : bóng chuyền	1
+N : bóng chày	1
+N : bóng rổ	5
+N : bóng đá	5
+N : bút bi	1
+N : bạn	5
+N : bộ	4
+N : ca	1
+N : chuyện	6
+N : chân dung	1
+N : chầu	1
+N : chỗ	1
+N : chủ	2
+N : chừng	1
+N : chữ	1
+N : con trai	1
+N : cách	2
+N : cô	1
+N : công nghiệp	1
+N : công tử	1
+N : công viên	2
+N : cầu lông	2
+N : cầu thủ	2
+N : cớ	1
+N : cỡ	2
+N : cửa hàng	8
+N : da	1
+N : dân	3
+N : dân chơi	1
+N : dê	1
+N : dạng	1
+N : dịp	1
+N : em	3
+N : giày	12
+N : giá	11
+N : giá cả	1
+N : giải	1
+N : giờ	1
+N : hiện nay	1
+N : hiệu	2
+N : hàng	6
+N : hàng hiệu	7
+N : hàng loạt	1
+N : hãng	2
+N : hình	1
+N : hóa đơn	1
+N : hôm	1
+N : hôm nay	1
+N : hông	1
+N : hồi	1
+N : khi	1
+N : khoản	1
+N : khách	3
+N : khách hàng	3
+N : kiểu	2
+N : loại	1
+N : lòng	1
+N : lúc	1
+N : lúm đồng tiền	1
+N : lưng	1
+N : lần	4
+N : lẩu	1
+N : lẽ	1
+N : lối	1
+N : lớp	1
+N : lời	2
+N : máy bay	1
+N : môn	1
+N : mũi	1
+N : ngày	2
+N : người	1
+N : người ta	1
+N : nhau	1
+N : nhân viên	4
+N : nhãn hiệu	2
+N : năm	1
+N : nữ	2
+N : phía	1
+N : phần	1
+N : quanh	1
+N : quần đùi	1
+N : quầy	3
+N : sau	1
+N : siêu thị	4
+N : sáng	1
+N : sân	4
+N : sếp	1
+N : số	1
+N : sự	1
+N : tay	4
+N : tay cầm	1
+N : tennis	2
+N : thiên hạ	1
+N : thành viên	1
+N : tháng	1
+N : thể thao	10
+N : thị trường	1
+N : thứ	2
+N : tiền	6
+N : trang phục	8
+N : trò	1
+N : tuyển thủ	1
+N : tên	3
+N : tên tuổi	1
+N : tí	1
+N : túi	1
+N : túi xách	2
+N : tạp hóa	1
+N : vua	2
+N : vàng	1
+N : vé	1
+N : văn hóa	1
+N : vợ chồng	1
+N : vợt	9
+N : xe	1
+N : Ông	1
+N : á quân	1
+N : áo	8
+N : áo quần	1
+N : áo thun	1
+N : ông	3
+N : điện thoại	1
+N : đôi	2
+N : đường	11
+N : đường ống	1
+N : đại lý	4
+N : đầu	1
+N : đề	1
+N : đồ	1
+N : đồng hồ	2
+N : độ	2
+N : đội	1
+N : đội tuyển	2
+NP : *E*	25
+NP : *T*	5
+Nb : tennis	6
+Nc : Chiếc	1
+Nc : Cô	1
+Nc : Quầy	1
+Nc : anh	1
+Nc : bọn	1
+Nc : bộ	1
+Nc : chiếc	3
+Nc : cái	9
+Nc : cây	4
+Nc : cô	4
+Nc : khu	1
+Nc : loại	3
+Nc : người	1
+Nc : nhóm	1
+Nc : nụ	2
+Nc : quả	1
+Nc : trái	1
+Nc : tấm	1
+Nc : tầng	1
+Nc : tờ	1
+Nc : vị	1
+Nc : ông	3
+Nc : đoạn	1
+Nc : đôi	1
+Nc : đứa	1
+Np : Adidas	5
+Np : Allen Iverson	1
+Np : Anh	1
+Np : Arsenal	1
+Np : Babolat	3
+Np : Babolat VS Nanotube Power	1
+Np : Beckham	2
+Np : Bến Tre	1
+Np : Carton	1
+Np : Diamond	2
+Np : Diamond Plaza	1
+Np : Dunlop	1
+Np : Fila	1
+Np : Hai Bà Trưng	5
+Np : Huyền Trân Công Chúa	1
+Np : Lê Duẩn	1
+Np : Lê Lợi	2
+Np : M . U	1
+Np : Michel Owen	1
+Np : Mitre	1
+Np : Mỹ	2
+Np : Ncode	1
+Np : Nguyễn Thị Minh Khai	1
+Np : Nguyễn Trãi	1
+Np : Nike	10
+Np : Nokia	1
+Np : Phạm Hồng Thái	1
+Np : Prince	1
+Np : Puma	2
+Np : Real Madrid	1
+Np : Reebok	1
+Np : Rolex	1
+Np : SEA Games	1
+Np : Spalding	2
+Np : Speedo	2
+Np : Sports World	1
+Np : Supper Bowl	1
+Np : Sài Gòn	3
+Np : Tao Đàn	2
+Np : Thu Sports	1
+Np : Thành Long	1
+Np : Trang Sports	1
+Np : Ultra	1
+Np : Việt kiều	1
+Np : Vui cùng Hugo	1
+Np : W	1
+Np : Wilson	3
+Np : Yonex	1
+Np : model	1
+Np : Úc	1
+Np : Động Lực	1
+Nu : USD	1
+Nu : euro	1
+Nu : tiếng	1
+Nu : đôla	1
+Nu : đồng	8
+Ny : Kh.	6
+Ny : M . U	3
+Ny : NTMK	1
+Ny : Ph	1
+Ny : Ph.	3
+Ny : T.	2
+Ny : Th.	1
+Ny : U	1
+Ny : USD	1
+Ny : VIP	1
+Ny : VN	7
+Ny : VĐV	1
+Ny : g	1
+P : Họ	1
+P : Tôi	2
+P : bây giờ	1
+P : chúng	1
+P : cả	1
+P : gì	1
+P : họ	4
+P : kia	1
+P : mình	1
+P : nay	1
+P : nào	7
+P : này	7
+P : ta	3
+P : thế	1
+P : tôi	4
+P : Đó	1
+P : Đấy	1
+P : đây	2
+P : đó	5
+P : đấy	1
+P : ấy	2
+R : Chỉ	2
+R : Có	1
+R : Có thể	1
+R : Cũng	2
+R : Không	1
+R : Lại	1
+R : chưa	1
+R : chẳng	4
+R : chỉ	5
+R : còn	1
+R : có	2
+R : có thể	1
+R : cũng	7
+R : cứ	2
+R : cực kỳ	1
+R : hoài	1
+R : hãy	1
+R : hơn	3
+R : hết	1
+R : khá	4
+R : không	7
+R : lên	1
+R : lại	6
+R : lắm	2
+R : mới	3
+R : ngay	3
+R : nguyên	1
+R : nhất	2
+R : nữa	1
+R : quá	4
+R : ra	2
+R : rất	1
+R : rồi	2
+R : thường	1
+R : toàn	3
+R : từng	1
+R : vẫn	1
+R : về	2
+R : xuống	1
+R : đang	2
+R : đã	5
+R : được	1
+R : đều	2
+R : đừng	1
+RBKT : RBKT	7
+T : Riêng	1
+T : cho	1
+T : chính	1
+T : cái	1
+T : có	1
+T : cả	1
+T : hề	1
+T : ngay	1
+T : rồi	1
+T : thôi	2
+T : vậy	1
+T : à	3
+T : đấy	1
+T : đến	2
+T : ạ	1
+V : *E*	4
+V : Bán	2
+V : Bảo đảm	1
+V : Chơi	1
+V : Chắc	1
+V : Nghe	1
+V : Vào	1
+V : biết	3
+V : bàn tán	1
+V : bán	9
+V : bán chạy	1
+V : bơi	1
+V : bơi lội	1
+V : bước	1
+V : bật	1
+V : bị	1
+V : chuyên	1
+V : chùi	1
+V : chơi	3
+V : chạy	5
+V : chặn	1
+V : chỉ	1
+V : chọn	1
+V : chờ	1
+V : chửi	1
+V : còn	1
+V : có	19
+V : cưng	1
+V : cười	3
+V : cười duyên	1
+V : cần	2
+V : dành	1
+V : dám	1
+V : dự	1
+V : giải thích	1
+V : gãy	2
+V : góp	1
+V : gấp	1
+V : hùn	1
+V : hạch	1
+V : hết	4
+V : học	1
+V : hỏi	2
+V : in	2
+V : kiếm	1
+V : kèm	1
+V : kể	3
+V : lau	1
+V : là	14
+V : làm quà	1
+V : làm việc	1
+V : lấy	1
+V : lắc đầu	1
+V : lộn	1
+V : mang	3
+V : may	1
+V : mua	15
+V : mua sắm	1
+V : muốn	2
+V : mách	1
+V : mạ	1
+V : nghe	1
+V : ngó nghiêng	1
+V : ngồi	2
+V : ngừng	1
+V : nhìn	2
+V : nhập	1
+V : nhậu	1
+V : nên	1
+V : nói	2
+V : phát	1
+V : phân	1
+V : phải	3
+V : quay	1
+V : ra	2
+V : rửa	1
+V : sang	2
+V : săn	1
+V : sắm	2
+V : sở hữu	1
+V : sợ	1
+V : thanh toán	1
+V : thi đấu	1
+V : thua	2
+V : thua kém	1
+V : thuộc	2
+V : thèm	1
+V : thích	2
+V : thấy	4
+V : tranh thủ	2
+V : trao đổi	1
+V : trò chuyện	1
+V : trúng	1
+V : trả	1
+V : trả lời	1
+V : trở tay	1
+V : tính	2
+V : tưởng	1
+V : tập trung	1
+V : tặng	1
+V : tốn	1
+V : tốn kém	1
+V : tổ chức	1
+V : tới	1
+V : tức	1
+V : viết	1
+V : vào	3
+V : vô	1
+V : về	1
+V : xem	2
+V : xin	1
+V : xài	2
+V : yêu	1
+V : yêu cầu	1
+V : ăn	1
+V : ăn mặc	1
+V : đi	3
+V : đào	1
+V : đá	4
+V : đánh	1
+V : đùa	1
+V : được	6
+V : đập	2
+V : đặt	1
+V : đến	6
+V : đồn	1
+X : Xí	1
+X : có lẽ	1
+X : tạp pí lù	1
+X : vừa qua	1
+X : vừa rồi	1

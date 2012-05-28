@@ -1,0 +1,595 @@
+" : "	26
+" : '	1
+'' : ''	1
+, : ,	63
+- : -	7
+. : .	55
+... : ...	7
+: : :	9
+? : ?	2
+A : Khác	1
+A : Thiếu	1
+A : bất chợt	1
+A : bức xúc	1
+A : cay đắng	2
+A : chính đáng	1
+A : chậm	1
+A : câm lặng	1
+A : công bằng	1
+A : duy  nhất	1
+A : dư	1
+A : dở dang	1
+A : giỏi	1
+A : gần	1
+A : khác	3
+A : khó	1
+A : khắc khoải	1
+A : khổng lồ	1
+A : kỳ lạ	1
+A : liền	1
+A : lạ	1
+A : lẫy lừng	1
+A : mồn một	1
+A : mới	2
+A : như	2
+A : nhỏ	2
+A : nặng nề	2
+A : oan	1
+A : phải	1
+A : phụ	1
+A : quá	1
+A : rành rành	1
+A : rát	1
+A : rõ	1
+A : rưỡi	1
+A : rầm rộ	1
+A : rộng mở	1
+A : sai	1
+A : sạch	1
+A : thanh thản	2
+A : thiếu	6
+A : thành công	1
+A : thất bại	1
+A : trái phép	1
+A : trơ	1
+A : trước	1
+A : trần	1
+A : trắng tay	1
+A : trống	2
+A : tạm	1
+A : tối cao	3
+A : vui	1
+A : xã hội chủ nghĩa	1
+A : ác nghiệt	1
+A : đúng	2
+A : đột nhiên	1
+C : Dù cho	1
+C : Nhưng	4
+C : còn	1
+C : dù	1
+C : dù cho	1
+C : là	5
+C : mà	3
+C : như	3
+C : nhưng	5
+C : nên	2
+C : rằng	2
+C : rồi	1
+C : thì	3
+C : thế là	1
+C : và	15
+E : Trong	2
+E : Trên	1
+E : bằng	1
+E : cho	8
+E : của	19
+E : sau	5
+E : theo	1
+E : trong	6
+E : trên	2
+E : tại	1
+E : từ	3
+E : vào	3
+E : vì	4
+E : về	1
+E : với	2
+E : đến	3
+E : để	7
+E : ở	1
+L : Các	1
+L : các	1
+L : mấy	4
+L : mọi	2
+L : những	11
+L : toàn bộ	1
+LBKT : LBKT	3
+M : 12	1
+M : 15	1
+M : 16	1
+M : 1988	1
+M : 1999	1
+M : 2	1
+M : 2000	1
+M : 29 . 000	1
+M : 388	1
+M : 4	1
+M : 6	2
+M : 60	1
+M : 7 , 9	1
+M : 887	2
+M : Bốn	1
+M : Mười	1
+M : Mỗi	1
+M : Tám	1
+M : chín	1
+M : chục	1
+M : hai	2
+M : lăm	1
+M : mỗi	1
+M : một	9
+M : năm	2
+M : nửa	1
+M : tám	1
+M : tỉ	2
+N : Ao	1
+N : Bà	1
+N : Cuộc đời	1
+N : Cá tai tượng	1
+N : Công an	1
+N : Công việc	1
+N : Dân	1
+N : Giao thông	3
+N : Hội	1
+N : Hội đồng	1
+N : Khi	1
+N : Khoản	1
+N : Liên hiệp	1
+N : Lời	1
+N : Mục tiêu	1
+N : Nghị quyết	1
+N : Ngày	2
+N : Nhà nước	4
+N : Phòng	5
+N : Quyết định	1
+N : Sự việc	1
+N : TP	1
+N : Tháng	1
+N : Thỉnh thoảng	1
+N : Trên	1
+N : Trọng tài	1
+N : Tòa án	3
+N : UBND	1
+N : VKSND	2
+N : Viện Kiểm sát	1
+N : ao	2
+N : bà	1
+N : bàn ghế	1
+N : bác sĩ	1
+N : bèo	1
+N : bước	1
+N : bạn bè	1
+N : bửu bối	1
+N : cha	1
+N : chuyện	1
+N : chợ	2
+N : chủ	2
+N : chủ tịch	1
+N : chứng từ	3
+N : chừng	1
+N : con	5
+N : cuối	1
+N : cuối cùng	2
+N : cá	4
+N : cá trê phi	1
+N : câu chuyện	2
+N : công an	1
+N : công lý	1
+N : công trình	3
+N : cú	1
+N : cơ hội	1
+N : cơ quan	1
+N : cảnh	1
+N : cọc	1
+N : cố	1
+N : danh dự	2
+N : dân	4
+N : dân sự	1
+N : dãy	1
+N : dưới	1
+N : dừa	1
+N : ghế	1
+N : gia đình	1
+N : giường	1
+N : giấy	1
+N : giấy tờ	1
+N : giữa	2
+N : gương mặt	1
+N : gạch	1
+N : gạo	1
+N : hành trình	1
+N : hồ sơ	2
+N : hồi âm	1
+N : hột	1
+N : hợp đồng	5
+N : khi	3
+N : kinh tế	6
+N : kỹ sư	1
+N : lá	1
+N : lãi	2
+N : lòng	2
+N : lúc	3
+N : lưới	2
+N : lần	1
+N : lệnh	1
+N : lộ	1
+N : lộ phí	1
+N : lời	3
+N : mình	1
+N : món	1
+N : mất mát	1
+N : mặc cảm	1
+N : mặt	2
+N : mẹ	1
+N : nay	1
+N : nguyên do	1
+N : ngày	6
+N : người	5
+N : nhà	11
+N : nhân dân	3
+N : năm	3
+N : nước mắt	1
+N : nền	1
+N : nợ	13
+N : nụ	2
+N : nửa	1
+N : phiên	1
+N : phó chủ tịch	1
+N : phổ thông	1
+N : phụ nữ	2
+N : quyết định	2
+N : ranh giới	2
+N : rau quả	2
+N : ruột	2
+N : rãnh	1
+N : sơ	1
+N : số	1
+N : sức	1
+N : sức lực	2
+N : sự việc	1
+N : tay	3
+N : thiệt hại	2
+N : tháng	1
+N : thói quen	1
+N : thư	3
+N : thương gia	2
+N : thẩm quyền	1
+N : thị xã	7
+N : thời	1
+N : thời điểm	1
+N : thủ tục	1
+N : thứ	1
+N : tin	3
+N : tin buồn	1
+N : tinh thần	1
+N : tiêu chuẩn	1
+N : tiếng	1
+N : tiền	4
+N : tiền lẻ	1
+N : toàn bộ	1
+N : trường	1
+N : trại	2
+N : trọng tài	1
+N : tuần	1
+N : tuổi	1
+N : tài liệu	1
+N : tài sản	3
+N : tín dụng	1
+N : tín nhiệm	2
+N : tòa	2
+N : tòa án	1
+N : tầm	1
+N : tập	1
+N : tỉnh	13
+N : tổ hợp	4
+N : tội	1
+N : tủ	1
+N : việc	3
+N : văn bản	1
+N : vườn	1
+N : vườn tược	1
+N : vẻ	2
+N : vốn	1
+N : vợ	4
+N : vợ chồng	1
+N : xã	2
+N : xã hội chủ nghĩa	1
+N : yêu cầu	1
+N : Ông	8
+N : án	1
+N : ánh sáng	1
+N : ông	14
+N : Đơn	1
+N : điệu bộ	1
+N : đoàn	1
+N : đám	1
+N : đè nén	1
+N : đơn	4
+N : đơn vị	1
+N : đường	3
+N : đường hầm	1
+N : đất	2
+N : đất đai	1
+N : đồ	1
+N : đồ đạc	2
+N : đội	1
+N : đời	2
+N : đứa	2
+N : ước mơ	1
+N : Ủy ban	1
+NP : *E*	9
+NP : *T*	3
+Nc : Bà	1
+Nc : bà	2
+Nc : cái	2
+Nc : căn	3
+Nc : lá	1
+Nc : mớ	1
+Nc : người	1
+Nc : nụ	1
+Nc : sự	3
+Nc : trái	1
+Nc : ông	16
+Np : Bến Tre	16
+Np : Giao thông	2
+Np : HCM	1
+Np : Hà Nội	1
+Np : Hồng	13
+Np : Hồng Hà	2
+Np : Lưu Việt Hồng	5
+Np : Nguyễn Thị Định	1
+Np : Nhơn Thạnh	2
+Np : VN	1
+Np : Định	2
+Nu : m2	1
+Nu : năm	1
+Nu : tháng	2
+Nu : đồng	2
+Ny : VKSND	7
+P : Bao nhiêu	1
+P : Bây giờ	1
+P : Nó	1
+P : Thế	1
+P : Tôi	2
+P : ai	1
+P : chúng tôi	1
+P : cả	1
+P : giờ đây	1
+P : gì	1
+P : mình	7
+P : nay	1
+P : người ta	1
+P : này	3
+P : thế	2
+P : thế nào	1
+P : tôi	5
+P : vậy	3
+P : ông	1
+P : Đó	2
+P : đâu	1
+P : đây	1
+P : đó	2
+R : Còn	1
+R : Không	1
+R : bỗng chốc	1
+R : bỗng nhiên	1
+R : chưa	1
+R : chẳng	1
+R : chỉ	7
+R : còn	1
+R : cũng	7
+R : hãy	2
+R : không	11
+R : lên	4
+R : lại	15
+R : lắm	1
+R : ngay	1
+R : nhất	2
+R : nữa	1
+R : qua	1
+R : ra	3
+R : rồi	1
+R : sẽ	2
+R : tiếp	1
+R : từng	4
+R : vào	1
+R : vẫn	3
+R : xuống	1
+R : đang	1
+R : đã	12
+R : được	9
+R : đến	2
+R : đều	3
+RBKT : RBKT	3
+T : chính	1
+T : lấy	1
+T : ngay	1
+T : thì	1
+T : thôi	2
+T : đến	1
+V : Có	1
+V : Là	1
+V : Làm	1
+V : Lật	1
+V : Mong	1
+V : Nói	1
+V : biến	1
+V : biết	2
+V : bàn giao	2
+V : báo	1
+V : bảo	4
+V : bắt	4
+V : bị	8
+V : bỏ	2
+V : bồi thường	4
+V : chiếm đoạt	2
+V : cho	1
+V : chua xót	1
+V : chuyển	1
+V : chê cười	1
+V : chỉ	2
+V : chỉ đạo	1
+V : chứng minh	2
+V : cách	1
+V : còn	8
+V : có	5
+V : cười	4
+V : cưỡng chế	1
+V : cất giữ	1
+V : cần	1
+V : cắt	1
+V : dồn	1
+V : giam	4
+V : giao	1
+V : giải quyết	5
+V : giở	1
+V : giữ	1
+V : gìn giữ	1
+V : gặp	2
+V : gồm	1
+V : gửi	1
+V : hoàn thành	1
+V : hoạt động	2
+V : hoảng loạn	1
+V : huy động	1
+V : hết	2
+V : học	2
+V : hỏi thăm	1
+V : hồi âm	1
+V : khiếu nại	1
+V : khuyên	1
+V : khuân vác	1
+V : khám xét	1
+V : kháng nghị	1
+V : khóc	1
+V : khôi phục	1
+V : khởi kiện	1
+V : kiện	1
+V : kéo	2
+V : kêu oan	1
+V : ký	2
+V : lao xao	1
+V : là	6
+V : làm	7
+V : làm thuê	2
+V : làm ăn	2
+V : lên	1
+V : lạm dụng	2
+V : lấy	1
+V : lần lượt	1
+V : lập	1
+V : lềnh bềnh	1
+V : lừa đảo	1
+V : mất	1
+V : nghe	1
+V : nghiên cứu	1
+V : nghiệm thu	1
+V : nghĩ	2
+V : nghĩ lại	1
+V : ngồi	1
+V : nhìn	1
+V : nhận	3
+V : nói	3
+V : nộp	1
+V : nở	1
+V : nợ	1
+V : phá sản	2
+V : phát mãi	2
+V : phúc thẩm	1
+V : phạm tội	2
+V : phải	6
+V : phối hợp	1
+V : phục hồi	1
+V : quyết định	1
+V : quản lý	1
+V : ra	4
+V : sáng tỏ	1
+V : sơ thẩm	1
+V : sốc	1
+V : sử dụng	1
+V : tan rã	1
+V : tan tành	1
+V : thanh thản	1
+V : thanh toán	2
+V : thay mặt	1
+V : theo dõi	1
+V : thi công	1
+V : thi hành	3
+V : thu	2
+V : thu hồi	1
+V : thu thập	1
+V : thành	2
+V : thêm	1
+V : thông báo	1
+V : thăm	1
+V : thấy	5
+V : thắt	1
+V : thở dài	1
+V : tin	2
+V : tiếp tục	2
+V : trao	1
+V : trình bày	1
+V : trôi	1
+V : trả	3
+V : trị giá	1
+V : trở lại	1
+V : trở thành	2
+V : trừ	1
+V : tuyên	2
+V : tát	1
+V : tích cóp	1
+V : tín dụng	1
+V : tính	1
+V : tạm	1
+V : tống giam	1
+V : tổ chức	1
+V : tới	1
+V : vay	1
+V : viết	1
+V : vào	1
+V : vận chuyển	1
+V : vớt	1
+V : xem	1
+V : xin lỗi	4
+V : xong	1
+V : xuất hiện	1
+V : xây dựng	2
+V : xây lắp	1
+V : xét xử	1
+V : xẻ	2
+V : xếp	1
+V : xử	1
+V : yêu cầu	3
+V : Đi	1
+V : đau	1
+V : đem	1
+V : đi	2
+V : đào	1
+V : đâm đơn	1
+V : đòi	6
+V : đưa	1
+V : được	6
+V : đạt	1
+V : đảm bảo	1
+V : đầu tư	3
+V : đến	4
+V : đề nghị	1
+V : để	1
+V : đồng ý	1
+V : đổi	1
+V : đợi	1
+V : đứng	2
+V : ổn thỏa	1
+V : ức	1
+X : Tại sao	1
+X : thật ra	1
+X : xuôi chèo mát mái	1

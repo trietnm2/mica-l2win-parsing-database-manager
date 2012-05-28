@@ -1,0 +1,559 @@
+! : !	4
+" : "	20
+, : ,	66
+- : -	21
+. : .	40
+... : ...	2
+: : :	8
+; : :	1
+; : ;	1
+? : ?	2
+A : Dọc	1
+A : Rõ ràng	1
+A : bí mật	1
+A : cay đắng	1
+A : chính	1
+A : chính nghĩa	1
+A : chót	1
+A : chặt	2
+A : cộng sản	2
+A : dày đặc	1
+A : dã man	1
+A : dê	1
+A : dồi dào	1
+A : khẩn trương	2
+A : khắp	1
+A : lo lắng	1
+A : lạnh lùng	1
+A : lầm lũi	1
+A : lớn	2
+A : mập	1
+A : ngoan cố	1
+A : ngắn	1
+A : nhan nhản	1
+A : nhiều	4
+A : phi pháp	1
+A : quân phiệt	1
+A : quýnh quáng	1
+A : rõ ràng	1
+A : rền	1
+A : suốt	2
+A : sẵn sàng	1
+A : thân	1
+A : thấp	1
+A : thẳng	1
+A : trắng	1
+A : trẻ	1
+A : tự giác	1
+A : vang	1
+A : Đáng kể	1
+A : đáng kể	1
+A : đông đảo	1
+A : đúng	1
+A : đương kim	1
+A : đầm đìa	1
+A : đỏ	1
+A : độc tài	6
+A : đủ	1
+C : Nhưng	1
+C : Nếu	1
+C : Song	1
+C : Và	1
+C : dù	1
+C : là	1
+C : mà	2
+C : như	2
+C : nhưng	2
+C : nên	2
+C : nếu	2
+C : rồi	1
+C : thì	4
+C : và	19
+C : với	1
+E : Bởi	1
+E : Dưới	1
+E : Trước	1
+E : Vào	1
+E : Với	1
+E : bằng	3
+E : cho	7
+E : của	20
+E : do	2
+E : dưới	2
+E : nhằm	1
+E : qua	1
+E : sau	3
+E : theo	2
+E : trong	11
+E : trên	1
+E : trước	2
+E : tại	1
+E : tới	3
+E : từ	4
+E : vào	5
+E : vì	1
+E : về	8
+E : với	1
+E : để	1
+E : đối với	1
+E : ở	6
+I : à	1
+L : Các	1
+L : Một số	1
+L : Những	2
+L : các	11
+L : mọi	2
+L : một số	2
+L : những	12
+LBKR : LBKT	1
+LBKT : LBKT	7
+M : 04	1
+M : 1	1
+M : 10	1
+M : 14	1
+M : 16	3
+M : 1955	1
+M : 1963	1
+M : 1964	4
+M : 1968	2
+M : 1970	1
+M : 1975	1
+M : 1985	1
+M : 20	2
+M : 21	2
+M : 25	2
+M : 4	2
+M : 5	2
+M : 55	1
+M : 8	6
+M : Ba	1
+M : Một	1
+M : cặp	1
+M : hai	1
+M : một	15
+M : ngàn	2
+M : nửa	1
+M : trăm ngàn	2
+N : Anh chị em	1
+N : Cổng	1
+N : Cộng sản	1
+N : H phản ứng	1
+N : Hiến chương	4
+N : Ký sự	1
+N : Lúc	1
+N : Ngày	3
+N : Nét	1
+N : Năm	1
+N : Sinh viên	1
+N : Sáng	2
+N : Trận	1
+N : Tướng	1
+N : Tết	1
+N : anh chị	1
+N : biến chuyển	1
+N : biệt danh	1
+N : bài	1
+N : báo chí	4
+N : bùng binh	2
+N : bộ trưởng	1
+N : chính phủ	1
+N : chính trị	2
+N : chương trình	1
+N : chập	1
+N : chế độ	4
+N : chợ	2
+N : chủ tịch	4
+N : con em	1
+N : cách mạng	3
+N : cán bộ	2
+N : cánh	1
+N : cánh tay	1
+N : câu	1
+N : cô	1
+N : công tác	1
+N : cơ quan	2
+N : cảnh sát	1
+N : cấp	1
+N : cằm	1
+N : cổng	1
+N : cộng	2
+N : cộng hòa	1
+N : cờ	1
+N : cửa	1
+N : dinh	3
+N : dân chủ	2
+N : dân tộc	1
+N : dây chuyền	1
+N : giải phóng	1
+N : giới	2
+N : gái	1
+N : góc	1
+N : hiến chương	1
+N : hành động	1
+N : hòa bình	1
+N : hôm	1
+N : học sinh	3
+N : học trò	2
+N : học đường	1
+N : hội nghị	1
+N : khi	1
+N : khách sạn	1
+N : kiến nghị	1
+N : kiểu	1
+N : kỳ	1
+N : lính	4
+N : lưng	1
+N : lễ	1
+N : lệnh	1
+N : lời	1
+N : lời nói	1
+N : lửa	1
+N : lực lượng	3
+N : miền	3
+N : mui	1
+N : mắt	3
+N : mặt	2
+N : mồ hôi	1
+N : nan hoa	1
+N : nay	1
+N : ngoại bang	1
+N : nguy cơ	1
+N : nguyên thủ	1
+N : ngày	3
+N : ngày nay	1
+N : ngòi	1
+N : người	14
+N : ngọn	1
+N : nhà	1
+N : nhận thức	1
+N : nô lệ	1
+N : năm	3
+N : năng lượng	1
+N : nơi	1
+N : nữ sinh	1
+N : phong trào	2
+N : phút	1
+N : phản ứng	2
+N : phụ nữ	1
+N : phủ	2
+N : qui luật	1
+N : quyền	1
+N : quyền lực	1
+N : quá trình	1
+N : quán	1
+N : quân	1
+N : quân đội	2
+N : quê hương	1
+N : quảng trường	1
+N : quần chúng	1
+N : quốc gia	1
+N : quốc trưởng	1
+N : râu	2
+N : rừng	1
+N : sinh hoạt	1
+N : sinh viên	3
+N : sắc luật	1
+N : sắt	1
+N : số	3
+N : sức ép	1
+N : tay	3
+N : tay sai	1
+N : tham vọng	1
+N : thanh niên	6
+N : thông tin	1
+N : thất bại	1
+N : thế hệ	1
+N : thời cơ	1
+N : thời kỳ	1
+N : thủ tướng	2
+N : tiếng	2
+N : tri thức	1
+N : trung	1
+N : trung tướng	2
+N : trí thức	1
+N : trường	1
+N : trẻ	1
+N : trời	1
+N : trụ sở	1
+N : tuổi	1
+N : tác giả	1
+N : tình trạng	2
+N : tòa	1
+N : tư cách	1
+N : tư liệu	1
+N : tướng	3
+N : tầng lớp	1
+N : việc	1
+N : váy	1
+N : vòng	2
+N : vòng vây	1
+N : văn hóa	1
+N : văn nghệ	1
+N : vấn đề	1
+N : vẻ	1
+N : xe	1
+N : xã hội	4
+N : Áo	1
+N : áp lực	1
+N : âm mưu	1
+N : ông	4
+N : Đại diện	1
+N : Đại lộ	1
+N : điều	1
+N : điểm	1
+N : đoàn thể	2
+N : đoàn viên	1
+N : đô thị	2
+N : đường	6
+N : đại diện	2
+N : đại học	1
+N : đảng phái	1
+N : đảng viên	1
+N : đất	1
+N : đất nước	2
+N : địa phương	1
+N : đồng bào	2
+N : đồng hồ	1
+N : độc tài	1
+N : đời	2
+N : ảnh hưởng	1
+NP : *E*	9
+Nb : bar	1
+Nb : micro	2
+Nb : mirco	1
+Nc : bản	2
+Nc : chòm	1
+Nc : cuốn	1
+Nc : cuộc	2
+Nc : cái	1
+Nc : giới	2
+Nc : người	2
+Nc : sự	3
+Nc : ông	1
+Nc : Đoàn	2
+Nc : đoàn	5
+Np : Bến Thành	2
+Np : Diên Hồng	1
+Np : Diệm	1
+Np : Diệm Nhu	1
+Np : Duy Tân	1
+Np : Dương Văn Minh	1
+Np : Gia Định	1
+Np : Hiến chương	1
+Np : Hàng Chức Nguyên	1
+Np : Hồ Chí Minh	1
+Np : Hồng	2
+Np : Khánh	2
+Np : Lê Duẩn	1
+Np : Minh	1
+Np : Mậu Thân	1
+Np : Mỹ	8
+Np : Nam	3
+Np : Nghiêm Xuân Hồng	2
+Np : Nguyễn Hữu Đức	1
+Np : Nguyễn Khánh	16
+Np : Nguyễn Nguyên	1
+Np : Nguyễn Tất Thành	1
+Np : Ngô Đình Diệm	2
+Np : Phúc Tiến	1
+Np : Phạm Ngọc Thạch	1
+Np : Quách Thị Trang	2
+Np : Sài Gòn	8
+Np : Thành đoàn	2
+Np : Thành ủy	1
+Np : Thống Nhất	1
+Np : Trui rèn	1
+Np : Trần Hưng Đạo	1
+Np : Trịnh Minh Thế	1
+Np : Tổng hội	1
+Np : Tự Do	1
+Np : Việt Nam	1
+Np : Văn Nghệ	1
+Np : Vũng Tàu	7
+Np : Đoàn	1
+Np : Đảng	1
+Np : Đồng Khởi	1
+Nu : g	2
+Nu : tiếng	1
+Ny : CPS	1
+Ny : Mỹ	1
+Ny : NXB	1
+Ny : Q .	1
+Ny : SVHS	10
+Ny : TNCS	1
+P : Tôi	1
+P : Từng	1
+P : chúng tôi	2
+P : cả	1
+P : họ	1
+P : mình	1
+P : nay	2
+P : này	4
+P : sao	1
+P : ta	1
+P : tôi	2
+P : đây	1
+P : đó	6
+P : ấy	1
+R : Không thể	1
+R : Lập tức	1
+R : chưa	1
+R : còn	1
+R : có	2
+R : cũng	3
+R : cứ việc	1
+R : hàng	3
+R : không	7
+R : lại	2
+R : lập tức	1
+R : ra	1
+R : thường	2
+R : toàn	1
+R : tức khắc	1
+R : vừa	3
+R : xuống	1
+R : đang	3
+R : đi	2
+R : đã	12
+R : được	2
+R : đầy	1
+RBKT : RBKT	7
+RBKT : RKBT	1
+S : phản	1
+T : Cả	1
+T : chính	1
+T : cả	2
+V : *E*	1
+V : Ghi chép	1
+V : Vô	3
+V : Xé	1
+V : bao vây	1
+V : biết	1
+V : biểu tình	6
+V : buộc	1
+V : báo hiệu	1
+V : bãi bỏ	1
+V : bước	1
+V : bị	4
+V : chiếm đóng	1
+V : cho	2
+V : chuyển	1
+V : châm	1
+V : chạy	2
+V : chất vấn	1
+V : chịu	1
+V : chối bỏ	1
+V : chống	5
+V : cách	1
+V : còn	1
+V : có	4
+V : cầm	2
+V : diễu hành	1
+V : dành	2
+V : giải phóng	1
+V : giật	1
+V : giới nghiêm	2
+V : giữ	1
+V : gác	1
+V : gây	2
+V : gồm	1
+V : hoạt động	4
+V : hô	1
+V : hạn định	1
+V : hủy bỏ	1
+V : kiểm duyệt	2
+V : kéo	1
+V : kết thúc	1
+V : kể	1
+V : la	1
+V : la ó	1
+V : là	5
+V : làm	2
+V : lãnh đạo	2
+V : lên	1
+V : lôi kéo	1
+V : lại	1
+V : lấy	2
+V : lật đổ	2
+V : muốn	1
+V : ngã	1
+V : ngăn chặn	1
+V : ngờ	1
+V : nhào	2
+V : nhân danh	1
+V : nhìn	1
+V : nhảy	1
+V : nêu	2
+V : nói chuyện	1
+V : nắm	1
+V : nắm bắt	1
+V : phá	1
+V : phát triển	2
+V : phân trần	1
+V : phải	6
+V : phối hợp	1
+V : quay	1
+V : quá	1
+V : quật	1
+V : ra	4
+V : ra mặt	1
+V : ra sức	2
+V : siết	1
+V : sử dụng	1
+V : theo	1
+V : thông báo	1
+V : thông qua	3
+V : thất thần	1
+V : thắng lợi	1
+V : tiếp	1
+V : tiếp cận	1
+V : trả lời	2
+V : trả thù	1
+V : tuyên cáo	2
+V : tuần hành	1
+V : tác dụng	1
+V : tái diễn	1
+V : tăng cường	1
+V : tưởng niệm	1
+V : tập hợp	3
+V : tổ chức	2
+V : tổng tiến công	1
+V : tới	3
+V : từ chức	2
+V : viết	1
+V : vung	1
+V : vào	3
+V : vô	1
+V : vỡ	1
+V : vừa lòng	1
+V : xoay	1
+V : xong	1
+V : xuyên	1
+V : xuống	1
+V : xuống đường	1
+V : xét	1
+V : yêu cầu	1
+V : Đả đảo	2
+V : đàn áp	1
+V : đánh	1
+V : đòi	2
+V : đóng	2
+V : được	4
+V : đả đảo	1
+V : đảo chính	1
+V : đấu tranh	3
+V : đẩy	1
+V : đặt	2
+V : đến	1
+V : để	1
+V : đọc	2
+V : đồng ý	1
+V : đội lốt	1
+V : đột biến	1
+V : ước tính	1
+V : ảnh hưởng	2
+V : ấp a ấp úng	1
+X : bước tới bước lui	1
+X : bật đèn xanh	1
+X : gọi là	1
+X : nhất là	1

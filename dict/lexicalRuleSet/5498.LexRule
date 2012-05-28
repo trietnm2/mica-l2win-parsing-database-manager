@@ -1,0 +1,549 @@
+! : !	3
+" : "	46
+, : ,	76
+- : -	9
+- : –	1
+. : .	34
+... : ...	17
+: : :	2
+A : biệt tăm	1
+A : bàng hoàng	1
+A : bóng	1
+A : cao	1
+A : cao cấp	1
+A : chính thức	1
+A : chậm	1
+A : cuối	1
+A : cấp bách	1
+A : dài	1
+A : dày đặc	1
+A : dưới	2
+A : dễ dàng	1
+A : gần	3
+A : hiếm	1
+A : hoang	1
+A : hơn	2
+A : hối hả	1
+A : khác	1
+A : kiên cố	1
+A : kiên quyết	1
+A : lạnh	1
+A : lặng lẽ	2
+A : lố nhố	1
+A : lớn	2
+A : mênh mông	1
+A : mượt	1
+A : mới	1
+A : nguyên sơ	1
+A : ngây ngất	1
+A : nhiều	5
+A : nhất	3
+A : nhếch nhác	1
+A : nhỡ nhàng	2
+A : rải rác	1
+A : rộng	1
+A : sang	1
+A : sang trọng	1
+A : suốt	1
+A : thượng hạng	1
+A : thả cửa	1
+A : thủng	1
+A : toàn diện	1
+A : trinh nguyên	1
+A : trong	1
+A : trung tâm	1
+A : trái phép	2
+A : trước	1
+A : trưởng	1
+A : trời ơi	1
+A : tuyệt	1
+A : tạm bợ	1
+A : vắng	1
+A : vắng lặng	1
+A : xinh đẹp	1
+A : yên	1
+A : yên ổn	1
+A : ít	1
+A : đại	1
+A : đầu	1
+A : đặc dụng	1
+A : đặc sản	1
+A : đẹp	2
+A : đỏ lòm	1
+A : độc đáo	1
+C : Nhưng	4
+C : Và	3
+C : còn	1
+C : do	1
+C : hay	1
+C : là	3
+C : mà	4
+C : như	3
+C : nhưng	2
+C : nhất là	1
+C : nên	2
+C : rằng	2
+C : rồi	7
+C : thì	1
+C : thế là	3
+C : và	11
+C : để	1
+E : Với	1
+E : cho	4
+E : của	11
+E : do	1
+E : dưới	2
+E : giữa	1
+E : trong	5
+E : trên	6
+E : trước	1
+E : tại	1
+E : tận	1
+E : tới	1
+E : từ	7
+E : vào	2
+E : về	4
+E : với	9
+E : xuống	2
+E : đến	8
+E : để	2
+E : Ở	1
+E : ở	6
+I : ơi	1
+L : Mọi	1
+L : Một vài	1
+L : Những	2
+L : Toàn bộ	1
+L : các	2
+L : những	13
+L : tất cả	1
+L : vài	1
+LBKT : LBKT	8
+M : 1	1
+M : 1.900	1
+M : 10	1
+M : 110	1
+M : 1990	1
+M : 1998	1
+M : 2	1
+M : 200 triệu	1
+M : 2003	1
+M : 26	1
+M : 3	1
+M : 5.000	1
+M : 50 tỉ	1
+M : 700 triệu	1
+M : 706 triệu	1
+M : Một	2
+M : Sáu	1
+M : chục	1
+M : hai	4
+M : mấy	1
+M : một	13
+M : nghìn	1
+M : năm	1
+M : trăm	2
+M : tỉ	1
+N : Chính phủ	2
+N : Cây	1
+N : Công ty	1
+N : Du lịch	2
+N : Dự án	2
+N : Khu	1
+N : Kiểm lâm	1
+N : Nơi	1
+N : Phía	1
+N : Phận	1
+N : Sáng	1
+N : Trang trại	1
+N : Tập đoàn	1
+N : Tổng cục	1
+N : ban	3
+N : bazan	1
+N : biển	1
+N : biện pháp	1
+N : bà	1
+N : báo chí	1
+N : bây giờ	1
+N : bên	3
+N : bí thư	1
+N : bóng	2
+N : cao nguyên	3
+N : chi cục	1
+N : chính quyền	2
+N : chòi	1
+N : chủ	2
+N : chữ	1
+N : cung	1
+N : cà phê	2
+N : cái	1
+N : cán bộ	1
+N : cáp	1
+N : cây	2
+N : cảnh	1
+N : cấp	1
+N : diện tích	2
+N : du lịch	8
+N : du thuyền	1
+N : dân	1
+N : dãy	1
+N : dự án	6
+N : giá	1
+N : giấy	1
+N : giờ đây	1
+N : golf	1
+N : gạch	1
+N : gỗ	1
+N : huyện	2
+N : hàng	1
+N : hàng quán	2
+N : hình	2
+N : hướng	1
+N : hệ thống	1
+N : hồ	4
+N : hồng	1
+N : hồng nhan	1
+N : khi	2
+N : khu	3
+N : khu vực	4
+N : khách sạn	1
+N : khó khăn	1
+N : kinh tế	1
+N : kiểu	1
+N : kết quả	1
+N : loạt	1
+N : lâm	1
+N : lâm nghiệp	1
+N : lần	1
+N : lều	1
+N : mép	2
+N : mơ ước	1
+N : mục đích	1
+N : nay	2
+N : nguồn	1
+N : ngàn	2
+N : ngày	4
+N : người	9
+N : người ta	1
+N : ngựa	4
+N : nhiệm vụ	1
+N : nhà đầu tư	1
+N : nhân viên	1
+N : nàng	1
+N : năm	6
+N : nước	1
+N : nước sạch	1
+N : phi trường	2
+N : phân	1
+N : phép	1
+N : phía	1
+N : phòng	1
+N : phận	1
+N : quyền	1
+N : quần thể	1
+N : quầy	1
+N : quốc tế	2
+N : rác rưởi	1
+N : rìa	1
+N : rẫy	1
+N : rừng	5
+N : rừng núi	1
+N : rừng phòng hộ	3
+N : sao	1
+N : suối	1
+N : sân	1
+N : sơn nữ	1
+N : sơn thủy	1
+N : số	1
+N : thanh tra	1
+N : thành phố	6
+N : thành viên	1
+N : thông	5
+N : thương mại	1
+N : thập kỷ	1
+N : thế giới	1
+N : thợ	1
+N : thứ	2
+N : tin	1
+N : trang trại	6
+N : tranh	1
+N : tre	1
+N : trung tâm	2
+N : trâu	1
+N : trước đây	1
+N : trường	1
+N : trường hợp	2
+N : tuyến	1
+N : tây	1
+N : tên	2
+N : tỉnh	4
+N : tổng	1
+N : tổng cục trưởng	1
+N : ven	1
+N : vùng	5
+N : vùng đất	1
+N : vẻ	1
+N : vốn	1
+N : xe cộ	1
+N : xe du lịch	1
+N : xe máy	1
+N : xung quanh	1
+N : áo quần	1
+N : ý tưởng	1
+N : Điểm	1
+N : Đầu	1
+N : đoàn	3
+N : đá	1
+N : đông bắc	1
+N : đường	9
+N : đường cao tốc	1
+N : đất	6
+N : đất đai	1
+N : đầu	1
+N : đỉnh	2
+N : địa bàn	1
+N : địa phương	1
+N : đồ	1
+NP : *E*	3
+NP : *T*	2
+Nb : casino	1
+Nb : villa	1
+Nb : ximăng	1
+Nc : con	6
+Nc : cuộc	2
+Nc : cái	2
+Nc : cánh	1
+Nc : người	3
+Nc : sự	1
+Nc : việc	2
+Nc : ông	1
+Np : Cam Ly	2
+Np : Dankia	15
+Np : Dankia Resort	5
+Np : Dầu Giây	1
+Np : Jurong Environment Engineering	1
+Np : Lang Bian	3
+Np : Lat	1
+Np : Liên Khương	1
+Np : Lâm Đồng	6
+Np : Lạc Dương	2
+Np : Lạch	1
+Np : Management Service Pte	1
+Np : Natsteel	1
+Np : Nguyễn Văn Đẳng	1
+Np : Phạm Văn Án	1
+Np : Singapore	2
+Np : Suối Cạn	2
+Np : Suối Vàng	4
+Np : Sêrêpôk	3
+Np : Tây Nam bộ	1
+Np : Tùng Lâm	1
+Np : Võ Thị Thắng	1
+Np : Vũng Tàu	1
+Np : Xuân Hương	1
+Np : Yersin	2
+Np : châu Á	1
+Np : Đà Lạt	6
+Np : Đông Dương	1
+Np : Đồng Nai	1
+Nu : USD	2
+Nu : ha	2
+Nu : hecta	2
+Nu : m	1
+Nu : mét	1
+Nu : đồng	2
+Ny : HCM	1
+Ny : LKN	1
+Ny : TP	2
+Ny : UBND	2
+Ny : VN	1
+Ny : WC	1
+P : bao nhiêu	1
+P : cả	1
+P : họ	1
+P : kia	2
+P : nay	1
+P : người ta	4
+P : nào	1
+P : này	4
+P : nó	2
+P : ta	1
+P : thế	2
+P : tôi	3
+P : vậy	1
+P : đây	7
+P : đây đó	2
+P : đó	1
+P : đó đây	1
+P : đấy	1
+P : ấy	2
+R : Cứ	1
+R : Hàng	1
+R : Hầu như	1
+R : Lại	1
+R : bất chợt	1
+R : chỉ	1
+R : có thể	2
+R : cũng	1
+R : dần	1
+R : hàng	4
+R : hãy	1
+R : hằng	1
+R : không	8
+R : khỏi	1
+R : lên	2
+R : lại	1
+R : mãi	1
+R : ra	1
+R : rất	2
+R : sắp	1
+R : sẽ	1
+R : từng	1
+R : vào	1
+R : vẫn	5
+R : vừa	2
+R : xuống	2
+R : đang	4
+R : đi	1
+R : đã	12
+R : đến	2
+R : đều	2
+RBKT : RBKT	8
+S : tân	1
+T : Ngay	1
+T : Vậy	1
+T : chính	1
+T : cả	4
+T : mà	1
+T : nhé	1
+T : nữa	2
+T : sao	1
+T : thôi	1
+T : Ấy	1
+V : bao gồm	2
+V : biết	2
+V : bàng hoàng	1
+V : bán	2
+V : bị	2
+V : bừng	1
+V : cho	3
+V : chú tâm	1
+V : chăn	1
+V : chết đứng	1
+V : chỉ đạo	1
+V : chờ	1
+V : chờ đợi	1
+V : chụp	1
+V : chụp giật	1
+V : chứng nhận	1
+V : cung cấp	1
+V : cách	1
+V : còn	3
+V : có	9
+V : cải trang	1
+V : cấp	1
+V : dựng	1
+V : giống	1
+V : giữ	1
+V : gọi	2
+V : hay	1
+V : hi vọng	2
+V : hình thành	2
+V : họp	2
+V : khủng hoảng	1
+V : kể	1
+V : liên doanh	1
+V : là	3
+V : làm vườn	1
+V : lên	1
+V : lên đời	1
+V : lơi	1
+V : lấn chiếm	2
+V : lắc đầu	1
+V : mang	1
+V : mua	1
+V : mua bán	1
+V : muốn	1
+V : mê mẩn	1
+V : mời	1
+V : mở	3
+V : ngao ngán	1
+V : nghe	1
+V : nghỉ dưỡng	3
+V : nhìn	4
+V : nhắc	1
+V : nâng cấp	1
+V : nói	5
+V : nằm	6
+V : phê duyệt	2
+V : phòng hộ	1
+V : phóng	1
+V : phải	1
+V : phục vụ	1
+V : qua	2
+V : quyến rũ	1
+V : quyết định	1
+V : quản lý	3
+V : ra đời	4
+V : rao	1
+V : sang nhượng	1
+V : say sưa	1
+V : sở hữu	1
+V : sử dụng	1
+V : thanh tra	4
+V : thi đấu	1
+V : thoát ly	1
+V : thuê	1
+V : thuộc	2
+V : thành	1
+V : thành lập	1
+V : thách đố	1
+V : thả	1
+V : thải	1
+V : thấy	4
+V : thực hiện	1
+V : tiến hành	1
+V : tiếp tục	2
+V : treo	1
+V : trôi	1
+V : trải	2
+V : tung	1
+V : tồn tại	1
+V : tổ chức	1
+V : tụ	1
+V : tựa	1
+V : vi phạm	2
+V : vào	1
+V : vút	1
+V : xuất hiện	2
+V : xây dựng	3
+V : xơi tái	1
+V : xử lý	2
+V : ăn nhậu	1
+V : Đón đầu	1
+V : Được	1
+V : Đứng	1
+V : đeo đuổi	1
+V : đi	1
+V : đua	1
+V : đâm	1
+V : đón đầu	1
+V : đóng băng	1
+V : được	7
+V : đầu cơ	1
+V : đầu tư	2
+V : đặt chân	1
+V : đến	1
+V : đề nghị	1
+V : để	1
+V : để ý	1
+V : đổ	2
+V : đổ xô	1
+V : ẩn	1
+V : ủi	1
+X : Mới đây	1
+X : Nghe đâu	1
+X : dường như	1
+X : làm sao	1
+X : mới đây	1
+X : như thế	1

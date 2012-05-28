@@ -1,0 +1,640 @@
+! : !	1
+" : "	41
+, : ,	109
+- : -	7
+. : .	74
+... : ...	1
+... : …	9
+: : :	7
+; : ;	1
+? : ?	1
+A : Cùng	1
+A : Gần	2
+A : May	1
+A : Nhiều	4
+A : buồn bã	1
+A : bình thường	1
+A : bền vững	1
+A : cao	1
+A : chi ly	1
+A : chung	1
+A : chênh lệch	1
+A : chính xác	1
+A : chủ yếu	2
+A : con	1
+A : cũ	1
+A : cần cù	1
+A : dễ	1
+A : gần	7
+A : hiền hòa	1
+A : hơn	1
+A : khá	4
+A : khác	1
+A : không thể	1
+A : khắp	1
+A : khốn khó	1
+A : lâu	1
+A : lớn	2
+A : lỡ dở	1
+A : may	1
+A : mát	1
+A : mới	1
+A : nghèo	5
+A : nghèo khó	1
+A : ngoại	9
+A : ngọt mát	1
+A : ngửa	1
+A : nhiều	11
+A : như	1
+A : nhỏ nhoi	1
+A : nổi tiếng	1
+A : riêng	1
+A : rộng	1
+A : rộng rãi	1
+A : rủi	1
+A : sau	1
+A : suốt	1
+A : thoáng	1
+A : thơ mộng	1
+A : thấp	1
+A : thấu đáo	1
+A : thẳng thắn	1
+A : trước	1
+A : trắng	1
+A : tuyệt sắc	1
+A : tuyệt vời	1
+A : tùm lum	1
+A : túng thiếu	1
+A : xa	4
+A : xinh	2
+A : Đặc biệt	1
+A : đông	1
+A : đúng	2
+A : đẹp	1
+A : đủ	1
+A : ươn ướt	1
+A : ổn định	1
+C : Hay	1
+C : Mặc dù	1
+C : Nhưng	3
+C : Tuy nhiên	1
+C : Và	1
+C : cho dù	1
+C : còn	1
+C : dù	1
+C : hay	1
+C : là	7
+C : mà	4
+C : nhưng	8
+C : nên	3
+C : rằng	1
+C : rồi	1
+C : thì	1
+C : tuy nhiên	1
+C : và	12
+C : Ấy là	1
+E : Ngoài	1
+E : Sau	1
+E : Theo	1
+E : Trong	4
+E : Trước	1
+E : Từ	3
+E : bằng	1
+E : bởi	2
+E : của	7
+E : do	1
+E : giữa	3
+E : nhờ	4
+E : sang	1
+E : trong	2
+E : trên	1
+E : tại	1
+E : từ	4
+E : vào	1
+E : vì	1
+E : về	6
+E : với	6
+E : Đến	1
+E : đến	5
+E : để	3
+E : ở	9
+L : Các	2
+L : Mấy	2
+L : Một số	1
+L : Những	2
+L : các	6
+L : hàng loạt	1
+L : mấy	2
+L : những	11
+L : vài	1
+LBKT : LBKT	6
+M : 1	1
+M : 10	1
+M : 100	1
+M : 12	1
+M : 18	1
+M : 1995	1
+M : 1998	1
+M : 2	4
+M : 20	3
+M : 2004	1
+M : 21	2
+M : 23	1
+M : 25	1
+M : 3	1
+M : 3 . 000	1
+M : 4	2
+M : 400	1
+M : 55	1
+M : 594	1
+M : 7	1
+M : 76 . 251	1
+M : 9	1
+M : Mỗi	1
+M : Một	1
+M : hai	2
+M : mười tám	1
+M : mỗi	4
+M : một	4
+M : ngàn	1
+M : triệu	3
+M : trăm	1
+M : đôi mươi	1
+N : Chồng	1
+N : Chủ tịch	2
+N : Cù lao	1
+N : Hôm	1
+N : Hôn nhân	1
+N : Hồi	1
+N : Hội	3
+N : Kinh tế	1
+N : Năm	1
+N : Phụ nữ	3
+N : Sự	2
+N : Tương lai	1
+N : Văn hóa	1
+N : Văn phòng	1
+N : anh	1
+N : ao	1
+N : ban	1
+N : ban đầu	1
+N : bi kịch	1
+N : biến cố	1
+N : biện pháp	1
+N : bên	2
+N : bển	1
+N : cha mẹ	2
+N : chiều	1
+N : chuyện	2
+N : chính quyền	1
+N : chú rể	1
+N : chị	1
+N : chồng	18
+N : chủ	1
+N : chức năng	1
+N : con	11
+N : cuối cùng	1
+N : cuộc	1
+N : cuộc sống	4
+N : cá	2
+N : cát	1
+N : cân đối	1
+N : cây	1
+N : cô	2
+N : cô dâu	2
+N : công	2
+N : công dân	1
+N : cù lao	3
+N : cơ sở	1
+N : cấp	2
+N : cặp	1
+N : cốt lõi	1
+N : da	1
+N : dân	3
+N : dân trí	1
+N : dĩa	1
+N : ghe  máy	1
+N : gia đình	12
+N : giải pháp	1
+N : giấy	1
+N : giới tính	1
+N : gái	7
+N : hiểu biết	1
+N : hiện nay	1
+N : hiện tượng	1
+N : hiệu quả	1
+N : hoàn cảnh	3
+N : huyện	1
+N : hy vọng	1
+N : hôn nhân	1
+N : hướng	1
+N : hạnh phúc	1
+N : hầm	1
+N : hệ quả	1
+N : học vấn	1
+N : hộ	1
+N : hội	1
+N : khi	5
+N : khoảng	1
+N : khác	1
+N : khách	1
+N : khó khăn	1
+N : khốn khó	1
+N : kinh tế	3
+N : kết hôn	1
+N : làn sóng	1
+N : lòng	2
+N : lúc	2
+N : lý do	1
+N : lớp	1
+N : lời	1
+N : máy	1
+N : mùa	1
+N : mặt	1
+N : mặt mày	1
+N : mẹ	1
+N : mối	1
+N : một cách	1
+N : mứt gừng	1
+N : ngoại	1
+N : nguyên nhân	1
+N : ngành	2
+N : ngày	6
+N : ngôn ngữ	1
+N : người	19
+N : người yêu	1
+N : nhan sắc	1
+N : nhau	2
+N : nhà	8
+N : nhân khẩu	1
+N : nông thôn	4
+N : năm	9
+N : nơi	3
+N : nước	2
+N : nước mắt	1
+N : nỗi buồn	1
+N : nợ	2
+N : phong thổ	1
+N : phong trào	1
+N : phần lớn	3
+N : phụ nữ	2
+N : quê	1
+N : quốc tịch	1
+N : ruộng	2
+N : suy nghĩ	1
+N : sông	3
+N : số	1
+N : số liệu	1
+N : sổ tay	1
+N : thanh niên	2
+N : thiếu nữ	5
+N : thoạt đầu	1
+N : thành phố	1
+N : tháng	3
+N : thông tin	1
+N : thường	1
+N : thị thành	1
+N : tiền	3
+N : tiện nghi	1
+N : trình độ	1
+N : trường hợp	2
+N : trẻ	1
+N : tuổi	2
+N : tuổi tác	1
+N : tài xế	1
+N : tên	1
+N : tình	3
+N : tình trạng	1
+N : tình yêu	2
+N : tính	1
+N : tương lai	2
+N : tường	1
+N : tỉnh	1
+N : việc	4
+N : vùng	1
+N : văn bản	1
+N : văn hóa	1
+N : vườn	3
+N : vấn đề	3
+N : vật liệu	1
+N : vốn	2
+N : vợ	2
+N : vợ chồng	2
+N : vụ	1
+N : xe	1
+N : xã	4
+N : xã hội	2
+N : xứ	6
+N : Ông	1
+N : ông	1
+N : ý kiến	1
+N : ý nghĩa	1
+N : Đảo	2
+N : điều	1
+N : điều kiện	1
+N : điểm	1
+N : đàn ông	1
+N : đường	2
+N : đại lý	1
+N : đất	4
+N : đầu	1
+N : địa phương	2
+N : đồng bằng	2
+N : đồng tiền	2
+N : đời	1
+N : đời sống	1
+N : đứa	1
+N : ấp	4
+NP : *E*	16
+NP : *T*	4
+Nc : Chị	1
+Nc : anh	3
+Nc : chị	4
+Nc : chồng	1
+Nc : con	1
+Nc : cô	3
+Nc : căn	1
+Nc : người	3
+Nc : ông	2
+Nc : đứa	1
+Np : Bảy Nhát	1
+Np : Bến Tre	1
+Np : Cái Mơn	1
+Np : Cần Thơ	1
+Np : Cửu Long	2
+Np : H	2
+Np : Hậu	1
+Np : Hồ Chí Minh	1
+Np : Kiều	2
+Np : N	2
+Np : Nguyễn Thị Huệ	2
+Np : Nguyễn Thị Thu Kiều	1
+Np : Nha Mân	1
+Np : Phước Lộc	1
+Np : Q	4
+Np : T	2
+Np : TP	1
+Np : Thốt Nốt	1
+Np : Trường Thọ	2
+Np : Tân Lộc	14
+Np : Việt	2
+Np : Việt Nam	4
+Np : Đài	2
+Np : Đài Bắc	1
+Np : Đài Loan	15
+Np : Đồng Tháp	2
+Nu : m2	1
+Nu : năm	1
+Nu : tuổi	6
+Nu : đồng	3
+Ny : ĐBSCL	2
+P : Bây giờ	1
+P : Chúng ta	1
+P : Cả	1
+P : bao giờ	1
+P : bao nhiêu	1
+P : chúng tôi	3
+P : cả	1
+P : gì	2
+P : hiện nay	1
+P : họ	3
+P : mình	1
+P : nay	5
+P : này	2
+P : nó	3
+P : sao	2
+P : ta	1
+P : thế nào	1
+P : tui	4
+P : tôi	2
+P : vậy	1
+P : Đây	1
+P : đâu	1
+P : đây	7
+P : đó	6
+R : Cũng	1
+R : Hàng	1
+R : Không	2
+R : chưa	5
+R : chẳng	1
+R : chỉ	5
+R : còn	3
+R : cũng	5
+R : cứ	1
+R : dần dần	1
+R : giữa chừng	1
+R : gì	1
+R : hàng	2
+R : hơn	2
+R : không	14
+R : lên	3
+R : lại	5
+R : lắm	2
+R : miết	1
+R : mới	5
+R : qua	3
+R : quá	2
+R : ra	7
+R : rất	2
+R : rằng	1
+R : rồi	3
+R : sẽ	4
+R : từng	2
+R : vẫn	2
+R : về	4
+R : vừa	1
+R : xong	2
+R : đi	2
+R : đã	7
+R : được	4
+RBKT : RBKT	6
+T : Chính	1
+T : cho	1
+T : đâu	1
+T : đến	1
+V : *E*	2
+V : Cách	2
+V : Có	2
+V : Cất	1
+V : Gả	1
+V : Làm	1
+V : Nghe	1
+V : Nói	1
+V : Quen	1
+V : Thương	1
+V : ban hành	1
+V : bao bọc	1
+V : biết	5
+V : buôn bán	1
+V : bán	1
+V : báo hiếu	2
+V : bù	1
+V : bơ vơ	1
+V : bảo	2
+V : bảo hộ	1
+V : bảo vệ	1
+V : bất đồng	1
+V : bị	1
+V : bỏ	1
+V : bớt	1
+V : cho	5
+V : cho biết	1
+V : chấp nhận	1
+V : chịu	1
+V : chở	1
+V : chứng kiến	1
+V : còn	2
+V : có	15
+V : cưng	1
+V : cảm thông	1
+V : cất	2
+V : cần	6
+V : cắt	1
+V : cằn nhằn	1
+V : dám	1
+V : dư	1
+V : dẫn	1
+V : dị ứng	1
+V : dựa	1
+V : giúp	5
+V : gây	1
+V : gả	4
+V : gắn	1
+V : gặp	1
+V : gọi	1
+V : gởi	1
+V : hiểu	2
+V : hẹn	1
+V : hết	1
+V : học	4
+V : hỏi	1
+V : hụt	1
+V : khai sinh	1
+V : khen	1
+V : khoe	1
+V : khuyến khích	1
+V : khéo	2
+V : kiếm	1
+V : kết hôn	1
+V : kể	1
+V : kỳ vọng	1
+V : lai	1
+V : lan rộng	1
+V : lo	1
+V : luyến tiếc	1
+V : là	2
+V : làm	2
+V : làm ăn	1
+V : lên án	1
+V : lường	1
+V : lấy	14
+V : lần lượt	1
+V : lập	1
+V : lật	1
+V : lớn	1
+V : lời	1
+V : lừa đảo	1
+V : mang	1
+V : mong	3
+V : mua	3
+V : môi giới	1
+V : mướn	1
+V : mất	1
+V : mệnh danh	1
+V : mở	1
+V : nghe	3
+V : nghỉ	1
+V : ngăn chặn	1
+V : ngăn cản	1
+V : nhen nhóm	1
+V : nhìn	1
+V : nhận	1
+V : nhờ	1
+V : nuôi	1
+V : nâng	1
+V : nói	1
+V : nườm nượp	1
+V : nằm	2
+V : nợ	1
+V : nợ nần	1
+V : phiêu lưu	1
+V : phát sinh	1
+V : phân biệt	1
+V : phải	5
+V : qua	2
+V : quay	2
+V : quyết định	1
+V : quên	1
+V : ra	3
+V : sang	1
+V : sinh sống	1
+V : sống	5
+V : sử dụng	2
+V : sửa	1
+V : tan vỡ	1
+V : theo	1
+V : thiếu	2
+V : thoát	2
+V : thua	1
+V : thuộc	2
+V : tháo gỡ	1
+V : thích	1
+V : thông cảm	1
+V : thương	2
+V : thấy	2
+V : thẩm quyền	1
+V : thỏa thuận	1
+V : thừa nhận	1
+V : tin	1
+V : trông chờ	1
+V : trả	1
+V : trở thành	2
+V : tâm sự	1
+V : té	1
+V : tìm	1
+V : tính	2
+V : tạo	1
+V : tập trung	1
+V : tỏ	2
+V : vượt	2
+V : vất vả	1
+V : về	4
+V : xao	1
+V : xuất	1
+V : xuất hiện	1
+V : xây dựng	1
+V : xảy	1
+V : ăn	1
+V : Đưa	1
+V : Đến	1
+V : đeo	1
+V : đi	8
+V : điện	1
+V : đành	2
+V : đào	1
+V : đưa	1
+V : được	6
+V : đảm bảo	3
+V : đầu tư	2
+V : đặt	1
+V : đẻ	1
+V : đến	2
+V : để	1
+V : đối xử	1
+V : đổi	1
+V : đổi đời	1
+V : đứt	1
+V : ảnh hưởng	1
+V : ẵm	1
+V : ổn định	1
+V : ở	1
+V : ứng xử	1
+X : Nhắm mắt đưa chân	1
+X : Thật ra	1
+X : làm sao	1
+X : nghèo rớt mồng tơi	1
+X : ngoài ra	1
+X : nói chung	1
+X : nói riêng	1
+X : nửa tin nửa ngờ	1
+X : thậm chí	2

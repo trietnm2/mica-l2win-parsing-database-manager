@@ -1,0 +1,488 @@
+! : !	1
+" : "	30
+, : ,	62
+- : -	1
+. : .	40
+... : ...	2
+: : :	12
+? : ?	9
+A : Cuối cùng	1
+A : buồn	1
+A : bình thường	1
+A : cao	1
+A : chuyên	1
+A : chuyên nghiệp	1
+A : chăm chỉ	1
+A : chạy	1
+A : chắc	1
+A : cùng	1
+A : cạnh	1
+A : cần thiết	1
+A : cẩn thận	1
+A : gian khổ	1
+A : hay	1
+A : hơn	2
+A : hỗn loạn	1
+A : khó khăn	2
+A : khấm khá	1
+A : loãng	1
+A : lâu	2
+A : muộn	2
+A : mới	2
+A : mới tinh	1
+A : ngắn	1
+A : nhanh	4
+A : nhiều	2
+A : nhỏ	1
+A : phải	2
+A : sớm	1
+A : thông thường	1
+A : thấp	1
+A : thẳng	1
+A : to	1
+A : tùy thân	1
+A : tủi	1
+A : vắng	1
+A : vội	1
+A : xa	4
+A : xót xa	1
+A : đau xót	1
+A : đon đả	2
+A : đúng	2
+A : đắt	1
+A : đỏ chót	1
+A : đủ	1
+C : Hay	1
+C : Như	1
+C : Nhưng	3
+C : Rồi	1
+C : cho nên	1
+C : hay	1
+C : không những	1
+C : là	6
+C : mà	8
+C : mà còn	1
+C : như	5
+C : nhưng	4
+C : nên	1
+C : nếu	5
+C : nếu như	1
+C : rồi	7
+C : thì	15
+C : và	6
+E : Sau	1
+E : Trong	2
+E : Trước	1
+E : cho	5
+E : của	6
+E : lên	2
+E : ngoài	1
+E : sang	1
+E : sau	1
+E : theo	1
+E : trong	7
+E : trên	1
+E : trước	1
+E : tại	1
+E : từ	1
+E : vào	1
+E : về	4
+E : với	1
+E : xuống	1
+E : đến	4
+E : để	3
+E : đối với	3
+E : ở	5
+L : Các	2
+L : Mấy	1
+L : bao nhiêu	1
+L : các	2
+L : hàng	1
+L : mấy	2
+L : mọi	1
+L : một số	1
+L : nhiều	2
+L : những	8
+L : nửa	1
+LBKT : LBKT	1
+M : 10	4
+M : 150%	1
+M : 200%	1
+M : 2004	1
+M : 220	1
+M : 230	1
+M : 24	1
+M : 25	1
+M : 370	1
+M : 460	1
+M : 50	1
+M : Hai	2
+M : Một	3
+M : hai	3
+M : một	10
+M : năm	1
+M : vạn	1
+N : Anh	1
+N : Anh chị em	1
+N : Anh em	2
+N : Chính phủ	1
+N : Chị	2
+N : Cộng hòa	1
+N : Dịch vụ	1
+N : Giờ	1
+N : Truyền hình	1
+N : anh	5
+N : anh em	5
+N : buổi	1
+N : bên	5
+N : bảng	5
+N : bảo vệ	1
+N : chiến tranh	1
+N : chiều	1
+N : chuyện	1
+N : chân	1
+N : chè	1
+N : chén	2
+N : chính sách	1
+N : chú	1
+N : chút ít	1
+N : chị	2
+N : chị ta	2
+N : chỗ	1
+N : chợ	2
+N : chủ nghĩa	1
+N : chủ trương	1
+N : con	1
+N : cuối	1
+N : cách	1
+N : cán bộ	3
+N : câu	1
+N : công	1
+N : công an	1
+N : cạnh	1
+N : cảnh tượng	1
+N : cớ	1
+N : cửa	2
+N : cửa quan	1
+N : cửa sổ	1
+N : dân	1
+N : dân đen	1
+N : dấu	1
+N : dịch vụ	5
+N : em	1
+N : ghế	1
+N : giá	1
+N : giấy	2
+N : giấy thông hành	1
+N : giấy tờ	4
+N : giọng	1
+N : giờ	1
+N : hàng	1
+N : hàng họ	1
+N : hạn	2
+N : hồ sơ	2
+N : hồi	2
+N : hộ chiếu	16
+N : khi	2
+N : khoản	2
+N : kênh	1
+N : kính	1
+N : lãnh sự	2
+N : lúc	2
+N : lý do	1
+N : lượt	1
+N : lần	1
+N : lệ	1
+N : lệ phí	3
+N : mùa	1
+N : mũ	1
+N : mẫu	1
+N : mặt	1
+N : mục	1
+N : mức	2
+N : ngày	1
+N : người	9
+N : nhau	2
+N : nhân dân	1
+N : năm	5
+N : nước	3
+N : nước ngoài	2
+N : phí	2
+N : phía	1
+N : phòng	4
+N : phòng thường trực	1
+N : quanh	1
+N : quanh năm	1
+N : qui định	1
+N : quầy	1
+N : quốc huy	1
+N : sau	1
+N : sáng	1
+N : số	1
+N : sớm	1
+N : sứ quán	4
+N : tay	3
+N : thành phố	1
+N : tháng	2
+N : thâm tâm	1
+N : thường trực	2
+N : thời gian	1
+N : thủ tục	2
+N : thủ đô	2
+N : thứ	1
+N : thứ hai	1
+N : tiền	3
+N : trong	3
+N : trên	1
+N : trước	2
+N : tàu xe	1
+N : tên	1
+N : tình hình	1
+N : tí	1
+N : tí chút	1
+N : tò vò	1
+N : việc	2
+N : vòng	2
+N : vùng	1
+N : xe hàng	1
+N : xuân	1
+N : xã hội	1
+N : xứ	1
+N : Ô	1
+N : ô	2
+N : ông	4
+N : Đảng	1
+N : điện thoại	1
+N : đất nước	1
+N : đồng hồ	1
+NP : *E*	19
+NP : *T*	6
+NP : 8E*	1
+NP : tiền	1
+Nc : chị	3
+Nc : cái	1
+Nc : người	2
+Nc : quyển	3
+Nc : tập	1
+Nc : ông	1
+Np : Matxcơva	3
+Np : Mát	4
+Np : Nga	1
+Np : Tula	1
+Np : VN	3
+Np : Việt	4
+Nu : giờ	1
+Nu : phút	3
+Nu : tiếng	2
+Nu : đô	2
+Nu : đôla	5
+Ny : VTV4	1
+P : Chúng tôi	1
+P : Tôi	5
+P : ai	4
+P : bây giờ	1
+P : chúng tôi	16
+P : gì	4
+P : họ	1
+P : kia	1
+P : mình	1
+P : nay	1
+P : nào	1
+P : này	2
+P : nọ	1
+P : ta	2
+P : thế	1
+P : tôi	18
+P : vậy	2
+P : Đây	1
+P : đâu	1
+P : đây	6
+P : đó	5
+P : đấy	1
+R : Cũng	1
+R : Quả thật	1
+R : Vừa	2
+R : bèn	1
+R : bỗng	2
+R : bỗng nhiên	1
+R : cho	1
+R : chưa	2
+R : chẳng	1
+R : chỉ	7
+R : còn	5
+R : có khi	1
+R : có thể	1
+R : cũng	5
+R : cứ	1
+R : hay	1
+R : hơn	1
+R : hằng	1
+R : hộ	1
+R : khá	1
+R : không	6
+R : liền	3
+R : luôn	1
+R : lên	1
+R : lại	7
+R : mới	7
+R : ngay	5
+R : qua	1
+R : ra	2
+R : rất	1
+R : rồi	3
+R : sắp	1
+R : thêm	4
+R : thường	2
+R : thật	2
+R : vào	1
+R : vừa	8
+R : Đã	1
+R : đang	3
+R : đã	7
+R : được	10
+R : đều	1
+RBKT : RBKT	1
+T : có	1
+T : cả	1
+T : hả	1
+T : hết	1
+T : nhé	1
+T : thôi	5
+T : thế	1
+T : đâu	1
+T : đến	1
+V : *E*	1
+V : *T*	1
+V : Cần	1
+V : Gặp	1
+V : Là	1
+V : Nói	1
+V : Phải	1
+V : Thấy	5
+V : Vào	2
+V : biết	3
+V : buôn bán	2
+V : bán	1
+V : bước	1
+V : bấm	1
+V : bị	2
+V : bỏ	1
+V : chen lấn	1
+V : chi tiêu	1
+V : chào	1
+V : chùi	1
+V : chắc	1
+V : chỉ	1
+V : chờ	1
+V : chứng minh	1
+V : cách	1
+V : còn	1
+V : có	7
+V : cười	1
+V : cảm thông	1
+V : cảm thấy	1
+V : cấp	2
+V : cầm	6
+V : cần	2
+V : diễn	1
+V : dám	1
+V : dùng	1
+V : dọa dẫm	1
+V : ghi	1
+V : giúp	2
+V : giải thích	1
+V : gọi	1
+V : hẹn	1
+V : hết	3
+V : hỏi	7
+V : khai	2
+V : khai sinh	1
+V : khăn gói	1
+V : khựng	1
+V : kiếm	1
+V : kiếm ăn	2
+V : kiểm tra	1
+V : kéo	1
+V : kêu	1
+V : lo	1
+V : là	7
+V : làm	10
+V : làm lụng	1
+V : làm ăn	2
+V : lên	4
+V : lấy	5
+V : mang	1
+V : muốn	3
+V : mất	7
+V : mời	1
+V : mở	1
+V : nghe	1
+V : nghỉ	1
+V : ngần ngừ	1
+V : ngồi	2
+V : nhìn	2
+V : nhận	3
+V : nói	4
+V : nộp	3
+V : phát sinh	1
+V : phó mặc	1
+V : phải	8
+V : qua	1
+V : qua lại	1
+V : quay	1
+V : qui định	1
+V : ra	3
+V : rút	1
+V : sinh sống	1
+V : sống	2
+V : tha hương	1
+V : theo	1
+V : thu	1
+V : thành	2
+V : thích	1
+V : thông báo	4
+V : thường trực	1
+V : thất thu	1
+V : thất vọng	1
+V : thấy	1
+V : tin	1
+V : tiếp	2
+V : tiết kiệm	1
+V : trình bày	1
+V : trả lời	3
+V : trải	1
+V : trở lại	1
+V : trở nên	1
+V : tìm	1
+V : tặc lưỡi	1
+V : tốn kém	1
+V : uống	2
+V : vui mừng	1
+V : vào	1
+V : về	2
+V : xem	3
+V : xin	1
+V : xong	2
+V : xuất hiện	1
+V : xuất trình	2
+V : xuống	1
+V : ào	1
+V : ôm	1
+V : ăn tiền	1
+V : Đi	1
+V : Đành	1
+V : Đổi	2
+V : đe dọa	1
+V : đeo	1
+V : đi	3
+V : đành	1
+V : đưa	2
+V : được	4
+V : đặt	1
+V : đến	5
+V : đọc	1
+V : đổi	7
+V : đứng	2
+X : càng ngày càng	1
+X : có lẽ	1
+X : mồ hôi nước mắt	1

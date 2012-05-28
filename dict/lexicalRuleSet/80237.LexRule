@@ -1,0 +1,492 @@
+! : !	4
+" : "	19
+, : ,	66
+- : -	4
+- : –	1
+. : .	54
+... : ...	10
+/ : /	4
+: : :	9
+; : ;	1
+? : ?	5
+A : Nhiều	1
+A : bất thần	1
+A : bức xúc	1
+A : chính	1
+A : có thể	1
+A : công khai	1
+A : cả	1
+A : cần thiết	1
+A : dại	1
+A : dễ dàng	1
+A : gần	3
+A : hoang tàn	2
+A : hơn	3
+A : khô	1
+A : lác đác	1
+A : lì	1
+A : lớn	4
+A : manh mún	1
+A : nghèo	1
+A : nhiều	1
+A : nửa	1
+A : phức tạp	1
+A : quí giá	1
+A : sau	2
+A : thật sự	1
+A : tiếng	1
+A : trái phép	1
+A : trắng tay	1
+A : trống hoác	1
+A : tăng	1
+A : tối đa	1
+A : tốt	1
+A : vất vả	1
+A : xơ xác	1
+A : đen	1
+A : đầy đủ	1
+A : đậm	1
+C : Nhưng	1
+C : Nếu	1
+C : Song	1
+C : là	1
+C : mà	2
+C : như	2
+C : nhưng	4
+C : rồi	3
+C : song	1
+C : thì	3
+C : và	4
+E : Do	1
+E : Sau	3
+E : Theo	1
+E : Từ	2
+E : bằng	1
+E : bởi	1
+E : cho	9
+E : của	6
+E : nếu	2
+E : sau	2
+E : thuộc	4
+E : trong	4
+E : trên	3
+E : từ	3
+E : vì	1
+E : về	1
+E : với	4
+E : đến	3
+E : để	3
+E : Ở	1
+E : ở	9
+I : ơi	1
+L : Mấy	2
+L : mấy	2
+L : một số	2
+L : những	3
+L : vài	3
+LBKT : LBKT	3
+M : 1	1
+M : 10	2
+M : 16	2
+M : 165	1
+M : 17	1
+M : 1999	1
+M : 2	3
+M : 2003	1
+M : 25 . 000	1
+M : 3	1
+M : 30	1
+M : 311	1
+M : 4	2
+M : 5	2
+M : 600	1
+M : 8	1
+M : Mỗi	1
+M : Một	1
+M : ba	1
+M : chục	4
+M : hai	1
+M : mười	1
+M : mấy	1
+M : mỗi	2
+M : một	14
+M : ngàn	1
+M : năm	1
+M : triệu	3
+M : trăm	2
+M : đôi	1
+N : Ban đêm	1
+N : Bà	1
+N : Bí thư	1
+N : Chị	1
+N : Chừng	1
+N : Công ty	1
+N : Dọc	1
+N : Em	1
+N : Giám đốc	1
+N : Lâm trường	2
+N : Sáng	1
+N : Trước đây	1
+N : Tính chất	1
+N : Voi	1
+N : beo	1
+N : buổi	1
+N : bà	1
+N : bí thư	1
+N : búa	1
+N : bạt	1
+N : bắp	1
+N : cao su	2
+N : chi bộ	2
+N : chính quyền	1
+N : chòi	3
+N : chó	1
+N : chị	1
+N : chỗ	1
+N : chợ	1
+N : chủ	1
+N : chủ trương	1
+N : cách	1
+N : cán bộ	1
+N : câu chuyện	1
+N : cây	7
+N : cây công nghiệp	1
+N : công	2
+N : công ty	1
+N : công việc	1
+N : công vụ	1
+N : cư dân	1
+N : cưa	1
+N : cảnh	1
+N : cỏ	1
+N : cổ	1
+N : củ mì	1
+N : da	1
+N : dáng	1
+N : dân	6
+N : dây chuyền	1
+N : dạng	1
+N : dịp	1
+N : em	6
+N : gia đình	1
+N : giá	2
+N : gió	2
+N : giấy tờ	2
+N : giọng	3
+N : giờ	1
+N : gốc	5
+N : hecta	3
+N : huyện	3
+N : hình	1
+N : hôm	1
+N : hạn điền	1
+N : hộ	2
+N : khi	5
+N : khoảng	1
+N : khu	4
+N : khu vực	2
+N : lá	2
+N : lâm	1
+N : lâm phận	2
+N : lâm trường	11
+N : lãnh đạo	1
+N : lều	2
+N : lộ	1
+N : lời	1
+N : lửa	2
+N : miền	2
+N : mái	2
+N : máy	2
+N : mình	1
+N : mắt	1
+N : mặt	1
+N : một cách	1
+N : nay	3
+N : nguồn	1
+N : ngày	6
+N : ngày mai	1
+N : người	7
+N : nhau	1
+N : nhiệm vụ	1
+N : nhà	3
+N : nhóm	2
+N : năm	8
+N : nơi	1
+N : nửa	1
+N : phần	1
+N : phận	1
+N : qui mô	1
+N : quê	1
+N : rừng	16
+N : sến	1
+N : sợi	1
+N : thanh niên	1
+N : thuốc lá	1
+N : tháng	1
+N : thôn	5
+N : tiền	5
+N : tiểu khu	1
+N : tài nguyên	1
+N : tên	1
+N : tình trạng	1
+N : tôn	1
+N : túi	1
+N : tường	1
+N : tết	1
+N : tỉnh	3
+N : voi	2
+N : vàng	1
+N : vùng	1
+N : vùng đất	1
+N : vật dụng	1
+N : vẻ	1
+N : vụ	1
+N : xã	7
+N : xẻng	1
+N : áo bà ba	1
+N : ông	1
+N : Đất	5
+N : điếu	1
+N : điều	3
+N : đêm hôm	1
+N : đại gia	1
+N : đất	22
+N : đầu nậu	2
+N : địa phương	1
+N : địa phận	1
+N : đợt	2
+NP : *E*	4
+NP : *T*	3
+Nc : Anh	1
+Nc : Bà	3
+Nc : Chị	1
+Nc : Cô	1
+Nc : Người	1
+Nc : bà	4
+Nc : chị	3
+Nc : con	1
+Nc : cái	1
+Nc : cây	1
+Nc : cô	2
+Nc : người	3
+Nc : tấm	1
+Nc : Ông	3
+Nc : ông	2
+Np : Bàu Chồn	3
+Np : Bình	1
+Np : Bình Thuận	2
+Np : Bùi Văn Thu	1
+Np : Bắc	1
+Np : Công	2
+Np : G	6
+Np : Gia Huynh	7
+Np : Huế	1
+Np : Hà	4
+Np : Quảng Bình	1
+Np : Thu	2
+Np : Trung	1
+Np : Trà Vinh	1
+Np : Tánh Linh	10
+Np : Tây	1
+Np : Việt Tài	1
+Np : rừng	1
+Np : Đào Lập Công	1
+Np : Đồng Nai	1
+Nu : g	1
+Nu : ha	7
+Nu : hecta	2
+Nu : khẩu	2
+Nu : năm	1
+Nu : đồng	4
+Ny : G	1
+Ny : TNHH	1
+P : Cả	1
+P : Họ	1
+P : Tôi	7
+P : bây giờ	1
+P : giờ đây	1
+P : gì	1
+P : họ	2
+P : mình	1
+P : nay	3
+P : nào	3
+P : sao	1
+P : thế	1
+P : tôi	17
+P : vậy	2
+P : Đó	1
+P : đây	5
+P : đó	3
+R : Hàng	1
+R : Không	1
+R : Vừa	1
+R : chưa	1
+R : chỉ	4
+R : chợt	1
+R : còn	3
+R : có	1
+R : cũng	3
+R : cứ	2
+R : dần	1
+R : hàng	3
+R : khá	1
+R : không	7
+R : luôn	1
+R : lên	2
+R : lại	3
+R : mới	1
+R : ra	1
+R : rất	1
+R : rồi	1
+R : thêm	2
+R : toàn	1
+R : từng	1
+R : vẫn	5
+R : vừa	1
+R : xuống	1
+R : đang	5
+R : đâu	1
+R : đã	7
+R : được	8
+RBKT : RBKT	3
+T : cho	1
+T : cả	1
+T : gì	2
+T : ngay	2
+T : nào	1
+T : rồi	2
+V : Cho	2
+V : Còn	1
+V : Có	1
+V : Về	1
+V : Xà xẻo	1
+V : biến	1
+V : biết	6
+V : buông	1
+V : bán	4
+V : bắt	1
+V : bị	4
+V : canh	1
+V : canh tác	4
+V : chiếm	11
+V : cho	5
+V : chuyển	1
+V : chuẩn bị	1
+V : cháy	2
+V : chưng hửng	1
+V : chỉ	1
+V : chờ	2
+V : chụp	1
+V : chứng kiến	1
+V : cách	1
+V : còn	3
+V : có	10
+V : cưa	2
+V : cất	2
+V : cứ	2
+V : dọ	1
+V : dứt	1
+V : dừng	1
+V : dựng	3
+V : giao	1
+V : giao khoán	3
+V : giải quyết	1
+V : giật mình	1
+V : giữ	1
+V : gấp	1
+V : gặp	2
+V : gặt	1
+V : hay biết	1
+V : hiểu	1
+V : hái	1
+V : hình dung	1
+V : hình thành	1
+V : hất	1
+V : hỏi	1
+V : khai phá	1
+V : khai thác	1
+V : khỏi	1
+V : kiếm	1
+V : kiểm điểm	1
+V : kiệt	1
+V : kéo	1
+V : kể	1
+V : là	7
+V : làm	5
+V : làm bộ	1
+V : làm mướn	2
+V : làm ăn	1
+V : lôi	1
+V : lấy	1
+V : lợi dụng	1
+V : mang	1
+V : mua bán	1
+V : mót	1
+V : mướn	1
+V : nghe	1
+V : ngăn cản	1
+V : nhìn	3
+V : nhận	2
+V : nhập cư	1
+V : nói	3
+V : phá	1
+V : phát hiện	1
+V : phân vân	1
+V : phải	2
+V : qua	1
+V : qui hoạch	1
+V : quyết liệt	1
+V : quản lý	1
+V : quắc	1
+V : ra	2
+V : rỉ tai	1
+V : sang	1
+V : tham gia	2
+V : theo	3
+V : thi hành	1
+V : thiêu	1
+V : thu hoạch	1
+V : thuê	5
+V : thuộc	1
+V : thêm	1
+V : thấy	1
+V : tiến	1
+V : tiến hành	1
+V : tiếp tục	1
+V : trả	1
+V : trồng	5
+V : trở	1
+V : trở lại	2
+V : trở thành	1
+V : tác chiến	1
+V : tâm sự	1
+V : tìm	1
+V : tính	1
+V : tư vấn	1
+V : tạm trú	1
+V : vào	2
+V : vô	5
+V : về	2
+V : xuất hiện	1
+V : xây	1
+V : xé lẻ	1
+V : xử lý	1
+V : Để	1
+V : đem	2
+V : đeo	1
+V : đi	5
+V : được	5
+V : đặt cọc	1
+V : đến	3
+V : đối diện	1
+V : đốt	2
+V : đổ	2
+V : đổ thừa	1
+V : đỡ	1
+V : đứng	1
+V : ở	3
+V : ủi	1
+WHPP : vì sao	1
+X : Ngoài ra	1
+X : ngày càng	3
+X : vừa rồi	1

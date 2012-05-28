@@ -1,0 +1,504 @@
+! : !	1
+" : "	32
+, : ,	54
+- : -	3
+. : .	44
+... : ...	5
+/ : /	1
+: : :	6
+? : ?	3
+A : Gần	1
+A : bạo	1
+A : bạt ngàn	1
+A : bất ngờ	1
+A : cao	2
+A : cao thấp	1
+A : chính	1
+A : con	2
+A : căng	1
+A : duy nhất	1
+A : hơn	3
+A : hẳn hoi	1
+A : khác	2
+A : khô	1
+A : lợi	1
+A : mát	1
+A : mới	1
+A : nguyên sinh	1
+A : nhiều	4
+A : nhân tạo	1
+A : nhất	3
+A : nhỏ	1
+A : nặng nề	1
+A : phải	2
+A : rì rào	1
+A : rõ	1
+A : san sát	1
+A : thấp	1
+A : thật	1
+A : thẳng đứng	1
+A : trơ trọi	1
+A : trơ trụi	1
+A : tự nhiên	1
+A : vòng vòng	1
+A : xa tít	1
+A : xanh	2
+A : xưa	2
+A : đầu	1
+A : đầu tiên	1
+A : ổn	1
+C : Còn	2
+C : Nhưng	1
+C : Tuy nhiên	1
+C : do vậy	1
+C : là	1
+C : mà	5
+C : như	4
+C : nhưng	9
+C : nên	2
+C : rồi	2
+C : thì	6
+C : tuy	2
+C : và	5
+E : Bởi	1
+E : Sau	1
+E : Theo	2
+E : Tại	1
+E : bằng	1
+E : cho	3
+E : của	11
+E : do	1
+E : giữa	1
+E : qua	1
+E : sau	3
+E : theo	2
+E : trong	2
+E : trên	1
+E : trước	2
+E : tại	1
+E : vào	3
+E : về	3
+E : với	7
+E : đến	1
+E : để	4
+E : Ở	1
+E : ở	5
+L : Các	2
+L : Hầu hết	1
+L : Những	1
+L : các	5
+L : những	20
+L : vài	1
+LBKT : LBKT	5
+M : 10	4
+M : 100	1
+M : 11	1
+M : 15	1
+M : 2	2
+M : 2003	1
+M : 2004	1
+M : 25	1
+M : 3	1
+M : 3.000	1
+M : 300	1
+M : 4	1
+M : 40	1
+M : 438a	1
+M : 438b	1
+M : 439	1
+M : 5	1
+M : 50	1
+M : 6	1
+M : 7	1
+M : Một	1
+M : chín	1
+M : hai	2
+M : mỗi	3
+M : một	6
+M : triệu	1
+M : trăm	1
+N : Bên	1
+N : Bảo vệ	1
+N : Chiều	1
+N : Dư luận	1
+N : Hạt	1
+N : Khi	1
+N : Lúc	1
+N : Màu	1
+N : Nguồn	1
+N : Nhà nước	1
+N : Phía	1
+N : Rừng	2
+N : Thổ địa	1
+N : Thời điểm	1
+N : Tình hình	1
+N : anh em	1
+N : ban	1
+N : biên bản	1
+N : bàn tay	1
+N : bác	1
+N : chuyện	3
+N : chè	3
+N : chè lá	1
+N : chỗ	1
+N : chủ tịch	1
+N : chức vụ	1
+N : con người	1
+N : cà phê	8
+N : cành	1
+N : cách	1
+N : cán bộ	2
+N : cánh	3
+N : câu	1
+N : cây	11
+N : công an	2
+N : cạnh	1
+N : cổ thụ	1
+N : cỡ	1
+N : cụm	1
+N : củi	1
+N : diện tích	5
+N : dân	5
+N : dưới	1
+N : giá	2
+N : gì	1
+N : gốc	4
+N : ha	1
+N : hiện nay	1
+N : hiệu quả	1
+N : hoạt động	1
+N : huyện	6
+N : huyện đội	1
+N : hành vi	1
+N : hát	1
+N : hình sự	1
+N : hình ảnh	1
+N : hướng	1
+N : hố	1
+N : khi	6
+N : khu	4
+N : khu vực	1
+N : kiểm lâm	2
+N : làng	1
+N : lá	1
+N : lá mầm	1
+N : lâm nghiệp	1
+N : lâm sản	1
+N : lâm tặc	1
+N : lúc	1
+N : lý do	1
+N : lối	1
+N : lực lượng	2
+N : mắt	1
+N : mức độ	1
+N : ngoài	1
+N : ngày	1
+N : ngày đêm	1
+N : người	8
+N : người làm	1
+N : người quản lý	1
+N : nhau	2
+N : nhà cửa	1
+N : nông nghiệp	1
+N : năm	7
+N : nương rẫy	1
+N : nước	1
+N : nạn	1
+N : phía	1
+N : rẫy	4
+N : rừng	48
+N : sau	1
+N : sáng	1
+N : sốc	1
+N : sổ đỏ	1
+N : tay	1
+N : tháng	2
+N : thân	1
+N : thôn	1
+N : thông	3
+N : thị xã	1
+N : thổ địa	2
+N : thực tế	1
+N : thực địa	1
+N : tiền	1
+N : tiểu khu	2
+N : trang trại	1
+N : trong	3
+N : trung tâm	1
+N : trên	1
+N : trước	1
+N : tuyến	1
+N : tuổi	1
+N : tây	1
+N : tình trạng	1
+N : tư nhân	1
+N : tầm mắt	1
+N : tầm nhìn xa	1
+N : tỉnh	1
+N : tỉnh đội	1
+N : từng	1
+N : tựa	1
+N : việc	1
+N : vòng	1
+N : vị trí	2
+N : vỏ	1
+N : vụ	3
+N : xe	1
+N : xung quanh	1
+N : xã	3
+N : Ông	1
+N : ông	1
+N : Điều	1
+N : Địa điểm	1
+N : đơn	3
+N : đơn vị	1
+N : đường	2
+N : đất	8
+N : đầu	1
+N : đề	1
+N : địa bàn	1
+N : địa phương	3
+N : đối tượng	1
+N : đốt	1
+NP : *E*	13
+NP : *T*	1
+Nc : bài	1
+Nc : chiếc	1
+Nc : cánh	1
+Nc : cú	1
+Nc : cụm	1
+Nc : khoảnh	1
+Nc : niềm	1
+Nc : rẫy	3
+Nc : sự	1
+Nc : tán	1
+Nc : ông	8
+Nc : đoàn	2
+Nc : đám	4
+Np : Bảo Lâm	11
+Np : Bảo Lộc	1
+Np : Cầu	2
+Np : Lâm Đồng	3
+Np : Lê Văn Tú	1
+Np : Lương Văn Minh	1
+Np : Lộc Lâm	1
+Np : Lộc Ngãi	3
+Np : Lộc Phú	3
+Np : Nao Quang	1
+Np : Nguyễn Bá Đông	1
+Np : Nhà nước	1
+Np : Tàu	1
+Np : Tú	3
+Np : Đông	2
+Np : Đồi Đá	1
+Nu : ha	4
+Nu : hecta	2
+Nu : km	2
+Nu : đồng	1
+Ny : BQL	5
+Ny : UBND	1
+P : Ai	1
+P : Chúng tôi	2
+P : Nay	1
+P : ai	1
+P : bao nhiêu	1
+P : chúng tôi	9
+P : giờ đây	1
+P : gì	1
+P : người ta	2
+P : này	7
+P : thế	1
+P : tôi	1
+P : tất cả	1
+P : vậy	1
+P : Đó	1
+P : đây	6
+P : đó	6
+P : ấy	1
+R : Chỉ	1
+R : Có thể	1
+R : Cứ	1
+R : Không	2
+R : Lại	1
+R : Thật	1
+R : chưa	1
+R : chưa thể	1
+R : chỉ	6
+R : còn	1
+R : có	2
+R : có thể	1
+R : cũng	5
+R : cứ	2
+R : dần	4
+R : hàng	1
+R : hơn	1
+R : không	7
+R : khỏi	1
+R : lên	1
+R : lại	3
+R : lấy	1
+R : lắm	1
+R : mới	2
+R : qua	1
+R : quá	1
+R : quả tang	1
+R : ra	1
+R : rất	3
+R : thật sự	1
+R : thật tình	2
+R : thỏm	1
+R : toàn	1
+R : từng	2
+R : vào	2
+R : vẫn	2
+R : Được	1
+R : đang	8
+R : đã	14
+R : được	2
+R : đến	1
+RBKT : RBKT	5
+S : phó	1
+S : trưởng	1
+T : Chính	1
+T : Ngay	1
+T : chính	1
+T : rồi	1
+T : sao	1
+T : thôi	1
+T : thế	1
+T : đâu	2
+T : đó	1
+T : đấy	1
+V : Có	1
+V : Nói	1
+V : Trao đổi	1
+V : Xin	1
+V : bao	1
+V : bao bọc	1
+V : biến	1
+V : biết	4
+V : bán	4
+V : bảo vệ	4
+V : bắt	1
+V : bị	16
+V : bỏ	1
+V : bộc bạch	1
+V : canh tác	1
+V : cho	1
+V : cháy	1
+V : chạy	4
+V : chết	3
+V : chờ	1
+V : cách	2
+V : có	6
+V : cấp	1
+V : cắm	1
+V : dám	1
+V : dẫn	1
+V : ghét	1
+V : giao	2
+V : giải thích	1
+V : giảm sút	1
+V : giết	1
+V : hiện diện	2
+V : hạ	1
+V : hết	3
+V : ken	2
+V : khiến	2
+V : khép	2
+V : khẳng định	3
+V : kiểm tra	2
+V : kết luận	1
+V : luồn	1
+V : là	14
+V : làm	6
+V : làm ngơ	2
+V : làm việc	1
+V : lên	1
+V : lấn	1
+V : lấn chiếm	1
+V : lấy	2
+V : lập	2
+V : lọt	1
+V : lợi dụng	1
+V : men	1
+V : mua bán	1
+V : mòn	1
+V : môi giới	1
+V : mượn	1
+V : mất	3
+V : mọc	1
+V : nghe	1
+V : ngụy trang	3
+V : nhìn	1
+V : nói	4
+V : nằm	4
+V : nằm xuống	1
+V : nể	1
+V : nối tiếp	1
+V : phá	9
+V : phát hiện	4
+V : phải	4
+V : phản ảnh	1
+V : quản lý	4
+V : rao	1
+V : rẽ	1
+V : sang	1
+V : sém	1
+V : theo	1
+V : theo đuôi	1
+V : thu hẹp	2
+V : thuê	1
+V : thuộc	2
+V : thành	1
+V : thích	2
+V : thấy	2
+V : thể hiện	1
+V : thống kê	1
+V : thừa nhận	1
+V : tin	1
+V : tiêu diệt	1
+V : tiếp nhận	1
+V : tiếp theo	1
+V : trao đổi	1
+V : triệt phá	1
+V : trồng	4
+V : trực thuộc	1
+V : tàn phá	1
+V : tìm hiểu	1
+V : tùy	1
+V : tạo	1
+V : tố cáo	2
+V : ven	1
+V : vào	1
+V : vô	1
+V : xác định	3
+V : xây dựng	1
+V : xóa	2
+V : xóa sổ	3
+V : xông	1
+V : xử lý	2
+V : ôm	1
+V : úa	1
+V : Đi	1
+V : Đáng	1
+V : đau	1
+V : đi	2
+V : đào	1
+V : đáng	1
+V : đưa	1
+V : được	5
+V : đặt chân	1
+V : đẽo	1
+V : đốn	1
+V : đốt	1
+V : đủ	1
+V : đứng	1
+V : ươm	1
+X : Không tài nào	1
+X : gọi là	1
+X : không  tài  nào	1
+X : ngày một	1
+X : như thế	2
+X : thế nào	1
+X : ít nhất	1
