@@ -1,0 +1,505 @@
+! : !	2
+" : "	10
+, : ,	78
+- : -	2
+. : .	33
+... : ...	4
+/ : /	1
+: : :	5
+? : ?	1
+A : Xa	1
+A : bát ngát	1
+A : bình thường	1
+A : bệnh	1
+A : cao đẳng	1
+A : có thể	1
+A : cả	1
+A : dài	1
+A : dày	1
+A : dại	1
+A : ghê gớm	1
+A : gian nan	1
+A : già	1
+A : gần	3
+A : heo hút	1
+A : hiểm nghèo	1
+A : hơn	1
+A : hằng tâm	1
+A : khác	2
+A : khắp	2
+A : kịp	1
+A : lâu	1
+A : lâu lâu	1
+A : lặng lẽ	1
+A : lớn	2
+A : mênh mông	1
+A : nguy nan	1
+A : nhiều	5
+A : nho nhỏ	1
+A : nhân tạo	4
+A : nhói	1
+A : như	1
+A : nhỏ	1
+A : nặng	1
+A : phù nề	1
+A : quái  ác	1
+A : suốt	2
+A : thanh thản	1
+A : thiêng	1
+A : thường ngày	1
+A : tròn	1
+A : trẻ	1
+A : trọn	1
+A : tuềnh toàng	1
+A : tím	1
+A : tăm tắp	1
+A : tẩn mẩn	1
+A : vui	1
+A : vô danh	1
+A : vắng vẻ	1
+A : xa	2
+A : xanh	1
+A : xanh mát	1
+A : âm thầm	1
+A : đầy	1
+A : đỏ quạch	1
+C : Giá như	1
+C : Thành ra	1
+C : cùng	1
+C : mà	2
+C : như	4
+C : nhưng	8
+C : nên	1
+C : nếu	1
+C : rằng	1
+C : rồi	4
+C : song	1
+C : thì	2
+C : và	7
+C : đến	1
+E : Ngoài	1
+E : Trên	1
+E : cho	8
+E : của	5
+E : dưới	1
+E : giữa	2
+E : lên	2
+E : nhờ	1
+E : ra	2
+E : theo	1
+E : trong	3
+E : trên	2
+E : tận	1
+E : từ	3
+E : vào	3
+E : vì	1
+E : về	4
+E : với	4
+E : để	6
+E : ở	14
+L : Những	1
+L : các	12
+L : mấy	1
+L : những	10
+L : vài	2
+LBKT : LBKT	3
+M : 10 . 036	1
+M : 15	1
+M : 1971	1
+M : 1981	1
+M : 25	1
+M : 50	1
+M : 700 . 000	1
+M : 8	1
+M : 9	6
+M : 900 . 000	1
+M : Ba	1
+M : Mười	1
+M : Mười bảy	1
+M : Một	2
+M : ba	3
+M : bảy	2
+M : bốn	1
+M : hai	3
+M : hai chục	1
+M : mỗi	2
+M : một	13
+M : một phần tư	2
+M : tám	1
+M : vạn	2
+N : Dân gian	1
+N : Hôm	1
+N : Khu vực	1
+N : Trường	1
+N : Vợ con	1
+N : anh	25
+N : anh trai	3
+N : ban	7
+N : bia	2
+N : bia mộ	1
+N : bà	2
+N : bà mẹ	1
+N : bài toán	1
+N : bàn	1
+N : bùn	1
+N : bảo hiểm	1
+N : bệnh	3
+N : bệnh tật	2
+N : bố	1
+N : bụi	1
+N : cao su	1
+N : chiến  trường	1
+N : chị em	1
+N : chợ búa	1
+N : con	1
+N : cuối	1
+N : câu	1
+N : câu chuyện	1
+N : cây	1
+N : cây số	1
+N : cô	1
+N : cô gái	1
+N : công việc	3
+N : cõi dương	1
+N : cõi âm	1
+N : căn bệnh	1
+N : cơ hội	1
+N : cụ	1
+N : du khách	1
+N : dân	1
+N : dịp	1
+N : gia sản	1
+N : gia đình	2
+N : gian nan	1
+N : gió	1
+N : giờ	1
+N : gái	1
+N : gương mặt	1
+N : gỗ	1
+N : hiện	1
+N : hoa	2
+N : hài cốt	1
+N : hàng	1
+N : hình	2
+N : hôm	1
+N : hương hồn	1
+N : khi	5
+N : khánh tiết	1
+N : khói hương	1
+N : kính	2
+N : lang	1
+N : liệt sĩ	9
+N : lãnh đạo	1
+N : lính	3
+N : lòng	1
+N : lương	1
+N : lần	3
+N : lớp	1
+N : lời	1
+N : mua	1
+N : mùa	1
+N : mùa  hè	1
+N : mưa	1
+N : mặt	2
+N : mẹ	4
+N : mồ	1
+N : mộ	5
+N : mộ bia	2
+N : nghi  thức	1
+N : nghĩa trang	4
+N : nguồn	1
+N : ngành	1
+N : ngày	2
+N : ngày ngày	1
+N : người	7
+N : nhà	6
+N : nhà báo	1
+N : nhân vật	1
+N : nông trường	1
+N : núi rừng	1
+N : năm	11
+N : nơi	1
+N : nước mắt	1
+N : nấm mồ	3
+N : phía	1
+N : phù điêu	1
+N : phương tiện	1
+N : phấn	1
+N : phần mộ	1
+N : phận	2
+N : qui mô	1
+N : quãng	1
+N : quản  trang	1
+N : quản trang	6
+N : quốc gia	2
+N : sim	1
+N : sông	1
+N : sắc	1
+N : thuốc men	1
+N : thuốc nam	3
+N : tháng	3
+N : thân hình	1
+N : thân nhân	3
+N : thông	1
+N : thận	6
+N : thế kỷ	2
+N : thị xã	1
+N : thời vụ	1
+N : tiêu	2
+N : tiền	2
+N : trai	1
+N : trời	1
+N : tuần	2
+N : tây	1
+N : tên	1
+N : tượng	1
+N : tết	1
+N : việc	3
+N : vùng	1
+N : vườn	1
+N : vợ	1
+N : vụ	1
+N : xe cộ	1
+N : xe đò	1
+N : y tế	1
+N : ông	1
+N : ý định	1
+N : đêm	1
+N : đường	2
+N : đất	3
+N : đầu	2
+N : đận	1
+N : địa chỉ	1
+N : đồi núi	1
+N : đồng nghiệp	1
+N : đồng đội	1
+N : đời	4
+N : ốc đảo	1
+NP : *E*	8
+NP : *T*	5
+Nb : bazan	1
+Nc : Anh	5
+Nc : Con	2
+Nc : anh	9
+Nc : chị	2
+Nc : con	1
+Nc : cái	2
+Nc : căn	1
+Nc : mảnh	1
+Nc : người	6
+Nc : niềm	1
+Nc : nấm	1
+Nc : tấm	3
+Nc : vị	1
+Np : Bình Trị Thiên	1
+Np : Bến Hải	2
+Np : Bệnh viện	1
+Np : Huế	2
+Np : Hà Nội	3
+Np : Hải Dương	1
+Np : Hồ Chí Minh	1
+Np : Linh	1
+Np : Lào	1
+Np : Minh Hóa	1
+Np : Nam	1
+Np : Nam Định	1
+Np : Nghệ An	1
+Np : Nông trường	1
+Np : Quảng  Trị	1
+Np : Quảng Bình	1
+Np : Quảng Trị	1
+Np : Sư phạm	1
+Np : Trung	1
+Np : Trung ương	1
+Np : Trường Sơn	9
+Np : Tú Anh	1
+Np : Tăng	12
+Np : Vĩnh Linh	1
+Np : Đinh Minh Tăng	2
+Np : Đinh Xuân Cường	1
+Np : Đông Hà	2
+Np : Đường	6
+Nu : tuổi	1
+Nu : đồng	2
+Ny : NTLS	18
+P : Ai	1
+P : Bây giờ	1
+P : Họ	1
+P : Sao	1
+P : Tôi	4
+P : ai	1
+P : bao giờ	1
+P : cô	1
+P : cả	6
+P : gì	1
+P : họ	5
+P : kia	1
+P : mình	2
+P : nay	2
+P : này	3
+P : thế	4
+P : tôi	3
+P : đây	2
+P : đấy	2
+P : ấy	2
+R : Cứ	1
+R : bằng được	1
+R : chưa	3
+R : chỉ	4
+R : có lẽ	1
+R : có thể	1
+R : cũng	6
+R : cứ	3
+R : hàng	1
+R : hàng hàng	1
+R : hơn	1
+R : hầu hết	1
+R : không	9
+R : không thể	2
+R : luôn	1
+R : lên	1
+R : lại	2
+R : lần lượt	1
+R : lắm	1
+R : mới	3
+R : nổi	1
+R : nữa	2
+R : qua	1
+R : quá	1
+R : ra	2
+R : rất	1
+R : rồi	1
+R : thường	1
+R : từng	2
+R : vẫn	8
+R : về	1
+R : vừa	3
+R : xong	1
+R : đang	6
+R : đi	2
+R : đã	9
+R : được	3
+RBK : TRBKT	1
+RBKT : RBKT	2
+S : trưởng	3
+T : Thì	1
+T : mà	1
+T : qua	1
+T : đâu	1
+V : *E*	1
+V : *T*	1
+V : Cách	1
+V : Nghe	1
+V : Ngậm ngùi	1
+V : Sinh	1
+V : Sợ	1
+V : Về	1
+V : biết	2
+V : bám trụ	1
+V : bán	1
+V : bảo	4
+V : bết	1
+V : bị	1
+V : bỏ lửng	1
+V : bồi dưỡng	1
+V : chi tiêu	1
+V : cho	1
+V : cho  phép	1
+V : chuyển	1
+V : chăm lo	3
+V : chăm sóc	2
+V : chạy	7
+V : chờ	1
+V : chụp	1
+V : chữa	1
+V : cách	1
+V : còn	1
+V : có	8
+V : cầm	1
+V : cầm cự	2
+V : cắt	1
+V : dám	1
+V : dùng	1
+V : dậy	1
+V : ghi	1
+V : giữ	1
+V : gạt	1
+V : gắn bó	1
+V : gặp	1
+V : gọi	1
+V : hi sinh	1
+V : hành hương	1
+V : hái	1
+V : hưu	1
+V : hướng dẫn	2
+V : hết	2
+V : học	2
+V : hỏi	1
+V : hỏi thăm	2
+V : khẩn cầu	1
+V : kể	3
+V : là	6
+V : làm	4
+V : lên	3
+V : lăn lóc	1
+V : lắc đầu	1
+V : muốn	1
+V : ngang	1
+V : nghe	1
+V : ngập	1
+V : nhìn	2
+V : nhảy	1
+V : nhờ	2
+V : nâng cấp	1
+V : nói	3
+V : nằm	2
+V : phải	1
+V : phủ	1
+V : qua	5
+V : qui tập	1
+V : quật  ngã	1
+V : quật ngã	1
+V : ra	2
+V : rợn ngợp	1
+V : suy	1
+V : sống	1
+V : thuê	1
+V : thăm	4
+V : thăm viếng	1
+V : thấy	1
+V : thực hiện	1
+V : tin	2
+V : tiếp  tục	1
+V : trông	1
+V : trở lại	1
+V : trở thành	1
+V : tìm	5
+V : tính	1
+V : tốn	1
+V : uống	1
+V : viếng	1
+V : viết	5
+V : vào	3
+V : về	7
+V : xin	1
+V : xoay xở	1
+V : xong	1
+V : xây dựng	1
+V : xóa	1
+V : ăn ở	1
+V : đi	5
+V : đi lại	1
+V : đánh thức	1
+V : đón	1
+V : đưa	2
+V : được	2
+V : đầu tư	1
+V : đến	1
+V : định	1
+V : độ trì	2
+V : đỡ	1
+V : đủ	1
+V : ấp ủ	1
+V : ở	3
+X : xem ra	1
+Y : &	1

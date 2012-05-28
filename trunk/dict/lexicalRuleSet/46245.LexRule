@@ -1,0 +1,520 @@
+" : "	13
+, : ,	67
+- : -	5
+. : .	62
+... : ...	10
+/ : /	1
+: : :	7
+A : Dễ dàng	1
+A : Khó khăn	1
+A : Như	1
+A : Phức tạp	1
+A : an toàn	1
+A : bèo	1
+A : bỡ ngỡ	1
+A : cao	3
+A : chắc	1
+A : có thể	2
+A : công khai	1
+A : cũ	1
+A : cồng kềnh	1
+A : dài	2
+A : dần dần	1
+A : dễ	1
+A : dễ dàng	1
+A : dọc	1
+A : ghê	1
+A : giả	1
+A : gấp	2
+A : gần	3
+A : khoang	2
+A : khó	1
+A : kém	4
+A : lầy	1
+A : lậu	9
+A : lớn	1
+A : mỏng	1
+A : mới	3
+A : nghiêm trọng	1
+A : ngoài	1
+A : nhiều	3
+A : nhộn nhịp	1
+A : nội địa	1
+A : phăm phăm	1
+A : phải	3
+A : phức tạp	1
+A : quen thuộc	1
+A : rách	1
+A : rõ	1
+A : rẻ	1
+A : rộng	1
+A : sẵn	2
+A : thì thầm	1
+A : thật	1
+A : thẳng	1
+A : tinh vi	1
+A : trong	1
+A : tràn lan	1
+A : trước	1
+A : trắng	2
+A : tạm bợ	1
+A : từ từ	1
+A : vui	1
+A : vuông	1
+A : vội vã	1
+A : xa	1
+A : đen	1
+A : đầu tiên	1
+A : đầy	2
+A : đầy đủ	1
+A : đủ	3
+C : Nhưng	2
+C : Nếu	5
+C : Tuy nhiên	3
+C : chứ	2
+C : còn	1
+C : hay	1
+C : hoặc	1
+C : là	4
+C : mà	4
+C : như	4
+C : nhưng	1
+C : nên	2
+C : rồi	1
+C : thì	13
+C : và	3
+E : Theo	2
+E : Trong	2
+E : Tại	2
+E : Với	1
+E : bằng	1
+E : bởi	1
+E : của	3
+E : lên	2
+E : ra	1
+E : sau	1
+E : theo	2
+E : trong	1
+E : trên	3
+E : tại	5
+E : từ	10
+E : vào	3
+E : vì	1
+E : về	3
+E : với	6
+E : Đến	1
+E : đến	6
+E : để	7
+E : đối với	2
+E : ở	2
+L : Những	2
+L : các	13
+L : mấy	1
+L : mọi	1
+L : một số	1
+L : những	12
+L : vài	3
+L : vô số	1
+LBKT : LBKT	2
+M : 1	1
+M : 10	1
+M : 10.000	1
+M : 100 . 000	1
+M : 14	1
+M : 19 . 000	2
+M : 200	1
+M : 253	1
+M : 26. 000	1
+M : 28 . 000	1
+M : 35 . 1000	1
+M : 5	1
+M : 6	1
+M : 70 . 000	1
+M : Một	1
+M : hai	2
+M : một	9
+M : ngàn	1
+M : rưỡi	1
+M : trăm	2
+M : đôi	2
+N : Bên	1
+N : Bọc	1
+N : Chi cục	2
+N : Chúng	1
+N : Con	1
+N : Cửu vạn	1
+N : Gà	1
+N : Hàng	1
+N : Lực lượng	1
+N : Mé	1
+N : Mũ bảo hiểm	1
+N : Người	1
+N : Nhãn mác	1
+N : QLTT	1
+N : Thông tin	1
+N : ba ba	3
+N : ban	1
+N : bao tải	1
+N : biên giới	2
+N : bãi	1
+N : bên	2
+N : bò	2
+N : bạt	1
+N : bản	1
+N : bản đồ	1
+N : chi cục trưởng	1
+N : chiếc	3
+N : chuyện	1
+N : chân	1
+N : chất lượng	6
+N : chợ	10
+N : chủ	5
+N : chữ	1
+N : con	1
+N : cuối	1
+N : cá	1
+N : cá chim trắng	2
+N : cách	2
+N : căn cứ	1
+N : cơ quan chức năng	1
+N : cơn sốt	1
+N : cản trở	1
+N : cửa khẩu	1
+N : cửu vạn	5
+N : dân	3
+N : dân tộc	1
+N : gia cầm	1
+N : gia súc	2
+N : gian hàng	1
+N : giá	8
+N : giá trị	2
+N : gà	5
+N : gốc	1
+N : hoa văn	1
+N : hàng	27
+N : hành trình	1
+N : hình thức	1
+N : hôm	1
+N : khi	7
+N : kho	3
+N : khu vực	1
+N : loại	4
+N : làng	1
+N : lái buôn	1
+N : lót	1
+N : lợi nhuận	1
+N : lợn	10
+N : lực lượng	1
+N : may rủi	1
+N : mũ	8
+N : mũ bảo hiểm	3
+N : mẫu mã	1
+N : mặt hàng	3
+N : một mình	1
+N : ngoại ngữ	1
+N : người	3
+N : nhau	1
+N : nhiệm vụ	1
+N : nhà	1
+N : nilông	1
+N : nông sản	5
+N : núi	3
+N : nơi	1
+N : nội địa	2
+N : pháp lý	1
+N : phía	1
+N : phản quang	1
+N : phần	1
+N : phần lớn	1
+N : quyền	1
+N : quốc lộ	2
+N : sông	1
+N : số lượng	1
+N : sở hữu trí tuệ	1
+N : sức	1
+N : tay	1
+N : tem	1
+N : thành	1
+N : thành phố	3
+N : thông tin	1
+N : thú y	1
+N : thị trường	3
+N : thịt	4
+N : thực phẩm	7
+N : thực tế	2
+N : tiêu chuẩn	1
+N : tiếng	1
+N : trưa	1
+N : trẻ	1
+N : trẻ con	1
+N : tuyến	2
+N : tuần	1
+N : tình hình	1
+N : tình trạng	1
+N : túi	1
+N : tư thương	1
+N : tỉnh	2
+N : ven	2
+N : virus	1
+N : việc	4
+N : vác	3
+N : vùng biên	1
+N : vịt	1
+N : vốn	1
+N : xe	1
+N : xe máy	1
+N : xã	1
+N : xốp	1
+N : ông	1
+N : ôtô	1
+N : Điều	1
+N : Đoạn	2
+N : Đường biên	1
+N : Đợt	1
+N : điểm	2
+N : đoạn	1
+N : đám	1
+N : đĩa	1
+N : đường	5
+N : đường biên	1
+N : đường mòn	2
+N : đất	1
+N : đầu	1
+N : địa danh	1
+N : đứa	1
+NP : *E*	19
+Nc : Chị	1
+Nc : Người	1
+Nc : chiếc	6
+Nc : con	2
+Nc : cái	1
+Nc : dòng	1
+Nc : người	4
+Nc : tấm	1
+Nc : Ông	2
+Np : Amoro	2
+Np : Anh	1
+Np : Cổng Trắng	1
+Np : H5N1	1
+Np : Hoàng Minh Trường	1
+Np : Hà Nội	1
+Np : Kỳ Lừa	1
+Np : Lạng Sơn	9
+Np : Minsk	1
+Np : Nông Thị Hương	1
+Np : Tam Hoàng	2
+Np : Thác Ném	1
+Np : Trung Quốc	4
+Np : Trường	1
+Np : Tân Thanh	3
+Np : VN	2
+Np : chất lượng	1
+Np : mũ bảo hiểm	1
+Np : Đồng Đăng	4
+Nu : NDT	1
+Nu : kg	1
+Nu : kilômet	1
+Nu : km	2
+Nu : m	1
+Nu : mét	1
+Nu : đ	5
+Nu : đồng	1
+Ny : CD	1
+Ny : S	1
+Ny : VCD	1
+Ny : VN	1
+P : Ai	1
+P : Cả	1
+P : ai	3
+P : bao nhiêu	1
+P : chúng	1
+P : chúng tôi	3
+P : cả	3
+P : gì	2
+P : họ	1
+P : kia	2
+P : người ta	2
+P : nào	6
+P : này	3
+P : sao	1
+P : ta	1
+P : thế nào	1
+P : tất cả	1
+P : vậy	2
+P : đây	1
+P : đó	6
+R : Chỉ	4
+R : Cũng	1
+R : Không	3
+R : Thậm chí	1
+R : bất kỳ	1
+R : chưa	3
+R : chẳng	3
+R : chỉ	6
+R : còn	4
+R : cũng	7
+R : cứ	1
+R : hàng	1
+R : hơn	1
+R : khá	1
+R : không	11
+R : không thể	1
+R : luôn	1
+R : lên	3
+R : lại	5
+R : lập tức	2
+R : lắm	1
+R : mới	3
+R : nhất	2
+R : qua	1
+R : quá	1
+R : ra	1
+R : rất	2
+R : sang	1
+R : sẵn	1
+R : từng	1
+R : vô cùng	1
+R : vẫn	1
+R : về	5
+R : xuống	2
+R : đang	3
+R : đi	2
+R : đáng	1
+R : đã	9
+R : được	3
+R : đến	1
+R : đều	2
+RBKT : RBKT	2
+T : Chính	1
+T : Ngay	2
+T : chính	1
+T : cả	1
+T : cứ	1
+T : ngay	2
+T : đến	1
+V : Có	2
+V : Cứ	1
+V : Gọi	1
+V : QLTT	1
+V : Quản lý	1
+V : Theo	1
+V : Về	1
+V : biết	12
+V : bán	8
+V : bóp	1
+V : bóp méo	1
+V : bảo hiểm	1
+V : bảo vệ	1
+V : bắt	3
+V : bị	2
+V : bọc	1
+V : bỏ	1
+V : che phủ	1
+V : cho	6
+V : chui	1
+V : chuyển	2
+V : chạm	1
+V : chạy	1
+V : chất	1
+V : chặn	2
+V : chết	2
+V : chịu	1
+V : chờ	2
+V : chứa	1
+V : chứng kiến	1
+V : chứng minh	1
+V : cách	2
+V : có	10
+V : công bố	1
+V : dao động	1
+V : dán	1
+V : dẫn	1
+V : gấp	4
+V : gặp	1
+V : hiệu	1
+V : hết	2
+V : hợp thức hóa	1
+V : khẩn trương	1
+V : khẳng định	2
+V : khỏi	1
+V : kiểm dịch	1
+V : kiểm tra	1
+V : kiểm định	1
+V : lao	1
+V : là	10
+V : làm	2
+V : lãi	1
+V : lên	2
+V : lấy	1
+V : lậu	1
+V : lời	1
+V : mang	3
+V : mua	6
+V : muốn	2
+V : mất	1
+V : nghĩ	1
+V : nhái	1
+V : nhét	1
+V : nhảy	1
+V : nhận	1
+V : nhập	6
+V : nhờ	1
+V : nâng niu	1
+V : ném	1
+V : nói	5
+V : phát hiện	1
+V : phóng	1
+V : phải	1
+V : phổ biến	1
+V : qua	2
+V : quan tâm	1
+V : quăng quật	1
+V : quản lý	1
+V : ra	1
+V : rối tung	1
+V : sang	2
+V : sôi động	1
+V : sắp xếp	1
+V : thuộc	1
+V : thấy	2
+V : thực thi	1
+V : tiêu dùng	1
+V : tiêu thụ	1
+V : tiếp tục	1
+V : tràn	2
+V : trải	1
+V : trở nên	1
+V : tìm	1
+V : tùy	1
+V : tăng	2
+V : tương đương	1
+V : tập kết	2
+V : tỏ	1
+V : tổ chức	2
+V : vi phạm	1
+V : vào	1
+V : vác	1
+V : vượt	1
+V : vận chuyển	1
+V : về	1
+V : vứt	1
+V : xác nhận	1
+V : xác định	1
+V : xẻ	3
+V : xử lý	1
+V : đi	4
+V : đánh cuộc	1
+V : đón nhận	1
+V : đưa	3
+V : được	11
+V : đạt	1
+V : đối phó	1
+V : đợi	1
+V : đứng	1
+V : ảnh hưởng	1
+V : ồ ạt	1
+Vy : QLTT	1
+X : Hơn nữa	1
+X : Thôi thì	1
+X : hơn nữa	1
+X : nói chung	1

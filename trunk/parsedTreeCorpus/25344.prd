@@ -1,0 +1,168 @@
+<s>
+(S-TTL 
+     (NP-SUB (Ny-H WB))
+     (VP (V-H giới thiệu)
+          (NP-DOB (N-H mô hình)
+               (XP (X-H xóa đói giảm nghèo)
+                    (PP (E-H của)
+                         (NP (N-H VN)))))
+          (PP-IOB (E-H cho)
+               (NP (L các) (N-H nước)
+                    (VP (R đang) (V-H phát triển)))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Văn phòng)
+          (NP (N-H Ngân hàng) (N thế giới) (LBKT LBKT)
+               (NP (Ny-H WB))
+               (RBKT RBKT)
+               (PP-LOC (E-H tại)
+                    (NP (Ny-H VN)))))
+     (VP (V-H cho) (V biết)
+          (SBAR 
+               (S 
+                    (PP-TMP (E-H từ)
+                         (NP (N-H ngày) (M 25 - 27) (/ /) (M 3)))
+                    (, ,)
+                    (PP-LOC (E-H tại)
+                         (NP (Np-H Thượng Hải) (LBKT LBKT)
+                              (NP (Np-H Trung Quốc))
+                              (RBKT RBKT)))
+                    (NP-SUB 
+                         (NP (Ny-H WB))
+                         (C và)
+                         (NP (N-H chính phủ) (Ny TQ)))
+                    (VP (R sẽ) (V-H tổ chức)
+                         (NP-DOB (N-H hội nghị) (N tri thức) (N toàn cầu)
+                              (VP-PRP (V-H nhằm)
+                                   (VP (V-H thúc giục)
+                                        (VP (V-H giảm)
+                                             (AP (A-H nghèo)
+                                                  (AP (A-H nhanh) (A hơn))))))
+                              (PP-LOC (E-H ở)
+                                   (NP (N-H qui mô)
+                                        (AP (A-H lớn)))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Hội nghị) (P này))
+     (VP 
+          (VP (R sẽ) (V-H qui tụ)
+               (NP-DOB (A khoảng) (M 600) (N-H đại biểu)))
+          (C cùng)
+          (VP (V-H nghiên cứu)
+               (NP-DOB (N-H hàng loạt)
+                    (NP (L các) (N-H trường hợp)
+                         (AP (A-H cụ thể))
+                         (VP-PRP (V-H minh họa)
+                              (NP-DOB (L những) (N-H mô hình)
+                                   (VP 
+                                        (VP (V-H thành công))
+                                        (C và)
+                                        (VP (R chưa) (V-H thành công))))))))
+          (, ,)
+          (VP (V-H chỉ)
+               (AP (A-H rõ))
+               (NP-DOB (L những) (N-H cách)
+                    (VP (V-H tiếp cận)
+                         (AP (A-H thực sự)
+                              (VP (V-H có)
+                                   (NP-DOB (N-H hiệu quả))))
+                         (PP-ADV (E-H trong)
+                              (VP (V-H giảm)
+                                   (AP (A-H nghèo))))
+                         (PP-ADV (E-H ở)
+                              (NP (N-H qui mô)
+                                   (AP (A-H lớn))))
+                         (PP (E-H trong)
+                              (NP (L nhiều) (N-H khung cảnh)
+                                   (NP (N-H kinh tế))
+                                   (, ,)
+                                   (NP (N-H xã hội))
+                                   (C và)
+                                   (NP (N-H định chế))))))))
+     (. .))
+</s>
+<s>
+(S 
+     (NP-SUB (P-H Đây))
+     (VP (V-H là)
+          (NP-TMP (N-H lần) (A đầu tiên)
+               (SBAR 
+                    (S 
+                         (NP-SUB (L các) (N-H nhà)
+                              (VP 
+                                   (VP (V-H thực hiện))
+                                   (C và)
+                                   (VP (V-H lập)
+                                        (NP-DOB (N-H chính sách))))
+                              (PP-LOC (E-H ở)
+                                   (NP (L các) (N-H nước)
+                                        (VP (R đang) (V-H phát triển)))))
+                         (VP 
+                              (VP (V-H tập trung)
+                                   (PP-LOC (E-H tại)
+                                        (NP (M một) (N-H hội nghị) (N quốc tế))))
+                              (VP (V-H chia sẻ)
+                                   (NP-DOB (N-H kinh nghiệm) (, ,) (N-H chuyên môn)))
+                              (, ,)
+                              (VP (V-H phân tích)
+                                   (NP-DOB (L các) (N-H hiệu quả)))
+                              (, ,)
+                              (VP (V-H nghiên cứu)
+                                   (NP-DOB (M 70) (N-H trường hợp)
+                                        (VP (V-H giảm)
+                                             (AP (A-H nghèo)))))
+                              (C và)
+                              (VP (V-H tìm) (V ra)
+                                   (NP-DOB (L những) (N-H yếu tố)
+                                        (VP (V-H làm nên)
+                                             (NP-DOB (N-H thành công) (P này))))))))))
+     (. .))
+
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Trường hợp)
+          (VP (V-H nghiên cứu)
+               (PP-ADV (E-H của)
+                    (NP (Ny-H VN)))))
+     (VP (V-H mang)
+          (NP-DOB (N-H tựa đề) (" ")
+               (NP (N-H tác động)
+                    (PP (E-H của)
+                         (VP (V-H phát triển)
+                              (NP-DOB (N-H cơ sở hạ tầng))))
+                    (PP (E-H đối với)
+                         (VP (V-H giảm)
+                              (AP (A-H nghèo)
+                                   (NP (N-H nông thôn))))))
+               (" ")))
+     (. .))
+
+</s>
+<s>
+(S-PV 
+     (NP-SUB (L Các) (N-H trường hợp)
+          (VP (V-H nghiên cứu))
+          (P này))
+     (VP (R sẽ) (V-H được)
+          (SBAR 
+               (S (NP-SUB *E*)
+                    (VP (V-H trình bày) (C và) (V-H thảo luận)
+                         (VP (V-H thông qua)
+                              (NP-DOB 
+                                   (NP (M 20) (N-H hội nghị) (N truyền hình)
+                                        (VP (V-H có)
+                                             (NP-DOB (Nc-H sự) (V tham gia)
+                                                  (PP (E-H của)
+                                                       (NP (L các) (N-H quốc gia))))))
+                                   (, ,)
+                                   (NP (L những) (N-H cuộc) (V đối thoại)
+                                        (AP (A-H trực tuyến)))))))))
+     (... ...))
+</s>

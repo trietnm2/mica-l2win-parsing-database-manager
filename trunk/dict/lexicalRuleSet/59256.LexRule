@@ -1,0 +1,691 @@
+! : !	3
+" : "	12
+, : ,	74
+- : -	20
+. : .	46
+... : ...	10
+/ : /	1
+: : :	6
+? : ?	2
+A : Chưa	1
+A : Có thể	1
+A : Dĩ nhiên	1
+A : Hơn	1
+A : Hữu nghị	2
+A : Khác	1
+A : Nhiều	1
+A : bất ngờ	1
+A : cao	2
+A : cao niên	1
+A : chung	1
+A : chậm trễ	1
+A : chịu khó	1
+A : cùng	2
+A : cần cù	1
+A : diệu vợi	1
+A : dài	1
+A : dễ	1
+A : già yếu	1
+A : giàu	1
+A : gần	3
+A : hoạt bát	1
+A : hơn	1
+A : hạnh phúc	1
+A : hợp pháp	1
+A : hữu hiệu	1
+A : hữu nghị	2
+A : khác	4
+A : khó	1
+A : khó khăn	2
+A : khô cằn	1
+A : khắc khoải	1
+A : khắp	1
+A : lâu	2
+A : lớn tuổi	1
+A : lợi	1
+A : mỏi mòn	1
+A : ngắn	1
+A : nhiều	14
+A : nhất	1
+A : nhẫn nại	1
+A : quan trọng	2
+A : ruột	1
+A : rõ	1
+A : rạng rỡ	1
+A : rộng	1
+A : rợp	1
+A : sau	1
+A : suốt	2
+A : sớm	1
+A : to lớn	1
+A : trên	1
+A : tròn	1
+A : trù phú	1
+A : trước	1
+A : tâm huyết	1
+A : tốt đẹp	1
+A : xa vời	1
+A : xanh tươi	1
+A : ít	2
+A : đau khổ	1
+A : đau đáu	1
+A : đông	2
+A : đầy	1
+A : đặc biệt	1
+A : ấn tượng	1
+C : Nếu	2
+C : Và	1
+C : hoặc	1
+C : là	2
+C : mà	7
+C : như	3
+C : nhưng	4
+C : nên	3
+C : nếu	1
+C : rằng	5
+C : rồi	1
+C : thì	2
+C : và	19
+C : vì thế	1
+C : đồng thời	1
+E : Trước	1
+E : Tại	1
+E : Từ	3
+E : bởi	3
+E : cho	13
+E : của	25
+E : do	1
+E : dưới	2
+E : giữa	2
+E : ngoài	1
+E : qua	1
+E : sang	1
+E : sau	3
+E : theo	1
+E : trong	12
+E : trên	7
+E : trước	3
+E : tại	11
+E : từ	2
+E : vì	1
+E : về	4
+E : với	15
+E : đến	3
+E : để	3
+E : đối với	1
+E : Ở	1
+E : ở	25
+L : Một số	1
+L : các	12
+L : mấy	3
+L : một số	1
+L : những	17
+LBKT : LBKT	10
+M : 1 . 000	1
+M : 1/3	1
+M : 10	1
+M : 100	1
+M : 12	2
+M : 17	1
+M : 19	2
+M : 1946	1
+M : 1953	1
+M : 1960	1
+M : 1964	1
+M : 2	1
+M : 20	1
+M : 2003	1
+M : 2004	2
+M : 22	1
+M : 3	1
+M : 3 . 000	1
+M : 4	1
+M : 5	2
+M : 572	1
+M : 6 . 000	1
+M : 60	1
+M : 7 . 000	1
+M : 70	1
+M : 76	1
+M : Một	3
+M : ba	2
+M : hai	8
+M : mỗi	2
+M : một	19
+M : ngàn	2
+M : nhất	1
+M : năm	1
+M : triệu	1
+M : tư	1
+M : vạn	3
+N : Anh	1
+N : Bà	1
+N : Bà con	1
+N : Bài	1
+N : Bộ	2
+N : Giáo dục	1
+N : Giấc	1
+N : Hiện nay	1
+N : Hôm	2
+N : Hội	1
+N : Khi	1
+N : Không khí	1
+N : Nhúm	1
+N : Nội vụ	2
+N : Phần đông	1
+N : Quốc hội	1
+N : Quốc tịch	1
+N : Sư phạm	1
+N : Sự	1
+N : Thủ tướng	4
+N : Thứ trưởng	1
+N : Tiến sĩ	1
+N : Trường	1
+N : Tỉnh	1
+N : Tổ quốc	2
+N : Tổng lãnh sự	1
+N : Việc	1
+N : Viện	1
+N : Việt kiều	1
+N : Vùng	1
+N : anh	1
+N : anh em	3
+N : buổi	4
+N : bà	2
+N : bà con	3
+N : bài	2
+N : bàn	1
+N : bánh phở	1
+N : báo	1
+N : băng	1
+N : bản	3
+N : bắc	7
+N : cam	1
+N : chuyến	1
+N : chuyện	2
+N : chuông	1
+N : châu	1
+N : chính phủ	5
+N : chính quyền	3
+N : chính sách	1
+N : chùa	1
+N : chương trình	1
+N : chỗ	1
+N : chủ	1
+N : con	2
+N : con cháu	2
+N : con cái	1
+N : con em	3
+N : cuộc	2
+N : cuộc sống	1
+N : cây	1
+N : công sở	1
+N : công tác	1
+N : công ơn	1
+N : cơ khí	1
+N : cơ quan chức năng	1
+N : cảm tình	1
+N : cấp	1
+N : cố hương	3
+N : cống hiến	1
+N : cổng	1
+N : cộng đồng	4
+N : cờ	2
+N : cử tri	1
+N : diễn văn	2
+N : dáng	1
+N : dân	3
+N : dân số	1
+N : dân tộc	1
+N : dịp	1
+N : gia đình	1
+N : giá trị	1
+N : giấc	3
+N : giấy phép	2
+N : giấy tờ	2
+N : giờ phút	1
+N : gương mặt	1
+N : gạo	1
+N : gốc	3
+N : hiện	1
+N : hoàn cảnh	1
+N : hành lang	1
+N : hôm nay	1
+N : hệ thống	1
+N : họ	2
+N : học bổng	1
+N : học phí	1
+N : hồ sơ	1
+N : hồi	1
+N : hộ chiếu	1
+N : hội trường	1
+N : khi	7
+N : khoản	1
+N : khoảng	2
+N : khoảng cách	1
+N : kinh tế	1
+N : kỳ	1
+N : kỹ sư	1
+N : loa	1
+N : làng	4
+N : lá	2
+N : lòng	1
+N : lúa	1
+N : lương thực	1
+N : lần	1
+N : lễ	3
+N : lời	1
+N : miền	2
+N : môn bài	1
+N : mảnh	2
+N : mối	1
+N : mục tiêu	1
+N : mức	1
+N : nghề	1
+N : ngài	2
+N : ngành	1
+N : ngày	4
+N : người	26
+N : nhau	1
+N : nhiệm kỳ	1
+N : nhà	1
+N : nhà cửa	1
+N : nhà máy	1
+N : nhà nông	1
+N : nhà nước	1
+N : niềm	1
+N : nóc	1
+N : nông	1
+N : nông nghiệp	1
+N : núi	1
+N : năm	4
+N : năng lực	1
+N : nơi	3
+N : nước	6
+N : nước ngoài	2
+N : nước ngọt	1
+N : nắm	1
+N : nắng mưa	1
+N : nỗi lòng	1
+N : nội các	1
+N : nửa	1
+N : phiếu	1
+N : phép	1
+N : phút giây	1
+N : phụ nữ	2
+N : phụ trách	1
+N : quan hệ	3
+N : quan san	1
+N : quyền	1
+N : quê hương	2
+N : quê nhà	1
+N : quả	1
+N : quốc tịch	16
+N : ruột	1
+N : sinh viên	1
+N : sông	1
+N : số	3
+N : sự	2
+N : tang	1
+N : tay nghề	1
+N : thành phố	1
+N : tháng	1
+N : thế hệ	4
+N : thế kỷ	1
+N : thời gian	1
+N : thời điểm	1
+N : thủ tướng	1
+N : thứ	4
+N : thực phẩm	1
+N : tiến sĩ	1
+N : tiềm năng	2
+N : tiệm	1
+N : trang trại	2
+N : triển vọng	1
+N : trường hợp	1
+N : trọng bệnh	1
+N : tuần	1
+N : tuổi	1
+N : tâm nguyện	1
+N : tây	1
+N : tình cảm	1
+N : tình hình	1
+N : tòa	1
+N : tương lai	1
+N : tỉnh	7
+N : tỉnh thành	1
+N : tỉnh trưởng	1
+N : tối	2
+N : tổ tiên	1
+N : tổng số	1
+N : tờ	1
+N : từ	1
+N : tựa	1
+N : việc	4
+N : việc làm	1
+N : vùng	5
+N : vùng đất	1
+N : vấn đề	4
+N : xa lộ	1
+N : xe	2
+N : xứ	2
+N : ông bà	1
+N : ý nghĩa	1
+N : Điều	1
+N : Đại học	2
+N : Đảng	1
+N : điền trang	1
+N : điện máy	1
+N : điện thoại	1
+N : điện thoại di động	1
+N : đám tang	1
+N : đây	1
+N : đông	8
+N : đơn	2
+N : đường	4
+N : đại biểu	1
+N : đại diện	2
+N : đại học	4
+N : đại sứ quán	1
+N : đất	8
+N : đất nước	1
+N : đất đai	1
+N : đề	1
+N : địa phương	1
+N : độ	1
+N : đời	4
+N : đợt	2
+N : đứa	1
+N : ứng viên	1
+NP : *E*	14
+NP : *T*	2
+Nc : Anh	1
+Nc : Bác	1
+Nc : Người	2
+Nc : anh	5
+Nc : bà	2
+Nc : chiếc	1
+Nc : con	2
+Nc : ngôi	1
+Nc : người	26
+Np : Bangkok	2
+Np : Bác Hồ	2
+Np : Chiến	1
+Np : Chulalongkorn	1
+Np : Diệu Giác	1
+Np : Dân Nguyện	1
+Np : Hoa	1
+Np : Hoàng Minh Tâm	1
+Np : Hà Nội	1
+Np : Hải	3
+Np : Isan	2
+Np : Kalaxin	1
+Np : Khonkaen	3
+Np : Lào	1
+Np : Matichon	1
+Np : Mekong	1
+Np : Muk	2
+Np : Mukdahan	3
+Np : Nachock	3
+Np : Nakhon Phanom	5
+Np : Nguyễn Văn Tấn	1
+Np : Noong Khai	1
+Np : Phan Văn Khải	1
+Np : Phichit	1
+Np : Pramuan Ruchanaserre	1
+Np : SEA Games	1
+Np : Sakon Nakhon	1
+Np : SakonNakhon	1
+Np : Sea Games	1
+Np : Thaksin Shinawatra	3
+Np : Thái	29
+Np : Thái Lan	10
+Np : Thăndzathip Siphanar	2
+Np : Udon	1
+Np : UdonThani	2
+Np : Udonthani	1
+Np : VN	4
+Np : Vinh	1
+Np : Việt	24
+Np : Việt kiều	12
+Np : Vosabuly	1
+Np : Vosabuly Sausirileun	1
+Np : XatThai	1
+Np : Á	2
+Np : Đà Nẵng	1
+Nu : hecta	1
+Nu : người	2
+Ny : NV	1
+P : Bây giờ	1
+P : Họ	1
+P : Nó	1
+P : Tôi	2
+P : Vậy	1
+P : ai	2
+P : bao giờ	1
+P : bao nhiêu	1
+P : bà	1
+P : bây giờ	1
+P : chúng ta	1
+P : chúng tôi	3
+P : cả	3
+P : hiện nay	1
+P : họ	6
+P : mình	2
+P : nào	1
+P : này	7
+P : ta	1
+P : thế	1
+P : thế nào	1
+P : tôi	2
+P : tất cả	1
+P : vậy	2
+P : đây	10
+P : đó	1
+P : đấy	2
+P : ấy	4
+R : Không	3
+R : bỗng	1
+R : chưa	7
+R : chỉ	3
+R : chợt	2
+R : càng	1
+R : còn	4
+R : cũng	8
+R : cứ	1
+R : hàng	1
+R : hơn	3
+R : hẳn	2
+R : khá	1
+R : không	9
+R : luôn	2
+R : lên	5
+R : lại	3
+R : mới	3
+R : nhất	2
+R : quá	5
+R : ra	7
+R : rất	6
+R : sang	1
+R : sắp	1
+R : sẽ	4
+R : thêm	1
+R : thường	1
+R : từng	1
+R : vẫn	6
+R : về	2
+R : vừa	1
+R : đang	10
+R : đáng	1
+R : đã	20
+R : được	9
+R : đến	1
+R : đều	1
+RBKT : RBKT	10
+S : Cố	1
+S : cố	1
+T : Chính	2
+T : Ngay	1
+T : cho	1
+T : chính	1
+T : thật	2
+T : thế	1
+T : đến	4
+V : Có	1
+V : Hỏi	1
+V : Phải	1
+V : Trích	1
+V : Về	1
+V : biết	6
+V : bảo	1
+V : bị	1
+V : bỏ qua	1
+V : chiếm	2
+V : cho	2
+V : chuyển nhượng	1
+V : chăn nuôi	1
+V : chạy	1
+V : chế biến	2
+V : chết	1
+V : chỉ thị	1
+V : chịu	1
+V : cách	1
+V : cách thức	1
+V : còn	1
+V : có	24
+V : có mặt	1
+V : công tác	1
+V : cư trú	1
+V : cấp	8
+V : cắt	1
+V : cố hương	1
+V : cởi mở	1
+V : du học	1
+V : dạy	2
+V : dịch	1
+V : dứt điểm	1
+V : dự	1
+V : giúp	2
+V : giải quyết	1
+V : gấp	1
+V : gần gũi	1
+V : gắn bó	1
+V : gặp	1
+V : gọi	6
+V : gồm	1
+V : gửi	1
+V : hay	1
+V : hiểu	2
+V : hãnh diện	1
+V : hôn	1
+V : hết	2
+V : học	2
+V : họp	2
+V : hỏi	1
+V : hồi hương	1
+V : hứa	2
+V : khai mạc	1
+V : khai phá	1
+V : khánh thành	3
+V : khẩn trương	1
+V : kinh doanh	2
+V : lo	1
+V : là	14
+V : làm	3
+V : lâm	1
+V : lên	2
+V : mang	1
+V : mua bán	1
+V : muốn	1
+V : móc	1
+V : mơ	4
+V : mở	3
+V : nghe	3
+V : nghiên cứu	1
+V : ngóng vọng	1
+V : ngồi	2
+V : nhân	1
+V : nhấn mạnh	2
+V : nhận	4
+V : nhập	7
+V : nhập tịch	2
+V : nhắc nhở	1
+V : nhớ	2
+V : náo nức	1
+V : nói	5
+V : nộp	1
+V : phát triển	1
+V : phải	4
+V : qua	1
+V : qua đời	1
+V : quan hệ	1
+V : ra	1
+V : réo	1
+V : rút	1
+V : sinh	3
+V : sinh sống	2
+V : sinh trưởng	1
+V : siêng năng	1
+V : so	2
+V : sống	4
+V : thuận lợi	1
+V : thuộc	4
+V : thêm	2
+V : thông báo	1
+V : thông thoáng	1
+V : thúc đẩy	1
+V : thăm	6
+V : thấy	2
+V : thắm thiết	1
+V : thừa nhận	1
+V : thử	1
+V : thực tập	1
+V : tin	1
+V : tiến hành	1
+V : tiếp	1
+V : tranh cử	1
+V : tranh thủ	1
+V : trao	2
+V : treo	1
+V : triết lý	1
+V : trông ngóng	1
+V : trồng	2
+V : trồng trọt	1
+V : trở nên	1
+V : tìm	1
+V : tản cư	2
+V : tập trung	2
+V : tới	1
+V : tự hào	1
+V : vang	1
+V : viết	2
+V : vào	3
+V : vận động	3
+V : về	4
+V : vọng	1
+V : xay xát	1
+V : xem	1
+V : xem xét	1
+V : xin	1
+V : xuyên	1
+V : xuất nhập khẩu	1
+V : xét duyệt	1
+V : ăn	2
+V : đi	2
+V : đánh cá	1
+V : đóng góp	1
+V : đưa	1
+V : được	18
+V : đậu	1
+V : đến	4
+V : đệ	1
+V : đối mặt	1
+V : đứng tên	1
+V : ồn ào	1
+X : Làm sao	1
+X : Vậy là	1
+X : nghĩa là	1
+X : ngày càng	1
+X : ngược lại	1
+X : nhất là	2
+X : pick-up	1

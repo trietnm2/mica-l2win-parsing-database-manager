@@ -1,0 +1,537 @@
+! : !	1
+" : "	24
+, : ,	55
+- : -	17
+. : .	43
+... : ...	2
+: : :	3
+; : ;	1
+? : ?	1
+A : Lắm	1
+A : Nhiều	3
+A : bé	1
+A : chung	1
+A : có thể	1
+A : cùng	1
+A : cũ	1
+A : cẩn thận	2
+A : cẩn trọng	1
+A : da diết	1
+A : duy nhất	2
+A : dài	3
+A : gian khổ	1
+A : gần	3
+A : hoàn toàn	1
+A : hóm hỉnh	1
+A : hơn	1
+A : khác	1
+A : không thể	2
+A : kiên trì	1
+A : lịch sử	1
+A : lớp lớp	1
+A : mỏng manh	1
+A : nhanh	1
+A : nhiều	4
+A : như	1
+A : nhẹ tênh	1
+A : nồng cháy	1
+A : phải	1
+A : riêng	3
+A : sau	2
+A : sáng	1
+A : sắc sảo	1
+A : tiện lợi	1
+A : to	2
+A : to đùng	1
+A : trĩu	1
+A : trước	1
+A : tươi	1
+A : xưa	1
+A : đơn sơ	1
+A : đầu tiên	1
+A : đầy	1
+A : đẹp	1
+A : độc lập	1
+A : ưu tiên	1
+C : Hễ	1
+C : Và	1
+C : Với	1
+C : còn	1
+C : do	1
+C : hay	1
+C : là	2
+C : mà	3
+C : như	3
+C : nhưng	6
+C : rồi	2
+C : thì	3
+C : và	7
+E : Trong	1
+E : Trên	1
+E : Trước	1
+E : bằng	4
+E : bởi	1
+E : cho	5
+E : của	27
+E : do	1
+E : giữa	1
+E : sang	2
+E : sau	2
+E : theo	1
+E : trong	8
+E : trên	4
+E : trước	1
+E : tại	2
+E : từ	5
+E : vào	3
+E : vì	2
+E : với	4
+E : đến	2
+E : để	7
+E : ở	6
+L : Những	2
+L : các	2
+L : những	13
+LBKT : LBKT	6
+LBKT : RBKT	1
+M : 10	1
+M : 100	1
+M : 15	1
+M : 1958	1
+M : 1966	1
+M : 1968	1
+M : 1975	1
+M : 1978	1
+M : 2005	1
+M : 202	1
+M : 3	1
+M : 30	3
+M : 400	2
+M : 5	1
+M : 613	1
+M : 7	1
+M : 79	2
+M : 8	1
+M : 83	1
+M : Mỗi	3
+M : Tám	1
+M : ba	1
+M : hai	2
+M : mỗi	4
+M : một	13
+M : đôi	1
+N : Bao	1
+N : Bà	1
+N : Bảo tàng	1
+N : Chúng	1
+N : Chị	1
+N : Dụng cụ	1
+N : Giờ	1
+N : Kỷ vật	4
+N : Ngày	2
+N : Phía	1
+N : Thiếu tướng	1
+N : Trường Sơn	1
+N : an ninh	1
+N : ban	1
+N : bao	1
+N : bom	1
+N : bà	2
+N : bàn tay	1
+N : bên	2
+N : bình toong	1
+N : bút	7
+N : bút danh	1
+N : bạc	2
+N : bảo tàng	10
+N : bằng chứng	1
+N : bộ	2
+N : bộ đội	1
+N : chiến khu	1
+N : chiến sĩ	2
+N : chiến tranh	3
+N : chiến trường	1
+N : chì	1
+N : chồng	1
+N : chỗ	1
+N : chủ đề	1
+N : chữ	1
+N : cuộc	1
+N : cuộc đời	6
+N : cách	1
+N : cái	1
+N : cán bộ	1
+N : câu chuyện	3
+N : công dụng	1
+N : cơm	1
+N : cười	1
+N : cảm xúc	1
+N : cựu chiến binh	2
+N : dao	2
+N : dân	1
+N : dầu	1
+N : gia đình	1
+N : giấy	2
+N : giờ	1
+N : gạo	3
+N : gạt tàn	1
+N : hiện thân	1
+N : hiện vật	2
+N : hiệu	1
+N : hình ảnh	2
+N : hôm qua	1
+N : hương	1
+N : họa sĩ	1
+N : hộp	2
+N : kaki	1
+N : khay	1
+N : khi	3
+N : khoảng	1
+N : khu vực	1
+N : khách	1
+N : khát vọng	1
+N : khả năng	1
+N : kỷ niệm	1
+N : kỷ vật	12
+N : long não	1
+N : lòng	1
+N : lúc	2
+N : lĩnh vực	1
+N : lương thực	1
+N : lần	2
+N : lọ	1
+N : muỗng	1
+N : màu	2
+N : máu lửa	2
+N : máy	2
+N : máy ảnh	2
+N : món	3
+N : mặt	2
+N : mực	2
+N : ngày	8
+N : ngòi	1
+N : ngón	1
+N : người	8
+N : ngực	1
+N : nhau	1
+N : nhiệm vụ	1
+N : nhà	3
+N : nhíp	1
+N : nhóm	1
+N : nhẫn	2
+N : núi rừng	1
+N : nút	1
+N : năm	8
+N : nơi	1
+N : nước	1
+N : nồi	1
+N : pháo	1
+N : pháo kích	1
+N : phóng viên	1
+N : phần	2
+N : phế liệu	1
+N : quà	1
+N : quê hương	1
+N : quần	1
+N : ruột rà	1
+N : ruột tượng	3
+N : răng cưa	1
+N : rừng	1
+N : soạn giả	2
+N : suối	1
+N : sáng kiến	1
+N : súng	1
+N : sắt	4
+N : sổ tay	1
+N : tay trái	1
+N : thanh xuân	1
+N : thiếu tướng	1
+N : thuốc	2
+N : tháng	4
+N : thư	7
+N : thời	4
+N : thời gian	2
+N : thứ	1
+N : tin	2
+N : tiểu ban	1
+N : tiểu đoàn	1
+N : tranh	1
+N : trung tá	1
+N : trung đoàn	1
+N : trà	1
+N : trúc	1
+N : trạm	4
+N : tuyên huấn	1
+N : tuổi	2
+N : tình báo	1
+N : tình huống	1
+N : túi	2
+N : tư lệnh	1
+N : tủ	3
+N : vai	1
+N : việc	1
+N : võng	1
+N : văn nghệ	1
+N : vũ khí	1
+N : vải	1
+N : vỏ	2
+N : vợ	4
+N : xe tăng	2
+N : xà bông	2
+N : Ông	4
+N : Ý tưởng	1
+N : áo	3
+N : ông	21
+N : út	1
+N : ý nghĩa	2
+N : Đoàn	1
+N : đoàn	1
+N : đoạn	1
+N : đá	1
+N : đèn	1
+N : đêm	1
+N : đường	4
+N : đại tá	2
+N : đất nước	1
+N : đầu	1
+N : đống	1
+N : đồ	1
+N : đồng bào	2
+N : đồng đội	1
+N : đời	1
+N : ảnh	2
+N : ống	2
+N : ống kính	1
+N : ổng	2
+NP : *E*	9
+NP : *T*	1
+Nc : Chiếc	1
+Nc : Món	1
+Nc : Tấm	1
+Nc : bà	2
+Nc : bức	1
+Nc : chiếc	13
+Nc : chị	1
+Nc : cây	2
+Nc : lá	4
+Nc : món	1
+Nc : người	1
+Nc : niềm	1
+Nc : nụ	1
+Nc : quyển	1
+Nc : tấm	1
+Nc : tờ	1
+Np : B	1
+Np : Bắc	1
+Np : Bộ Quốc phòng	1
+Np : Huế	1
+Np : Huỳnh Biếc	1
+Np : Liên	1
+Np : Lào	1
+Np : Mai Văn Phúc	1
+Np : Nguyễn Thị Liên	1
+Np : Nguyễn Thị Thu Vân	1
+Np : Nguyễn Văn Thắng	1
+Np : Ngô Y Linh	1
+Np : Penicillin	1
+Np : Phan Khắc Hy	1
+Np : Pháp	1
+Np : Phạm Thanh Tâm	1
+Np : Rolleiflex	1
+Np : Tha La	1
+Np : Thái Doãn Mẫn	1
+Np : Thừa Thiên	1
+Np : Trung ương Cục	1
+Np : Trường Sơn	4
+Np : Tà Ôi	1
+Np : Tà Ôi Vân Kiều	1
+Np : Tây Ninh	1
+Np : napalm	1
+Np : pơluya	1
+Nu : kg	1
+Nu : tuổi	3
+Ny : B	3
+Ny : HCM	1
+Ny : TP	1
+Ny : VN	1
+P : Chúng tôi	1
+P : Vì sao	1
+P : ai	1
+P : bao giờ	1
+P : bây giờ	1
+P : cả	1
+P : gì	1
+P : họ	1
+P : mình	3
+P : nào	1
+P : này	2
+P : tôi	1
+P : tất cả	1
+P : vậy	4
+P : đây	1
+P : đó	1
+P : ấy	4
+R : Càng	1
+R : Cứ	1
+R : biết bao	1
+R : bèn	1
+R : bất cứ	1
+R : chỉ	3
+R : càng	1
+R : còn	4
+R : cũng	4
+R : cứ	2
+R : duy	1
+R : dường như	1
+R : hơn	4
+R : hằng	2
+R : hết sức	1
+R : không	3
+R : không thể	2
+R : khỏi	3
+R : luôn	1
+R : lại	10
+R : mãi	1
+R : mới	3
+R : ngay	1
+R : nhất	2
+R : nữa	1
+R : qua	1
+R : ra	6
+R : thêm	1
+R : thật	1
+R : tuyệt	1
+R : vào	2
+R : vẫn	3
+R : về	2
+R : vốn	1
+R : xong	1
+R : đang	2
+R : đã	11
+R : được	6
+R : đến	1
+R : đều	6
+RBKT : RBKT	7
+S : cố	2
+S : phó	1
+T : cả	1
+T : mà	1
+T : riêng	1
+T : thật	1
+V : *E*	1
+V : Lấy	1
+V : Sống	1
+V : Vượt	1
+V : bằng	1
+V : bỏ	3
+V : bộc bạch	1
+V : cho	1
+V : chuẩn bị	1
+V : chất	1
+V : chỉ	1
+V : chọn lọc	1
+V : chống	1
+V : còn	2
+V : có	8
+V : cảm	1
+V : diễn	1
+V : dành	1
+V : dán	2
+V : dọn	1
+V : giải phóng	2
+V : giữ	1
+V : giữ gìn	1
+V : gãy	1
+V : gìn giữ	2
+V : gặp	1
+V : gửi	4
+V : hay	1
+V : hoạt động	1
+V : hành quân	1
+V : hí hoáy	1
+V : kết thúc	1
+V : kể	2
+V : lau chùi	1
+V : liên hệ	1
+V : là	13
+V : làm	2
+V : lưu luyến	1
+V : lấy	1
+V : lọt	1
+V : lộ diện	1
+V : lựa chọn	1
+V : mài giũa	1
+V : mòn	1
+V : mượn	1
+V : mất	2
+V : mở	1
+V : ngả	1
+V : nhìn	1
+V : nâng niu	1
+V : nói	3
+V : nảy	1
+V : nấu	1
+V : phát	1
+V : phát huy	1
+V : phải	3
+V : qua	1
+V : ra	2
+V : rời	1
+V : rứt	1
+V : sinh hoạt	1
+V : sưu tập	1
+V : sống	2
+V : sử dụng	3
+V : tha	1
+V : tham quan	1
+V : theo	4
+V : thiếu thốn	1
+V : thu	1
+V : thành	1
+V : thêm	1
+V : thất lạc	1
+V : thấy	3
+V : tiếp tế	1
+V : truyền	1
+V : trào dâng	1
+V : trưng bày	5
+V : trải	1
+V : trở thành	1
+V : trở về	1
+V : tái  hiện	1
+V : tìm	1
+V : túm	1
+V : tập hợp	1
+V : tập kết	1
+V : tặng	4
+V : tới	1
+V : uống	1
+V : viết	1
+V : vào	3
+V : vác	1
+V : vượt	3
+V : vẽ	2
+V : xa cách	1
+V : xin	1
+V : xong	1
+V : xé rào	1
+V : áp	1
+V : úa	1
+V : Đọc	1
+V : đi	15
+V : đong	1
+V : đánh	1
+V : được	13
+V : đảm	1
+V : đắn đo	1
+V : đặt	2
+V : đẽo	1
+V : đến	1
+V : để	1
+V : đựng	5
+V : ướp	1
+V : ấn tượng	1
+V : ập	1
+V : ở	2
+X : thất thập cổ lai hi	1
+Y : B	4

@@ -1,0 +1,1233 @@
+<s>
+(S-TTL(NP(" ")(N-H Đại ca)(" ")
+                  (PP(E-H của)
+                       (NP(N-H trẻ em)(N đường phố))))
+(. .))
+
+
+
+
+</s>
+<s>
+(S(NP-TMP(N-H Lần)(A đầu tiên) 
+          (VP(V-H về)
+               (NP-LOC(N-H cố hương))))
+ (, ,)
+   (NP-SUB(Np-H Jimmy Phạm))
+   (VP(VP(R chỉ)(V-H là)
+              (NP(M một)(N-H Việt kiều)(Np Úc)))
+        (VP(V-H làm)
+             (NP-DOB(N-H hướng dẫn viên)(V du lịch)
+                 (VP-PRP(V-H dẫn)
+                     (NP(N-H khách)
+                         (PP-LOC(E-H đến)
+                             (NP(Ny-H TP.HCM)))))))) 
+(. .))
+</s>
+<s>
+(S(T Thế)(C nhưng)
+   (NP-SUB(L những)(N-H khung cảnh)(A lạ)
+       (PP-LOC(E-H ở)
+          (NP(N-H đất nước)
+              (SBAR(C mà)
+                   (S(NP-SUB(N-H mẹ)(Np Phạm))
+                       (VP(R được)(V-H sinh ra)))))))
+  (VP(R đã)(V-H giúp)
+        (NP-DOB(N-H anh)
+             (VP(V-H có)
+                 (NP(M một)(N-H cái)(V nhìn)
+                      (AP(A-H rộng)(A hơn)
+                          (PP(E-H về)
+                            (NP(N-H cuộc đời))))))))
+(. .))
+
+
+
+
+</s>
+<s>
+(S-SPL(NP(L Những)(Nc-H cú)(N sốc))
+                (C và)
+            (NP(N-H lòng)(V trắc ẩn))
+ (. .))
+
+
+
+
+</s>
+<s>
+(S(" ")
+     (PP-LOC(E-H Trong)
+         (NP(N-H cuộc đời)(P đó)))
+  (, ,)
+    (NP-SUB(P-H mình))
+    (VP(V-H được)
+           (VP(V-H lớn)(R lên)
+                  (PP(E-H với)
+                          (NP(P-H tất cả)(L mọi)(A đủ đầy)))))
+(. .))
+
+</s>
+<s>
+(S-SPL(PP(E-H Trong)
+        (NP(N-H khi)
+            (VP(V-H có)
+                (SBAR(S(NP-SUB(R quá)(A nhiều)(Nc-H đứa)(N trẻ))
+                                  (VP(R chỉ)(V-H nghĩ)(, ,)(V-H thèm)
+                                    (NP-DOB(M một)(N-H bữa)(V ăn)))))
+                 (... ...)(" "))))
+(. .))
+
+
+
+
+</s>
+<s>
+(S(PP-ADV(E-H Từ)
+        (NP(Nc-H sự)(V so sánh)
+           (AP(R hơi)(A-H khập khiễng))
+                  (P đó)))
+ (, ,)
+   (NP-ADV(N-H đầu tiên))
+   (NP-SUB(Np-H Phạm))
+    (VP(V-H mời)
+        (NP-DOB(L những)(Nc-H đứa)(N trẻ)
+           (VP(V-H lang thang))
+              (SBAR(S(NP-SUB(N-H anh))
+                                 (VP(V-H gặp)
+                                     (PP-LOC(E-H trên)
+                                         (NP(N-H đường)
+                                             (VP(V-H đi)
+                                                  (VP(V-H ăn)
+                                                      (NP(N-H phở)))))))))))
+(. .))
+
+
+
+
+</s>
+<s>
+(S-SPL(NP(M Ba)(, ,)(M năm)(C rồi)(M 60)(N-H em))
+   (... ...))
+
+
+
+
+</s>
+<s>
+(S(C Nhờ)(T vậy)
+    (S(NP-SUB(N-H anh))
+         (VP(R đã)(V-H biết)
+             (AP(A-H nhiều)(A hơn)
+                  (PP(E-H về)
+                           (NP(N-H cuộc sống)
+                                 (PP(E-H của)
+                                       (NP(N-H trẻ)(V lang thang)))))))) 
+   (C và)
+   (S(NP-SUB(N-H anh))
+        (VP(R đã)(R không thể)(V-H dứt)(N áo)(V-H ra)(V đi)))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB-1(N-H Anh))
+     (VP(V-H bảo)
+          (SBAR(S(NP-SUB-1 *T*)
+                            (VP(V-H bị)
+                                 (NP-DOB(N-H sốc)
+                                     (NP(N-H khi)
+                                          (VP(V-H biết)
+                                              (VP(V-H có)
+                                                   (NP(L những)(Nc-H đứa)(N trẻ)
+                                                        (NP(P cả)(N-H nam)(C lẫn)(N-H nữ)
+                                                             (VP(R mới)(V-H chớm)
+                                                                  (NP(N-H tuổi)(A vị thành niên))))))))
+                                 (, ,)
+                                 (NP(N-H khi)
+                                     (SBAR(S(S-SUB(NP-SUB(P-H chúng))
+                                                                     (VP(R vừa)(V-H biết)
+                                                                          (VP(V-H xấu hổ)
+                                                                               (NP-DOB(N-H giới tính)))))
+                                                     (VP(R đã)(V-H phải)
+                                                         (NP-DOB(N-H đấu tranh)
+                                                              (PP(E-H giữa)
+                                                                   (NP(NP(M một)(N-H bên)
+                                                                              (VP(V-H là)
+                                                                                 (NP(N-H tiền))))
+                                                                     (C và)
+                                                                         (NP(M một)(N-H bên)
+                                                                             (VP(V-H là)
+                                                                                 (NP(N-H nhu cầu)(N thân thể))))))))))))))))
+(. .))
+
+
+
+
+</s>
+<s>
+(S(NP-SUB(A Nhiều)(N-H em))
+    (VP(R đã)(V-H chấp nhận)
+          (VP(VP(V-H mất)
+                    (NP-DOB(N-H tiền))
+                       (PP-PRP(E-H để)
+                         (VP(" ")(V-H tắm)(V dè)(" "))))
+      (, ,)
+           (VP(NP-TMP(M mỗi)(N-H tuần))
+               (VP(V-H bỏ)(R ra)
+                  (NP-DOB(M 4.000)(Ny-H đ))
+                      (PP-PRP(E-H để)
+                           (NP(M hai)(N-H lần)
+                               (VP(V-H được)
+                                      (VP(V-H đứng)
+                                     (PP-LOC(E-H trong)
+                                          (NP(L mấy)(Nc-H tấm)(N cót)
+                                               (NP-LOC(N-H bên)
+                                                   (NP(Nc-H bờ)(N kênh)))))
+                                      (VP-PRP(V-H xối)
+                                            (NP-DOB(N-H nước)
+                                                   (PP-DIR(E-H vào)
+                                                          (NP(N-H người))))
+                                           (VP-PRP(V-H rũ)(R đi)
+                                                     (NP-DOB(N-H bụi bặm))))))))))))
+(. .))
+
+</s>
+<s>
+(S
+    (S(NP-SUB-1(Np-H Jimmy))
+         (AP-PRD(R chưa)(A-H giỏi)
+             (VP(V-H tiêu)
+                  (NP(N-H tiền)(Np Việt)))))
+ (C nhưng)
+  (S(NP-SUB-1 *T*)
+       (VP(R đã)(V-H tính)(V được)
+         (: :)(" ")
+           (SBAR(S(VP-ADV(V-H So)
+                                 (PP(E-H với)
+                                        (NP(N-H số)(N thu nhập)
+                                             (NP(A khoảng)(N-H trên)
+                                                   (NP(M 10.000)(Nu-H đồng)
+                                                      (/ /)
+                                                       (NP(N-H ngày)))))))
+                      (C thì)
+                        (NP-SUB(N-H khoản)(P kia))
+                         (VP(R không)(V-H phải)
+                                   (C là)
+                                   (AP(A-H nhỏ)))))
+         (" ")))
+ (. .))
+</s>
+<s>
+(S(C Rồi)
+    (NP-SUB(M một)(N-H tình huống))
+     (VP(V-H khiến)
+           (NP-DOB(N-H tim)(N anh)
+               (VP(V-H thắt)(R lại))))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(Np-H Phạm))
+     (VP(V-H kể)
+          (: :)
+         (SBAR(S(NP-TMP(M một)(N-H lần))
+                           (NP-SUB(N-H anh))
+                            (VP(V-H gặp)(R lại)
+                                 (NP-DOB(M hai)(N-H mẹ con)
+                                     (NP(N-H người)(V ăn xin)))))))
+(. .))
+
+</s>
+<s>
+(S-PV(S-SUB(NP-SUB(Nc-H Đứa)(N bé)
+                       (SBAR(S(NP-SUB(N-H anh))
+                                         (VP(R từng)(V-H mời)
+                                           (VP(V-H đi)
+                                             (VP(V-H ăn)
+                                                 (NP-DOB(N-H phở))))))))
+                 (VP(A kiên quyết)(R không)(V-H ra)
+                   (VP-PRP(V-H xin)
+                      (NP-DOB(N-H tiền))
+                         (NP(Nc-H chú)(Np Phạm)))))
+  (VP(R đã)(V-H bị)
+        (SBAR(S(NP-SUB(N-H bà mẹ))
+                          (VP(VP(A thẳng tay)(V-H túm)
+                                      (NP-DOB(N-H tóc))) 
+                               (VP(V-H đập)
+                                     (NP-DOB(N-H đầu)
+                                          (PP-LOC(E-H vào)
+                                                (NP(N-H tường)))
+                                          (VP(V-H rớm)
+                                                  (NP(N-H máu)))))))))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(Nc-H Đứa)(N bé)
+        (PP-TMP(E-H sau)
+              (NP(P-H đó))))
+   (VP(R đã)(V-H chết)
+        (PP-PRP(PP(E-H do)
+                             (NP(M một)(Nc-H cơn)(V sốt)))
+                      (, ,)
+                       (PP(R chỉ)(E-H vì)
+                       (... ...)
+                          (VP(R không)(V-H có)
+                                (NP(N-H thuốc)(V chữa))))))
+(. .))
+
+
+
+
+</s>
+<s>
+(S(T Chính)
+    (NP-SUB(L những)(N-H cảnh)(N đời)(P này))
+    (VP(R đã)(V-H giữ)(N chân)
+            (NP-DOB(N-H anh)
+                    (VP(V-H ở)(R lại)
+                           (NP-LOC(Ny-H VN)))))
+(. .))
+
+</s>
+<s>
+(S(S-SUB(NP-SUB *E*)
+                   (VP(V-H Muốn)
+                       (VP(V-H giúp))))
+   (AP-PRD(RP(R chưa)(R hẳn))
+         (AP(R đã)(A-H dễ)))
+(. .))
+
+
+
+
+</s>
+<s>
+(S(" ")
+    (S(VP-TMP(V-H Có)
+            (NP(N-H lúc)))
+     (NP-SUB-1 *T*)
+      (VP(V-H tưởng)
+          (VP(R đã)(V-H phải)
+              (VP(V-H thua)
+                    (NP-DOB(P-H chúng))))))
+(- -)
+  (SBAR(S(NP-SUB-1(Np-H Phạm))
+       (VP(V-H thú thật))))
+          (- -)
+    (S(NP-TMP(A Nhiều)(N-H lần))
+        (NP-SUB(P-H mình))
+        (VP(VP(V-H mua)
+                       (NP-DOB(N-H quần áo))
+                       (VP(V-H đến)
+                               (VP(V-H cho))))
+                                                    (, ,)
+               (VP(R vừa)(V-H quay)
+                      (NP-DOB(N-H lưng)))
+               (VP(R đã)(V-H phải)
+                      (VP(V-H nghe)
+                             (SBAR(S(NP-SUB(P-H chúng))
+                                                (VP(VP(V-H văng tục))
+                                                                          (, ,)
+                                                       (VP(V-H nói)
+                                                              (SBAR(S(WHNP(P-H sao))
+                                                                                (NP-SUB *E*)
+                                                                                 (VP(R chỉ)(V-H cho)
+                                                                                        (NP-DOB(T có)(P-H thế)))))))))))))
+           (" ")
+(. .))
+
+</s>
+<s>
+(S(T Ngay)(T cả)
+    (NP-ADV(N-H khi) 
+        (VP(V-H gộp)(V được)
+             (NP(M một)(N-H nhóm)
+                 (NP(L những)(Nc đứa)(A khó khăn)
+                     (AP(A-H nhất))
+                   (PP-PRP(E-H để)
+                         (VP(V-H hỗ trợ)
+                              (NP(N-H tiền)(V thuê)(N nhà))))))))
+ (, ,)
+    (PP-TMP(E-H sau)
+         (NP(M một)(N-H thời gian)(A dài)
+             (VP(V-H chu cấp))))
+ (NP-SUB(Np-H Phạm))
+  (VP(R mới)(V-H biết)
+       (SBAR(S(NP-SUB(P-H mình))
+                         (VP(R đã)(V-H bị)
+                              (VP(V-H lừa))))))
+(. .))
+
+
+
+</s>
+<s>
+(S
+    (S(NP-SUB(N-H Giá)(A thật))
+         (VP(R chỉ)(V-H có)
+              (NP-DOB(M 400.000)(Nu-H đ)
+                         (/ /)
+                    (NP(N-H tháng)))))
+ (C nhưng)
+      (S(NP-SUB(P-H chúng))
+            (VP(V-H nói)(R lên)
+                 (NP-DOB(M 2)(M triệu)(Nu-H đồng))
+                      (PP-PRP(E-H để)
+                           (VP(V-H ăn)(A chênh lệch)))))
+(. .))
+</s>
+<s>
+(S(PP-LOC(E-H Trong)
+       (NP(N-H nghề)))
+ (, ,)
+   (NP-SUB(P-H chúng))
+    (VP(R cũng)(V-H có)
+         (NP-DOB(R rất)(A nhiều)(N-H cách)
+              (VP-PRP(" ")(V-H chăn)(Np Tây)(" "))))
+(. .))
+
+
+
+</s>
+<s>
+(S
+   (S(AP-SUB(A-H Đơn giản)(A nhất))
+       (VP(V-H là)
+         (VP(V-H bám)(V theo)
+             (NP-TMP(P cả)(M chục)(Nu-H kilômet)))))
+   (, ,)
+   (S(NP-TMP(N-H khi)(P nào))
+       (S-SUB(NP-SUB(N-H khách))
+                       (VP(V-H mua)))
+       (VP(R mới)(V-H thôi)))
+(. .))
+
+
+
+</s>
+<s>
+(S-SPL(AP-ADV(A-H Cao tay)(A hơn))
+   (, ,)
+   (VP(V-H có)
+        (SBAR(S(NP-SUB(N-H đứa))
+                           (VP(VP(V-H lân la)
+                                      (VP-PRP(V-H bắt chuyện)))
+                              (C rồi)
+                                (VP(V-H làm thân)
+                                    (PP(E-H với)
+                                        (NP(N-H người)(N nước ngoài))))))))
+(. .))
+
+
+
+</s>
+<s>
+(S(NP-TMP(N-H Khi)(P đó))
+    (NP-SUB(P-H chúng))
+     (VP(V-H nhận)
+          (VP(V-H dẫn)
+              (NP-DOB(N-H khách)
+                  (VP(V-H đi)(V chơi)
+                      (VP(R không)(V-H lấy)
+                          (NP(N-H tiền)))))))
+(. .))
+
+
+
+</s>
+<s>
+(S(NP-TMP(A Suốt)(L mấy)(N-H buổi)
+          (AP(A-H tận tình)))
+  (, ,)
+    (S(NP-SUB(N-H khách))
+         (VP(R có)(V-H cho)
+              (NP-DOB(N-H tiền))))
+     (S(NP-SUB(P-H chúng))
+         (VP(AP(R cũng)(A-H kiên quyết))
+              (VP(R không)(V-H lấy))))
+(. .))
+
+
+
+</s>
+<s>
+(S(C Nhưng)
+     (NP-ADV(N-H khi)
+         (SBAR(S(NP-SUB(Np-H Tây))
+                           (VP(A tò mò)(V-H hỏi)
+                                (PP(E-H về)
+                                     (NP(N-H ước mơ)))))))
+ (, ,)
+    (NP-SUB-1(P-H chúng))
+    (VP(R sẽ)(V-H trả lời)
+        (SBAR(C là)
+            (S(NP-SUB-1 *T*)
+                 (VP(V-H muốn)
+                      (... ...)
+                    (VP(V-H được)
+                         (VP(V-H đi)
+                             (VP(V-H học))))))))
+(. .))
+
+</s>
+<s>
+(S-SPL(AP(R Không)(A-H ít)
+                  (SBAR(S(NP-SUB(N-H vị))
+                                    (VP(V-H cảm động)))))
+(... ...))
+
+
+
+</s>
+<s>
+(S(NP-SUB *E*)
+     (VP(R Vẫn)(R không)(V-H lấy)
+           (NP-DOB(N-H tiền))
+                  (R ngay))
+(. .))
+
+
+
+</s>
+<s>
+(S(NP-SUB(P-H Chúng))
+     (VP(R sẽ)(V-H dẫn)
+         (NP-DOB(N-H khách)
+             (PP(PP-DIR(E-H xuống)
+                           (NP(N-H phố)(Np Quang Trung)))
+                                                 (, ,)
+                    (PP-DIR(E-H vào)
+                           (NP(N-H trung tâm)(N ngoại ngữ)))
+                   (PP-PRP(E-H để)
+                          (VP(V-H mua)
+                                  (NP(N-H phiếu)))))))
+(. .))
+
+</s>
+<s>
+(S(VP-ADV(V-H Xong))
+    (, ,)
+   (NP-SUB(P-H chúng))
+   (VP(R lại)(V-H thủ thỉ)
+         (: :)
+       (SBAR(S(VP-SUB(V-H muốn)
+                                 (VP(V-H đi)
+                                        (VP(V-H học))))
+                      (VP(V-H phải)
+                          (VP(V-H có)
+                              (NP-DOB(NP(N-H quần áo)(A đàng hoàng))
+                                               (C và)
+                                                (NP(M một)(Nc-H chiếc)(N xe đạp))))))))
+(... ...))
+
+</s>
+<s>
+(S(NP-ADV(N-H Khi)
+         (SBAR(S(NP-SUB(N-H khách))
+                            (VP(V-H về)
+                                (NP-DOB(N-H nước))
+                                    (R rồi)))))
+ (, ,)
+     (NP-SUB(NP(P cả)(N-H thẻ)(V học))
+                         (C lẫn)
+                       (NP(N-H xe đạp)))
+    (VP(V-H *E*)
+        (NP-DOB(P-H chúng)
+            (VP(V-H đem)
+                (VP(V-H đi)
+                    (VP(V-H bán))))))
+(. .))
+
+
+
+</s>
+<s>
+(S
+   (S(NP-SUB-1 *T*)
+       (VP(V-H Được)(V học)
+           (NP-DOB(L mọi)(N-H tiểu xảo)
+                (, ,)
+               (AP(A-H giận dữ)(, ,)(A-H buồn))
+              (, ,)
+               (NP(N-H cảm giác)(... ...)(A cay đắng)
+                   (VP(R cũng)(V-H có))))))
+ (, ,)(C nhưng)(C rồi)
+     (S(NP-SUB-1(Np-H Phạm))
+          (VP(R vẫn)(V-H bám)
+               (NP-DOB(N-H đường))))
+(. .))
+
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Anh))
+     (VP(V-H tâm niệm)
+           (: :)
+          (SBAR(S(S-SUB(NP-SUB *E*)
+                                           (VP(V-H chơi)
+                                                (PP(E-H với)
+                                                     (NP(N-H trẻ)(N đường phố)))))
+                         (VP(X nghĩa là)(V-H phải)
+                               (VP(V-H chấp nhận)
+                                   (NP-DOB(P tất cả)(N-H bụi bặm)
+                                        (SBAR(C mà)
+                                            (S(NP-SUB(P-H chúng))
+                                                 (VP(V-H thu nhận)(V được))))))))))
+(. .))
+
+
+
+</s>
+<s>
+(S(C Nhưng)
+      (NP-SUB(N-H điều)(P này))
+       (VP(R cũng)(V-H dạy)
+            (SBAR(E-H cho)
+                  (S(NP-SUB(Np-H Phạm))
+                       (VP(V-H biết)
+                              (: :)
+                               (VP(V-H muốn)
+                                   (VP(V-H giúp)
+                                        (NP(N-H trẻ)(V lang thang)
+                                            (AP(R không)(T gì)(A-H bằng)
+                                                  (VP(V-H cho)
+                                                       (NP(P-H chúng)
+                                                            (NP(M một)(T cái)(N-H nghề))))))))))))
+(. .))
+
+
+
+</s>
+<s>
+(S(NP-SUB *E*)
+     (VP(V-H Đổi đời)
+          (PP(E-H cho)
+               (NP(L những)(N-H mái)(N đầu)
+                         (AP(A-H xanh)))))
+(. .))
+
+
+
+</s>
+<s>
+(S(NP-TMP(A Suốt)(N-H năm)(M 1999))
+     (NP-SUB(Np-H Jimmy Phạm))
+     (VP(VP(V-H chạy)
+               (C như)
+                 (NP-DOB(N-H con thoi)))
+            (, ,)
+           (VP(R vừa)(V-H lo)
+                 (NP-DOB(L mọi)(N-H cơ sở)
+                       (PP-PRP(E-H để)
+                            (VP(V-H mở)
+                                 (NP(M một)(N-H quán)
+                                     (VP(V-H bán)
+                                        (NP(N-H cà phê)(, ,)(N-H bánh sandwich)
+                                          (PP(E-H cho)
+                                               (NP(N-H khách)(V du lịch))))))))))
+          (, ,)
+            (VP(R vừa)(V-H làm)
+                 (NP-DOB(N-H hướng dẫn viên)
+                      (PP-PRP(E-H để)
+                            (VP(V-H lấy)
+                                (NP(N-H tiền)
+                                    (VP(V-H nuôi)
+                                        (NP(N-H ý tưởng)))))))))
+(. .))
+
+
+
+</s>
+<s>
+(S(PP-TMP(E-H Đến)
+        (NP(N-H tháng)(M 6)(- -)(M 1999)))
+   (NP-SUB(N-H quán))
+    (VP(VP(V-H khai trương))
+            (, ,)
+            (VP(V-H có)
+                  (NP-DOB(N-H chỗ)
+                      (SBAR-PRP(E-H để)
+                             (S(NP-SUB(N-H trẻ))
+                                  (VP(VP(V-H thực hành))
+                                          (, ,)
+                                         (VP(A trực tiếp)(V-H có)
+                                              (NP-DOB(N-H thu nhập)))))))))
+(. .))
+</s>
+<s>
+(S(C Rồi)
+   (PP-TMP(E-H tới)
+       (NP(N-H giữa)(N năm)(M 2000)))
+   (, ,)
+   (PP(E-H với)
+       (NP(Nc-H sự)(V giúp đỡ)
+           (PP(E-H của)
+               (NP(L các)(N-H tổ chức)(A từ thiện)))))
+ (, ,)
+   (NP-SUB-1 (Np-H Phạm))
+    (VP(R đã)(V-H hoàn thiện)
+        (NP-DOB(N-H ý tưởng))
+              (NP-TMP(N-H khi)
+                   (SBAR(S(NP-SUB-1  *T*)
+                                    (VP(VP(V-H mở)(R được)
+                                                 (NP-DOB(N-H Trung tâm)
+                                                     (VP(V-H dạy)
+                                                             (NP(N-H nghề)))
+                                                     (NP(Np-H Koto))))
+                                           (, ,)
+                                          (VP(V-H tuyển)
+                                               (NP-DOB(L những)(Nc-H đứa)(N trẻ)
+                                                    (VP(VP(V-H lang thang))
+                                                          (C hoặc)
+                                                           (VP(V-H có)
+                                                                (NP(N-H hoàn cảnh)
+                                                                    (AP(A đặc biệt)(A-H khó khăn))))))
+                                               (PP-PRP(E-H để)
+                                                      (VP(V-H dạy)
+                                                            (NP-DOB(M hai)(N-H nghề)
+                                                                             (: :)
+                                                               (VP(VP(V-H làm bếp))
+                                                                                  (C và)
+                                                                      (VP(V-H phục vụ)
+                                                                             (NP-DOB(N-H quầy)(Nb bar)))))))))))))
+(. .))
+
+</s>
+<s>
+(S(S(NP-SUB *E*)
+        (VP(V-H Lăn lộn)
+               (VP(V-H liên hệ)
+                      (PP(E-H với)
+                             (NP(L các)(N-H tổ chức)(V tình nguyện)))
+                     (PP-PRP(E-H để)
+                           (VP(V-H tìm)
+                                  (NP(N-H thầy)))))))
+                                  (, ,)
+   (S(NP-TMP(M mỗi)(N-H năm)
+              (NP(M hai)(N-H khóa)))
+                           (, ,)
+       (PP-TMP(E-H đến)
+               (NP(P-H nay)))
+      (NP-SUB(R hàng)(M trăm)(Nc-H đứa)(N trẻ)
+              (PP(E-H từ)
+                      (VP(V-H xuất thân)(A khốn khó))))
+     (VP(R đã)(A chững chạc)(V-H làm)
+            (PP-LOC(E-H trong)
+                   (NP(L các)(N-H nhà hàng)(, ,)(N-H khách sạn)
+                           (AP(A-H nổi tiếng))
+                                       (C như)
+                          (NP(Np-H Sofitel Metropole)(, ,)(Np-H Mediterraneo)
+                                              (... ...))))
+           (PP(E-H với)
+                   (NP(N-H mức)(N lương)
+                          (NP(M 200)(- -)(M 300)(Nu-H USD)
+                                            (/ /)
+                               (NP(N-H tháng)))))))
+(. .))
+
+</s>
+<s>
+(S(C Và)
+   (VP-ADV(R không)(V-H phải)
+        (AP(A-H ngẫu nhiên)))
+  (, ,)
+   (PP-LOC(E-H trong)
+       (VP(V-H chuyến)
+           (VP(V-H thăm)
+               (NP(Ny-H VN)))))
+ (, ,)
+   (NP-SUB(N-H tổng thống)(Np Mỹ)(Np Bill Clinton))
+  (VP(R đã)(V-H chọn)
+        (NP-DOB(N-H trung tâm)(V thực hành)
+              (PP(PP(E-H của)
+                          (NP(Np-H Koto)))
+                   (PP-PRP(E-H để)
+                        (VP(V-H ăn)
+                             (NP(N-H trưa)
+                                 (AP(A-H cùng)
+                                     (NP(L toàn bộ)(Nc-H đoàn)(N tùy tùng)))))))))
+(. .))
+
+
+
+</s>
+<s>
+(S
+   (S(" ")
+        (NP-SUB(P-H Mình))
+        (VP(R không)(V-H quan tâm)
+             (PP(E-H đến)
+                  (NP(N-H chuyện)
+                        (NP(Nc-H ông)(N tổng thống))))
+            (R lắm)(T đâu))
+        (" "))
+(, ,)(X có lẽ)
+   (C vì vậy)(C mà)
+   (S(PP-SUB(E-H tại)
+            (NP(N-H sảnh)
+                  (PP(E-H của)
+                     (NP(N-H nhà hàng)))
+                                             (, ,)
+                 (VP(R cũng)(V-H là)
+                         (NP-LOC(N-H nơi)(V thực hành)
+                                 (PP(E-H của)
+                                        (NP(N-H Trung tâm)(V dạy)(N nghề)
+                                                (AP(A-H nhân đạo))
+                                                (NP(Np-H Koto))
+                                                (VP(V-H đặt)
+                                                       (PP-LOC(E-H tại)
+                                                              (NP(M 61)(Np-H Văn Miếu)
+                                                                       (LBKT LBKT)
+                                                              (NP(Np-H Hà Nội))
+                                                                      (RBKT RBKT))))))))))
+           (, ,)
+           (VP(R không)(R hề)(V-H thấy)
+                 (NP-DOB(N-H ảnh)(N tổng thống)(Np Bill Clinton)) 
+                       (SBAR(C mặc dù)
+                            (S(NP-SUB(N-H ông))
+                                 (VP(VP(R đã)(V-H ngồi)
+                                            (NP-TMP(A hơn)(M nửa)(Nu-H tiếng)))
+                                     (C và)
+                                       (VP(V-H đi)
+                                            (VP(V-H bắt tay)
+                                                  (NP-DOB(P từng)(Nc-H đứa)(N trẻ)(N đường phố)
+                                                       (VP(R vừa)(V-H phục vụ)
+                                                             (NP-DOB(N-H đoàn)))))))))))
+(. .))
+
+</s>
+<s>
+(S(VP-SUB(V-H Thay)
+        (PP-LOC(E-H vào)
+           (NP(P-H đó))))
+  (VP(V-H là)
+        (NP-DOB(L những)(Nc-H bức)(N ảnh)
+             (VP(V-H nói)
+                  (PP(E-H về)
+                       (NP(T chính)(L những)(Nc-H đứa)(N trẻ)
+                            (VP(V-H lang thang)))))))
+(. .))
+
+</s>
+<s>
+(S(" ")
+    (NP-SUB(P-H Mình))
+    (VP(V-H muốn)
+          (VP(V-H giúp)
+                (NP-DOB(L những)(N-H em)
+                         (VP(R vừa)(A may mắn)(V-H thoát)(R khỏi)
+                                (NP(NP(N-H cám dỗ))
+                                                     (C và)
+                                        (NP(Nc-H sự)(A khốc liệt)
+                                               (PP(E-H của)
+                                                      (NP(N-H đường phố))))))
+                         (VP(R sẽ)(V-H biết)
+                                 (VP(V-H giúp)(R lại)
+                                        (NP-DOB(L những)(Nc-H đứa)(N trẻ)
+                                                (AP(R không)(A-H may mắn))
+                                                (AP(A-H khác))))))))
+(" ")(. .))
+
+</s>
+<s>
+(S
+   (S(VP-SUB(V-H Đi)(V học))
+       (VP(VP(R không)(V-H mất)
+                  (NP-DOB(N-H tiền)))
+              (C mà)
+             (VP(R lại)(V-H có)
+                  (NP-DOB(N-H lương)))))
+ (, ,)
+    (S(NP-SUB(A nhiều)(Nc-H đứa)(N trẻ)
+            (NP(N-H khi)
+                 (VP(V-H nghe)(V nói)
+                      (PP(E-H về)
+                           (NP(N-H Trung tâm)(Np Koto))))))
+     (VP(R đã)(R không)(V-H đến)
+           (PP-PRP(E-H vì)
+                       (... ...)
+                    (VP(R không)(V-H tin)))))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(Np-H Jimmy Phạm))
+     (VP(V-H bảo)
+           (SBAR(S(NP-SUB(N-H anh))
+                              (VP(R từng)(V-H ngồi)
+                                  (VP(V-H phỏng vấn)
+                                       (NP-DOB(R rất)(A nhiều)(N-H trẻ)(N đường phố)))))))
+(. .))
+
+
+
+</s>
+<s>
+(S(" ")(NP-SUB(P-H Tôi))
+           (VP(R hay)(V-H hỏi)
+                 (SBAR(S(NP-SUB(N-H ước mơ)
+                                        (PP(E-H của)
+                                            (NP(N-H em))))
+                                  (VP(V-H là)
+                                        (NP-DOB(P-H gì)))))
+                    (, ,)
+               (NP-DOB(N-H giây phút)
+                   (NP(N-H hạnh phúc)(A nhất)
+                       (NP(N-H trong)
+                             (NP(N-H cuộc đời)
+                                 (NP(L các)(N-H em)))))))
+(... ...))
+
+
+
+</s>
+<s>
+(S-SPL(VP(V-H Có)
+                  (SBAR(S(NP-SUB(N-H đứa))
+                                     (VP(V-H trả lời)
+                                           (: :)
+                                          (SBAR(S(VP-TMP(R chưa)(V-H có)
+                                                                  (NP(N-H lúc)(P nào)))
+                                                          (NP-SUB *E*)
+                                                           (VP(V-H thấy)
+                                                                 (NP-DOB(N-H hạnh phúc)))))
+                                         (! !)(" ")))))
+(. .))
+
+
+
+</s>
+<s>
+(S(NP-SUB(Np-H Phạm))
+     (VP(V-H cảm động)
+          (: :)(" ")
+           (SBAR(S(NP-TMP(N-H Khi)
+                                    (VP(A trực tiếp)(V-H nghe)
+                                           (SBAR(S(NP-SUB(L những)(Nc-H đứa)(N trẻ))
+                                                             (VP(V-H nói))))))
+                                                   (, ,)
+                                          (R có thể)
+                               (NP-SUB(N-H bạn))
+                               (VP(R cũng)(R sẽ)(V-H khóc))))
+           (" "))              
+(. .))
+
+</s>
+<s>
+(S(C Và)
+    (NP-SUB(T chính)(N-H anh))
+    (, ,)
+     (PP-PRP(E-H để)
+         (VP(V-H xác minh)))
+  (, ,)
+    (VP(R đã)(R từng)(V-H về)
+          (PP-LOC(E-H tận)
+                (NP(N-H nhà)
+                     (NP(A nhiều)(Nc-H đứa)(N trẻ)))))
+(. .))
+
+
+
+</s>
+<s>
+(S(" ")
+        (NP-SUB(P-H Mình))
+        (VP(R không thể)(V-H tin)(V được)
+          (, ,)
+           (VP(V-H có)
+             (NP-DOB(N-H gia đình)
+                (SBAR(C mà)
+                      (S(NP-SUB(N-H bố))
+                           (VP(R không)(V-H đi)(V được)))
+                      (, ,)
+                   (S(NP-SUB(N-H mẹ))
+                        (AP-PRD(A-H mù)))
+                    (, ,)
+                   (S(NP-SUB(N-H bà))
+                        (VP(V-H bị)
+                             (AP(A-H liệt))))))))
+ (" ")
+(. .))
+
+
+
+</s>
+<s>
+(S(VP-ADV(V-H Biết)
+         (NP-DOB(A nhiều)(N-H trẻ)
+             (VP(V-H sống)(V lang thang)
+         (C nhưng)
+       (SBAR(S(NP-SUB(N-H số)(N tiền)
+                              (SBAR(S(NP-SUB(P-H chúng))
+                                               (VP(V-H dành dụm)(V được)
+                                                    (VP-PRP(V-H gửi)
+                                                       (VP(V-H về)
+                                                            (NP-DOB(N-H nhà))))))))
+                  (VP(VP(V-H là)
+                             (NP-DOB(N-H nguồn)(V sống)(A quan trọng)))
+                        (, ,)
+                       (VP(V-H có)
+                          (NP(N-H khi)
+                             (VP(V-H là)
+                                   (AP(A-H quyết định)
+                                          (PP(E-H đối với)
+                                              (NP(P cả)(N-H gia đình)))))))))))))
+(, ,)(C nên)
+      (PP-TMP(E-H trong)
+        (NP(M 18)(N-H tháng)
+            (SBAR(S(NP-SUB(P-H chúng))
+                              (VP(V-H học)
+                                  (NP-DOB(N-H nghề)))))))
+    (, ,)
+        (NP-SUB(Np-H Phạm))
+        (VP(VP(V-H tìm)
+                    (NP-DOB(N-H nguồn)(V tài trợ)))
+              (C và)
+               (VP(A trực tiếp)(V-H lấy)
+                   (NP-DOB(N-H ngân sách)
+                        (PP(E-H của)
+                             (NP(N-H tiệm)(V ăn)
+                                  (PP-PRP(E-H để)
+                                      (VP(V-H cấp)
+                                           (NP(N-H học bổng)
+                                                 (PP(E-H cho)
+                                                      (NP(M mỗi)(N-H em)
+                                                           (NP(M 600.000)(Nu-H đ)
+                                                                 (/ /)
+                                                                 (NP(N-H tháng)))))))))))))
+(. .))
+</s>
+<s>
+(S
+   (S(NP-SUB *E*)
+        (VP(VP(R Từng)(V-H lăn lộn)
+                  (AP(R rất)(A-H nhiều)
+                      (PP-LOC(E-H ở)
+                           (NP(N-H đường phố)))))
+            (, ,)  
+             (VP(V-H biết)(A đủ)
+                    (NP-DOB(N-H mánh)(V kiếm)(N tiền)
+                        (PP(E-H của)
+                             (NP(Nc-H đám)(N trẻ)))))))
+  (C nên)
+    (S(NP-SUB(L những)(N-H học viên)
+            (PP(E-H của)
+                (NP(Np-H Koto))))
+      (VP(R đã)(... ...)(V-H trân trọng)
+           (VP(V-H đặt)
+                (PP(E-H cho)
+                    (NP(Np-H Phạm)
+                       (NP(M một)(N-H biệt danh)
+                            (NP(R cũng)(R rất)(N-H đường phố))
+                                (: :)
+                                  (NP(" ")(N-H đại ca)(" "))))))))
+(. .))
+
+
+
+</s>
+<s>
+(S
+   (S(NP-SUB(" ")(N-H Đại ca)(" "))
+        (VP(R đã)(V-H giúp)
+             (VP(V-H hoán đổi)
+                 (NP-DOB(N-H số phận))
+                    (PP(E-H cho)
+                        (NP(A nhiều)(N-H em))))))
+ (, ,)(C nhưng)
+    (S(NP-SUB(N-H anh))
+         (VP(R cũng)(V-H day dứt)
+             (: :)(" ")
+              (SBAR(S(NP-SUB(P-H Mình))
+                                (VP(R từng)(V-H ngồi)
+                                     (VP(V-H phân tích)
+                                          (AP(A-H đủ)(N-H lẽ))
+                                          (PP(E-H cho)
+                                                  (NP(M một)(Nc-H đứa)(N trẻ)))
+                                                                      (: :)
+                                          (SBAR(S(S(NP-ADV(M một)(N-H bên))
+                                                                 (NP-SUB(N-H em))
+                                                                (VP(R sẽ)(V-H có)
+                                                                        (NP-DOB(M một)(N-H nghề)
+                                                                              (AP(A-H ổn định)))))
+                                                                                         (, ,)
+                                                             (S(NP-ADV(M một)(N-H bên))
+                                                                  (NP-SUB(N-H em))
+                                                                  (VP(R sẽ)(V-H có)
+                                                                         (NP-DOB(N-H tiền))
+                                                                             (R ngay)            (C nhưng)
+                                                                        (AP(R rất)(A-H tủi nhục))))))))))))
+(. .))
+
+</s>
+<s>
+(S(NP-SUB(N-H Em)(P đó))
+     (VP(R đã)(V-H trả lời)(A ráo hoảnh)
+        (: :)
+         (SBAR(S(S(VP-ADV(V-H cảm ơn)
+                               (NP-DOB(N-H đại ca)))
+                       (, ,)(C nhưng)
+                       (NP-SUB-1(N-H em))
+                        (VP(V-H chọn)
+                               (NP-DOB(Nc-H con)(N đường)
+                                    (NP(N-H thứ)(M hai)))))
+                                                  (, ,)
+                         (S(VP-ADV(V-H ở)(R lại)
+                                     (NP-LOC(Np-H Koto)))
+                                                    (, ,)
+                              (NP-TMP(M mỗi)(N-H tháng))
+                              (NP-SUB-1 *T*)
+                               (VP(R chỉ)(V-H được)
+                                       (NP-DOB(M 600.000)(Nu-H đồng))))
+                                                         (, ,)
+                         (S(PP-ADV(E-H trong)
+                                     (NP(N-H khi)
+                                            (VP(R chỉ)(V-H cần)
+                                                    (VP(V-H trao)(N tay)
+                                                           (NP(M một)(N-H ông)(N khách)(N nước ngoài))))))
+                                                (, ,)
+                              (NP-TMP(M mỗi)(N-H đêm))
+                              (NP-SUB(N-H em))
+                              (VP(R có thể)(V-H được)
+                                      (NP-DOB(M 50)(Nu-H USD))
+                                      (AP-MNR(A-H dễ dàng))))))
+         (" "))
+(... ...))
+</s>
+<s>
+(S(NP-SUB(NP-H Phạm))
+     (VP(V-H kể) 
+         (SBAR(S(NP-SUB(T chính)(N-H anh))
+                           (VP(R từng)(V-H phải)
+                                (VP(V-H dẫn)
+                                     (NP-DOB(M một)(N-H em)(N gái)(A nhỏ))
+                                     (VP(V-H đến)
+                                           (NP-LOC(N-H bệnh viện))
+                                    (PP-PRP(E-H do)
+                                         (VP(V-H bị)
+                                                (VP(V-H lạm dụng)
+                                                        (NP(N-H tình dục)))))))))))
+(. .))
+</s>
+<s>
+(S(C Vì vậy)
+   (, ,)
+   (PP-ADV(E-H trong)
+       (NP(N-H chương trình)(V học)
+          (PP-LOC(E-H ở)
+               (NP(Np-H Koto)))))
+  (, ,)
+   (AP-ADV(A-H cùng)
+         (PP(E-H với)
+              (VP(V-H học)(N nghề))))
+ (, ,)
+    (S-SUB(NP-SUB(N-H trẻ))
+                   (VP(V-H lang thang)))
+    (VP(R còn)(V-H được)
+         (VP(V-H dạy)
+              (AP(R rất)(A-H kỹ)
+                    (NP(N-H môn)(V giáo dục)(N giới tính)))))
+(. .))
+
+
+</s>
+<s>
+(S(PP-PRP(E-H Nhờ)
+         (NP(NP(N-H chất lượng)(V đào tạo))
+                 (C và)
+                (NP(Nc-H sự)(V liên kết)(A chặt chẽ)
+                    (PP(E-H với)
+                         (NP(L các)(N-H nhà hàng)(, ,)(N-H khách sạn))))))
+ (, ,)
+    (S-SUB(NP-SUB(P tất cả)(L những)(N-H em))
+                   (VP(R từng)(V-H học)
+                        (NP-DOB(N-H nghề)
+                            (PP-LOC(E-H ở)
+                                 (NP(Np-H Koto))))))
+   (NP-TMP(P-H nay))
+    (VP(R đều)(R đã)(V-H có)
+          (NP-DOB(N-H việc làm)(A ổn định)))
+(. .))
+
+
+</s>
+<s>
+(S(S(" ")
+         (NP-SUB(N-H Điều)(A quan trọng)(A nhất))
+          (VP(V-H là)
+                 (NP-TMP(N-H khi)
+                         (VP(V-H ra)(R khỏi)
+                                 (NP-LOC(N-H trung tâm))))
+                                       (, ,)
+                 (NP-SUB(L các)(N-H em)
+                         (VP(R đã)(R không)(V-H còn)
+                                 (VP(V-H là)
+                                         (NP-DOB(N-H trẻ)(V lang thang))(R nữa)))))
+      (" "))
+   (- -)
+   (SBAR(S(NP-SUB(Np-H Jimmy))
+       (VP(V-H tâm đắc)
+              (AP(A-H nhất)
+                     (NP-DOB(N-H điều)(P này))))))
+(. .))
+
+</s>
+<s>
+(S(C Và)
+    (NP-TMP(N-H hiện tại))
+     (NP-SUB(Nc-H vị)(" ")(N đại ca)(" ")
+         (PP(E-H của)
+             (NP(N-H trẻ)(N đường phố))))
+    (VP(R đang)(V-H có)
+          (NP-DOB(N-H ý định)
+               (VP(V-H mở rộng)
+                   (NP-DOB(N-H mô hình)(V dạy)(N nghề))
+                       (R ra)
+                            (NP(A nhiều)(N-H thành phố)(A khác)
+                                (PP(E-H của)
+                                    (NP(Ny-H VN)))
+                                (, ,)
+                                  (NP(N-H trước tiên)
+                                      (VP(R sẽ)(V-H là)
+                                          (NP(Ny-H TP.HCM)(, ,)(Np-H Huế)(C và)(Np-H Cần Thơ))))))))
+(. .))
+</s>
+<s>
+(S(NP-SUB(NP-H Phạm))
+     (VP(R chỉ)(V-H cười)
+          (NP(N-H khi)
+               (VP(V-H có)
+                    (SBAR(S(NP-SUB(N-H người))
+                                      (VP(V-H bảo)
+                                            (SBAR(S(NP-SUB(N-H anh))
+                                                               (VP(R đã)(V-H làm)(V được)
+                                                                   (NP-DOB(A nhiều)(N-H việc)
+                                                                       (AP(R quá)(A-H lớn lao))))))))))))
+(. .))
+
+
+</s>
+<s>
+(S(NP-SUB(N-H Anh))
+     (VP(V-H tiết lộ)
+          (: :)(" ")
+              (SBAR(S(VP-SUB(V-H Có)
+                                          (NP(P-H ai)))
+                               (VP(V-H biết)
+                                      (SBAR(C rằng)
+                                               (S(AP-ADV(R không)(A-H ít)
+                                                            (NP(N-H lần)))
+                                                   (NP-SUB(P-H tôi))
+                                                    (VP(VP(V-H sang)
+                                                                   (NP-LOC(Ny-H VN)))
+                                                                             (C mà)
+                                                            (VP(R chỉ)(V-H có)
+                                                                   (NP-DOB(M 200)(Nu-H USD)
+                                                                           (PP-LOC(E-H trong)
+                                                                                   (NP(N-H túi)))))))))))
+      (" ")(! !))
+(... ...))
+
+</s>

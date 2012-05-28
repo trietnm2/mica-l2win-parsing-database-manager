@@ -1,0 +1,715 @@
+! : !	5
+" : "	86
+, : ,	99
+- : -	14
+. : .	56
+... : ...	23
+/ : /	8
+: : :	7
+; : ;	2
+? : ?	5
+A : Cùng	2
+A : Dọc	1
+A : Nhiều	2
+A : Suốt	2
+A : an tâm	1
+A : bài bản	1
+A : béo bở	2
+A : cao	1
+A : cao tốc	1
+A : chi tiết	2
+A : chung	3
+A : chính	1
+A : cuối cùng	1
+A : có giá	1
+A : cùng	1
+A : cũ	1
+A : duy nhất	1
+A : dài	3
+A : dễ	3
+A : dọc	2
+A : gần	4
+A : hiếm	1
+A : hiện đại	1
+A : hun hút	2
+A : hơn	1
+A : khác	5
+A : khắp	1
+A : liên tục	1
+A : lân cận	1
+A : lớn	3
+A : mỏi	1
+A : mới	4
+A : mới toanh	1
+A : nguệch ngoạc	1
+A : nhanh chóng	1
+A : nhiều	10
+A : nhỏ	1
+A : nóng	1
+A : phong phú	1
+A : phải	1
+A : quan trọng	2
+A : quanh	1
+A : quá tải	1
+A : rảnh rỗi	1
+A : rề rà	1
+A : rộng lớn	1
+A : san sát	1
+A : sau	2
+A : sát	1
+A : sâu	2
+A : thường ngày	1
+A : tiện	1
+A : trung bình	1
+A : trung niên	1
+A : trên	2
+A : trước	1
+A : trắng	3
+A : trẻ	1
+A : trọng điểm	1
+A : tương tự	1
+A : tương đối	1
+A : tạm	1
+A : tổng thể	1
+A : um tùm	1
+A : vắng vẻ	1
+A : vội	1
+A : xa	1
+A : ít	3
+A : ùn ùn	2
+A : đã	1
+A : đúng	1
+A : đầy	4
+A : đẹp	1
+A : đủ	3
+A : ổn định	1
+C : Cùng	1
+C : Và	1
+C : chứ	1
+C : còn	1
+C : do	1
+C : hay	1
+C : hoặc	6
+C : mà	5
+C : như	5
+C : nhưng	7
+C : nên	1
+C : rằng	1
+C : rồi	1
+C : thì	9
+C : tức	1
+C : và	22
+C : vì vậy	1
+C : với	2
+E : Cho	1
+E : Ngoài	1
+E : Theo	7
+E : Trong	2
+E : Trên	3
+E : Từ	3
+E : bởi	1
+E : cho	10
+E : của	7
+E : do	1
+E : dưới	1
+E : lên	1
+E : ngoài	2
+E : nhằm	1
+E : qua	3
+E : sau	1
+E : theo	12
+E : trong	13
+E : trên	12
+E : trước	1
+E : tại	4
+E : tới	1
+E : từ	8
+E : vào	1
+E : vì	4
+E : về	5
+E : với	12
+E : đến	10
+E : để	3
+E : ở	14
+L : Mấy	1
+L : Những	1
+L : các	27
+L : hầu hết	1
+L : mấy	4
+L : mỗi	1
+L : những	16
+L : tá	1
+L : vài	1
+LBKT : LBKT	10
+LKBT : LBKT	1
+M : 1	2
+M : 1, 6	1
+M : 1,5	1
+M : 10	1
+M : 100	2
+M : 149	1
+M : 15	1
+M : 150	1
+M : 170	1
+M : 190	1
+M : 1997	1
+M : 2	2
+M : 2 . 523	1
+M : 2,2	1
+M : 2.700	1
+M : 200	1
+M : 2004	1
+M : 220	1
+M : 23	1
+M : 25A	2
+M : 25B	8
+M : 27	1
+M : 3.600	1
+M : 30	1
+M : 30 . 000	1
+M : 320	1
+M : 35	1
+M : 4	2
+M : 40	3
+M : 400	1
+M : 5	1
+M : 50	1
+M : 500	1
+M : 51	1
+M : 60	1
+M : 7	1
+M : 70	1
+M : 750	1
+M : 79	1
+M : 80	2
+M : 9	4
+M : 90	2
+M : Một	2
+M : ba	1
+M : bảy	1
+M : chục	1
+M : hai	3
+M : một	27
+M : rưỡi	1
+M : triệu	13
+M : trăm	3
+M : tỉ	2
+N : Anh chàng	1
+N : Anh chị	2
+N : Cò	2
+N : Cọc	1
+N : Diện mạo	1
+N : Khi	1
+N : Khu đô thị	1
+N : Ngày	1
+N : Nhơn Trạch	1
+N : Phà	1
+N : Phía	1
+N : Phòng	1
+N : Sở	1
+N : Sự	1
+N : Trái đất	1
+N : Tài nguyên	2
+N : Tổng bí thư	1
+N : biển số	3
+N : biệt thự	1
+N : bên	4
+N : bóng dáng	1
+N : bóng mát	1
+N : bảng	2
+N : bảng hiệu	1
+N : bắc	1
+N : bến	2
+N : bộ	1
+N : cao su	1
+N : chiếc	1
+N : chiến sĩ	1
+N : chiều	2
+N : chung cư	1
+N : chuyến	1
+N : chuyện	5
+N : chân	1
+N : chủ	3
+N : chức năng	1
+N : con số	1
+N : cà phê	3
+N : cách	1
+N : cán bộ	2
+N : cánh	1
+N : câu chuyện	1
+N : cây cối	1
+N : cò	13
+N : công	1
+N : công nghiệp	2
+N : công thức	1
+N : công ty	1
+N : cù lao	1
+N : căn bệnh	1
+N : cơ quan	1
+N : cơ sở hạ tầng	1
+N : cảng	2
+N : cảnh quan	1
+N : cấp	2
+N : cầu	2
+N : cầu nối	1
+N : cọc	4
+N : cụm	1
+N : cực	1
+N : diện tích	3
+N : dân	6
+N : dân cư	3
+N : dọc	1
+N : dự án	5
+N : em	1
+N : gai	1
+N : gia	1
+N : gia đình	2
+N : giao thông	2
+N : giá	14
+N : giò	1
+N : gà	1
+N : heo	1
+N : hiện	3
+N : hiện hữu	1
+N : hiện tại	1
+N : huyết mạch	1
+N : huyện	7
+N : hàng	2
+N : hình thù	1
+N : hướng	2
+N : hạ tầng	1
+N : hẻm	1
+N : họ	1
+N : hồ sơ	1
+N : hộp	1
+N : khi	4
+N : khoai mì	1
+N : khoản	2
+N : khoảng	2
+N : khu	3
+N : khu vực	7
+N : khách	4
+N : khách hàng	1
+N : kinh doanh	1
+N : kinh tế	2
+N : kiến trúc	3
+N : kiến trúc sư	1
+N : loạt	1
+N : lãnh đạo	1
+N : lô	3
+N : lúc	1
+N : lần	3
+N : lầu	1
+N : lộ	4
+N : lời	1
+N : màu sắc	1
+N : môi trường	4
+N : mặt	5
+N : mặt mũi	1
+N : mặt tiền	1
+N : mối	1
+N : một cách	1
+N : nam	1
+N : nghề	2
+N : nguy hiểm	1
+N : người	6
+N : nhau	1
+N : nhà	4
+N : nhà cửa	2
+N : nhà xưởng	1
+N : nhà đầu tư	1
+N : nhà ống	1
+N : nhà ở	2
+N : nhánh	1
+N : nhân viên	1
+N : nông nghiệp	1
+N : năm	4
+N : nơi	2
+N : nước	1
+N : nền	2
+N : phong trào	3
+N : phà	4
+N : phía	6
+N : quan chức	2
+N : qui hoạch	5
+N : quyền	1
+N : quá trình	1
+N : quán	3
+N : quán cóc	1
+N : quân đội	1
+N : quận	3
+N : quốc lộ	1
+N : ruộng	3
+N : rẫy	1
+N : rừng	1
+N : sau này	1
+N : sinh thái	1
+N : sân bay	1
+N : sông	1
+N : số	1
+N : tay	1
+N : tay chân	1
+N : tay trái	1
+N : thanh niên	1
+N : thành phố	4
+N : tháng	4
+N : thổ	3
+N : thủ công nghiệp	1
+N : thủy	1
+N : thủy lộ	1
+N : thực chất	1
+N : thực tế	2
+N : tin	1
+N : tiền	3
+N : tiền đề	1
+N : tiện ích	1
+N : trung tâm	2
+N : trình tự	1
+N : trước mắt	1
+N : trệt	1
+N : trọng điểm	1
+N : trục	5
+N : tuyến	1
+N : tuổi	1
+N : tây	1
+N : tình trạng	1
+N : tăng-gô	1
+N : tương lai	2
+N : tỉnh	4
+N : tổng thể	1
+N : ven	1
+N : việc	3
+N : vàng	2
+N : vùng	2
+N : vườn	3
+N : vấn đề	3
+N : vịt	1
+N : vốn	1
+N : xa lộ	1
+N : xe	2
+N : xe máy	1
+N : xã	11
+N : xế	1
+N : yêu cầu	1
+N : ông	2
+N : ý kiến	1
+N : Điều	1
+N : Đất	1
+N : điều kiện	3
+N : điệu	1
+N : đàn ông	1
+N : đô thị	1
+N : đông	1
+N : đường	18
+N : đất	41
+N : đất đai	1
+N : đầu	1
+N : địa bàn	1
+N : đồng	2
+N : đội ngũ	1
+N : ấn tượng	1
+N : ấp	1
+NP : *E*	30
+NP : *T*	3
+Nc : Miếng	2
+Nc : bảng	1
+Nc : chiếc	3
+Nc : chuyến	1
+Nc : con	2
+Nc : cánh	1
+Nc : cây	2
+Nc : công	1
+Nc : căn	2
+Nc : dòng	1
+Nc : dải	1
+Nc : hàng	2
+Nc : khu	4
+Nc : loại	2
+Nc : lô	1
+Nc : miếng	9
+Nc : món	1
+Nc : mảnh	1
+Nc : mặt	1
+Nc : người	3
+Nc : tuyến	1
+Nc : Ông	1
+Nc : ông	2
+Np : Biên Hòa	1
+Np : Bà Rịa	1
+Np : Bến Đình	1
+Np : Cát Lái	2
+Np : Cần Giờ	1
+Np : Honda	1
+Np : Long Thành	2
+Np : Long Tân	2
+Np : Mười H.	2
+Np : Nam	2
+Np : Nhơn Trạch	16
+Np : Nông Đức Mạnh	1
+Np : Phú Hội	1
+Np : Phú Hữu	3
+Np : Phú Thạnh	2
+Np : Phú Đông	3
+Np : Phước An	1
+Np : Sài Gòn	1
+Np : Thái	2
+Np : Thị Vải	1
+Np : Võ Thanh Thái	1
+Np : Vĩnh Thanh	3
+Np : Vũng Tàu	3
+Np : Á	1
+Np : Ông Cồn	1
+Np : Đại Phước	3
+Np : Đồng Nai	5
+Nu : USD	1
+Nu : cây	2
+Nu : công	8
+Nu : ha	5
+Nu : m	10
+Nu : m2	1
+Nu : phút	1
+Nu : đồng	11
+Ny : KCN	5
+Ny : T.	3
+Ny : TP	1
+Ny : TP. HCM	8
+Ny : TP.H HCM	1
+Ny : V.	3
+P : Chúng tôi	1
+P : Toàn bộ	1
+P : ai	4
+P : bao giờ	2
+P : bây giờ	1
+P : chúng tôi	6
+P : gì	1
+P : họ	3
+P : mình	2
+P : nay	3
+P : người ta	1
+P : nào	7
+P : này	8
+P : tất cả	1
+P : từng	2
+P : tự	1
+P : vậy	1
+P : đây	7
+P : đó	6
+Q : triệu	1
+R : Chỉ	1
+R : Còn	1
+R : Cũng	2
+R : Không thể	1
+R : Thậm chí	1
+R : bất cứ	1
+R : chăng	1
+R : chưa	4
+R : chỉ	5
+R : còn	4
+R : có thể	1
+R : cũng	22
+R : gần như	1
+R : hàng	4
+R : hơn	4
+R : hết	1
+R : hết sức	1
+R : không	8
+R : lên	2
+R : lại	11
+R : lấy	2
+R : lắm	1
+R : mới	3
+R : ngay lập tức	4
+R : nhất	4
+R : nữa	1
+R : qua	1
+R : ra	4
+R : rất	1
+R : sẽ	4
+R : thậm chí	1
+R : tà tà	1
+R : từng	2
+R : vẫn	3
+R : vốn	2
+R : vừa	1
+R : đang	9
+R : đi	2
+R : đã	20
+R : được	1
+R : đều	3
+R : đừng	1
+RBKT : RBKT	11
+S : tiểu	1
+S : trưởng	1
+S : tổng	3
+T : Thế	1
+T : cho	1
+T : có	1
+T : cả	8
+T : ngay	1
+T : sao	1
+T : tới	1
+T : vậy	1
+T : đến	7
+V : *E*	3
+V : *T*	1
+V : Biết	1
+V : Cận kề	1
+V : Mua	1
+V : Nhìn	1
+V : Qui hoạch	1
+V : Tính	1
+V : biết	3
+V : buồn	1
+V : bàn luận	1
+V : bám	2
+V : bán	14
+V : băng	1
+V : bảo	1
+V : cho	3
+V : cho phép	1
+V : chuyên	1
+V : chào hàng	1
+V : chạy	4
+V : chấp hành	1
+V : chấp thuận	1
+V : chịu thua	1
+V : chồm	1
+V : coi	1
+V : cách	1
+V : có	22
+V : cải tạo	1
+V : cấp	1
+V : cần	2
+V : cập	1
+V : cố gắng	1
+V : du lịch	1
+V : dành	1
+V : dạo	1
+V : dắt	4
+V : dụ	1
+V : dự kiến	1
+V : ghé	1
+V : giao	2
+V : giáp	3
+V : giăng	1
+V : giải tỏa	1
+V : giới thiệu	3
+V : gắn	1
+V : gắn kết	1
+V : gặp	1
+V : hi vọng	2
+V : hoảng hồn	1
+V : hình dung	1
+V : hình thành	4
+V : khảo sát	1
+V : kinh doanh	1
+V : kiến trúc	1
+V : kéo	1
+V : kẻ	1
+V : kết thúc	1
+V : kể	2
+V : leo	1
+V : liên kế	2
+V : là	11
+V : làm	4
+V : làm việc	3
+V : lên	2
+V : lưu ý	1
+V : lập	1
+V : lọt lòng	1
+V : lời	3
+V : mang	1
+V : mua	5
+V : mua bán	1
+V : mua sắm	1
+V : mọc	1
+V : mỏi	1
+V : mời gọi	1
+V : nghe	1
+V : ngồi	1
+V : nhìn	5
+V : nhảy	1
+V : nhận	1
+V : nhắc	1
+V : nói	2
+V : nằm	7
+V : nối	2
+V : phá	1
+V : phát sinh	1
+V : phát triển	7
+V : phân	3
+V : phê duyệt	1
+V : phải	5
+V : qua	2
+V : qua lại	2
+V : quan tâm	1
+V : quay	3
+V : qui hoạch	9
+V : quảng cáo	3
+V : rao	5
+V : rủ	1
+V : sang	2
+V : sang tay	2
+V : săn	1
+V : sơn	2
+V : sốt	2
+V : sở hữu	2
+V : sợ hãi	1
+V : theo	2
+V : thiết kế	1
+V : thu hút	1
+V : thuộc	1
+V : thành	1
+V : thăm	1
+V : thấy	8
+V : thực hiện	1
+V : tiếc rẻ	1
+V : tiếp tục	1
+V : tranh thủ	1
+V : trao	1
+V : trồng	1
+V : trở thành	2
+V : trực thuộc	1
+V : tâm sự	1
+V : tìm	4
+V : tính	1
+V : tính toán	1
+V : tùy	1
+V : túa	1
+V : vô	1
+V : vượt	1
+V : vẽ	1
+V : về	1
+V : xem	4
+V : xin phép	1
+V : xuyên	1
+V : xuất hiện	1
+V : xuống	1
+V : xây	4
+V : xây dựng	5
+V : xô	1
+V : ô nhiễm	1
+V : Đi	1
+V : đi	6
+V : đuổi	1
+V : đáng	1
+V : đánh du kích	1
+V : đô thị hóa	1
+V : đăng ký	1
+V : được	20
+V : đảm bảo	1
+V : đầu tư	1
+V : đền bù	1
+V : để	1
+V : để dành	1
+V : định hình	1
+V : đổ	1
+V : đổ xô	1
+V : đổi	2
+V : ổn định	1
+X : Có lẽ	1
+X : Hầu hết	1
+X : có vẻ	1
+X : hầu hết	2
+X : như vậy	4
+X : tới	4

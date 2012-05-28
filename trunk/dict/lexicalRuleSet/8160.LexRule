@@ -1,0 +1,644 @@
+" : "	16
+, : ,	78
+- : -	6
+. : .	65
+... : ...	5
+/ : /	1
+: : :	2
+? : ?	2
+A : Dọc	1
+A : Nhiều	1
+A : Thuôn	1
+A : bóng loáng	1
+A : bạc	1
+A : bằng	2
+A : bết	1
+A : cao	2
+A : chuẩn	1
+A : chính	1
+A : chăm chỉ	1
+A : chậm	1
+A : chậm rãi	1
+A : chật cứng	1
+A : cuối cùng	2
+A : có thể	1
+A : cùng	2
+A : dài	1
+A : dịu	1
+A : gần	1
+A : heo hắt	1
+A : hi hữu	1
+A : hiện đại	4
+A : hoàn chỉnh	1
+A : hơn	1
+A : hỏng	1
+A : khác	2
+A : khít	1
+A : khó	1
+A : khề khà	1
+A : kiêu hãnh	1
+A : lớn	2
+A : mát lành	1
+A : mạnh	1
+A : mệt mỏi	1
+A : mới	1
+A : ngay	1
+A : nhanh	2
+A : nhiều	8
+A : như	1
+A : nhất	4
+A : nhỏ	3
+A : nhỏ bé	1
+A : non trẻ	1
+A : nóng	1
+A : nóng sốt	1
+A : oai vệ	1
+A : phong phú	1
+A : phấn khích	1
+A : phức tạp	2
+A : quan trọng	1
+A : quí	1
+A : rã rời	1
+A : rẻ	2
+A : rời	1
+A : sang trọng	1
+A : sáng	2
+A : sâu	1
+A : sẵn	1
+A : thoải mái	1
+A : thoắt	2
+A : thơm	1
+A : thật sự	1
+A : thẳng	1
+A : thực hư	1
+A : tiên tiến	1
+A : trắng	1
+A : tận tụy	1
+A : tối đa	1
+A : tốt	2
+A : tự lực	1
+A : tự động	1
+A : vun vút	1
+A : vừa	1
+A : xinh xắn	1
+A : êm	1
+A : êm dịu	1
+A : Đẹp	1
+A : đúng	1
+A : đơn giản	1
+A : đơn độc	1
+A : đầu tiên	1
+A : đắt	2
+A : đẹp	1
+A : đồng bộ	1
+A : độc lập	1
+A : độc đáo	1
+C : Do	1
+C : Thế là	1
+C : Thế mà	1
+C : cùng	1
+C : do	1
+C : hay	1
+C : hơn nữa	1
+C : là	4
+C : mà	6
+C : như	9
+C : nhưng	2
+C : nên	4
+C : nếu	3
+C : rồi	3
+C : thì	7
+C : và	8
+C : vì vậy	1
+E : Do	1
+E : Sau	1
+E : Trong	1
+E : Trên	1
+E : Từ	1
+E : bên	1
+E : bằng	6
+E : bởi	3
+E : cho	5
+E : của	18
+E : do	3
+E : dưới	1
+E : giữa	1
+E : lên	2
+E : sau	3
+E : theo	3
+E : trong	6
+E : trên	6
+E : tại	1
+E : từ	3
+E : vào	2
+E : vì	1
+E : về	3
+E : với	12
+E : Đến	1
+E : đến	4
+E : để	5
+E : ở	6
+Eb : in	1
+L : Các	2
+L : Mỗi	2
+L : Những	3
+L : bao	1
+L : các	13
+L : mấy	1
+L : mọi	2
+L : mỗi	3
+L : một nửa	1
+L : một số	1
+L : những	10
+L : đôi	1
+M : 12	1
+M : 12.000	1
+M : 120	1
+M : 15	1
+M : 200 triệu	1
+M : 30	1
+M : 56	1
+M : 7	1
+M : Một	1
+M : ba	1
+M : bốn	1
+M : hai	4
+M : một	12
+N : Anh em	1
+N : Chi phí	1
+N : Chuyên gia	1
+N : Cô	1
+N : Công ty	4
+N : Cơ khí	1
+N : Hiện nay	1
+N : Hạng	1
+N : Khi	1
+N : Kinh nghiệm	1
+N : Kế hoạch	1
+N : Lần	1
+N : Máy móc	1
+N : Nhà máy	2
+N : Nhân viên	1
+N : Nội thất	1
+N : Romania	1
+N : Sân	1
+N : Thực đơn	1
+N : Tiêu chuẩn	1
+N : Toa	2
+N : Toa xe	2
+N : Trời	1
+N : Tàu	2
+N : Tốc độ	2
+N : Việc	1
+N : Vé	1
+N : Xe lửa	2
+N : Xí nghiệp	1
+N : anh em	2
+N : ba	1
+N : biểu tượng	1
+N : buồng	1
+N : buổi	1
+N : bàn	1
+N : bác	1
+N : bánh	1
+N : bánh mì	1
+N : báo	1
+N : bé	1
+N : bên	1
+N : bình	1
+N : băng	2
+N : bạn	1
+N : bậc	1
+N : bệ	1
+N : bộ	1
+N : bộ phận	1
+N : ca	1
+N : chi tiết	3
+N : chuyên gia	3
+N : chân	1
+N : châu	1
+N : chất lượng	4
+N : con thoi	4
+N : cuộc	1
+N : cà phê	1
+N : cây	1
+N : công nghiệp	1
+N : công nghệ	2
+N : công nhân	7
+N : công suất	4
+N : công trình	1
+N : công vụ	1
+N : cơ sở hạ tầng	1
+N : cảm giác	1
+N : cửa kính	1
+N : da	1
+N : dân tộc	1
+N : dòng	1
+N : dư	1
+N : dưới	1
+N : dịch	2
+N : ga	2
+N : ghế	1
+N : giá	2
+N : giá thành	1
+N : giám đốc	1
+N : giường	2
+N : giường nằm	1
+N : giảm xóc	1
+N : giấc ngủ	1
+N : giờ	1
+N : gầm	1
+N : hi vọng	1
+N : hoa tay	1
+N : hành khách	3
+N : hành lang	2
+N : hành trình	1
+N : hương	1
+N : hạng	4
+N : hệ thống	4
+N : khi	4
+N : khoang	5
+N : khu	1
+N : khách	1
+N : khách sạn	1
+N : khâu	1
+N : khó khăn	1
+N : không khí	3
+N : khớp	1
+N : kinh nghiệm	1
+N : kiểu	1
+N : kế hoạch	1
+N : kỹ sư	4
+N : ly	1
+N : lòng	1
+N : lúc	1
+N : lưng	1
+N : lần	2
+N : lọc khí	1
+N : lụa	1
+N : miệng	1
+N : máy	1
+N : máy móc	1
+N : món	1
+N : mẹ	2
+N : mồ hôi	1
+N : một nửa	1
+N : mỡ máy	1
+N : mức	1
+N : nghề	1
+N : nghị lực	1
+N : ngành	1
+N : ngày	2
+N : người	8
+N : nhau	1
+N : nhiên liệu	1
+N : nhiệt độ	1
+N : nhu cầu	1
+N : nhà	1
+N : nhì	1
+N : nhạc	1
+N : núi	1
+N : núi rừng	1
+N : năm	1
+N : nước	7
+N : nước khoáng	1
+N : nước ngoài	2
+N : nước nhà	1
+N : nồi	1
+N : phong cách	1
+N : phân xưởng	1
+N : phép	2
+N : phía	2
+N : phương	1
+N : phần	1
+N : quanh	1
+N : quán	1
+N : rèm	1
+N : sai sót	1
+N : sau	1
+N : suất	2
+N : sách	1
+N : sáng	1
+N : sáng kiến	1
+N : sân	1
+N : sông	1
+N : sự	1
+N : tay	2
+N : tay nghề	1
+N : thiết bị	3
+N : thuốc lào	1
+N : thách thức	1
+N : tháng	1
+N : thân	1
+N : thùng	1
+N : thời hạn	1
+N : thợ	1
+N : thợ máy	1
+N : tinh thần	2
+N : tiến độ	1
+N : toa	5
+N : toa xe	1
+N : toàn bộ	1
+N : triền	2
+N : trà	1
+N : trách nhiệm	2
+N : trán	1
+N : trưa	1
+N : trước	1
+N : trước đây	2
+N : trọng lượng	2
+N : trọng tải	1
+N : trở ngại	1
+N : tàu	17
+N : tóc	1
+N : tải trọng	1
+N : tối	1
+N : tổ hợp	2
+N : van	1
+N : việc	1
+N : vé	1
+N : vật liệu	2
+N : vốn	1
+N : xưởng	1
+N : yêu cầu	1
+N : ánh sáng	1
+N : áo	1
+N : âm thanh	2
+N : Điều	2
+N : Điều kiện	1
+N : Đèn	1
+N : Đêm	1
+N : điều hòa	1
+N : điều hòa nhiệt độ	1
+N : điều kiện	1
+N : điện	1
+N : điệu	1
+N : đoàn	3
+N : đèn	2
+N : đêm	3
+N : đơn vị	1
+N : đường sắt	3
+N : đầu	3
+N : đầu máy	14
+N : đẩy	1
+N : đệm	3
+N : đối tác	1
+N : đồ	2
+N : đồi	1
+N : đồng bào	1
+N : ảnh	1
+NP : *E*	18
+NP : *T*	2
+Nb : cờlê	1
+Nb : diesel	2
+Nc : bác	3
+Nc : bức	1
+Nc : chiếc	2
+Nc : con	1
+Nc : căn	1
+Nc : dải	1
+Nc : giọt	1
+Nc : kiểu	2
+Nc : mối	1
+Nc : nhóm	1
+Nc : niềm	1
+Nc : rặng	1
+Nc : sự	3
+Nc : ánh	1
+Nc : ông	1
+Nc : Đoàn	1
+Nc : điếu	1
+Np : Bỉ	1
+Np : Cả Phi	2
+Np : Dĩ An	1
+Np : Gia Lâm	2
+Np : Hà Nội	1
+Np : Hải Phòng	1
+Np : Hồng	1
+Np : Lào Cai	1
+Np : Nguyễn Thanh Sơn	1
+Np : Phi	1
+Np : Thái Lan	1
+Np : Trung Quốc	7
+Np : Tây	1
+Np : Việt	1
+Np : Âu	1
+Np : Đỗ Văn Hạt	1
+Np : Đức	1
+Np : Ấn Độ	1
+Nu : g	1
+Nu : km	2
+Nu : tấn	1
+Nu : đồng	1
+Ny : K	1
+Ny : PP	1
+Ny : SARS	2
+Ny : VN	11
+P : Nó	2
+P : Tôi	1
+P : bao giờ	1
+P : bao nhiêu	1
+P : chúng tôi	1
+P : gì	1
+P : mình	5
+P : nay	1
+P : này	5
+P : ta	8
+P : tôi	3
+P : tự	3
+P : Đây	1
+P : đó	3
+P : ấy	1
+R : Không thể	1
+R : chưa	2
+R : chưa thể	1
+R : chẳng	1
+R : chỉ	4
+R : càng	2
+R : còn	2
+R : có thể	4
+R : có vẻ	1
+R : cũng	2
+R : cứ	2
+R : gần	1
+R : hơn	1
+R : hầu như	1
+R : khá	4
+R : không	9
+R : không thể	2
+R : luôn	1
+R : làm	1
+R : lại	7
+R : ngay	1
+R : nhất định	1
+R : quá	1
+R : ra	4
+R : rất	6
+R : theo	1
+R : thậm chí	1
+R : từng	1
+R : vô cùng	1
+R : vừa	4
+R : đang	1
+R : đã	11
+R : được	6
+R : đều	4
+T : Chính	1
+T : ngay	1
+T : nhỉ	1
+T : đây	1
+T : ư	1
+V : *T*	1
+V : Bước	1
+V : Có	1
+V : Hết	1
+V : Phải	1
+V : Theo	1
+V : Tư vấn	1
+V : Tưởng	1
+V : Ví dụ	1
+V : biến dạng	2
+V : biết	2
+V : bài trí	1
+V : bàn tán	1
+V : bảo	1
+V : bị	2
+V : bọc	1
+V : bỏ	2
+V : chia	1
+V : cho	3
+V : chuyển	1
+V : châm	1
+V : chìm	1
+V : chạy	1
+V : chế	1
+V : chế tạo	5
+V : chỉnh	1
+V : chịu	3
+V : chọn	1
+V : có	12
+V : căn	1
+V : cảm nhận	1
+V : cảm thấy	1
+V : cần	1
+V : cắt	1
+V : cử	1
+V : dính	1
+V : dập	1
+V : dứt điểm	1
+V : dựa	1
+V : giải quyết	1
+V : giảm	1
+V : gây	1
+V : gật gù	1
+V : gọi	1
+V : gồm	3
+V : hiện	1
+V : hoài nghi	1
+V : hoàn thiện	2
+V : hoành hành	1
+V : hoạt động	1
+V : hàn	5
+V : hàn huyên	1
+V : hãm	1
+V : hừng	1
+V : khen ngợi	1
+V : khiến	1
+V : kinh ngạc	1
+V : kèm	1
+V : kéo	2
+V : kéo đẩy	3
+V : lao	1
+V : là	9
+V : làm	9
+V : làm việc	2
+V : lên	2
+V : lắp	2
+V : lắp ráp	1
+V : mang	1
+V : mua	2
+V : muốn	1
+V : mày mò	2
+V : nghe	1
+V : nghiên cứu	2
+V : ngại ngần	1
+V : ngồi	1
+V : ngủ	1
+V : nhâm nhi	1
+V : nhìn	2
+V : nhập	1
+V : nên	1
+V : nói	1
+V : nằm	1
+V : nối	1
+V : pha	1
+V : phát triển	5
+V : phân tích	1
+V : phù hợp	1
+V : phải	10
+V : phảng phất	1
+V : phục vụ	1
+V : quay	1
+V : quyết định	3
+V : quyện	1
+V : sang	2
+V : siết	1
+V : so	2
+V : sản xuất	9
+V : sống	1
+V : sử dụng	1
+V : tham khảo	1
+V : thay thế	1
+V : thay đổi	1
+V : thi công	2
+V : thiết kế	6
+V : thiếu	2
+V : thua kém	1
+V : thuộc	1
+V : thán phục	1
+V : thức	1
+V : thử	3
+V : thử nghiệm	1
+V : thực hiện	1
+V : tiếp tục	1
+V : trông	1
+V : trăn trở	1
+V : trườn	1
+V : trở thành	2
+V : tạo	2
+V : tỏ vẻ	1
+V : tốn	1
+V : tự hào	1
+V : uốn	1
+V : uống	1
+V : vượt	2
+V : vận chuyển	1
+V : vệ sinh	2
+V : vứt	1
+V : xem	1
+V : xuất hiện	1
+V : xây dựng	1
+V : xảy	1
+V : xử lý	1
+V : ăn	4
+V : Đi	1
+V : đi	3
+V : điểm tâm	1
+V : đành	2
+V : đưa	2
+V : được	11
+V : đạt	2
+V : đầu tư	1
+V : đắn đo	1
+V : đặt	2
+V : đệm	1
+V : định hình	1
+V : đọc	1
+V : đỡ	1
+V : ảnh hưởng	2
+V : ấp ủ	1
+V : ẩn	1
+V : ở	1
+Vb : made	1
+X : ra sao	1
+X : thế nào	1

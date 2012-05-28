@@ -1,0 +1,732 @@
+! : !	2
+" : "	35
+, : ,	113
+- : -	5
+- : –	1
+. : .	74
+... : ...	11
+/ : /	6
+: : :	10
+? : ?	5
+A : May	1
+A : Ngặt	1
+A : Suốt	1
+A : Thông thường	1
+A : biệt xứ	1
+A : bặt	1
+A : bền bỉ	1
+A : bối rối	1
+A : cao	1
+A : cay cực	1
+A : chuyên	3
+A : chính xác	1
+A : chút	1
+A : cuối cùng	1
+A : có thể	3
+A : có ích	1
+A : cùng	1
+A : cẩn thận	1
+A : dương tính	1
+A : giả	1
+A : giản dị	1
+A : giỏi	1
+A : hiền khô	1
+A : hiệu quả	1
+A : hàn vi	1
+A : hàng đầu	1
+A : hơn	5
+A : hạnh phúc	1
+A : hệ trọng	1
+A : hữu cơ	2
+A : khác	1
+A : không	1
+A : khổ	1
+A : loãng	1
+A : lẻ	1
+A : lớn	1
+A : may	1
+A : mát lòng	1
+A : mới	2
+A : nghèo	2
+A : nhiều	7
+A : nhiệt tình	1
+A : nhất	3
+A : nhỏ	3
+A : nét	1
+A : nặng	1
+A : nền nếp	1
+A : quan trọng	1
+A : quốc tế	1
+A : riêng	1
+A : rộng	1
+A : rộng lớn	1
+A : suốt	1
+A : thiết thực	1
+A : thiếu	1
+A : thường	2
+A : thật	1
+A : thực sự	1
+A : to	1
+A : tạm	1
+A : tất nhiên	1
+A : tốt	1
+A : vô gia cư	1
+A : xa xôi	1
+A : ít	1
+A : đầu	1
+A : đầu tiên	1
+A : đầy đủ	2
+A : đặc biệt	2
+A : đẹp	1
+A : đủ	5
+A : ấu thơ	1
+A : ắng lặng	1
+A : ổn	1
+C : Nhưng	3
+C : Nếu	2
+C : Phải	1
+C : Thì	1
+C : Vậy	1
+C : cho dù	1
+C : còn	1
+C : hay	2
+C : kẻo	1
+C : là	10
+C : mà	2
+C : như	6
+C : nhưng	6
+C : nếu	1
+C : rồi	5
+C : thì	10
+C : và	22
+C : vậy mà	1
+C : với	1
+E : Sau	1
+E : Trên	1
+E : Từ	1
+E : Với	1
+E : bằng	1
+E : cho	14
+E : của	19
+E : dưới	1
+E : giữa	2
+E : lên	1
+E : sau	1
+E : theo	1
+E : trong	14
+E : trên	2
+E : tại	3
+E : tới	1
+E : từ	6
+E : vào	1
+E : về	10
+E : với	12
+E : Đến	1
+E : đến	5
+E : để	10
+E : ở	11
+L : Các	1
+L : Những	1
+L : các	4
+L : muôn nghìn	1
+L : mấy	2
+L : những	14
+LBKT : LBKT	1
+M : 0	2
+M : 1	5
+M : 1.000.000	1
+M : 10	3
+M : 10 triệu	1
+M : 10.000	1
+M : 12	1
+M : 13	1
+M : 1956	1
+M : 1968	1
+M : 1994	1
+M : 1995	1
+M : 1996	1
+M : 1997	2
+M : 2	4
+M : 20	1
+M : 200	1
+M : 25	1
+M : 27 . 000	1
+M : 30	1
+M : 30%	1
+M : 35.000	1
+M : 4	2
+M : 45	1
+M : 45%	1
+M : 5	1
+M : 50	1
+M : 6	1
+M : 7	1
+M : 72.000	1
+M : 8	2
+M : 9	2
+M : Một	2
+M : ba	1
+M : mỗi	2
+M : một	22
+M : nghìn	1
+M : triệu	1
+N : Anh	2
+N : Bản kẽm	2
+N : Chủ tịch	2
+N : Cty	4
+N : Công ty	2
+N : Diện	1
+N : Gia đình	2
+N : Giàu có	1
+N : Gương mặt	1
+N : Hàng hóa	1
+N : Hãng	1
+N : Hóa học	1
+N : Hồi	3
+N : Khi	4
+N : Mơ ước	1
+N : Mặt trận	1
+N : Nhà	1
+N : Nhà khoa học	1
+N : Nhà đầu tư	1
+N : Năm	1
+N : Tham tán Công sứ	1
+N : Thằng	1
+N : Tiến sĩ	3
+N : Tiếng	1
+N : Trung tâm	1
+N : Trung ương	1
+N : Trường	1
+N : Tập đoàn	2
+N : Tết	1
+N : Tổ quốc	1
+N : Việt kiều	1
+N : Vết	1
+N : anh	10
+N : anh cả	1
+N : anh em	1
+N : banh	1
+N : buồng	2
+N : bà	1
+N : bánh mì	2
+N : báo	1
+N : bão tuyết	1
+N : bé	3
+N : bạn	1
+N : bản	1
+N : bản kẽm	7
+N : bản quyền	3
+N : bầy	1
+N : bậc	1
+N : bằng	1
+N : bằng sáng chế	1
+N : bếp	1
+N : bồi	2
+N : bồi bàn	1
+N : bữa	1
+N : cao phân tử	1
+N : cha	1
+N : cha anh	1
+N : chiều	3
+N : chàng	1
+N : chân	1
+N : chén	1
+N : chính quyền	1
+N : chất lượng	2
+N : chất xúc tác	1
+N : chỗ	2
+N : chủ	1
+N : chức	1
+N : con	5
+N : cuộc sống	1
+N : cuộc đời	1
+N : cà-rem	2
+N : càrem	3
+N : cách	3
+N : cái	2
+N : câu	1
+N : cô	3
+N : công	1
+N : công nghệ	1
+N : công ty	1
+N : cổ cồn trắng	1
+N : cộng sự	1
+N : cửa rả	1
+N : diện	1
+N : dây	1
+N : dược phẩm	1
+N : dị thể	1
+N : dự án	1
+N : em	1
+N : gia đình	3
+N : giá	2
+N : giá thành	1
+N : giải thưởng	1
+N : giờ	2
+N : giữa	1
+N : hoàn cảnh	5
+N : hoá chất	1
+N : hoá học	1
+N : huyện	1
+N : hàng	1
+N : hãng	1
+N : hóa	1
+N : hóa học	2
+N : học bổng	2
+N : học sinh	1
+N : hồng ngoại	1
+N : hội thảo	1
+N : hợp chất	1
+N : hữu cơ	1
+N : in	2
+N : in ấn	1
+N : kem	5
+N : khi	9
+N : khoa	1
+N : khoa học	4
+N : khoảng	3
+N : khó khăn	1
+N : kinh doanh	1
+N : kinh tế	1
+N : ký ức	2
+N : kỷ niệm	1
+N : kỹ sư	2
+N : kỹ thuật số	1
+N : laser	1
+N : liên hợp	1
+N : luận án	1
+N : làng	1
+N : lòng	1
+N : lúc	2
+N : lúc nào	1
+N : lĩnh vực	3
+N : lương	2
+N : lần	1
+N : lối	1
+N : lời	2
+N : lợi nhuận	1
+N : lợi ích	1
+N : miếng	1
+N : màng	1
+N : mình	1
+N : môn	1
+N : mơ ước	1
+N : mưa	2
+N : mặt	1
+N : mặt trời	1
+N : mẹ	2
+N : một cách	1
+N : mục đích	1
+N : mức	2
+N : nghiên cứu sinh	1
+N : nghề	1
+N : ngoài trời	1
+N : ngoại	1
+N : nguồn	1
+N : ngành	4
+N : ngày	4
+N : người	7
+N : ngụy	1
+N : nhiệt độ	1
+N : nhà	5
+N : nhà hàng	4
+N : nhà hóa học	1
+N : nhà in	1
+N : nhà khoa học	2
+N : nhà máy	1
+N : nhà sản xuất	1
+N : nhà đầu tư	1
+N : nhân vật	1
+N : nhọc nhằn	1
+N : nhỏ	1
+N : niềm	1
+N : năm	7
+N : năng lượng	3
+N : nơi	1
+N : nước	3
+N : nắng	1
+N : nỗi	1
+N : nụ	1
+N : phát minh	2
+N : phần thưởng	2
+N : phận	1
+N : phố phường	1
+N : quê	2
+N : quê hương	2
+N : roi	1
+N : rể	1
+N : sáng	3
+N : sắc	1
+N : số	1
+N : số phận	1
+N : sự	1
+N : sự nghiệp	3
+N : tay	1
+N : thuở	1
+N : thông tin	2
+N : thùng	2
+N : thơ ấu	1
+N : thạc sĩ	3
+N : thầy giáo	1
+N : thế giới	3
+N : thể thao	1
+N : thị trường	2
+N : thời	2
+N : tia sáng	1
+N : tiến sĩ	2
+N : tiếng nói	1
+N : tiền	3
+N : toilet	1
+N : triệu phú	2
+N : trung học	2
+N : trái tim	1
+N : trưa	1
+N : trước hết	1
+N : trường	2
+N : trời	1
+N : tuần	1
+N : tuổi	1
+N : tuổi thơ	1
+N : tình	1
+N : tình cảm	1
+N : tạp chí	1
+N : tấm	1
+N : tỉnh	1
+N : uy tín	1
+N : vai	1
+N : việc	2
+N : việc làm	1
+N : vật liệu	4
+N : vốn liếng	1
+N : vợ	6
+N : vợ chồng	1
+N : website	1
+N : xung quanh	1
+N : âm thanh	1
+N : ý nghĩa	2
+N : Đại học	1
+N : Đại sứ quán	1
+N : điều kiện	1
+N : điện quang	1
+N : điện toán	1
+N : điện tử	1
+N : đường	1
+N : đại bác	1
+N : đại học	2
+N : đất nước	2
+N : đầu tiên	1
+N : đẳng cấp	1
+N : định kiến	1
+N : đồ	1
+N : đồng bào	1
+N : đồng hồ	1
+N : đồng nghiệp	1
+N : đời	2
+N : đời sống	1
+N : đứa	1
+N : ưu điểm	1
+N : Ủy viên	1
+NP : *E*	2
+NP : *T*	6
+Nc : Anh	1
+Nc : Căn	1
+Nc : Cậu	1
+Nc : anh	1
+Nc : chị	1
+Nc : con	1
+Nc : cái	1
+Nc : cây	1
+Nc : căn	2
+Nc : cậu	2
+Nc : người	1
+Nc : thằng	2
+Nc : ông	1
+Np : ADS	3
+Np : American Dye Source	1
+Np : American Dye Source,Inc.	1
+Np : Bùi Thị Nhàn	1
+Np : Canada	8
+Np : Châu Thành	1
+Np : Cần Thơ	1
+Np : Dianippon Ink and Chemicals	1
+Np : FCAR	1
+Np : IBM	3
+Np : INRS-Energie et Materiaux	1
+Np : Inc	1
+Np : Invention Achievement Award	1
+Np : Inventor Award	1
+Np : Kodak	1
+Np : Kodak Polychrome Graphics	1
+Np : Mậu Thân	1
+Np : Mỹ	15
+Np : Mỹ Lan	2
+Np : NSERC	1
+Np : Nguyễn Quốc Cường	1
+Np : Nguyễn Thanh Mỹ	12
+Np : Nhàn	6
+Np : Quebec	1
+Np : Silver Award for CTP Technology	1
+Np : Sun Chemical	2
+Np : Thanh Mỹ	1
+Np : Trà Vinh	2
+Np : Tây Đô	1
+Np : VN	8
+Np : Varennes	1
+Np : Việt	2
+Np : Việt Nam	1
+Np : www . tinhoahoc . com	1
+Nu : CAD	2
+Nu : USD	4
+Nu : cây số	1
+Nu : g	2
+Nu : giờ	3
+Nu : gram	1
+Nu : m2	1
+Nu : ngày	1
+Nu : tiếng	1
+Nu : tuổi	2
+Nu : đô	2
+Nu : đồng	1
+Ny : CTP	3
+Ny : oC	1
+P : Ai	1
+P : Nó	1
+P : Tôi	10
+P : Vậy	1
+P : ai	2
+P : anh	1
+P : bao giờ	2
+P : chúng tôi	2
+P : cả	2
+P : gì	3
+P : họ	2
+P : mình	10
+P : người ta	2
+P : nào	4
+P : này	2
+P : nó	1
+P : sao	1
+P : thế nào	1
+P : tôi	16
+P : tự	2
+P : vậy	3
+P : đây	1
+P : đó	10
+P : ấy	11
+R : Thật	1
+R : chính	1
+R : chúng	1
+R : chưa	3
+R : chẳng thể	1
+R : chỉ	6
+R : chợt	1
+R : còn	1
+R : có thể	1
+R : cũng	8
+R : hàng	1
+R : hơn	4
+R : hầu như	1
+R : khá	1
+R : không	15
+R : luôn	1
+R : lên	1
+R : lại	5
+R : lắm	1
+R : mới	1
+R : nhất	1
+R : nào	1
+R : nữa	1
+R : phải	1
+R : qua	1
+R : rất	5
+R : sẽ	2
+R : thấy	1
+R : vô	1
+R : vẫn	2
+R : vừa	4
+R : Đã	1
+R : đang	2
+R : đã	10
+R : được	5
+RBKT : RBKT	1
+T : chính	2
+T : gì	2
+T : sao	1
+T : vậy	1
+T : đó	2
+V : Học	4
+V : Làm	1
+V : Nghiên cứu	1
+V : Sang	1
+V : Sinh	1
+V : Tham dự	1
+V : Yêu	1
+V : biến đổi	1
+V : biết	1
+V : bán	5
+V : băng	1
+V : bơi lội	1
+V : bảo	2
+V : bảo vệ	1
+V : bắn	1
+V : bắt đầu	1
+V : bị	1
+V : bỏ	1
+V : cho	1
+V : chuyển giao	1
+V : chán	1
+V : chìm	1
+V : chói	1
+V : chấp nhận	1
+V : chịu	1
+V : chống	1
+V : cung cấp	1
+V : còn	1
+V : có	23
+V : cưới	1
+V : cười	3
+V : cười phá	1
+V : cầm	1
+V : cần	2
+V : cập nhật	1
+V : cốt	2
+V : cởi mở	1
+V : dùng	1
+V : dạo	1
+V : giành	1
+V : giúp	2
+V : giúp đỡ	1
+V : giới thiệu	1
+V : gắn	1
+V : gặp	3
+V : gọi	1
+V : gồm	1
+V : hiểu	2
+V : hy vọng	1
+V : hằn	1
+V : hết	1
+V : học	8
+V : hỏi	1
+V : hứa	2
+V : in	2
+V : in ấn	1
+V : khổ	1
+V : kiêm	3
+V : kiếm	3
+V : lao động	1
+V : là	19
+V : làm	13
+V : làm bếp	1
+V : làm thuê	1
+V : làm việc	2
+V : làm ăn	1
+V : lên	1
+V : lấy	2
+V : lẫn	1
+V : lằn	1
+V : lẻn	1
+V : mang	1
+V : miễn phí	1
+V : mong	1
+V : mua	2
+V : muốn	2
+V : mơ ước	4
+V : mướn	1
+V : mạo hiểm	1
+V : mở	2
+V : nghe	2
+V : nghiên cứu	2
+V : nghĩ	3
+V : nghĩ ngợi	1
+V : ngủ	2
+V : nhìn	1
+V : nhất quyết	1
+V : nhận	2
+V : nhắc	1
+V : nhờ	1
+V : nói	5
+V : nói chuyện	1
+V : nỗ lực	1
+V : pha	1
+V : phát minh	1
+V : phát quang	1
+V : phân cấp	1
+V : phải	2
+V : phụ	1
+V : quyết định	2
+V : quất	1
+V : ra	2
+V : rao	2
+V : rớt	1
+V : rửa	1
+V : sang	1
+V : so	1
+V : sáng chế	1
+V : sản xuất	4
+V : sập	1
+V : sống	4
+V : sử dụng	1
+V : tan	1
+V : tham gia	1
+V : thi	2
+V : thu	1
+V : thuê	1
+V : thành	3
+V : thành công	2
+V : thành lập	1
+V : thương	2
+V : thường trực	1
+V : thấy	3
+V : thầm	1
+V : thể hiện	2
+V : thực hiện	1
+V : tin	1
+V : tiêu dùng	1
+V : trú	1
+V : trị giá	1
+V : trộm	1
+V : trở lại	1
+V : trở thành	2
+V : trực tiếp	1
+V : tài trợ	1
+V : tìm	3
+V : tìm kiếm	1
+V : tưởng tượng	1
+V : tạo	2
+V : tạo hình	2
+V : tắm	1
+V : từ bỏ	1
+V : tự hào	1
+V : tự tin	1
+V : vượt	1
+V : vượt biên	1
+V : về	1
+V : xem	1
+V : xuất thân	1
+V : yêu	2
+V : ôm	1
+V : ăn	2
+V : ăn mặc	1
+V : Đến	1
+V : đem	1
+V : đem lòng	1
+V : đi	7
+V : đá	1
+V : đè	1
+V : đưa	1
+V : được	6
+V : đầu tư	3
+V : đậu	1
+V : để	1
+V : đỗ	1
+V : đứng	1
+V : ưa chuộng	1
+V : Ở	1
+V : ủng hộ	1
+WHRP : Tại sao	1
+X : có lẽ	1
+X : làm sao	1
+X : mới đây	1
+X : nhất là	1
+X : đương nhiên	1
+Y : CTP	2

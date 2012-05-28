@@ -1,0 +1,593 @@
+" : "	19
+, : ,	119
+- : -	4
+. : .	70
+... : ...	10
+... : ....	1
+/ : /	1
+: : :	2
+? : ?	1
+A : Hơn	1
+A : Lắm	1
+A : May	1
+A : bại liệt	1
+A : bệnh tật	2
+A : choáng váng	1
+A : chập chững	1
+A : cuối cùng	1
+A : câm	2
+A : còng queo	1
+A : cùng	1
+A : da cam	1
+A : duy nhất	1
+A : duy tâm	1
+A : dài ngoẵng	1
+A : dễ dàng	1
+A : giỏi giang	1
+A : hạnh phúc	1
+A : khác	4
+A : khắp	1
+A : khỏe mạnh	3
+A : khổ	1
+A : khổ sở	1
+A : kém	1
+A : liệt	2
+A : lành lặn	1
+A : lâu	1
+A : lạ thường	1
+A : lịm	1
+A : lớn	2
+A : mềm nhũn	1
+A : nghèo túng	1
+A : nguyên	2
+A : ngẩn ngơ	2
+A : nhiều	3
+A : nhăn nhở	1
+A : phải	1
+A : quều quào	1
+A : ríu rít	1
+A : sau	1
+A : sung sướng	1
+A : suốt	3
+A : sờ sờ	2
+A : thầm	1
+A : tinh anh	1
+A : to	1
+A : trên	1
+A : tật nguyền	1
+A : tội nghiệp	1
+A : vô cảm	1
+A : xót xa	1
+A : yếu	1
+A : yếu ớt	1
+A : ào ào	1
+A : ác liệt	1
+A : âm thầm	1
+A : Đau đớn	1
+A : đau đớn	2
+A : điếc	2
+A : đầu	1
+A : đầu tiên	1
+A : đầy	1
+A : ướt	1
+A : ế	1
+A : ốm đau	1
+C : Như	1
+C : Nhưng	6
+C : Rồi	1
+C : Và	2
+C : Vậy mà	1
+C : cùng	1
+C : hay là	1
+C : là	2
+C : lẫn	1
+C : mà	6
+C : như	10
+C : nhưng	5
+C : nên	2
+C : nếu	1
+C : rồi	3
+C : thì	8
+C : và	9
+C : với	1
+E : Từ	1
+E : Vì	1
+E : Với	1
+E : bằng	1
+E : cho	5
+E : của	17
+E : ngoài	1
+E : qua	1
+E : sau	2
+E : trong	7
+E : trên	1
+E : tại	1
+E : tận	1
+E : từ	4
+E : vào	4
+E : vì	4
+E : về	3
+E : với	4
+E : đến	2
+E : để	3
+E : ở	5
+I : thay	1
+I : ơi	1
+L : các	9
+L : mấy	1
+L : mọi	1
+L : những	1
+LBKT : LBKT	6
+M : 1 , 9	1
+M : 108	1
+M : 16	2
+M : 17	2
+M : 1971	3
+M : 1975	1
+M : 1977	1
+M : 1987	1
+M : 2	1
+M : 200 triệu	1
+M : 30	1
+M : 33	1
+M : 38	1
+M : 4	2
+M : 5	2
+M : 50	1
+M : 9	1
+M : Hai	1
+M : Một	1
+M : Năm	1
+M : ba	1
+M : bảy	1
+M : bốn	4
+M : hai	9
+M : một	11
+M : triệu	1
+M : triệu triệu	1
+M : vạn	1
+M : Đôi	1
+M : đôi	1
+N : Bác sĩ	1
+N : Bé	1
+N : Bệnh	2
+N : Bệnh tật	1
+N : Cha	1
+N : Công lý	1
+N : Hồi	1
+N : Khi	3
+N : Lúc	3
+N : Lần	1
+N : Nỗi	2
+N : Quyền	1
+N : Quân khu	2
+N : Sức khỏe	1
+N : Thằng	1
+N : Viện	1
+N : Vợ	2
+N : anh	9
+N : anh chị	1
+N : bi kịch	1
+N : bom	1
+N : bà	1
+N : bé	2
+N : bên	1
+N : bóng bay	1
+N : bệnh	1
+N : bố	2
+N : bố mẹ	1
+N : bữa	2
+N : cha	6
+N : chiến trường	1
+N : chuyện	1
+N : cháo	2
+N : cháu	2
+N : chất độc	5
+N : chị	1
+N : chỗ	1
+N : chứng	1
+N : con	23
+N : con cháu	1
+N : con người	2
+N : cuộc chiến	1
+N : cá nhân	1
+N : câu chuyện	2
+N : cô	1
+N : công lý	1
+N : công ty	3
+N : căn bệnh	1
+N : cơm	1
+N : cảnh	3
+N : cựu binh	1
+N : cựu chiến binh	1
+N : da cam	4
+N : dạ dày	2
+N : em	1
+N : gan	1
+N : gia đình	3
+N : giờ	2
+N : gái	1
+N : gạch	1
+N : gối	1
+N : hiện	1
+N : huyện	1
+N : hóa chất	2
+N : hương	1
+N : hữu tuyến	1
+N : khi	1
+N : linh nghiệm	1
+N : lính	1
+N : lông lá	2
+N : lúc	11
+N : lượt	1
+N : lần	2
+N : lời	1
+N : mang nặng đẻ đau	1
+N : miệng	1
+N : mìn	1
+N : môi	1
+N : mông	1
+N : mắt	1
+N : mẹ	2
+N : mẹ con	1
+N : nguyên đơn	1
+N : ngàn	1
+N : ngày	3
+N : người	15
+N : người nhà	1
+N : người ta	1
+N : nhau	1
+N : nhà	8
+N : nhà tắm	1
+N : năm	8
+N : nơi	1
+N : nước	2
+N : nồi	1
+N : nỗi	9
+N : phía	1
+N : phật	1
+N : quyền	1
+N : quân ngũ	1
+N : quân đội	1
+N : quê	4
+N : quần áo	1
+N : rau	1
+N : ruột	1
+N : rác	1
+N : rừng	2
+N : suối	1
+N : sư đoàn	1
+N : số	1
+N : sự	1
+N : thai	1
+N : thanh niên	1
+N : thuốc trừ sâu	1
+N : tháng	1
+N : thông tin	1
+N : thương tật	1
+N : tiếng	1
+N : trường	2
+N : trẻ	6
+N : trời	1
+N : tuổi	4
+N : tên	2
+N : tướng quân	1
+N : tường	1
+N : tội	1
+N : ung thư	4
+N : vai	1
+N : việc	3
+N : vòi nước	1
+N : vợ	11
+N : vợ chồng	2
+N : xe	1
+N : xưa	1
+N : Ông	2
+N : Ông bà	1
+N : ông	14
+N : ông bà	1
+N : Đằng	1
+N : đuôi	1
+N : đêm	3
+N : đơn	2
+N : đơn vị	1
+N : đại học	1
+N : đất	1
+N : đầu	4
+N : đồng đội	4
+N : đứa	1
+N : ảnh hưởng	1
+NP : *E*	18
+NP : *T*	2
+Nc : Cái	1
+Nc : Thằng	1
+Nc : bọn	2
+Nc : bức	1
+Nc : cái	2
+Nc : lá	1
+Nc : người	1
+Nc : thằng	1
+Nc : ông	2
+Nc : đứa	13
+Np : An Lão	1
+Np : Ba Tơ	1
+Np : Cát Cụt	1
+Np : Gia Lộc	1
+Np : Hải Dương	1
+Np : Hải Phòng	2
+Np : Kon Tum	1
+Np : Lê Chân	1
+Np : Mỹ	3
+Np : Nga	1
+Np : Nguyễn Quang Trung	1
+Np : Nguyễn Văn Quí	2
+Np : Quí	4
+Np : Quảng Nam	1
+Np : Quảng Ngãi	1
+Np : Sa Huỳnh	1
+Np : Tân Cảnh	1
+Np : Tây Sơn	1
+Np : ông	1
+Np : Đà Nẵng	1
+Np : Đắc Tô	1
+Nu : kg	1
+Nu : quả	1
+Nu : tuổi	3
+Nu : đồng	1
+Ny : Q	1
+Ny : TP	1
+Ny : VN	1
+P : Chúng	1
+P : Mình	3
+P : Tôi	2
+P : ai	4
+P : bao giờ	1
+P : bao nhiêu	1
+P : chúng	9
+P : chúng nó	2
+P : cả	4
+P : gì	7
+P : kia	1
+P : mình	31
+P : người ta	5
+P : nào	4
+P : này	3
+P : nó	9
+P : tôi	1
+P : tự	2
+P : vậy	1
+P : Đó	1
+P : đâu	1
+P : đó	4
+P : đấy	1
+P : ấy	3
+R : Chẳng	1
+R : Cũng	1
+R : Cứ	1
+R : Hằng	1
+R : Không	1
+R : Mới	1
+R : chưa	2
+R : chẳng	9
+R : chỉ	5
+R : chợt	1
+R : càng	1
+R : còn	1
+R : có	3
+R : có thể	1
+R : cũng	21
+R : cứ	11
+R : dần	1
+R : gì	3
+R : gần	1
+R : gần như	1
+R : hàng	4
+R : hơi	1
+R : hơn	2
+R : hết	1
+R : không	11
+R : không thể	2
+R : lên	3
+R : lại	9
+R : lắm	4
+R : mãi	2
+R : mình	1
+R : mới	1
+R : nổi	1
+R : nữa	1
+R : quá	1
+R : ra	9
+R : rồi	2
+R : sang	2
+R : sẽ	1
+R : tiếp	1
+R : từng	1
+R : vào	1
+R : vẫn	10
+R : Đâu	1
+R : đang	2
+R : đi	1
+R : đâu	5
+R : đã	7
+R : được	15
+RBKT : RBKT	6
+T : Ngay	1
+T : chứ	3
+T : cái	3
+T : có	3
+T : cơ mà	2
+T : cả	1
+T : gì	1
+T : là	1
+T : này	1
+T : sao	1
+T : thôi	1
+T : thế	2
+T : đó	2
+T : đấy	1
+T : đến	2
+V : *E*	1
+V : Giải phóng	1
+V : Là	1
+V : Phải	2
+V : Rời	1
+V : Sợ	1
+V : Thấu hiểu	1
+V : Thấy	1
+V : Tưởng	1
+V : bi bô	1
+V : biết	8
+V : bật	1
+V : bắt đầu	2
+V : bặm	1
+V : bị	4
+V : bỏ	1
+V : chuyển	1
+V : chăm bẵm	2
+V : chơi	1
+V : chơi đùa	1
+V : chạy	2
+V : chạy chữa	1
+V : chạy vạy	1
+V : chảy	1
+V : chấm dứt	1
+V : chết	4
+V : chịu	1
+V : chịu đựng	1
+V : chổng	1
+V : coi	1
+V : câm	1
+V : câm điếc	1
+V : có	13
+V : cúng bái	1
+V : cười	1
+V : cảm nhận	1
+V : cảm ơn	1
+V : cắm đầu	1
+V : cựu binh	1
+V : dám	4
+V : dậy	1
+V : dội	1
+V : dứt	1
+V : giúp	1
+V : giấu	1
+V : giết	1
+V : gọi	2
+V : gỡ	1
+V : hành hạ	1
+V : hết	2
+V : hỏi	2
+V : hối hận	2
+V : khiến	1
+V : khẩn cầu	1
+V : kiện	4
+V : kể	1
+V : là	11
+V : làm	6
+V : làm ruộng	1
+V : lấy	2
+V : lễ lạt	1
+V : lớn	2
+V : mang	1
+V : mong	1
+V : muốn	2
+V : mê tín	1
+V : mở	1
+V : nghe	1
+V : nghĩ	2
+V : ngất	1
+V : ngắm	1
+V : ngồi	2
+V : ngủ	3
+V : nhiễm	2
+V : nhìn	3
+V : nhảy	1
+V : nhận	2
+V : nhập ngũ	2
+V : nhờ	1
+V : nhức	1
+V : nuôi	2
+V : ném	2
+V : nén	1
+V : nói	3
+V : nói năng	1
+V : oán thán	1
+V : phá	1
+V : phá phách	1
+V : phát	1
+V : phát hiện	1
+V : phát đơn	1
+V : phải	7
+V : quyết định	1
+V : quẫy đạp	1
+V : ra	1
+V : ríu rít	1
+V : rụng	1
+V : sai bảo	1
+V : sinh	1
+V : sản xuất	3
+V : sống	9
+V : sợ	2
+V : thi cử	1
+V : thuộc	1
+V : thèm	1
+V : thêm	1
+V : thông tin	1
+V : thấy	1
+V : thắng	1
+V : thẳng thắn	1
+V : thế chấp	1
+V : tin	1
+V : trông	2
+V : trừ	1
+V : tình nguyện	2
+V : tưởng tượng	1
+V : tỉnh	1
+V : tủi	1
+V : uống	1
+V : vay mượn	1
+V : viết	1
+V : vào	1
+V : về	3
+V : vệ sinh	1
+V : vồ vập	1
+V : vứt	1
+V : xe	1
+V : xuống	1
+V : xảy	1
+V : yêu thương	1
+V : ú ớ	1
+V : ăn	3
+V : ăn thua	1
+V : ăn uống	2
+V : Đau	1
+V : Đưa	1
+V : đau	16
+V : đi	3
+V : đi lại	3
+V : điếc	1
+V : điều	1
+V : đánh	1
+V : đòi	2
+V : đưa	3
+V : được	5
+V : đập	1
+V : đập đập	1
+V : đặt	1
+V : đẻ	6
+V : đến	2
+V : để	3
+V : động chạm	1
+V : đỡ	2
+V : đứng	1
+V : ảnh hưởng	1
+V : ở	1
+V : ủng hộ	1
+X : câm như hến	1
+X : cầu trời khấn phật	1
+X : làm sao	2
+X : như thế	1
+X : thế nào	1
+X : vào sinh ra tử	1
+X : đầu gối tay ấp	1
+trường : học	1

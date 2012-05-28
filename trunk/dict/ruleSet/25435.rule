@@ -1,0 +1,58 @@
+AP : A	7
+AP : A A	1
+AP : A NP	1
+NP : L N	1
+NP : L N VP C : PP , VP	1
+NP : M M Nu	2
+NP : M N	1
+NP : N	4
+NP : N A	4
+NP : N A AP	1
+NP : N AP	3
+NP : N AP NP	1
+NP : N C N PP	1
+NP : N M	1
+NP : N M - M	1
+NP : N N	2
+NP : N N V PP	1
+NP : N N VP	1
+NP : N NP	1
+NP : N NP VP , SBAR	1
+NP : N Np	1
+NP : N Np , NP	1
+NP : N P	1
+NP : N PP	3
+NP : N PP SBAR	1
+NP : N VP	3
+NP : N khiếm	1
+NP : NP , NP , NP , NP , NP	1
+NP : NP , NP , NP AP	1
+NP : NP C NP	1
+NP : Nc Np NP	1
+NP : Nc V N	1
+NP : Np	1
+NP : Ny	2
+NP : Ny AP AP	1
+NP : Ny Np	1
+NP : Ny Ny	1
+NP : P	1
+NP : S S N NP	1
+PP : E NP	9
+PP : E NP C NP	2
+PP : T E NP	1
+S : NP VP	2
+S : NP VP .	4
+S : PP , NP VP ... .	1
+SBAR : E S	2
+VP : R R V NP	1
+VP : R V NP	1
+VP : V	1
+VP : V AP	1
+VP : V NP	6
+VP : V NP NP	1
+VP : V NP PP	1
+VP : V NP PP , PP	1
+VP : V R NP	1
+VP : V R PP	1
+VP : V VP	1
+VP : VP , VP	1

@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<root>
+    <file name="Mau.prd">
+        <S id="10401">Nước mình đâu cũng đẹp như tranh .
+            <NP syntax="TPC">Nước mình
+                <N syntax="H">Nước</N>
+                <P>mình</P>
+            </NP>
+            <NP syntax="SUB">đâu
+                <P syntax="H">đâu</P>
+            </NP>
+            <AP syntax="PRD">cũng đẹp như tranh
+                <R>cũng</R>
+                <A syntax="H">đẹp</A>
+                <AP>như tranh
+                    <A syntax="H">như</A>
+                    <NP>tranh
+                        <N syntax="H">tranh</N>
+                    </NP>
+                </AP>
+            </AP>
+        </S>
+        <S id="10402">Họ đi bộ suốt hai ngày .
+            <NP syntax="SUB">Họ
+                <P syntax="H">Họ</P>
+            </NP>
+            <VP>đi bộ suốt hai ngày
+                <V syntax="H">đi</V>
+                <N>bộ</N>
+                <AP syntax="TMP">suốt hai ngày
+                    <A syntax="H">suốt</A>
+                    <NP>hai ngày
+                        <M>hai</M>
+                        <N syntax="H">ngày</N>
+                    </NP>
+                </AP>
+            </VP>
+        </S>
+        <S id="10403">Vì trời mưa , cháu không đi nhà trẻ được .
+            <SBAR syntax="PRP">Vì trời mưa
+                <C>Vì</C>
+                <S>trời mưa
+                    <NP syntax="SUB">trời
+                        <N syntax="H">trời</N>
+                    </NP>
+                    <VP>mưa
+                        <V syntax="H">mưa</V>
+                    </VP>
+                </S>
+            </SBAR>
+            <com>,</com>
+            <NP syntax="SUB">cháu
+                <N syntax="H">cháu</N>
+            </NP>
+            <VP>không đi nhà trẻ được
+                <R>không</R>
+                <V syntax="H">đi</V>
+                <NP syntax="DOB">nhà trẻ
+                    <N syntax="H">nhà trẻ</N>
+                </NP>
+                <R>được</R>
+            </VP>
+        </S>
+        <S id="10404">Tay ôm chồng sách , Nam bước vào phòng .
+            <NP syntax="MNR">Tay ôm chồng sách
+                <N syntax="H">Tay</N>
+                <VP>ôm chồng sách
+                    <V syntax="H">ôm</V>
+                    <NP syntax="DOB">chồng sách
+                        <N syntax="H">chồng</N>
+                        <N>sách</N>
+                    </NP>
+                </VP>
+            </NP>
+            <com>,</com>
+            <NP syntax="SUB">Nam
+                <Np syntax="H">Nam</Np>
+            </NP>
+            <VP>bước vào phòng
+                <V syntax="H">bước</V>
+                <PP syntax="DIR">vào phòng
+                    <E syntax="H">vào</E>
+                    <NP>phòng
+                        <N syntax="H">phòng</N>
+                    </NP>
+                </PP>
+            </VP>
+        </S>
+        <S id="10405">Để xí nghiệp không bị tiếp tục thua lỗ , ông ta đã xin từ chức .
+            <SBAR syntax="PRP">Để xí nghiệp không bị tiếp tục thua lỗ
+                <E syntax="H">Để</E>
+                <S>xí nghiệp không bị tiếp tục thua lỗ
+                    <NP syntax="SUB">xí nghiệp
+                        <N syntax="H">xí nghiệp</N>
+                    </NP>
+                    <VP>không bị tiếp tục thua lỗ
+                        <R>không</R>
+                        <V syntax="H">bị</V>
+                        <VP>tiếp tục thua lỗ
+                            <R>tiếp tục</R>
+                            <V syntax="H">thua lỗ</V>
+                        </VP>
+                    </VP>
+                </S>
+            </SBAR>
+            <com>,</com>
+            <NP syntax="SUB">ông ta
+                <N syntax="H">ông ta</N>
+            </NP>
+            <VP>đã xin từ chức
+                <R>đã</R>
+                <V syntax="H">xin</V>
+                <VP syntax="DOB">từ chức
+                    <V syntax="H">từ</V>
+                    <NP syntax="DOB">chức
+                        <N syntax="H">chức</N>
+                    </NP>
+                </VP>
+            </VP>
+        </S>
+        <S id="10406">Khi cấu trúc nghĩa của câu khiến người nghe nắm được sở chỉ của nó thì câu bắt đầu thực hiện được chức năng giao tiếp .
+            <NP syntax="TMP">Khi cấu trúc nghĩa của câu khiến người nghe nắm được sở chỉ của nó
+                <N syntax="H">Khi</N>
+                <SBAR>cấu trúc nghĩa của câu khiến người nghe nắm được sở chỉ của nó
+                    <S>cấu trúc nghĩa của câu khiến người nghe nắm được sở chỉ của nó
+                        <NP syntax="SUB">cấu trúc nghĩa của câu
+                            <N syntax="H">cấu trúc</N>
+                            <N>nghĩa</N>
+                            <PP>của câu
+                                <E syntax="H">của</E>
+                                <NP>câu
+                                    <N syntax="H">câu</N>
+                                </NP>
+                            </PP>
+                        </NP>
+                        <VP>khiến người nghe nắm được sở chỉ của nó
+                            <V syntax="H">khiến</V>
+                            <NP syntax="DOB">người nghe
+                                <N syntax="H">người</N>
+                                <V>nghe</V>
+                            </NP>
+                            <VP syntax="IOB">nắm được sở chỉ của nó
+                                <V syntax="H">nắm</V>
+                                <R>được</R>
+                                <NP syntax="DOB">sở chỉ của nó
+                                    <N syntax="H">sở chỉ</N>
+                                    <PP>của nó
+                                        <E syntax="H">của</E>
+                                        <NP>nó
+                                            <P syntax="H">nó</P>
+                                        </NP>
+                                    </PP>
+                                </NP>
+                            </VP>
+                        </VP>
+                    </S>
+                </SBAR>
+            </NP>
+            <C>thì</C>
+            <NP syntax="SUB">câu
+                <N syntax="H">câu</N>
+            </NP>
+            <VP>bắt đầu thực hiện được chức năng giao tiếp
+                <V syntax="H">bắt đầu</V>
+                <VP>thực hiện được chức năng giao tiếp
+                    <V syntax="H">thực hiện</V>
+                    <R>được</R>
+                    <NP syntax="DOB">chức năng giao tiếp
+                        <N syntax="H">chức năng</N>
+                        <V>giao tiếp</V>
+                    </NP>
+                </VP>
+            </VP>
+        </S>
+    </file>
+</root>

@@ -1,0 +1,503 @@
+" : "	35
+, : ,	57
+- : -	15
+. : .	46
+... : ...	7
+... : ....	1
+/ : /	1
+: : :	4
+; : ;	2
+? : ?	1
+A : Non	1
+A : Trung bình	1
+A : Tốt	1
+A : bình thường	1
+A : chuyên	2
+A : cùng	1
+A : căng	1
+A : duy nhất	1
+A : dân dụng	1
+A : dí dỏm	1
+A : dọc	1
+A : già	1
+A : hot	1
+A : hợp lý	1
+A : khác	2
+A : khỏe	1
+A : lâu	1
+A : lười biếng	1
+A : lạ đời	2
+A : lạnh	1
+A : lớn	1
+A : mát	1
+A : mát lạnh	1
+A : mạnh	1
+A : mới	1
+A : nhiều	4
+A : nhất	3
+A : nhẹ	1
+A : nhẹ nhàng	1
+A : nhẹ nhõm	1
+A : nhỏ	2
+A : niềm nở	1
+A : nặng	2
+A : nổi tiếng	1
+A : riêng	2
+A : rầm rộ	1
+A : rẻ	1
+A : sạch	3
+A : sẵn	1
+A : sớm	1
+A : thân	1
+A : thường xuyên	3
+A : tinh khiết	6
+A : tiện	2
+A : tiện lợi	1
+A : trong lành	1
+A : trong sạch	1
+A : trung bình	1
+A : trên	1
+A : trước	2
+A : trọn	1
+A : tuyệt đối	1
+A : tương đối	1
+A : tốt	2
+A : vừa	1
+A : xa	1
+A : xanh	1
+A : yên tâm	2
+A : đúng	1
+A : được	1
+A : đầu tiên	4
+A : độc	1
+A : độc quyền	1
+C : Còn	1
+C : Do đó	1
+C : Và	1
+C : còn	1
+C : hay	2
+C : hoặc	1
+C : là	2
+C : mà	3
+C : như	2
+C : nhưng	4
+C : nên	2
+C : nếu	1
+C : rồi	2
+C : thì	4
+C : tuy	1
+C : và	6
+C : vậy mà	1
+E : Sau	1
+E : Theo	2
+E : Trên	1
+E : Tại	1
+E : Với	1
+E : cho	11
+E : của	5
+E : do	1
+E : ngoài	1
+E : ra	1
+E : sau	4
+E : trong	5
+E : trên	1
+E : tại	2
+E : tận	1
+E : tới	1
+E : từ	5
+E : vào	3
+E : vì	3
+E : về	2
+E : với	5
+E : đến	2
+E : để	2
+E : Ở	1
+E : ở	11
+I : nha	1
+L : Những	1
+L : Phần lớn	1
+L : một số	1
+L : những	4
+L : tí	1
+L : vài	1
+L : vô số	1
+LBKT : LBKT	13
+M : 1 . 500	1
+M : 1, 9	1
+M : 1,5	1
+M : 10	2
+M : 120	1
+M : 14	1
+M : 150	1
+M : 2	1
+M : 2 . 000	1
+M : 20	4
+M : 20 . 000	1
+M : 200	1
+M : 2004	1
+M : 24	2
+M : 28	1
+M : 3	2
+M : 30	2
+M : 35 . 000	1
+M : 4	3
+M : 40	2
+M : 45 . 000	1
+M : 5	1
+M : 5 . 000	1
+M : 5000	1
+M : 6	1
+M : 70	1
+M : 70 . 000	1
+M : 90	1
+M : 99 , 9%	3
+M : Mỗi	1
+M : Một	4
+M : hai	3
+M : mươi	1
+M : mỗi	1
+M : một	4
+M : sáu	1
+M : triệu	1
+N : *T*	1
+N : Anh	1
+N : Bố mẹ	1
+N : Chị	2
+N : Công ty	2
+N : Cử tạ	1
+N : Giá	1
+N : Hiện	1
+N : Hà Nội	1
+N : Liên đoàn	1
+N : TP	1
+N : Tháng	1
+N : Viện	1
+N : Y học	1
+N : anh	1
+N : bác sĩ	2
+N : bên	1
+N : bình	7
+N : bạn	1
+N : bệnh tật	1
+N : bệnh viện	4
+N : bộ	1
+N : bụi	3
+N : bụng	1
+N : bữa	1
+N : cao su	2
+N : chuyến	1
+N : chất lượng	1
+N : chầu	1
+N : chồng	2
+N : chợ	1
+N : chủ tịch	1
+N : chức năng	1
+N : công nghiệp	1
+N : công nhân viên	1
+N : công ty	3
+N : cơm	2
+N : cơn	1
+N : cạnh	1
+N : cổ phần	1
+N : cỡ	1
+N : cửa hàng	1
+N : da	1
+N : doanh nghiệp	1
+N : dân	1
+N : dân tộc	1
+N : dây	1
+N : dịch vụ	4
+N : dụng cụ	1
+N : em	2
+N : ghế	2
+N : giày	1
+N : giá	4
+N : giám đốc	1
+N : hiện	1
+N : hiện nay	2
+N : hoàn cảnh	1
+N : hóa chất	1
+N : hô hấp	1
+N : khi	6
+N : khoảng	3
+N : khách	2
+N : khách hàng	3
+N : khí	3
+N : khói	3
+N : không khí	2
+N : không quân	1
+N : khỏang	1
+N : loại	1
+N : loại hình	1
+N : ly	1
+N : lưng	1
+N : lần	2
+N : lỗ	1
+N : màu	2
+N : mùi	1
+N : mũi	3
+N : mặt hàng	1
+N : mức	2
+N : ngoài	1
+N : ngành	1
+N : ngành nghề	1
+N : ngày	2
+N : người	9
+N : người dân	2
+N : người già	1
+N : nhau	1
+N : nhu cầu	1
+N : nhà	5
+N : nhà ga	1
+N : nhà máy	1
+N : nhân viên	1
+N : nhỏ	1
+N : núi	1
+N : năm	2
+N : nơi	2
+N : nước	1
+N : nước ngoài	2
+N : nữ	1
+N : oxy	10
+N : phi công	1
+N : phong trào	1
+N : phòng	3
+N : phổi	2
+N : quan niệm	1
+N : quán	1
+N : siêu thị	1
+N : suyễn	1
+N : suất	1
+N : sân bay	1
+N : sĩ quan	1
+N : sức khỏe	2
+N : tem	1
+N : tháng	1
+N : thông tin	1
+N : thần kinh	1
+N : thế giới	2
+N : thể dục	1
+N : thể hình	1
+N : thể trạng	1
+N : thị trường	1
+N : tiêu chí	1
+N : trung tâm	1
+N : trái cây	1
+N : trưa	2
+N : trợ lý	1
+N : tình trạng	1
+N : tối	1
+N : tổng giám đốc	1
+N : vai	1
+N : van	1
+N : văn phòng	1
+N : vệ sinh	1
+N : vị	1
+N : xuất xứ	1
+N : y khoa	1
+N : y tế	1
+N : Ông già	1
+N : Ý tưởng	1
+N : ông bà	1
+N : Đặc khu	1
+N : đa số	1
+N : đường	2
+N : đồng hồ	2
+N : ống	3
+NP : *E*	13
+NP : *T*	1
+Nb : Oxy	1
+Nb : Oxy shop	2
+Nb : bar	1
+Nb : oxy	10
+Nb : oxy shop	4
+Nb : salon	1
+Nb : vali	1
+Nc : anh	3
+Nc : chị	2
+Nc : cái	2
+Nc : loại	1
+Nc : làn	1
+Nc : người	1
+Nc : sự	1
+Np : A34	1
+Np : A41	1
+Np : Bộ Quốc phòng	1
+Np : Công ty	1
+Np : Gò Vấp	1
+Np : HCM	4
+Np : Huỳnh Ngọc Minh	1
+Np : Lá Xanh	4
+Np : Lê Thanh Tấn	1
+Np : Nhật Bản	1
+Np : Phú Nhuận	1
+Np : Phú Thọ	1
+Np : Singapore	1
+Np : Thái Lan	1
+Np : Trung Quốc	1
+Np : Trung tâm	1
+Np : Trương Thìn	1
+Np : VN	1
+Np : Vũ Hữu Tuấn	1
+Np : Xây Xẩm Bun	1
+Np : Đỗ Thị Ngọc Hương	1
+Nu : USD	1
+Nu : g	1
+Nu : lít	7
+Nu : phút	6
+Nu : tuổi	1
+Nu : đồng	7
+Ny : Q	2
+Ny : TDTT	1
+Ny : TP	6
+Ny : VN	3
+P : Bây giờ	1
+P : Chúng tôi	1
+P : Người ta	1
+P : Vậy	1
+P : ai	2
+P : bao nhiêu	2
+P : chúng tôi	1
+P : cả	3
+P : họ	1
+P : mình	1
+P : nay	1
+P : này	5
+P : tôi	3
+P : từng	2
+P : vậy	1
+P : đây	2
+P : đó	1
+R : Chẳng	1
+R : Không	1
+R : cho	1
+R : chưa	3
+R : chẳng	1
+R : chỉ	7
+R : có thể	2
+R : cũng	5
+R : hơn	3
+R : hẳn	2
+R : không	12
+R : luôn	1
+R : lên	1
+R : lại	6
+R : mới	3
+R : ra	1
+R : rất	3
+R : rồi	2
+R : sẽ	3
+R : theo	1
+R : tới	1
+R : về	1
+R : đang	2
+R : đã	4
+R : được	2
+R : đến	2
+R : đều	1
+RBKT : RBKT	13
+S : nguyên	1
+S : phó	1
+T : Ngay	1
+T : gì	1
+T : hề	1
+T : là	1
+T : ngay	2
+T : nha	1
+T : đó	1
+V : *E*	1
+V : Chọn	1
+V : Ngồi	1
+V : biết	3
+V : buôn bán	1
+V : bán	4
+V : bơm	1
+V : bước	1
+V : bảo hành	1
+V : bệnh	2
+V : bị	1
+V : cho	4
+V : chăm sóc	1
+V : chỉ	1
+V : chứa	1
+V : cung cấp	1
+V : cung ứng	1
+V : có	17
+V : công tác	1
+V : cấp cứu	1
+V : cần	2
+V : di huyển	1
+V : du lịch	1
+V : dành	3
+V : dẫn	2
+V : giảm	1
+V : gồm	1
+V : hoạt động	2
+V : hít	3
+V : hướng dẫn	2
+V : hết	2
+V : kinh doanh	1
+V : kèm	1
+V : ký	1
+V : liên hệ	3
+V : là	5
+V : làm	2
+V : làm quen	1
+V : lên	1
+V : lạm dụng	1
+V : lọc	1
+V : mang	2
+V : mua	4
+V : mở	2
+V : nghỉ	1
+V : nhận	1
+V : nhận định	1
+V : niêm yết	1
+V : nén	3
+V : nên	1
+V : nạp	1
+V : phát pháo	1
+V : phải	3
+V : phục vụ	3
+V : ra	1
+V : ra đời	1
+V : sản xuất	2
+V : sờ	1
+V : sử dụng	4
+V : theo	1
+V : thuê	2
+V : thành	1
+V : thành lập	1
+V : thích	3
+V : thấy	3
+V : thống lĩnh	1
+V : thở	14
+V : tiếp xúc	2
+V : trở lại	1
+V : trực thuộc	1
+V : tùy	2
+V : tăng	1
+V : tư vấn	2
+V : tốn	1
+V : vào	1
+V : vô	1
+V : về	1
+V : vỗ	1
+V : xuống	1
+V : xài	1
+V : yêu	1
+V : ô nhiễm	2
+V : Đi	1
+V : đi	1
+V : đo	1
+V : đăng ký	1
+V : đưa	1
+V : được	5
+V : đặt	1
+V : đến	2
+V : để	2
+V : đợi	1
+V : ức chế	1
+X : ngày càng	1
+X : nhất là	1
+X : thế nào	1

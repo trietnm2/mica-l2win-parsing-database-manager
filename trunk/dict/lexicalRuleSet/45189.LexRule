@@ -1,0 +1,562 @@
+" : "	22
+, : ,	56
+- : -	11
+. : .	50
+... : ...	6
+: : :	4
+; : ;	1
+? : ?	1
+A : bình dân	1
+A : bất ngờ	1
+A : chính	2
+A : có tiếng	1
+A : giả	1
+A : giống	2
+A : gần	1
+A : khang trang	1
+A : khoảng	2
+A : khác	2
+A : khó khăn	1
+A : kế	1
+A : lơ lớ	1
+A : lặt vặt	1
+A : lớn	1
+A : mạnh	1
+A : mới	1
+A : nhiều	3
+A : nhỏ	1
+A : nội	1
+A : phải	1
+A : rải rác	1
+A : song ngữ	1
+A : sôi nổi	1
+A : sõi	1
+A : thân quen	1
+A : thân thuộc	1
+A : thông dụng	1
+A : thường xuyên	1
+A : to	1
+A : vất vả	1
+A : vắng	1
+A : xa xưa	1
+A : í ới	1
+A : út	1
+A : đông	1
+A : đầy	1
+A : đủ	1
+A : ổn định	1
+C : Hễ	1
+C : Như	1
+C : do	1
+C : dù	1
+C : hay	1
+C : là	2
+C : mà	1
+C : như	5
+C : nhưng	4
+C : nên	2
+C : nếu	1
+C : thì	2
+C : và	6
+C : ồ	1
+E : Ngoài	1
+E : Trong	1
+E : Tại	2
+E : bằng	2
+E : cho	3
+E : của	12
+E : do	2
+E : qua	1
+E : sau	1
+E : trong	2
+E : trên	9
+E : tại	13
+E : tận	1
+E : từ	3
+E : vào	3
+E : vì	2
+E : về	3
+E : với	5
+E : đến	1
+E : để	4
+E : ở	8
+I : ơi	1
+L : Các	3
+L : Những	2
+L : Phần lớn	1
+L : bao	1
+L : các	6
+L : mấy	1
+L : những	9
+L : vài	1
+L : Đa số	2
+L : đa số	1
+L : đôi	1
+LBKT : LBKT	4
+M : 1.000	1
+M : 13	2
+M : 1993	1
+M : 20	1
+M : 300	1
+M : 5	1
+M : 5.000	1
+M : 6.000	1
+M : 70	1
+M : 8	1
+M : Bảy	1
+M : II	1
+M : ba	2
+M : bảy	1
+M : bốn	2
+M : hai	3
+M : mỗi	3
+M : một	7
+M : năm	3
+M : sáu	1
+M : triệu	1
+M : tư	1
+N : Anh chị	1
+N : Bên	1
+N : Cha mẹ	1
+N : Cô	1
+N : Em	1
+N : Gia đình	2
+N : Hội	4
+N : Khi	1
+N : Người	3
+N : Nhà	1
+N : Nhà nước	1
+N : Phong trào	1
+N : Phía	1
+N : Quầy	1
+N : Sông	1
+N : Trung tâm	1
+N : Truyền thống	1
+N : Trường	2
+N : Tượng	1
+N : Y	1
+N : anh	1
+N : binh	1
+N : biển	1
+N : bà	1
+N : bà con	4
+N : bà mẹ	1
+N : bàn thờ	2
+N : bánh tráng	1
+N : bão lũ	1
+N : bé	1
+N : bên	4
+N : bình	1
+N : bóng	1
+N : băng	1
+N : bạn	6
+N : canh	1
+N : chiến tích	1
+N : chánh	1
+N : cháu	1
+N : chương trình	1
+N : chị em	1
+N : chợ	4
+N : chủ	2
+N : chủ nhiệm	1
+N : chừng mực	1
+N : chữ	1
+N : con	3
+N : con  gái	1
+N : con cái	3
+N : con em	1
+N : con gái	1
+N : con trai	1
+N : cuối	1
+N : cuộc sống	1
+N : cá	1
+N : cách	2
+N : câu	1
+N : câu đối	1
+N : cây	1
+N : cô	1
+N : công	1
+N : công nghiệp	1
+N : công suất	1
+N : công tác	1
+N : công việc	1
+N : cơm	2
+N : cạnh	1
+N : cấp	1
+N : dịp	1
+N : em	4
+N : em gái	1
+N : gia đình	5
+N : giá	1
+N : giáo viên	1
+N : giọng	2
+N : giỗ	1
+N : gốc	2
+N : hiện nay	1
+N : hiệu trưởng	1
+N : hoa	1
+N : hoạn nạn	1
+N : hàng	1
+N : hè	2
+N : hình ảnh	1
+N : hương	1
+N : hẹ	1
+N : học	1
+N : học sinh	1
+N : hồn	1
+N : hội	1
+N : khi	3
+N : khu	2
+N : khách	1
+N : khách sạn	1
+N : kinh phí	1
+N : loại	1
+N : lá	1
+N : lúc	1
+N : lần	1
+N : lễ	4
+N : lớp	1
+N : miền	1
+N : món	1
+N : mùa	1
+N : mưa	1
+N : nguồn gốc	1
+N : ngài	1
+N : ngày	3
+N : ngõ	1
+N : người	9
+N : nhau	1
+N : nhà	3
+N : nhà  nghỉ	1
+N : nhà hàng	4
+N : năm	5
+N : nơi	1
+N : nước ngoài	1
+N : phen	1
+N : phong tục	1
+N : pháo	1
+N : phía	4
+N : phòng	1
+N : phố	1
+N : quán	1
+N : quê	1
+N : quê hương	1
+N : quê nhà	1
+N : quảng cáo	1
+N : sân	1
+N : tai	1
+N : tay	1
+N : thanh niên	1
+N : thiếu nhi	1
+N : thầy	1
+N : thế hệ	1
+N : thịt	1
+N : thứ	3
+N : tin	1
+N : tiêu	1
+N : tiếng	10
+N : tiết	1
+N : tiểu học	1
+N : tiệm	1
+N : trong	2
+N : trái tim	1
+N : trên	2
+N : trước	3
+N : trường	3
+N : trận	1
+N : trẻ	1
+N : trọng trách	1
+N : tên	2
+N : tượng	2
+N : tập quán	1
+N : tỉnh	7
+N : tủ	1
+N : việc	2
+N : văn nghệ	1
+N : văn phòng	1
+N : xe	4
+N : xe lam	1
+N : xóm	12
+N : Ông	1
+N : âm lịch	1
+N : ông	3
+N : Đền	1
+N : Đội	1
+N : đào	1
+N : đám	1
+N : đường	6
+N : đại học	2
+N : đất	5
+N : đất nước	3
+N : đầu	4
+N : đậu hũ	1
+N : đền	5
+N : đội	1
+NP : *E*	7
+NP : *T*	3
+NP : Việt	1
+Nb : Vientiane	1
+Nb : tivi	1
+Nb : tuktuk	1
+Nc : Con	1
+Nc : Ngôi	1
+Nc : anh	2
+Nc : bài	2
+Nc : chiếc	1
+Nc : con	4
+Nc : cái	2
+Nc : cô	2
+Nc : cơn	1
+Nc : cậu	1
+Nc : dãy	2
+Nc : ngôi	3
+Nc : Ông	1
+Nc : ông	6
+Nc : đứa	2
+Np : Bùi Văn Huấn	1
+Np : Bản Thung	1
+Np : Bắc Trung bộ	1
+Np : Bộ	1
+Np : Champasak	3
+Np : Cúc	1
+Np : Hà Nội	3
+Np : Hưng Đạo Vương	1
+Np : Hội	1
+Np : Hữu Nghị	2
+Np : Ketmany	1
+Np : Lào	9
+Np : Lộc	1
+Np : Mai Huỳnh	1
+Np : Mai Văn Khuê	1
+Np : Mỹ	1
+Np : Nam	2
+Np : Nam bộ	1
+Np : Nguyên	1
+Np : Nguyễn Thị Hồng Điệp	1
+Np : Nguyễn Thị Thanh Đoan	1
+Np : Nguyễn Văn Minh	1
+Np : Nguyễn Văn Thuật	1
+Np : Nguyễn Văn Tuấn	1
+Np : Nguyễn Đức Quang	1
+Np : Người	1
+Np : Nhà Đèn	2
+Np : Núi  Kiếp	1
+Np : PakSe	1
+Np : Pakse	5
+Np : Phúc	1
+Np : Quốc Tế	1
+Np : Quốc gia	1
+Np : Sân Bay	1
+Np : Thành	1
+Np : Thái Bình	1
+Np : Thọ	1
+Np : Trung	1
+Np : Trần Hưng Đạo	1
+Np : Trần Ngọc Kim	1
+Np : Tuấn	1
+Np : Tà Hín	1
+Np : Tân An	1
+Np : Tân Phước	4
+Np : Tình	1
+Np : Tổng lãnh sự	1
+Np : Việt	15
+Np : Việt Kiều	1
+Np : Việt kiều	11
+Np : Xuống Đá	1
+Np : Đoàn Hữu Đấu	1
+Np : Đằng	1
+Np : Đặng Công Lân	1
+Np : Đặng Văn Tình	1
+Nu : đồng	1
+Ny : B	1
+Ny : GD	1
+Ny : TP	5
+Ny : VN	13
+Ny : ĐH	2
+Ny : ĐT	1
+P : Chúng tôi	5
+P : Họ	1
+P : Tôi	1
+P : ai	1
+P : chúng	2
+P : chúng tôi	4
+P : cả	1
+P : gì	1
+P : họ	1
+P : mình	1
+P : nào	3
+P : này	1
+P : nó	1
+P : sao	1
+P : tôi	2
+P : từng	2
+P : vậy	1
+P : Đó	1
+P : đâu	1
+P : đây	7
+P : đó	2
+R : Hằng	1
+R : Mới	1
+R : chưa	1
+R : chẳng	1
+R : chỉ	2
+R : còn	4
+R : cũng	6
+R : cứ	2
+R : gì	1
+R : hơi	1
+R : hơn	4
+R : hằng	1
+R : hẳn	1
+R : hết	1
+R : khá	3
+R : không	8
+R : luôn	2
+R : lại	1
+R : lấy	1
+R : lắm	1
+R : nữa	1
+R : ra	2
+R : rất	8
+R : rất đỗi	1
+R : sẽ	2
+R : tức tốc	1
+R : vào	1
+R : vẫn	2
+R : xong	1
+R : đang	5
+R : đã	5
+R : được	5
+R : đều	3
+RBKT : RBKT	4
+S : hiếu	1
+T : Ngay	1
+T : mất	1
+T : nào	3
+T : thôi	1
+T : thật	1
+T : đấy	2
+Trần : Thị Kim Hiền học ĐH Y Huế , cậu em út Trần Trọng T Tiến cũng đang là sinh viên năm 2 ĐH  Y Thái Bình	1
+V : *T*	1
+V : Bước	1
+V : Có	2
+V : Dạo	1
+V : Giơ	1
+V : Giữ	1
+V : Học	1
+V : Lập nghiệp	1
+V : Ngồi	1
+V : biết	4
+V : buôn bán	1
+V : bày	1
+V : bằm	1
+V : bị	2
+V : bộc bạch	1
+V : cho	3
+V : chào đón	1
+V : chạy	2
+V : chọn	1
+V : chở	1
+V : có	10
+V : du học	2
+V : dạo	1
+V : dạy	2
+V : dẫn	1
+V : dặn	1
+V : dọn dẹp	1
+V : giao	1
+V : giao lưu	1
+V : giữ	3
+V : gom góp	1
+V : gọi	2
+V : gửi	1
+V : hoạt động	2
+V : hát	2
+V : học	6
+V : họp mặt	1
+V : hỏi	1
+V : kho	1
+V : lang thang	1
+V : lo	2
+V : là	8
+V : làm	2
+V : làm chủ	1
+V : làm ăn	1
+V : lên	2
+V : lập nghiệp	1
+V : lắc	1
+V : lắc lư	1
+V : mai một	1
+V : mang	1
+V : mua	2
+V : muốn	1
+V : mở rộng	1
+V : nghe	1
+V : ngỡ	2
+V : nhớ	1
+V : noi	1
+V : nói	3
+V : nói chuyện	1
+V : nấu	1
+V : nắm	1
+V : nằm	1
+V : pha	1
+V : phá	1
+V : phân công	1
+V : phơi	1
+V : phải	2
+V : phụ trách	1
+V : phục vụ	1
+V : quên	1
+V : ra	1
+V : rung động	1
+V : sang	2
+V : sinh	1
+V : sinh sống	1
+V : so	2
+V : sống	3
+V : sử dụng	2
+V : theo	1
+V : thuê	1
+V : thành	1
+V : thành lập	1
+V : thêm	1
+V : thăm	1
+V : thắp	1
+V : thỉnh	1
+V : thờ	2
+V : tiếp thị	1
+V : trang trí	2
+V : treo	1
+V : trình bày	1
+V : trồng	1
+V : tung tăng	1
+V : tâm sự	2
+V : tìm	1
+V : tăng cường	1
+V : tập luyện	1
+V : tập trung	1
+V : tốt nghiệp	1
+V : tổ chức	1
+V : vang	1
+V : vào	5
+V : vận động	1
+V : về	4
+V : xa	1
+V : xem	1
+V : xây	2
+V : xây dựng	3
+V : ăn	3
+V : đi	6
+V : đào tạo	1
+V : đóng góp	1
+V : được	6
+V : đầu tư	1
+V : đặt chân	1
+V : đến	3
+V : định cư	1
+V : đọc	1
+V : ủng hộ	1
+Vb : pay tà lạt	1
+X : Thì ra	1
+X : đến nơi đến chốn	1

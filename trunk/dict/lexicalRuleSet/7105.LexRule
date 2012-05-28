@@ -1,0 +1,483 @@
+" : "	12
+, : ,	98
+- : -	5
+. : .	45
+... : ...	5
+: : :	4
+A : Khó khăn	1
+A : Lắm	2
+A : buồn	1
+A : bì bõm	1
+A : chí thú	1
+A : cùng	1
+A : cặm cụi	1
+A : dài	1
+A : dân lập	3
+A : già	2
+A : gần	1
+A : hiếu thảo	1
+A : hơn	1
+A : hạnh phúc	1
+A : hết	1
+A : khoảng	3
+A : khá	1
+A : khá giả	1
+A : khác	1
+A : khó	2
+A : khỏe	1
+A : kịp	1
+A : liền	1
+A : lão	1
+A : lận đận	1
+A : lắm	3
+A : mù	3
+A : mới	1
+A : neo đơn	1
+A : ngang	1
+A : nghèo	19
+A : nhanh	1
+A : nhiều	5
+A : no	1
+A : nặng nhọc	1
+A : phải	1
+A : rẻ	1
+A : sai	1
+A : sang trọng	1
+A : sâu	1
+A : sẵn	1
+A : thiếu	2
+A : thiện	4
+A : thiệt	1
+A : thật	1
+A : trên	1
+A : trần	1
+A : trẻ	1
+A : tận tình	1
+A : tật nguyền	1
+A : từ thiện	4
+A : vui	3
+A : xa	3
+A : xa xôi	1
+A : ít	1
+A : đúng	1
+A : đầu tiên	1
+A : đầy đủ	1
+A : đủ	2
+A : ấm	1
+C : Chẳng hạn	1
+C : Còn	1
+C : Dù là vậy	1
+C : Ngược lại	1
+C : Và	1
+C : chi bằng	1
+C : còn	1
+C : cùng	2
+C : dù	1
+C : hay	1
+C : huống hồ	1
+C : không chỉ	2
+C : là	1
+C : mà	3
+C : mà còn	2
+C : như	5
+C : nhưng	6
+C : nên	1
+C : thì	3
+C : và	6
+C : với	1
+E : Sau	2
+E : Trong	1
+E : bằng	3
+E : cho	16
+E : của	3
+E : dưới	1
+E : ngoài	2
+E : ra	1
+E : sang	1
+E : sau	3
+E : theo	1
+E : trong	9
+E : tận	1
+E : vào	2
+E : vì	2
+E : về	1
+E : với	4
+E : đến	2
+E : để	5
+E : ở	8
+L : Những	3
+L : các	1
+L : mỗi	1
+L : những	8
+LBKT : LBKT	9
+M : 1	4
+M : 1,5 triệu	1
+M : 10	1
+M : 1990	2
+M : 2	1
+M : 200	1
+M : 2000	1
+M : 2003	1
+M : 30	3
+M : 300	1
+M : 31	1
+M : 4	1
+M : 5	1
+M : 6	1
+M : 600	1
+M : 600.000	1
+M : 8	1
+M : Hai	1
+M : chục	1
+M : hai	3
+M : mỗi	2
+M : một	6
+M : người	1
+N : Ban	1
+N : Ban đầu	1
+N : Khi	1
+N : Lúc	1
+N : Ngày nay	1
+N : Người	3
+N : Nhà	2
+N : Năm	1
+N : Thời giá	1
+N : Việc	1
+N : ban	2
+N : bà	1
+N : bàn	1
+N : bàn tay	1
+N : bình quân	1
+N : bí thư	1
+N : bạn	4
+N : bạn bè	1
+N : bề	1
+N : bờ	1
+N : bữa	1
+N : chàng	1
+N : chợ	1
+N : chủ	1
+N : con cháu	1
+N : cách	1
+N : cây	10
+N : công	4
+N : công cộng	1
+N : công trình	2
+N : căn	5
+N : cơm	1
+N : cơm nước	1
+N : cảnh	2
+N : cầu	4
+N : cột	2
+N : của	2
+N : dừa	9
+N : ghế	1
+N : gia đình	7
+N : giá	1
+N : giường	2
+N : gòn	1
+N : gỗ	2
+N : huyện	4
+N : huê lợi	2
+N : hàng xóm	1
+N : khi	3
+N : khoảng	1
+N : kinh phí	1
+N : làng	3
+N : lá	1
+N : lòng	1
+N : lúc	6
+N : lời	1
+N : mái	1
+N : mưa	2
+N : mồ mả	1
+N : nghĩa	1
+N : ngoài	1
+N : ngoại	1
+N : ngành nghề	1
+N : ngày	2
+N : người	29
+N : nhau	1
+N : nhà	35
+N : năm	6
+N : nơi	1
+N : nước	1
+N : nước ròng	1
+N : nắng	1
+N : nền	1
+N : nửa đêm	1
+N : phân nửa	1
+N : quần đùi	1
+N : ranh	1
+N : sông	1
+N : sông rạch	1
+N : sườn	2
+N : số lượng	1
+N : sức	1
+N : sự nghiệp	1
+N : thanh niên	1
+N : tháng	1
+N : thân	1
+N : thị xã	1
+N : thời gian	1
+N : thời giá	1
+N : thợ	4
+N : thợ hồ	2
+N : thợ mộc	1
+N : thực phẩm	1
+N : tiền	5
+N : trai tráng	1
+N : trai trẻ	1
+N : trong	1
+N : trái	1
+N : trường hợp	1
+N : trời	1
+N : trụ	1
+N : trụ cột	1
+N : tuổi	1
+N : tình thương	11
+N : tỉnh	1
+N : việc	8
+N : vàng	1
+N : vé số	2
+N : vườn	3
+N : vợ	1
+N : xã	8
+N : xưa	1
+N : Ông	3
+N : Ông già	1
+N : ân nhân	1
+N : ông	17
+N : ông già	1
+N : điều	1
+N : đường	2
+N : đầu	1
+N : đội	1
+N : ơn	1
+N : ấp	8
+NP : *E*	4
+NP : *T*	5
+Nc : Người	1
+Nc : bà	2
+Nc : cái	8
+Nc : căn	3
+Nc : người	1
+Nc : niềm	1
+Nc : Ông	3
+Nc : ông	19
+Np : An Hiệp	1
+Np : Ba Kiểu	3
+Np : Bến Tre	2
+Np : Châu Thành	5
+Np : Chín Thái	1
+Np : Chợ Gạo	1
+Np : Hai Sết	1
+Np : Lê Thị Kính	1
+Np : Lê Văn On	1
+Np : Mỏ Cày	1
+Np : Mỹ Thạnh An	1
+Np : Nguyễn Văn Hậu	1
+Np : Nguyễn Văn Kiểu	1
+Np : Năm Kiếm	1
+Np : Phước	3
+Np : Phước Hòa	1
+Np : Quới Thành	1
+Np : Sáu Chành	1
+Np : Sáu Sao	2
+Np : Sáu Vô	1
+Np : Thành Triệu	2
+Np : Thạnh Ngãi	1
+Np : Tiên Hưng	1
+Np : Tiên Long	4
+Np : Tiền Giang	2
+Np : Trà Vinh	1
+Np : Tám	7
+Np : Tám On	9
+Np : Tân Phú	3
+Np : Tân Qui	3
+Np : Tư Hạnh	1
+Np : Đồng Tháp	1
+Nu : chỉ	1
+Nu : m	3
+Nu : đồng	2
+P : Tôi	1
+P : bây giờ	1
+P : cả	1
+P : gì	1
+P : họ	9
+P : mình	4
+P : người ta	1
+P : này	4
+P : tôi	1
+P : đâu	2
+P : đây	1
+P : đó	2
+R : Hãy	1
+R : Ngoài ra	1
+R : Từng	1
+R : cho	2
+R : chưa	2
+R : chẳng	1
+R : chỉ	3
+R : còn	4
+R : cũng	6
+R : dần	1
+R : hơn	1
+R : hầu hết	1
+R : hết	2
+R : không	11
+R : luôn	1
+R : lên	1
+R : lại	2
+R : mới	2
+R : quá	1
+R : ra	1
+R : rất	2
+R : sắp	2
+R : thêm	3
+R : thường	1
+R : thật sự	1
+R : vào	1
+R : vẫn	4
+R : vừa	3
+R : xuống	1
+R : đang	1
+R : đã	5
+R : được	4
+R : đều	2
+RBKT : RBKT	9
+T : Riêng	1
+T : gì	1
+T : lắm	3
+T : rồi	1
+V : Cho	1
+V : Có	2
+V : Làm	1
+V : Nghe	1
+V : Thấy	1
+V : Xây	1
+V : biết	1
+V : buôn bán	1
+V : bán	6
+V : bắt đầu	1
+V : bỏ	2
+V : che	2
+V : cho	4
+V : chăm lo	2
+V : chết	1
+V : chịu	1
+V : coi	1
+V : cách	2
+V : còn	2
+V : có	13
+V : có mặt	1
+V : cưa xẻ	1
+V : cảm ơn	1
+V : cất	10
+V : cần	1
+V : cố gắng	1
+V : cởi	1
+V : dùng	1
+V : dựng	1
+V : giao	1
+V : giúp	11
+V : giới thiệu	1
+V : giữ	1
+V : gánh	1
+V : gặp	3
+V : gồm	1
+V : gợi	1
+V : huy động	1
+V : hình thành	1
+V : hạ	1
+V : hỏi	1
+V : hứa	1
+V : khuyên	1
+V : kiếm	1
+V : kéo	1
+V : kê	1
+V : kêu	1
+V : kết	1
+V : kể	2
+V : lao động	1
+V : lo	6
+V : lo toan	1
+V : là	11
+V : làm	17
+V : làm nên	1
+V : làm việc	1
+V : làm ăn	6
+V : lăn lưng	1
+V : lấy	1
+V : lặn lội	1
+V : lội	1
+V : lớn	1
+V : mua	7
+V : muốn	1
+V : mưa	1
+V : mượn	1
+V : mặc	2
+V : nghe	1
+V : nghĩ	3
+V : nghỉ ngơi	1
+V : ngụ	1
+V : nhận	1
+V : nuôi	1
+V : nói	2
+V : nương tựa	1
+V : phải	5
+V : phụ giúp	1
+V : rủ	1
+V : sang	1
+V : sắm sửa	1
+V : sẵn lòng	1
+V : sống	4
+V : sửa	1
+V : tham gia	2
+V : thiếu	2
+V : thu	1
+V : thêm	1
+V : thương	2
+V : thấu hiểu	1
+V : thấy	4
+V : tiêu xài	1
+V : tiếc	1
+V : trú	1
+V : trả	1
+V : trở nên	1
+V : tâm niệm	1
+V : tìm	1
+V : tìm hiểu	1
+V : tính toán	1
+V : tăng	1
+V : tạo	1
+V : tặng	1
+V : tức là	1
+V : từ chối	1
+V : xem	1
+V : xẻ	1
+V : xốc	1
+V : yêu	1
+V : ăn	2
+V : đi	2
+V : đành	2
+V : đáng	1
+V : đáp	1
+V : đóng	2
+V : đưa	1
+V : được	2
+V : đẩy	1
+V : đặng	1
+V : đến	1
+V : để dành	1
+V : đốn	1
+V : đồng hành	4
+V : đổ	2
+V : ở	1
+X : của ăn của để	1
+X : khăn gói lên đường	1
+X : làm chi	1
+X : nhà dột cột xiêu	2
+X : như vậy	1
+X : nơi ăn chốn ở	1
+X : tuổi già sức yếu	1

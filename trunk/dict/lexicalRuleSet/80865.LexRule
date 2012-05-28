@@ -1,0 +1,770 @@
+! : !	2
+" : "	12
+, : ,	81
+. : .	72
+... : ...	3
+: : :	9
+; : ;	3
+? : ?	1
+A : Bất ngờ	1
+A : Cuối cùng	1
+A : Cùng	1
+A : Nhiều	1
+A : Như	1
+A : buồn	3
+A : buồn buồn	1
+A : bình thường	1
+A : bẩn	1
+A : cao cấp	1
+A : chân quê	1
+A : chính	2
+A : chướng	1
+A : chập choạng	1
+A : chằm chằm	1
+A : cuối cùng	1
+A : còng	1
+A : cùng	1
+A : căng thẳng	1
+A : cằn	1
+A : cổ	1
+A : duy nhất	1
+A : dài	1
+A : dại	1
+A : dễ dàng	1
+A : giàu	1
+A : gãy	1
+A : gần	1
+A : hiếm	1
+A : hiền lành	1
+A : hoang	1
+A : hơn	1
+A : im ỉm	1
+A : khác	1
+A : khét tiếng	2
+A : kế	1
+A : kịp	1
+A : liên kế	1
+A : lùm xùm	1
+A : lương thiện	2
+A : lạ	1
+A : lạnh	1
+A : lạnh lẽo	1
+A : lớn	6
+A : mênh mông	1
+A : mù	1
+A : ngang tàng	1
+A : nghèo	1
+A : nhanh	1
+A : nhanh chóng	4
+A : nheo nhóc	1
+A : nhiều	7
+A : nhì	1
+A : nhất	1
+A : nhỏ	2
+A : nóng	4
+A : nóng bỏng	1
+A : nặng	2
+A : nổi	1
+A : phải	1
+A : phủ phê	1
+A : qui mô	1
+A : riêng	2
+A : rõ	2
+A : rầu rầu	1
+A : rối	1
+A : rộng	1
+A : sau	1
+A : suốt	1
+A : sâu	2
+A : tay ngang	1
+A : thanh bình	1
+A : thanh niên	1
+A : thiếu	1
+A : thật sự	1
+A : trong	1
+A : trên	2
+A : trĩu	1
+A : trắng	1
+A : trẻ	1
+A : tác quái	1
+A : tình nghĩa	1
+A : tệ bạc	1
+A : tội	1
+A : tự do	1
+A : u uẩn	1
+A : vui	1
+A : vô tội	1
+A : vật vạ	1
+A : vẹn toàn	1
+A : vỡ	1
+A : xa	2
+A : ít nhất	1
+A : út	1
+A : đàng hoàng	1
+A : đầu	1
+A : đặc biệt	1
+A : độc	2
+A : độc lập	1
+A : độc ác	1
+A : độc địa	1
+A : đột ngột	1
+C : Thậm chí	1
+C : Thế rồi	1
+C : Tuy	1
+C : Và	2
+C : là	3
+C : lẫn	1
+C : mà	2
+C : như	7
+C : nhưng	7
+C : nếu	1
+C : rằng	1
+C : rồi	4
+C : thì	4
+C : tức	1
+C : và	15
+C : vậy mà	1
+C : với	1
+E : Ngoài	1
+E : Trong	5
+E : Trên	1
+E : Với	1
+E : bởi	1
+E : cho	7
+E : của	24
+E : dưới	1
+E : giữa	1
+E : ngoài	1
+E : qua	1
+E : sau	1
+E : trong	10
+E : trên	3
+E : trước	2
+E : từ	10
+E : vào	9
+E : vì	3
+E : về	2
+E : với	7
+E : Đến	1
+E : đến	6
+E : để	6
+E : đối với	1
+E : Ở	3
+E : ở	11
+I : nhé	1
+L : Các	1
+L : Hầu hết	1
+L : Những	3
+L : các	13
+L : hàng loạt	1
+L : mấy	2
+L : một số	2
+L : những	17
+LBKT : LBKT	1
+M : 1 . 000	1
+M : 100	1
+M : 11	2
+M : 12	1
+M : 15	1
+M : 1999	1
+M : 2 . 354	1
+M : 20	1
+M : 4 . 000	1
+M : 40	1
+M : 86	1
+M : 9A	1
+M : ba	3
+M : bốn	2
+M : chục	2
+M : cặp	2
+M : hai	6
+M : một	18
+M : năm	2
+M : tỉ	1
+M : đôi	1
+N : Bà	1
+N : Bà cụ	1
+N : Bố già	1
+N : Chính quyền	2
+N : Cô	1
+N : Cảnh sát	1
+N : Dân	1
+N : Huyện	1
+N : Khi	2
+N : Khí chất	1
+N : Lưng	1
+N : Lời	2
+N : Ma túy	1
+N : Nhà	2
+N : Năm	1
+N : Phía	1
+N : Thuốc phiện	1
+N : Thế hệ	1
+N : Tiếng tăm	1
+N : Tư dinh	1
+N : Vùng đất	1
+N : Vợ chồng	1
+N : anh	1
+N : bao	1
+N : biên giới	2
+N : bà	3
+N : bà con	2
+N : bà cụ	2
+N : bàn tay	1
+N : bây giờ	1
+N : bão tố	1
+N : bè	4
+N : bé	1
+N : bên	4
+N : bêtông	1
+N : bóng tối	1
+N : bạch tuộc	1
+N : bạn bè	1
+N : bản án	1
+N : bản đồ	1
+N : bề ngoài	1
+N : bố già	5
+N : bờ	1
+N : chiếu	1
+N : chuyện	3
+N : cháu	4
+N : chân	2
+N : chó	1
+N : chỉ	1
+N : chốn	1
+N : chủ	1
+N : con	3
+N : con cái	1
+N : con em	1
+N : con gái	1
+N : con nghiện	1
+N : con thơ	2
+N : cuối	3
+N : cái	1
+N : cán bộ	1
+N : câu	1
+N : cây cảnh	1
+N : cô	1
+N : công an	2
+N : cỏ	1
+N : cồn	1
+N : cột	3
+N : cửa	1
+N : cửa miệng	1
+N : dân	3
+N : dây	1
+N : dây chuyền	1
+N : em	1
+N : em trai	1
+N : em út	1
+N : gia đình	5
+N : giang hồ	4
+N : gió	2
+N : giọng	1
+N : giới	3
+N : gái	2
+N : gáy	1
+N : gỗ	4
+N : heroin	3
+N : hiện	1
+N : huyện	4
+N : hàng rào	1
+N : hàng xóm	5
+N : hông	1
+N : hạng	1
+N : họ	1
+N : hồ	1
+N : khi	3
+N : khu	3
+N : khách	1
+N : khí	1
+N : khói	1
+N : khăn	1
+N : kiểu	1
+N : kẻ	1
+N : kỷ lục	1
+N : làng	3
+N : làng xóm	1
+N : lát	1
+N : lò	1
+N : lúc	3
+N : lỗi	1
+N : lớp	1
+N : lời	3
+N : ma	1
+N : ma tuý	1
+N : ma túy	20
+N : màu	1
+N : mèo	1
+N : mảnh	1
+N : mắt	3
+N : mặt	2
+N : mẹ	1
+N : mẹ già	1
+N : nay	1
+N : nguyền	3
+N : nguyện vọng	4
+N : ngày	5
+N : ngày mai	1
+N : ngày xưa	1
+N : người	9
+N : nhà	14
+N : nhà cửa	1
+N : nhà lầu	1
+N : nhà trệt	1
+N : nhân sự	1
+N : nilông	1
+N : niềm	1
+N : núi	1
+N : năm	2
+N : nơi	2
+N : nước	1
+N : nước nhà	1
+N : nắng	2
+N : nắng mưa	1
+N : nội bộ	1
+N : nửa	1
+N : pháp trường	3
+N : phòng	2
+N : phó chủ tịch	1
+N : phù dung	3
+N : phương	2
+N : phần	2
+N : quanh năm	1
+N : quê	4
+N : quê hương	2
+N : quần hội	1
+N : quốc gia	1
+N : ruồi	1
+N : ruộng	2
+N : rừng	1
+N : suy dinh dưỡng	1
+N : sông	2
+N : sông nước	1
+N : số	1
+N : tay	6
+N : then	1
+N : thiêu thân	1
+N : thuốc	2
+N : thuốc phiện	5
+N : tháng	1
+N : thân nhân	1
+N : thân tàn ma dại	1
+N : thép gai	1
+N : thông tin	1
+N : thế kỷ	1
+N : thời	2
+N : thời gian	1
+N : thủy tạ	1
+N : thứ	1
+N : thực trạng	1
+N : tin tức	1
+N : tiếng tai	1
+N : tiền	2
+N : tiệc tùng	1
+N : tiện nghi	1
+N : trai	1
+N : trang trại	1
+N : triền	2
+N : triệu phú	1
+N : truyền thống	1
+N : trùm	4
+N : trước	1
+N : trưởng	1
+N : trưởng Phòng	1
+N : trạm xá	1
+N : trời đất	1
+N : tuổi	2
+N : tên	2
+N : tình nghĩa	1
+N : tình thương	1
+N : tù	3
+N : tư gia	2
+N : tường	1
+N : tỉnh	1
+N : tọa độ	1
+N : tội	2
+N : tội lỗi	1
+N : tội nhân	1
+N : tội ác	1
+N : tứ xứ	1
+N : tử hình	1
+N : tử tội	6
+N : vai trò	1
+N : vòi	1
+N : vòng	1
+N : vùng	3
+N : vùng đất	1
+N : vườn	2
+N : vợ	2
+N : vợ bé	1
+N : vợ chồng	1
+N : vợ con	1
+N : xa xưa	1
+N : xuôi	2
+N : xã	10
+N : xã hội	1
+N : xóm	2
+N : xứ	1
+N : án	2
+N : ông	2
+N : ông bà	2
+N : điều kiện	1
+N : điểm	2
+N : đàn bà	1
+N : đá	1
+N : đáy	1
+N : đê	2
+N : đêm	1
+N : đường	6
+N : đường dây	7
+N : đại dịch	3
+N : đảng viên	3
+N : đất	4
+N : địa phương	3
+N : đồng phạm	1
+N : đồng tiền	1
+N : đồng đảng	1
+N : đời	4
+N : ước mơ	1
+NP : *E*	11
+NP : *T*	1
+Nb : heroin	4
+Nc : Anh	3
+Nc : Cái	1
+Nc : Cô	2
+Nc : Mảnh	1
+Nc : Người	1
+Nc : Tụi	1
+Nc : bà	2
+Nc : bánh	1
+Nc : bọn	1
+Nc : bức	1
+Nc : con	6
+Nc : con nghiện	1
+Nc : cái	1
+Nc : căn	3
+Nc : mảnh	2
+Nc : ngôi	3
+Nc : người	4
+Nc : ngọn	1
+Nc : sợi	1
+Nc : vợ	1
+Nc : Ông	1
+Nc : ánh	1
+Nc : ông	3
+Nc : đứa	8
+Np : Bắc	1
+Np : Hoàng Xuân Đường	1
+Np : Hòa	3
+Np : Hưng Long	8
+Np : Hưng Lịnh	2
+Np : Hưng Nguyên	7
+Np : Hưng Xá	3
+Np : Hạnh	1
+Np : Hạnh cầm	1
+Np : Hải	4
+Np : Hải luận	1
+Np : Hảo	2
+Np : Hồ Xuân Hòa	1
+Np : Hợi	3
+Np : Lam	2
+Np : Nghệ	1
+Np : Nghệ An	4
+Np : Nguyễn Thị Châu	1
+Np : Nguyễn Thị Loan	1
+Np : Nguyễn Thị Tiêu	1
+Np : Nguyễn Văn Cương	2
+Np : Nguyễn Văn Hòa	1
+Np : Nguyễn Văn Hải	1
+Np : Nguyễn Văn Hồng	1
+Np : Nguyễn Văn Toại	2
+Np : Quang	1
+Np : Sơn	2
+Np : Thùy	3
+Np : Tiêu	1
+Np : Trần Văn Hương	1
+Np : Trần Văn Hợi	3
+Np : Vinh	1
+Np : Võ Công Sơn	1
+Np : Đồng Nai	1
+Nu : m2	1
+Nu : phút	1
+Nu : tuổi	1
+Ny : VN	2
+P : Chúng	1
+P : Tôi	2
+P : bao giờ	1
+P : chúng	1
+P : chúng nó	1
+P : cả	4
+P : gã	2
+P : họ	3
+P : mình	2
+P : mô	1
+P : nào	1
+P : này	7
+P : ta	1
+P : thế	1
+P : tui	1
+P : tôi	9
+P : tất cả	1
+P : Đó	1
+P : đâu	1
+P : đây	2
+P : đó	4
+P : ấy	2
+R : Chỉ	2
+R : Không	1
+R : Từng	1
+R : chưa	2
+R : chỉ	5
+R : còn	4
+R : cùng	2
+R : cũng	9
+R : cứ	2
+R : cực kỳ	1
+R : hàng	1
+R : hơn	1
+R : hết	1
+R : không	9
+R : không thể	2
+R : lên	4
+R : lại	7
+R : mãi	1
+R : mới	2
+R : ngay	1
+R : nhất	6
+R : nổi	3
+R : quá	1
+R : rất	2
+R : sẽ	4
+R : theo	1
+R : thấy	1
+R : từng	1
+R : vào	1
+R : vẫn	2
+R : vốn	1
+R : vừa	2
+R : đang	6
+R : đi	1
+R : đã	16
+R : được	2
+R : đều	3
+R : đừng	1
+RBKT : RBKT	1
+T : Ngay	1
+T : chính	2
+T : cả	1
+T : ngay	2
+T : thật	1
+T : trời	1
+T : tận	1
+T : đấy	1
+T : ơi	1
+V : *E*	2
+V : Biết	1
+V : Có	1
+V : Nghe	1
+V : Nói	1
+V : Rời	1
+V : Theo	1
+V : Xin	1
+V : bao	1
+V : biến	1
+V : biết	1
+V : buôn	10
+V : buôn bán	5
+V : buồn	1
+V : bán	3
+V : bán lẻ	1
+V : bước	2
+V : bạt mạng	1
+V : bật	1
+V : bắt đầu	1
+V : bế	1
+V : bị	8
+V : bịt	1
+V : bỏ	2
+V : bỏ hoang	1
+V : cai nghiện	1
+V : chuẩn bị	2
+V : chích choác	1
+V : chắc	2
+V : chết	8
+V : chết chóc	2
+V : chỉ	1
+V : chịu	1
+V : chọn	2
+V : chống	1
+V : chứng giám	1
+V : coi	1
+V : cung cấp	1
+V : cuốn	1
+V : cài	1
+V : cách	1
+V : có	14
+V : cúi	1
+V : cải	1
+V : cảm thấy	1
+V : cất	4
+V : cầm	1
+V : cầm đầu	2
+V : cộng	1
+V : cột	1
+V : dám	1
+V : dò hỏi	1
+V : dắt díu	1
+V : dụ dỗ	1
+V : dựa	3
+V : giật giọng	1
+V : gườm gườm	1
+V : gầm gừ	1
+V : gập	1
+V : gặp	1
+V : gọi	1
+V : hiểu	1
+V : hành nghề	1
+V : hôn	1
+V : hút	2
+V : hẹn	1
+V : hỏi cung	1
+V : khai trừ	1
+V : khiến	1
+V : khóc	1
+V : khỏi	2
+V : kiên quyết	1
+V : kiêng nể	1
+V : kiếm	2
+V : kiểm điểm	1
+V : kết	1
+V : kể	2
+V : kỷ niệm	1
+V : lan	1
+V : lao	1
+V : lao động	1
+V : liên quan	1
+V : liên đới	1
+V : lo	1
+V : luận	4
+V : là	12
+V : làm	3
+V : làm ruộng	1
+V : lâm	1
+V : lãnh	1
+V : lèn	1
+V : lên	1
+V : lên đời	1
+V : lăn lóc	1
+V : lương thiện	1
+V : lấy	1
+V : lần mò	1
+V : mong muốn	1
+V : mua	3
+V : mua bán	1
+V : muốn	1
+V : mải	1
+V : mất	1
+V : mệnh danh	1
+V : nghe	3
+V : nghiện	4
+V : nghiện ngập	2
+V : nguyền rủa	1
+V : nguýt	1
+V : ngó	1
+V : ngược	1
+V : ngồi	2
+V : nhìn	3
+V : nhận	1
+V : nhắm mắt	1
+V : nhờ	2
+V : nuôi	4
+V : nuôi nấng	1
+V : nói	5
+V : nằm	1
+V : nổi	1
+V : oán hận	1
+V : phun	1
+V : phá	1
+V : phóng uế	1
+V : phải	6
+V : qua	1
+V : quyên góp	1
+V : ra	3
+V : rèn luyện	1
+V : sinh thành	1
+V : sinh tử	1
+V : suy nghĩ	2
+V : sống	4
+V : tha	1
+V : thay	1
+V : theo	1
+V : thoát	1
+V : thành	2
+V : thòng	1
+V : thả	1
+V : thấy	2
+V : thở dài	1
+V : thụ án	2
+V : thừa	1
+V : thừa nhận	1
+V : tin	2
+V : trung chuyển	1
+V : tràn	1
+V : trông	1
+V : trông coi	1
+V : trả lời	1
+V : trở thành	1
+V : tuyên	1
+V : tâm sự	2
+V : tìm	3
+V : tù	1
+V : tù tội	1
+V : tập trung	1
+V : tặng	1
+V : tổ chức	1
+V : vào	2
+V : vươn	1
+V : vướng	1
+V : vận chuyển	1
+V : vật vã	1
+V : vật vạ	1
+V : về	1
+V : xuyên	1
+V : xuất hiện	1
+V : xuất thân	2
+V : xài	1
+V : xâu xé	1
+V : xây dựng	1
+V : xấp ngửa	1
+V : ám ảnh	1
+V : ôm	2
+V : ý thức	1
+V : ăn chơi	1
+V : Đi	1
+V : đem	1
+V : đi	6
+V : đáp ứng	2
+V : đãi đằng	1
+V : đóng	1
+V : được	4
+V : đến	1
+V : đền tội	1
+V : để	3
+V : đối diện	1
+V : đội lốt	1
+V : động	1
+V : đợi	1
+V : ở	2
+X : Nghe đâu	1
+X : biết bao	1
+X : bất khả xâm phạm	1
+X : có vẻ	2
+X : qua ngày	1
+X : tan cửa nát nhà	1
+X : thân tàn ma dại	1
+X : vừa rồi	1
+X : ít nhất	1
+Y : 0C	1
+“ : “	24
+… : ...	1

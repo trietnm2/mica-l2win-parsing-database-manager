@@ -1,0 +1,364 @@
+! : !	2
+" : "	19
+, : ,	29
+- : -	1
+. : .	30
+... : ...	1
+: : :	4
+A : An toàn	1
+A : biệt tăm	1
+A : có thể	1
+A : dở dang	2
+A : hơn	1
+A : khác	1
+A : lạ lùng	1
+A : mạnh mẽ	1
+A : nhanh	1
+A : nhiều	3
+A : nhất	1
+A : sau	1
+A : thông minh	1
+A : trước	1
+A : trẻ	1
+A : trẻ trung	1
+A : tự tin	1
+A : vui	1
+A : vòng	1
+A : vĩnh viễn	1
+A : xanh	2
+A : xinh xắn	1
+A : xuất sắc	1
+A : ít	1
+A : Đúng	1
+A : đau khổ	1
+A : đau đớn	1
+A : đúng	1
+A : đặc biệt	1
+A : ấn tượng	2
+C : Nhưng	2
+C : Nếu	1
+C : là	1
+C : lẫn	1
+C : mà	3
+C : như	1
+C : nhưng	1
+C : rằng	3
+C : thì	1
+C : và	13
+E : Trong	1
+E : Trước	1
+E : Tại	1
+E : Từ	1
+E : Với	1
+E : cho	8
+E : của	11
+E : do	3
+E : ngoài	1
+E : ra	1
+E : sau	4
+E : trong	9
+E : trên	2
+E : trước	1
+E : tại	4
+E : từ	2
+E : vào	1
+E : vì	1
+E : về	5
+E : với	8
+E : đến	2
+E : ở	3
+I : ơi	2
+L : Mấy	2
+L : các	2
+L : mọi	2
+L : mỗi	1
+L : những	2
+LBKT : LBKT	4
+M : 1	1
+M : 10	1
+M : 12	1
+M : 20	2
+M : 2002	2
+M : 2003	1
+M : 2004	1
+M : 25	1
+M : 65%	1
+M : 90	1
+M : Ba	1
+M : Hai	2
+M : ba	3
+M : hai	1
+M : một	7
+M : năm	4
+M : sáu	2
+M : triệu	1
+N : Bưu điện	4
+N : Con	1
+N : Giám đốc	1
+N : Hiệp hội	1
+N : Khi	1
+N : Mùa hè	2
+N : Mẹ	2
+N : Nét	1
+N : Năm	2
+N : Tai nạn	1
+N : Tháng	1
+N : anh	1
+N : ba	1
+N : bà con	1
+N : bài	3
+N : bàn	1
+N : báo	3
+N : bút	1
+N : bưu điện	3
+N : bạn	2
+N : bạn bè	1
+N : chiến dịch	1
+N : chân	1
+N : chị	1
+N : chỗ	1
+N : con	3
+N : con gái	2
+N : cuộc	4
+N : cà phê	1
+N : cán bộ	1
+N : câu chuyện	1
+N : cô	8
+N : cô gái	3
+N : công an	1
+N : công chức	1
+N : cảm tình	1
+N : cầu lông	1
+N : danh sách	1
+N : dòng	1
+N : em	1
+N : gia đình	1
+N : giao thông	2
+N : giám đốc	3
+N : giải	5
+N : gương mặt	1
+N : hi vọng	1
+N : hạnh phúc	1
+N : hồng	1
+N : khi	5
+N : khuyết tật	3
+N : kế hoạch	1
+N : kỷ niệm	1
+N : lần	2
+N : lớp	2
+N : lời	1
+N : mắt	1
+N : mẹ	7
+N : mẹ con	1
+N : nghề nghiệp	1
+N : nghị lực	2
+N : nguyện vọng	1
+N : ngành	2
+N : ngày	4
+N : người	7
+N : nhau	1
+N : nhà	2
+N : năm	10
+N : năng lực	1
+N : nước	1
+N : nội dung	1
+N : phóng sự	1
+N : phường	1
+N : quyết định	1
+N : quán	1
+N : quốc gia	1
+N : sinh nhật	1
+N : sân đấu	1
+N : sẹo	1
+N : sốc	1
+N : sức	2
+N : tai nạn	3
+N : thư	1
+N : thương tật	1
+N : thể thao	4
+N : thể xác	1
+N : thứ	2
+N : tin	1
+N : tinh thần	1
+N : tiền	1
+N : toàn quốc	1
+N : trung cấp	1
+N : trường hợp	2
+N : tuổi	1
+N : tên	1
+N : tình nguyện viên	1
+N : tật nguyền	1
+N : tỉ lệ	1
+N : việc	1
+N : văn	1
+N : văn chương	1
+N : vết	1
+N : xe lăn	1
+N : xe máy	1
+N : Ôtô	1
+N : ích	1
+N : Đời	1
+N : đơn	1
+N : đường	3
+N : đồng đội	2
+N : đời	3
+N : Ủy ban	1
+NP : *E*	3
+NP : *T*	2
+Nb : Para Games	2
+Nc : Người	1
+Nc : anh	1
+Nc : bác	1
+Nc : bông	1
+Nc : chiếc	1
+Nc : con	1
+Nc : cú	1
+Nc : lá	1
+Nc : người	2
+Nc : niềm	1
+Nc : ánh	1
+Nc : ông	1
+Np : Hiền	20
+Np : Hoa Học Trò	1
+Np : Hà Nội	2
+Np : Hòa Khánh Bắc	1
+Np : Hồ Thế	2
+Np : Kiên	1
+Np : Lê Thị Thu Hiền	2
+Np : Nhật Bản	1
+Np : Phạm Trung Kiên	2
+Np : Thanh Niên	1
+Np : Tuổi Trẻ	1
+Np : Đà Nẵng	5
+Np : Đảng	1
+Nu : tuổi	1
+Nu : đồng	1
+Ny : HCB	1
+Ny : HCV	3
+Ny : VĐV	1
+P : Nó	1
+P : Tôi	1
+P : chúng tôi	1
+P : cả	3
+P : gì	1
+P : mình	6
+P : nay	2
+P : này	2
+P : nó	1
+P : tôi	8
+P : Đó	2
+P : đó	1
+P : ấy	4
+R : Hãy	1
+R : Sẽ	1
+R : chưa	1
+R : chẳng	1
+R : chỉ	1
+R : còn	1
+R : cũng	6
+R : cứ	2
+R : không	5
+R : lại	3
+R : lấy	2
+R : mãi	3
+R : ngay	1
+R : nhất	2
+R : nổi	1
+R : qua	2
+R : ra	2
+R : rất	2
+R : sẽ	1
+R : vào	1
+R : vẫn	2
+R : vừa	1
+R : đang	2
+R : đi	1
+R : đã	9
+R : được	1
+R : đến	1
+RBKT : RBKT	4
+S : nguyên	1
+T : chính	1
+T : cả	1
+T : hề	1
+T : ngay	1
+T : thật	1
+V : *E*	1
+V : Bị	1
+V : Nhìn	1
+V : Yêu	1
+V : biết	2
+V : buồn	1
+V : bị	1
+V : bồi dưỡng	1
+V : chịu	1
+V : chờ	2
+V : có	2
+V : diễn	1
+V : dồn	1
+V : dự	2
+V : dựa	2
+V : gieo	1
+V : giành	2
+V : gọi	3
+V : gửi	1
+V : khiến	3
+V : khóc	1
+V : kiếm	1
+V : kể	3
+V : là	5
+V : làm	2
+V : làm ăn	1
+V : lên	2
+V : lưu ý	2
+V : lấy	1
+V : mang	1
+V : mất	1
+V : mặc cảm	1
+V : mổ	1
+V : nghe	1
+V : nghĩ	1
+V : nhận	1
+V : nhờ	1
+V : nuôi	1
+V : nói	4
+V : phải	4
+V : phụ	1
+V : qua	3
+V : quay	1
+V : ra	1
+V : sa sút	1
+V : sống	3
+V : tham gia	1
+V : thi	4
+V : thi tuyển	2
+V : thấy	1
+V : tiến	1
+V : trình bày	1
+V : trúng tuyển	1
+V : trả lời	1
+V : trải	1
+V : tuyển	2
+V : tâm sự	1
+V : tò mò	1
+V : tạo	1
+V : tốt nghiệp	1
+V : tổ chức	2
+V : tự ti	1
+V : uống	1
+V : viết	7
+V : vào	1
+V : vấn đáp	1
+V : xảy	1
+V : yêu	2
+V : ăn học	1
+V : đi	5
+V : điện	2
+V : đoạt	1
+V : đánh đôi	1
+V : được	2
+V : đến	2
+V : đọc	1
+V : đồng ý	1
+V : ở	1
+X : vừa qua	1

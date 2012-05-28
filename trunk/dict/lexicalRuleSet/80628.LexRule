@@ -1,0 +1,746 @@
+! : !	7
+" : "	60
+, : ,	76
+- : -	8
+. : .	51
+... : ...	10
+: : :	9
+? : ?	1
+A : Gần	1
+A : bất hợp pháp	1
+A : bất tỉnh	2
+A : cao	2
+A : chuyên	1
+A : chuyên nghiệp	2
+A : chênh lệch	1
+A : chót vót	1
+A : chật cứng	1
+A : chật ních	1
+A : chặt	1
+A : cuối cùng	1
+A : cùng	5
+A : cạn	1
+A : cứng	1
+A : dã man	5
+A : dưới	2
+A : dữ	7
+A : giống	1
+A : gấp	1
+A : gần	2
+A : hiểm	1
+A : hiểm ác	1
+A : háo hức	1
+A : hõn	1
+A : hơn	4
+A : khoảng	1
+A : khác	1
+A : khó	2
+A : khắp	1
+A : khốc liệt	1
+A : kịp	1
+A : kỹ	1
+A : liên tiếp	1
+A : liên tục	1
+A : loạng choạng	1
+A : lì	9
+A : lạnh	1
+A : lầm lì	1
+A : lớn	2
+A : mới	1
+A : ngang ngửa	1
+A : nghèo	2
+A : nguy hiểm	1
+A : nhiều	5
+A : nhạy bén	1
+A : nhất	1
+A : náo nhiệt	1
+A : nặng	1
+A : nổi bật	1
+A : nổi tiếng	3
+A : quả cảm	1
+A : rẻ	1
+A : rền	1
+A : sáng	1
+A : sát	1
+A : to	1
+A : trung bình	2
+A : truyền thống	1
+A : trái mùa	1
+A : trên	1
+A : trống	1
+A : tuyệt đối	1
+A : tạp nham	1
+A : tầm tã	1
+A : tận mắt	1
+A : tự do	1
+A : vội vã	1
+A : vụn	1
+A : xanh	1
+A : xuất sắc	1
+A : ít	2
+A : ðỏ ðen	1
+A : ðủ	2
+A : Đúng	1
+A : đuối	1
+A : đông	2
+A : đầu tiên	4
+A : đầy	1
+A : đặc biệt	1
+A : đỏ	2
+A : ỏm tỏi	1
+C : Dù	1
+C : Nhưng	7
+C : Nếu	1
+C : Thậm chí	1
+C : còn	1
+C : hay	1
+C : hoặc	3
+C : không chỉ	1
+C : kể cả	1
+C : là	5
+C : lẫn	1
+C : mà	8
+C : mà còn	1
+C : như	2
+C : nhưng	7
+C : nhất là	1
+C : thì	6
+C : thậm chí	2
+C : và	20
+C : với	1
+C : ðồng thời	1
+C : đồng thời	1
+E : Do	1
+E : Theo	1
+E : Trong	2
+E : Tại	1
+E : bên	1
+E : bằng	1
+E : bởi	1
+E : cho	5
+E : của	12
+E : dưới	1
+E : giữa	7
+E : lên	1
+E : qua	1
+E : sau	4
+E : theo	1
+E : trong	7
+E : trên	8
+E : trước	3
+E : tại	7
+E : từ	4
+E : vào	12
+E : vì	6
+E : về	4
+E : với	7
+E : ðể	3
+E : đến	3
+E : để	3
+E : đối với	1
+E : ở	13
+L : Mỗi	1
+L : Những	1
+L : chút	1
+L : các	17
+L : mọi	1
+L : mỗi	1
+L : những	16
+L : vài	2
+L : ða số	1
+LBKT : LBKT	4
+M : 1	1
+M : 1.500	1
+M : 10.000	1
+M : 12 . 000	1
+M : 12.000	1
+M : 13	2
+M : 15	2
+M : 18	1
+M : 1996	1
+M : 2	1
+M : 2.000	1
+M : 3	1
+M : 30	1
+M : 300	1
+M : 45	1
+M : 50	1
+M : 7	4
+M : 700	1
+M : 8 . 000	1
+M : ba	6
+M : bốn	3
+M : chục	1
+M : cặp	1
+M : hai	11
+M : một	15
+M : ngàn	1
+M : sáu	3
+M : triệu	2
+M : trăm	1
+M : tư	2
+M : Ðôi	1
+M : Đôi	1
+N : Cuộc chiến	1
+N : Cọp	2
+N : Giá	1
+N : Hôm nay	1
+N : Hội ðồng	1
+N : Hội đồng	1
+N : Khán đài	2
+N : Muay Thái	1
+N : Ngày nay	1
+N : Quả đấm	1
+N : Rắn	2
+N : Stadium	2
+N : Sàn	2
+N : Thiếu lâm	1
+N : Thái Lan	1
+N : Thế vận hội	1
+N : Trưa	1
+N : Trường	1
+N : Trận	2
+N : Trọng tài	1
+N : anh	5
+N : ban đầu	1
+N : biệt danh	2
+N : bìa	1
+N : băng	1
+N : bướm	1
+N : bạn	1
+N : bản quyền	1
+N : bệnh viện	1
+N : bộ phận	2
+N : bộ ðàm	2
+N : cao	1
+N : chiến binh	1
+N : chiến trường	1
+N : chiều	2
+N : chuyện	1
+N : chuông	1
+N : chút	1
+N : chỏ	2
+N : chỗ	2
+N : chủ	2
+N : chủ nhật	2
+N : con bạc	2
+N : cuộc	2
+N : cuộc chiến	1
+N : cách	1
+N : cánh tay	1
+N : cân	1
+N : câu chuyện	1
+N : cò	4
+N : công chức	1
+N : công viên	1
+N : cùi chỏ	1
+N : cú	2
+N : cơ thể	2
+N : cạnh	1
+N : cậu	1
+N : cặp	1
+N : cọp	5
+N : cửa	3
+N : danh dự	1
+N : diễn biến	1
+N : giác đấu sĩ	2
+N : giấc	1
+N : giấy	1
+N : góc độ	1
+N : gối	1
+N : hiệp	6
+N : huy chương	1
+N : hơi	1
+N : hạ bộ	1
+N : hạng	1
+N : hầu bao	1
+N : học viện	1
+N : keo	1
+N : khi	14
+N : khoa	1
+N : khoảnh khắc	1
+N : khu	2
+N : khán giả	3
+N : khán phòng	1
+N : khán ðài	1
+N : khóe	1
+N : không trung	1
+N : kiến thức	1
+N : kèn	2
+N : kèn trống	1
+N : kèo	2
+N : kẻ	1
+N : kỳ	2
+N : kỹ nãng	1
+N : loa	2
+N : loại	1
+N : luật	1
+N : lò	2
+N : lần	2
+N : lịch sử	1
+N : lồng	2
+N : lứa	1
+N : lực	1
+N : miệng	2
+N : máu	1
+N : máy	2
+N : móng	1
+N : môn	7
+N : mùi	1
+N : mắt	2
+N : mặt	3
+N : mức độ	1
+N : nghi thức	1
+N : ngoại ô	1
+N : ngày	2
+N : ngày xưa	1
+N : ngýời	1
+N : người	11
+N : ngực	1
+N : nhau	2
+N : nhà	3
+N : nhạc	1
+N : não	1
+N : nông thôn	2
+N : nýớc	2
+N : năm	4
+N : nơi	2
+N : nặng	1
+N : nội ðịa	1
+N : phép	1
+N : phút	1
+N : phạm vi	1
+N : quan tài	3
+N : quyền anh	1
+N : quần	3
+N : rắn	8
+N : sinh viên	1
+N : sàn	16
+N : sân bay	1
+N : sắt	1
+N : sọ	1
+N : sức	2
+N : sức mạnh	1
+N : tay	4
+N : thanh niên	1
+N : thanh thiếu niên	2
+N : thiếu niên	1
+N : thành viên	1
+N : tháng	2
+N : thầy	1
+N : thế	2
+N : thế giới	4
+N : thể thao	2
+N : thủ đô	1
+N : thủy tinh	1
+N : thứ	4
+N : tim	2
+N : tinh thần	2
+N : tiếng	9
+N : tiền	3
+N : toàn cầu	1
+N : trung tâm	2
+N : truyền hình	1
+N : truyền thống	1
+N : trái tim	1
+N : trên	1
+N : trí thức	1
+N : trùm	1
+N : trýờng	1
+N : trường	1
+N : trường hợp	1
+N : trại	1
+N : trận	9
+N : trọng tài	1
+N : tuổi	3
+N : tài	1
+N : tên	1
+N : tính	1
+N : tính chất	1
+N : tập hợp	1
+N : tờ rơi	1
+N : việc	1
+N : vàng	1
+N : vé	2
+N : võ	2
+N : võ sinh	1
+N : võ sĩ	6
+N : võ thuật	1
+N : võ đài	1
+N : xóm	1
+N : y tế	1
+N : âm thanh	1
+N : ðiều	1
+N : ðiện thoại	1
+N : ðiện thoại di ðộng	2
+N : ðô thị	1
+N : ðường	1
+N : ðại học	1
+N : ðấu sĩ	2
+N : ðẳng cấp	1
+N : ðối thủ	1
+N : ót	1
+N : ông	3
+N : Đường	1
+N : Đại học	1
+N : Đấu sĩ	1
+N : điều	1
+N : điểm	1
+N : đài	1
+N : đám ma	1
+N : đòn	18
+N : đạo quân	1
+N : đấu sĩ	7
+N : đấu trường	2
+N : đầu	3
+N : đỉnh	2
+N : đối phương	3
+N : ủy viên	1
+NP : *E*	4
+NP : *T*	2
+Nb : Stadium	1
+Nb : boxing	1
+Nb : judo	1
+Nb : karate	1
+Nb : markerting	1
+Nb : taekwondo	1
+Nc : Chiếc	1
+Nc : chiếc	4
+Nc : con	1
+Nc : cuộc	1
+Nc : cú	3
+Nc : cơn	1
+Nc : cỗ	2
+Nc : dòng	1
+Nc : miểng	1
+Nc : ngôi	1
+Nc : nỗi	1
+Nc : sự	7
+Nc : tấm	1
+Nc : tờ	1
+Nc : Ông	2
+Nc : ông	6
+Nc : Đám	1
+Np : Amnuay	1
+Np : Amnuay Kesbumrung	2
+Np : Atlanta	1
+Np : Bangkok	6
+Np : Chatuchak	1
+Np : Don Muong	1
+Np : Hạnh	1
+Np : Hữu Hạnh	1
+Np : Kaymarn Sor Ubdul	2
+Np : Kieatprapat	3
+Np : Kwanjai Kieatprapat	2
+Np : Lumphini	1
+Np : Muay Thai	1
+Np : Muay Thái	22
+Np : MuayThai Institute	1
+Np : Mỹ	1
+Np : Nguyễn Hữu Hạnh	1
+Np : Olympic	1
+Np : Rajadamnoen	2
+Np : Sampong	4
+Np : Sathandej Skindeoymp	1
+Np : Skindeoymp	2
+Np : Somluck Khamsing	1
+Np : Stadium	1
+Np : Thanasak Sithuhubol	1
+Np : Thái	3
+Np : Thái Lan	4
+Np : Ubdul	8
+Np : Wai-kru	3
+Nu : USD	2
+Nu : baht	4
+Nu : g	2
+Nu : giờ	1
+Ny : ABAC	1
+Ny : SV	2
+Ny : VN	1
+P : Chúng tôi	3
+P : Cả	2
+P : Tôi	3
+P : ai	2
+P : chúng tôi	5
+P : cả	3
+P : họ	6
+P : mình	2
+P : nào	2
+P : này	4
+P : sao	1
+P : toàn	1
+P : Ðó	1
+P : ðó	2
+P : Đây	1
+P : đây	3
+P : đó	5
+PP : trong	1
+R : Hàng	1
+R : Liền	1
+R : chưa	3
+R : chẳng	1
+R : chỉ	3
+R : càng	1
+R : còn	2
+R : có lẽ	1
+R : có thể	2
+R : cũng	1
+R : cứ	1
+R : cực kỳ	1
+R : gì	1
+R : gần như	1
+R : hàng	1
+R : hơn	2
+R : hết	1
+R : không	13
+R : liền	1
+R : luôn	2
+R : lên	2
+R : lại	2
+R : lắm	1
+R : mới	3
+R : ngay	1
+R : ngay lập tức	1
+R : nhất	3
+R : nữa	1
+R : quá	1
+R : ra	14
+R : rất	6
+R : sẵn	2
+R : sẽ	3
+R : thường	2
+R : thậm chí	1
+R : tiếp	1
+R : từng	2
+R : vẫn	2
+R : xuống	1
+R : ði	1
+R : ðã	3
+R : ðược	1
+R : ðều	1
+R : đang	2
+R : đã	17
+R : được	2
+R : đến	1
+RBKT : RBKT	4
+T : Ngay	1
+T : cả	3
+T : hết	1
+T : hề	1
+T : mất	1
+T : riêng	1
+T : ðến	2
+T : đến	1
+V : Cách	1
+V : Cố gắng	1
+V : Tùy	1
+V : Xem	1
+V : am hiểu	1
+V : bay	1
+V : biến	1
+V : biết	3
+V : bày tỏ	1
+V : bán	2
+V : báo	1
+V : báo giá	1
+V : bùng nổ	1
+V : bước	2
+V : bại trận	1
+V : bạt	1
+V : bắt đầu	1
+V : bị	4
+V : bị thương	1
+V : bộc lộ	1
+V : che chắn	1
+V : chen chúc	1
+V : chiến thắng	1
+V : cho	3
+V : cho phép	1
+V : chuyển	1
+V : chuẩn bị	1
+V : chênh	1
+V : chìa	1
+V : chơi	1
+V : chấm	1
+V : chấn thương	1
+V : chấp nhận	1
+V : chết	3
+V : chọn	1
+V : chọn lựa	1
+V : chỏ	1
+V : chống	1
+V : chứa	1
+V : chứng kiến	5
+V : cá cược	2
+V : cách	1
+V : còn	2
+V : có	11
+V : có mặt	1
+V : công bố	1
+V : cấm	1
+V : cầm	1
+V : cận chiến	1
+V : cắm	2
+V : cứu	1
+V : diễn	2
+V : dành	1
+V : dán	2
+V : dùng	1
+V : dạy	1
+V : dẫn	1
+V : dậm	1
+V : dậy	1
+V : dự khán	1
+V : dự kiến	1
+V : giao chiến	1
+V : giúp	1
+V : gượng	1
+V : gật gù	1
+V : gắn bó	1
+V : gục	1
+V : hiểu	1
+V : hoàn hồn	1
+V : huấn luyện	2
+V : hy sinh	1
+V : hình thành	1
+V : hô	3
+V : hết	1
+V : học	3
+V : khai mạc	1
+V : khiêng	1
+V : khiến	3
+V : khuyên	1
+V : khỏi	3
+V : kéo	2
+V : la hét	2
+V : lao	1
+V : lao động	1
+V : liệt	1
+V : luyện	1
+V : là	12
+V : làm chủ	1
+V : lên	4
+V : lì	1
+V : lăn	1
+V : mang	2
+V : múa	1
+V : mýu sinh	1
+V : mơ	1
+V : mưa	1
+V : mất	1
+V : mặc	2
+V : mời	1
+V : nghe	2
+V : nghiêm cấm	1
+V : ngã	3
+V : ngó ngàng	1
+V : ngạc nhiên	1
+V : ngồi	2
+V : nhún vai	1
+V : nhúng	1
+V : nhận	4
+V : nhập cuộc	1
+V : nhờ	1
+V : nên	1
+V : nói	2
+V : nằm	2
+V : nếm	1
+V : pha trộn	1
+V : phát	2
+V : phóng thanh	1
+V : phún	1
+V : quyết định	1
+V : quấn	1
+V : ra	3
+V : ra đời	1
+V : reo hò	1
+V : sang	2
+V : sánh	1
+V : sát phạt	1
+V : sát thương	1
+V : sợ	1
+V : sụp	2
+V : sử dụng	2
+V : tham dự	1
+V : tham gia	1
+V : thay	1
+V : theo	2
+V : theo dõi	1
+V : thi ðấu	1
+V : thiệt mạng	4
+V : thoát	1
+V : thu	1
+V : thêm	1
+V : thăng hoa	1
+V : thư giãn	1
+V : thượng đài	3
+V : thất bại	1
+V : thấy	3
+V : thắc mắc	1
+V : thắng	2
+V : thể hiện	1
+V : thốt	1
+V : thở	1
+V : thực hiện	1
+V : tiếp xúc	2
+V : tranh	1
+V : trúng	3
+V : trút	1
+V : trộn	1
+V : trở nên	1
+V : tung	1
+V : tung hô	1
+V : tuyên bố	1
+V : tuyệt vọng	1
+V : tôn kính	1
+V : týờng thuật	1
+V : tăng	1
+V : tạo	1
+V : tấu	1
+V : tỉ thí	1
+V : tỏ	1
+V : tỏ vẻ	1
+V : tồn tại	1
+V : tổ chức	2
+V : tới	1
+V : vang	2
+V : vào	2
+V : võ	3
+V : vật	1
+V : về	2
+V : vỡ	1
+V : xem	10
+V : xin	1
+V : xuất hiện	1
+V : xuất thân	1
+V : xuống	1
+V : xâm lăng	1
+V : xô đẩy	1
+V : xếp	2
+V : áp	1
+V : ép	1
+V : ði	1
+V : ðưa	1
+V : ðược	1
+V : ðấu	6
+V : ðắn ðo	1
+V : ðến	1
+V : ðọc	1
+V : đi	2
+V : đá	4
+V : đánh	3
+V : đưa	1
+V : được	13
+V : đấm	1
+V : đấu	18
+V : đặt	2
+V : đến	1
+V : đối kháng	1
+V : đổ	1
+V : đổi đời	1
+V : ớn	1
+V : ở	1
+Vb : knock-out	2
+X : vì sao	1
+X : ò e í e	1
+… : ...	3

@@ -1,0 +1,598 @@
+! : !	2
+" : "	21
+, : ,	94
+- : -	19
+. : .	55
+... : ...	4
+/ : /	2
+: : :	6
+? : ?	2
+A : Nhiều	1
+A : Nhất	1
+A : cao	2
+A : chuyên	1
+A : cháy	1
+A : chính xác	1
+A : chắc	1
+A : giỏi	2
+A : gần	1
+A : hiếu kỳ	1
+A : hơn	1
+A : khác	1
+A : khó	2
+A : lầm lũi	1
+A : lớn	2
+A : lủng lẳng	1
+A : lửng lơ	1
+A : mù	1
+A : mới	1
+A : ngang	1
+A : ngoài	1
+A : nguy hiểm	1
+A : ngược	1
+A : ngắn	1
+A : nhanh nhất	1
+A : nhiều	4
+A : nhạy cảm	1
+A : nhất	3
+A : nhỏ	1
+A : phải	1
+A : rành rọt	1
+A : rõ	2
+A : sau	1
+A : thường xuyên	1
+A : thảm hại	1
+A : thật sự	1
+A : thẳng đứng	1
+A : tinh	1
+A : trong	3
+A : trước	1
+A : trực tiếp	1
+A : tất bật	1
+A : vuông	1
+A : đông	1
+A : đúng	1
+A : đơn giản	2
+A : đầu tiên	2
+A : đặc biệt	1
+A : đặc trưng	2
+A : đổ nát	1
+A : độc hại	1
+C : Bởi	2
+C : Do vậy	1
+C : Nhưng	2
+C : Nếu	1
+C : Và	2
+C : do vậy	1
+C : dù	1
+C : hay	1
+C : là	5
+C : mà	4
+C : mặc dù	1
+C : như	1
+C : nhưng	3
+C : nên	1
+C : nếu	1
+C : rằng	4
+C : rồi	3
+C : thì	5
+C : và	9
+E : Qua	1
+E : Sau	1
+E : Theo	1
+E : Trong	1
+E : Trước	1
+E : Tại	2
+E : Từ	2
+E : Với	2
+E : bởi	2
+E : cho	3
+E : của	13
+E : do	4
+E : ngoài	1
+E : sau	9
+E : theo	4
+E : trong	10
+E : trên	1
+E : trước	1
+E : tại	14
+E : từ	4
+E : vào	3
+E : vì	2
+E : về	7
+E : với	5
+E : Đến	1
+E : đến	2
+E : để	7
+E : Ở	2
+E : ở	8
+L : các	17
+L : mấy	2
+L : mọi	1
+L : những	9
+L : vài	1
+LBKT : LBKT	6
+M : 0 , 6	1
+M : 1	1
+M : 1 , 2	1
+M : 10	3
+M : 11	1
+M : 18	1
+M : 1998	1
+M : 1999	1
+M : 2	1
+M : 200	1
+M : 2002	2
+M : 2003	1
+M : 2004	1
+M : 25	1
+M : 29	1
+M : 3	2
+M : 4 . 000	1
+M : 5	3
+M : 50	2
+M : 90 %	1
+M : Một	1
+M : ba	1
+M : bảy	1
+M : chín	1
+M : hai	2
+M : mỗi	1
+M : một	13
+M : năm	2
+M : sáu	2
+M : trăm	1
+N : *E*	1
+N : Bộ	2
+N : Chiều	1
+N : Công an	2
+N : Công ty	3
+N : Cục	1
+N : Khi	1
+N : Khoa học	1
+N : Kiến thức	1
+N : Người	1
+N : Người ta	1
+N : Năm	1
+N : Phân viện	1
+N : Phòng	1
+N : Tháng	2
+N : Thương mại	1
+N : Tiến sĩ	3
+N : Trung tâm	1
+N : Tên	1
+N : Viện	1
+N : Vùng	1
+N : Vấn đề	1
+N : Vết	1
+N : Xí nghiệp	1
+N : ban đầu	1
+N : bao	1
+N : biến thế	1
+N : bo mạch	1
+N : bà	1
+N : bài	2
+N : bách khoa	1
+N : báo	1
+N : báo chí	1
+N : báo cáo	1
+N : bên	4
+N : bóng	2
+N : bằng	1
+N : chung cư	1
+N : chuyên khoa	1
+N : chuyên môn	1
+N : chuyên ngành	1
+N : chuẩn	1
+N : chất	2
+N : chất cháy	1
+N : chỗ	1
+N : chủ	1
+N : chủ nhân	1
+N : chức	1
+N : chức danh	1
+N : chức năng	1
+N : chức tước	1
+N : chức vụ	1
+N : cuối	1
+N : cuộc	1
+N : công an	4
+N : công trình	3
+N : công tác	2
+N : công tắc	1
+N : công việc	3
+N : cơ quan	4
+N : doanh nghiệp	1
+N : dây	2
+N : dây dẫn	1
+N : dây điện	1
+N : dư luận	2
+N : dấu hiệu	3
+N : dấu vết	1
+N : dầu khí	1
+N : dịch vụ	1
+N : ga	1
+N : giám định viên	2
+N : giám đốc	1
+N : gì	1
+N : hiện nay	2
+N : hiện trường	2
+N : hiện tượng	1
+N : hiệu	1
+N : hàng	3
+N : hình	1
+N : hình sự	2
+N : hóa	1
+N : hóa học	1
+N : hướng	3
+N : hạt	1
+N : hỏa hoạn	2
+N : hồ sơ	1
+N : khi	15
+N : kho	7
+N : khoa học	2
+N : khoảng	1
+N : khu vực	6
+N : khách	2
+N : khói	1
+N : khả năng	1
+N : khối	1
+N : khổ chủ	2
+N : kinh nghiệm	1
+N : kiến thức	2
+N : kiến trúc	1
+N : kết luận	2
+N : kỹ sư	2
+N : lon	1
+N : lãnh đạo	1
+N : lính	1
+N : lần	1
+N : lớp	1
+N : máy	5
+N : mũi	1
+N : mắt	1
+N : một cách	1
+N : nay	2
+N : nghề	10
+N : nghệ	1
+N : ngoài	1
+N : nguyên nhân	7
+N : nguồn	1
+N : ngành	2
+N : ngày	3
+N : người	10
+N : người ta	2
+N : nhiệt độ	3
+N : nhà xưởng	3
+N : niềm	1
+N : năm	9
+N : nơi	5
+N : nước	1
+N : nội chính	1
+N : phân viện	1
+N : phép	1
+N : phía	4
+N : phòng	1
+N : phóng viên	1
+N : phương	2
+N : phản ứng	1
+N : phần	1
+N : qui luật	1
+N : quẹt	1
+N : quốc tế	1
+N : sách	1
+N : sắc phục	1
+N : sắt	1
+N : sự cố	3
+N : sự thật	3
+N : tay	2
+N : than	1
+N : tháng	2
+N : thí nghiệm	1
+N : thương mại	1
+N : thường phục	1
+N : thượng tá	2
+N : thảm họa	1
+N : thời gian	3
+N : thợ	1
+N : thực tế	1
+N : tiến sĩ	4
+N : toán học	1
+N : trang thiết bị	1
+N : trình độ	1
+N : tuổi	1
+N : tài liệu	1
+N : tình hình	1
+N : tình trạng	1
+N : tầm	1
+N : tầng	1
+N : tết	1
+N : tỉnh	1
+N : tốc độ	2
+N : tối ngày	1
+N : vòng	1
+N : vùng	2
+N : văn hóa	1
+N : vũ trường	1
+N : vấn đề	2
+N : vật chứng	1
+N : vật liệu	1
+N : vật lý	1
+N : vụ	6
+N : yêu cầu	1
+N : Ông	2
+N : áp lực	1
+N : ô	1
+N : ông	21
+N : Điều	1
+N : điều	1
+N : điều kiện	2
+N : điện	9
+N : điện tử	1
+N : đám	1
+N : đây	1
+N : đèn	2
+N : đầu tiên	2
+N : đề tài	1
+N : đồng	3
+N : đồng nghiệp	1
+N : ảnh	1
+NP : *E*	15
+Nb : táplô	1
+Nc : anh	2
+Nc : cọng	1
+Nc : hạt	1
+Nc : mảnh	2
+Nc : mẩu	1
+Nc : mớ	1
+Nc : sự	2
+Nc : tấm	1
+Nc : vụ	8
+Nc : Ông	3
+Nc : ông	9
+Nc : Đám	1
+Nc : đám	3
+Nc : đống	2
+Np : Blue	1
+Np : Bà Rịa	1
+Np : Công an	1
+Np : HCM	4
+Np : Hà Nội	3
+Np : Liên Xô	2
+Np : Long Tre	1
+Np : Nam	4
+Np : Nguyễn Ngọc Vinh	2
+Np : Ricoh FT	1
+Np : T	1
+Np : Tây Ninh	1
+Np : Vinh	14
+Np : Việt	1
+Np : Vũng Tàu	2
+Np : Xô	1
+Np : Đồng Nai	2
+Nu : m	3
+Nu : m2	1
+Nu : phút	2
+Ny : ITC	1
+Ny : T	1
+Ny : TL	1
+Ny : TN	2
+Ny : TP	4
+P : Mình	1
+P : ai	2
+P : chúng tôi	2
+P : cả	1
+P : gì	2
+P : họ	2
+P : kia	1
+P : mình	8
+P : người ta	1
+P : nào	1
+P : này	5
+P : nọ	1
+P : thế	1
+P : Đó	1
+P : đây	5
+P : đó	7
+R : Cũng	1
+R : Không	2
+R : chỉ	6
+R : còn	1
+R : có thể	1
+R : cũng	2
+R : cứ	3
+R : hay	1
+R : hàng	1
+R : hầu hết	1
+R : hết	2
+R : không	7
+R : không thể	1
+R : khỏi	2
+R : liền	1
+R : lên	3
+R : lại	4
+R : mới	3
+R : nữa	1
+R : quá	1
+R : quả	2
+R : ra	11
+R : rất	3
+R : rồi	1
+R : sang	1
+R : sẽ	2
+R : thật sự	1
+R : vào	1
+R : vẫn	3
+R : về	1
+R : đang	1
+R : đi	1
+R : đã	10
+R : được	4
+R : đều	1
+RBKT : RBKT	6
+S : phó	1
+S : trưởng	1
+T : Riêng	1
+T : chính	1
+T : ngay	2
+T : quả	1
+V : Bắt	1
+V : Có	1
+V : Kết luận	1
+V : Nhờ	1
+V : Phòng	1
+V : Thử	1
+V : biết	1
+V : bác sĩ	1
+V : báo cáo	2
+V : bất cẩn	1
+V : bị	6
+V : bỏ qua	1
+V : bố trí	1
+V : bộc bạch	1
+V : bới bới	1
+V : can ngăn	1
+V : chiêm nghiệm	1
+V : cho	4
+V : cháy	48
+V : chạm	1
+V : chạy	1
+V : chập	1
+V : chịu	1
+V : chụp	1
+V : chứa	3
+V : chữa	4
+V : coi	1
+V : cách	1
+V : còn	3
+V : có	14
+V : công tác	2
+V : cải tạo	1
+V : dùng	1
+V : dẫn	1
+V : dự báo	1
+V : giám định	9
+V : giúp	2
+V : giảng dạy	1
+V : giở chứng	1
+V : giữ	1
+V : gây	1
+V : góp	1
+V : gấp	1
+V : gắn	1
+V : gọi	1
+V : hiện diện	1
+V : hàn	2
+V : hình dung	1
+V : hưu	1
+V : hết	1
+V : học	5
+V : họp	1
+V : khiến	1
+V : khoanh	1
+V : khám  nghiệm	1
+V : khám nghiệm	4
+V : kẻ	1
+V : kế tục	1
+V : kết luận	3
+V : kể	1
+V : lan	2
+V : liên doanh	1
+V : lo	1
+V : lo ngại	1
+V : loay hoay	1
+V : là	12
+V : làm	5
+V : làm việc	3
+V : lưu	1
+V : lắp đặt	1
+V : lớn	1
+V : lụt	1
+V : mang	3
+V : mong đợi	1
+V : mất	1
+V : mặc	2
+V : mời	1
+V : nghi vấn	1
+V : nghiên cứu	1
+V : nghĩ	1
+V : ngờ	1
+V : ngửi	1
+V : nhìn	2
+V : nhận thức	1
+V : nhặt	1
+V : nhớ	1
+V : nói	6
+V : nóng chảy	1
+V : nằm	1
+V : nể	1
+V : nổ	12
+V : phòng	2
+V : phải	6
+V : phấn khởi	1
+V : qua	1
+V : quan tâm	1
+V : quen	2
+V : quyết	2
+V : ra	1
+V : rút	1
+V : sang	1
+V : sinh	2
+V : sống chết	2
+V : sờ	1
+V : tham gia	2
+V : tham quan	2
+V : thành	1
+V : thấy	5
+V : tiếp	1
+V : tiễn	1
+V : tra hỏi	1
+V : treo	1
+V : truyền	1
+V : trở lại	1
+V : trở nên	1
+V : tách	1
+V : tìm	3
+V : tính toán	2
+V : tăng	1
+V : tự tin	1
+V : viết	1
+V : vào	1
+V : văng	1
+V : về	2
+V : vỡ	2
+V : vững tin	1
+V : xong	1
+V : xua đuổi	1
+V : xuất phát	1
+V : xuống cấp	1
+V : xác định	5
+V : xây dựng	1
+V : xảy	5
+V : xứng	1
+V : yêu	2
+V : yêu cầu	1
+V : ám	1
+V : áp dụng	1
+V : áy náy	1
+V : đi	2
+V : điều	1
+V : điều tra	4
+V : đào đào	1
+V : đáng	1
+V : đánh giá	1
+V : đòi hỏi	1
+V : đưa	2
+V : được	8
+V : đạp	1
+V : đặt	3
+V : đến	1
+V : để	1
+V : đối đầu	1
+V : đốt	1
+V : đổ	2
+V : đứng	2
+Vb : photocopy	1
+Vy : PCCC	1
+X : nhất  là	1
+… : ...	2

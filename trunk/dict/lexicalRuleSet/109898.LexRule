@@ -1,0 +1,646 @@
+! : !	11
+" : "	35
+, : ,	63
+- : -	6
+. : .	81
+... : ...	13
+: : :	7
+A : Gần	1
+A : Hên	1
+A : Khó	1
+A : Nhiều	1
+A : Túng	1
+A : Xa xa	1
+A : băng băng	1
+A : bưng	1
+A : bất ngờ	1
+A : bằng không	1
+A : bệnh hoạn	1
+A : cay cực	1
+A : chung	2
+A : chuyên	1
+A : chân chất	1
+A : con	3
+A : cùng	2
+A : cũ	1
+A : cần cù	1
+A : cụt	1
+A : cụt lủn	1
+A : duy nhất	1
+A : dài	1
+A : giàu có	1
+A : gần	5
+A : hoang	1
+A : hơn	1
+A : khoảng	1
+A : khắp	1
+A : liên tục	1
+A : lạ kỳ	1
+A : lạ đời	1
+A : lủ khủ	1
+A : mãnh liệt	1
+A : mướt	1
+A : mới	4
+A : nghèo	8
+A : nghèo khó	1
+A : nguyên vẹn	1
+A : ngặt nghèo	1
+A : nhiều	3
+A : nhẹ tênh	1
+A : nhọc nhằn	2
+A : nhỏ	4
+A : nhỏ nhặt	1
+A : phải	1
+A : phẳng lì	1
+A : quan trọng	1
+A : riêng	1
+A : suốt	1
+A : sáng	1
+A : sáng choang	1
+A : thần kỳ	1
+A : trơ trơ	1
+A : tốt	2
+A : tự hào	1
+A : vinh dự	1
+A : vui mừng	1
+A : vững chãi	1
+A : vững mạnh	1
+A : xanh	2
+A : xanh ngắt	1
+A : y nguyên	1
+A : ít	1
+A : đau thương	1
+A : đầu tiên	1
+A : đầy	2
+A : đỏ	1
+A : đời thường	1
+A : ốm đau	1
+A : ổn định	1
+C : Còn	1
+C : Không những	1
+C : Như	2
+C : Nhưng	4
+C : Nên	1
+C : Rùi	1
+C : Vậy mà	1
+C : còn	1
+C : hay	1
+C : mà	3
+C : như	2
+C : nhưng	4
+C : nên	1
+C : thì	7
+C : và	11
+E : Sau	2
+E : Trong	1
+E : Trên	1
+E : Từ	2
+E : bằng	3
+E : bởi	1
+E : cho	7
+E : của	10
+E : dưới	2
+E : sau	2
+E : theo	1
+E : trong	6
+E : trên	3
+E : trước	1
+E : từ	6
+E : vì	1
+E : về	4
+E : với	2
+E : Đến	2
+E : đến	4
+E : để	1
+E : ở	5
+I : À	1
+L : Những	2
+L : chút	2
+L : các	4
+L : mấy	1
+L : những	6
+L : vô vàn	1
+LBKT : LBKT	1
+M : 10	1
+M : 12	1
+M : 15	1
+M : 176	1
+M : 1968	1
+M : 1990	1
+M : 1992	1
+M : 2,2	1
+M : 2.000	1
+M : 20	1
+M : 2007	1
+M : 223	1
+M : 23	1
+M : 30-4-1975	1
+M : 40	1
+M : 5	1
+M : 500	3
+M : 672	1
+M : 68	1
+M : 750	1
+M : 90	1
+M : 90 %	1
+M : Hai	1
+M : Mỗi	1
+M : Một	2
+M : ba	4
+M : hai	9
+M : mỗi	1
+M : một	13
+M : tỉ	2
+M : đôi	1
+N : Anh	1
+N : Anh hùng	1
+N : Bom	1
+N : Chiến tranh	1
+N : Chuyện	2
+N : Chỗ	1
+N : Chủ trương	1
+N : Con	1
+N : Cựu chiến binh	1
+N : Du học sinh	1
+N : Dân	2
+N : Dự án	1
+N : Giờ	1
+N : Hiện nay	1
+N : Hôm nay	1
+N : Hồi	1
+N : Khi	2
+N : Nghề	1
+N : Ngày	1
+N : Ngày xưa	1
+N : Nhà nước	1
+N : Ruộng	1
+N : Sau	1
+N : Trang	1
+N : Xã	2
+N : anh	8
+N : anh hùng	1
+N : ban đêm	1
+N : bom	4
+N : bom đạn	1
+N : bên	2
+N : bò	2
+N : bóng	1
+N : bạn	1
+N : bằng khen	1
+N : cam	1
+N : chiến tranh	1
+N : chuyện	9
+N : chính sách	2
+N : chăn nuôi	1
+N : chỗ	2
+N : chủ tịch	2
+N : con	5
+N : con gái	1
+N : con người	1
+N : con số	1
+N : cuốc	2
+N : cuộc sống	1
+N : cá	1
+N : cách	2
+N : cán bộ	1
+N : cánh	1
+N : cánh tay	3
+N : câu chuyện	1
+N : cây	2
+N : cô	1
+N : cô giáo	1
+N : công	1
+N : công an	1
+N : công nghiệp	1
+N : công ăn việc làm	1
+N : cùi tay	4
+N : cơ sở	1
+N : cạnh	1
+N : cầu nối	1
+N : của	1
+N : cựu chiến binh	2
+N : danh hiệu	2
+N : dân	10
+N : dây điện	1
+N : em	2
+N : gia đình	8
+N : gian	1
+N : giáo dục	1
+N : giọng	1
+N : giỏ	1
+N : giỗ chạp	1
+N : giờ	2
+N : gương mẫu	1
+N : heo	4
+N : huyện	1
+N : hình ảnh	1
+N : hạng	1
+N : học sinh	1
+N : hỏa hoạn	1
+N : hố	1
+N : hộ	4
+N : hội đoàn	1
+N : khi	2
+N : khoai	1
+N : khách	1
+N : kiến thức	1
+N : ký ức	1
+N : lao động	4
+N : liệt sĩ	2
+N : lá	3
+N : lão nông	1
+N : lòng	1
+N : lúa	2
+N : lúc	1
+N : lũ lụt	1
+N : lớp	1
+N : lời	1
+N : lời lãi	1
+N : ma túy	1
+N : máu	1
+N : máu xương	1
+N : mây	1
+N : mìn	3
+N : mít	1
+N : môi trường	1
+N : mùa	1
+N : mạch máu	1
+N : mất mát	1
+N : mắt	4
+N : mặt đất	1
+N : mẹ	1
+N : mồ hôi	2
+N : nghề	2
+N : ngành	1
+N : ngày xưa	1
+N : ngói	2
+N : người	7
+N : người người	1
+N : ngả	1
+N : nhau	2
+N : nhà	10
+N : nhà tình nghĩa	1
+N : nhà văn hóa	1
+N : nhân dân	4
+N : nông dân	1
+N : năm	9
+N : nơi	2
+N : nước mắt	1
+N : nước ngoài	4
+N : nếp	1
+N : nền	1
+N : nội đồng	1
+N : phép	1
+N : phía	1
+N : phần	1
+N : quá khứ	1
+N : quê hương	3
+N : ruộng	1
+N : rổ	1
+N : sau	1
+N : súng	1
+N : sức sống	1
+N : tang ma	1
+N : tay	1
+N : thành quả	1
+N : thành viên	1
+N : thân thể	1
+N : thép	3
+N : thôn	1
+N : thúng	1
+N : thương binh	4
+N : thước	1
+N : thịt	1
+N : thời	1
+N : thời kỳ	2
+N : thủy lợi	1
+N : tiêu chí	1
+N : tiền	3
+N : trang	1
+N : trang trại	1
+N : tre	3
+N : truyền thống	1
+N : trà	1
+N : trái	2
+N : trúc	1
+N : trước	1
+N : trước nhất	1
+N : trường	1
+N : trộm cắp	1
+N : trụ sở	1
+N : tình thương	1
+N : tập thể	2
+N : tế bào	1
+N : tệ nạn	1
+N : tổ	5
+N : tổ trưởng	1
+N : việc	1
+N : việc làm	2
+N : vách	2
+N : vùng đất	1
+N : văn hóa	2
+N : vườn	2
+N : vết thương	1
+N : vốn	8
+N : vụ	2
+N : xe máy	2
+N : xuân	1
+N : xã	14
+N : xưa	1
+N : xẻng	1
+N : y	1
+N : Đường đất	1
+N : Đất	2
+N : điều kiện	1
+N : điểm	1
+N : điện	1
+N : đường	8
+N : đại học	1
+N : đạn	1
+N : đảng viên	2
+N : đất	11
+N : đầu tàu	1
+N : đậu	1
+N : địa bàn	2
+N : đối tượng	1
+N : đồn bót	2
+N : đồng	2
+N : đồng bào	1
+N : đổi mới	1
+N : đời	1
+N : đợt	1
+N : ấm	1
+NP : *E	1
+NP : *E*	18
+NP : *T*	1
+Nb : bêtông	2
+Nc : Anh	3
+Nc : Mảnh	1
+Nc : Người	1
+Nc : anh	8
+Nc : bầy	1
+Nc : chú	1
+Nc : con	5
+Nc : cái	3
+Nc : cây	1
+Nc : căn	2
+Nc : mảnh	3
+Nc : ngôi	4
+Nc : người	6
+Nc : trái	1
+Nc : đứa	2
+Np : Bùi Văn Luyến	1
+Np : Bộ	1
+Np : Công an	1
+Np : Củ Chi	2
+Np : Dương Văn Nam	1
+Np : Hình ảnh	1
+Np : Hội	1
+Np : Luyến	1
+Np : Nhật	1
+Np : Phan Văn Đu	2
+Np : Phạm Văn Thanh	1
+Np : Thanh	4
+Np : Thái Mỹ	6
+Np : Đu	4
+Nu : ha	1
+Nu : đồng	2
+Ny : %	2
+Ny : THCS	2
+Ny : THPT	1
+Ny : TP	1
+Ny : TP.	1
+Ny : TP.  HCM	1
+Ny : UBND	1
+P : Ai	4
+P : Ai nấy	1
+P : Kia	1
+P : Mình	1
+P : Tôi	3
+P : Tất cả	2
+P : ai	1
+P : bây giờ	1
+P : cả	1
+P : họ	2
+P : mình	2
+P : nay	3
+P : nào	1
+P : này	2
+P : nó	1
+P : tui	2
+P : tôi	1
+P : từng	2
+P : vậy	1
+P : Đó	1
+P : đâu	1
+P : đây	2
+P : đó	5
+P : ấy	5
+R : Chỉ	1
+R : Coi bộ	1
+R : Cũng	2
+R : Cứ	1
+R : Không	1
+R : Lại	1
+R : chỉ	5
+R : chợt	1
+R : còn	9
+R : cũng	11
+R : cứ	1
+R : dần	1
+R : hết	2
+R : không	12
+R : lên	1
+R : lại	8
+R : lắm	1
+R : mới	1
+R : nhất	4
+R : nhất quyết	1
+R : nữa	2
+R : quá	2
+R : ra	2
+R : rồi	2
+R : sẽ	1
+R : từng	1
+R : vào	3
+R : vẫn	1
+R : vừa	1
+R : đang	2
+R : đi	1
+R : đã	7
+R : đều	3
+RBKT : RBKT	1
+S : liên	1
+S : phó	1
+S : trưởng	1
+T : Riêng	1
+T : lắm	1
+T : nè	1
+T : thiệt	1
+V : *E*	3
+V : Buông	1
+V : Có	2
+V : Dự kiến	1
+V : Gặp	1
+V : Hết	1
+V : Hỏi	1
+V : Làm	1
+V : Mất	1
+V : Nhìn	1
+V : Qua	1
+V : Tháo gỡ	1
+V : Thấp thoáng	1
+V : Trở về	1
+V : biến	1
+V : buôn lậu	3
+V : bày	1
+V : bán	1
+V : bảo lãnh	1
+V : bắt đầu	1
+V : bị	4
+V : cho	6
+V : chăn nuôi	1
+V : chạm	1
+V : chạy	1
+V : chảy	1
+V : chắt chiu	1
+V : chịu thua	1
+V : cuốc	1
+V : còn	4
+V : có	13
+V : có mặt	1
+V : công bố	2
+V : cải tạo	1
+V : cầm	2
+V : cố	1
+V : cụt	1
+V : dành dụm	1
+V : dùng	1
+V : dạy	1
+V : dựng	1
+V : giúp	1
+V : giăng	1
+V : giới thiệu	1
+V : giữ	1
+V : gói	1
+V : góp	3
+V : gầy dựng	1
+V : gửi	2
+V : hiến	1
+V : hiểu	3
+V : hoàn thành	1
+V : hưởng ứng	1
+V : học	4
+V : hồi sinh	1
+V : khai hoang	1
+V : khoe	1
+V : kiêm	1
+V : lao động	2
+V : là	13
+V : làm	4
+V : làm gương	1
+V : làm việc	5
+V : lái	2
+V : lên	2
+V : lấy	2
+V : lập	1
+V : lặn lội	1
+V : lớn	1
+V : mua đi bán lại	1
+V : muốn	3
+V : mượn	4
+V : mặc	1
+V : mọc	1
+V : mời	1
+V : mở	1
+V : mở mang	1
+V : nghe	1
+V : nghĩ	1
+V : ngồi	1
+V : ngỡ	1
+V : nhận	2
+V : nhắc	3
+V : nhớ	1
+V : nhờ	2
+V : nuôi	4
+V : nói	1
+V : nổ	1
+V : phơi	1
+V : phải	3
+V : phổ cập	2
+V : phụ trách	1
+V : qua	3
+V : quen	1
+V : quyết tâm	1
+V : quên	1
+V : quăng	1
+V : ra	2
+V : ra đời	1
+V : ráng	1
+V : rủ	1
+V : sang	1
+V : sống	1
+V : thi đua	1
+V : thoi thóp	1
+V : thoát	1
+V : thu hẹp	1
+V : thành	1
+V : tháo gỡ	2
+V : thông báo	1
+V : thấm	2
+V : thấy	1
+V : thắp	1
+V : thức	1
+V : tin	1
+V : tiếp	1
+V : tiếp cận	1
+V : tiếp tục	2
+V : trả	1
+V : trải	1
+V : trị giá	2
+V : trồng	5
+V : trộm cắp	1
+V : trở mình	1
+V : trở thành	1
+V : trở về	3
+V : tình nguyện	1
+V : tính	1
+V : tóm tắt	1
+V : tạo	4
+V : tập huấn	2
+V : tặng	2
+V : tỉa	1
+V : tổ chức	1
+V : tổng tấn công	1
+V : vay	3
+V : vào	1
+V : vận động	6
+V : về	2
+V : xuất khẩu	1
+V : xuống	1
+V : xây	3
+V : xây dựng	1
+V : xông	1
+V : ào	1
+V : ôn	1
+V : ăn	2
+V : ăn học	1
+V : đan	1
+V : đan lát	1
+V : đeo	1
+V : đi	12
+V : đong	1
+V : đón nhận	1
+V : được	3
+V : đắp	2
+V : đến	1
+V : để	3
+V : đổ	1
+V : đổi mới	1
+V : đội	2
+V : đủ	1
+V : đứng	1
+X : hầu hết	1
+X : thay da đổi thịt	1
+X : tình làng nghĩa xóm	1
+X : xóa đói giảm nghèo	1

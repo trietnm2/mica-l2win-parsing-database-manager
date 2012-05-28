@@ -1,0 +1,663 @@
+! : !	1
+" : "	6
+, : ,	119
+- : -	14
+. : !	2
+. : .	89
+. : ?	4
+... : ...	17
+: : :	20
+: : ;	2
+A : an toàn	1
+A : bí mật	2
+A : bất tiện	1
+A : chính thức	1
+A : chằm chằm	1
+A : chặt	1
+A : chặt chẽ	1
+A : cuối cùng	2
+A : cùng cực	1
+A : cạn	1
+A : cảm động	1
+A : cụ thể	1
+A : dài	1
+A : dày	1
+A : dọc	2
+A : gian nan	1
+A : già	1
+A : gần	4
+A : hoang	2
+A : hoàn chỉnh	1
+A : hoàn toàn	1
+A : hơn	1
+A : khó khăn	1
+A : khẩn thiết	1
+A : khắp	1
+A : kín	1
+A : kỹ	1
+A : liên hoàn	1
+A : lý tưởng	1
+A : lạ lùng	1
+A : lớn	5
+A : lớn nhỏ	1
+A : may	2
+A : muộn	1
+A : mênh mông	1
+A : mạo hiểm	1
+A : mộc	1
+A : ngang	1
+A : nguyên	1
+A : nhiều	5
+A : nhất	1
+A : nhỏ	4
+A : phức tạp	1
+A : quanh quẩn	1
+A : sau	1
+A : suốt	5
+A : sâu	3
+A : sôi nổi	1
+A : thong thả	1
+A : trót lọt	1
+A : trước	2
+A : trường	1
+A : trực tiếp	2
+A : tuyệt mật	2
+A : tươi	1
+A : tạm	2
+A : vô danh	1
+A : vội	1
+A : xa	1
+A : ác liệt	1
+A : âm thầm	1
+A : đông	1
+A : đầu tiên	2
+A : đậm	1
+A : đặc biệt	1
+A : ổn	1
+C : Còn	1
+C : Nhưng	5
+C : Rồi	1
+C : Song	1
+C : Thế là	1
+C : Tức là	1
+C : Và	2
+C : Vậy là	4
+C : cùng	1
+C : hay	1
+C : hoặc	1
+C : là	5
+C : mà	2
+C : như	1
+C : nhưng	6
+C : rồi	3
+C : thì	13
+C : và	11
+C : vì thế	1
+C : vậy	1
+E : Sau	1
+E : Trong	1
+E : cho	3
+E : của	8
+E : do	5
+E : lên	1
+E : ngoài	1
+E : ra	1
+E : sang	1
+E : sau	1
+E : theo	2
+E : trong	3
+E : trên	3
+E : trước	2
+E : tại	1
+E : tận	2
+E : tới	3
+E : tức	2
+E : từ	7
+E : ven	2
+E : vào	3
+E : về	4
+E : với	3
+E : xuống	4
+E : Đến	1
+E : đến	3
+E : để	2
+E : Ở	3
+E : ở	10
+L : Các	3
+L : Những	2
+L : các	10
+L : mấy	3
+L : mấy mươi	1
+L : mỗi	1
+L : một số	3
+L : những	5
+L : ít nhiều	1
+LBKT : LBKT	1
+M : 1	1
+M : 10	3
+M : 125	1
+M : 1941	1
+M : 1957	1
+M : 1958	1
+M : 1961	1
+M : 1962	2
+M : 1963	1
+M : 2	1
+M : 24	1
+M : 29	1
+M : 3	1
+M : 3,8	1
+M : 30	1
+M : 4	1
+M : 5	1
+M : 50	2
+M : 6	2
+M : 60	1
+M : 7	3
+M : 9	1
+M : Một	2
+M : ba	1
+M : bốn	1
+M : hai	6
+M : một	23
+M : năm	1
+M : sáu	1
+M : trăm	1
+N : Chuyện	1
+N : Câu chuyện	2
+N : Khu	1
+N : Khu ủy	1
+N : Kỳ	3
+N : Nhân dân	1
+N : Năm	1
+N : Quân đội	1
+N : Thuyền	2
+N : Tin	1
+N : Tiếng	1
+N : Trung ương	4
+N : Tỉnh ủy	1
+N : Vùng biển	1
+N : anh	5
+N : ban	2
+N : biển	9
+N : biệt kích	1
+N : buồm	1
+N : bà con	1
+N : bài	1
+N : bão	1
+N : bí danh	1
+N : bí thư	1
+N : bạn	2
+N : bến	3
+N : bến bãi	1
+N : bộ phận	1
+N : bờ	7
+N : bức điện	1
+N : chi bộ	1
+N : chiến khu	1
+N : chiều	1
+N : chuyến	4
+N : chính quyền	1
+N : chính trị viên	1
+N : chỉ thị	1
+N : chỗ	2
+N : con người	1
+N : cuối	1
+N : cá	1
+N : cách mạng	1
+N : câu chuyện	1
+N : công an	1
+N : công tác	1
+N : căn cứ	2
+N : căn cứ địa	1
+N : cơ sở	1
+N : cơm	1
+N : cột	1
+N : cửa	6
+N : dân	2
+N : dân quân	1
+N : ghe	2
+N : huyện	2
+N : hôm	1
+N : hướng	2
+N : hồi	2
+N : khi	3
+N : kho	3
+N : khu	1
+N : khu ủy	3
+N : khơi	3
+N : kết luận	1
+N : kỳ	1
+N : lãi	1
+N : lính	2
+N : lúc	8
+N : lạch	3
+N : lần	3
+N : lệnh	1
+N : lớp	1
+N : lời	1
+N : miền	3
+N : miệt	4
+N : máy	2
+N : mũi	3
+N : mạng lưới	1
+N : mặt	1
+N : mộ	2
+N : nay	2
+N : ngoài	1
+N : ngày	8
+N : người	14
+N : ngụy	1
+N : nhau	2
+N : nhiệm vụ	3
+N : nhà	1
+N : nhà văn	1
+N : năm	6
+N : nơi	3
+N : nước	1
+N : nước cường	2
+N : nước ròng	1
+N : phong trào	1
+N : phía	1
+N : phó	1
+N : phương án	1
+N : quê	1
+N : quần đảo	1
+N : quặng	1
+N : rạch	1
+N : rừng	2
+N : sau	2
+N : sau này	1
+N : sáng	1
+N : súng đạn	3
+N : sổ tay	1
+N : thanh niên	1
+N : thuyền	10
+N : tháng	2
+N : thời gian	1
+N : thứ	1
+N : tiểu đoàn	1
+N : tiểu đội	1
+N : trang	2
+N : trong	1
+N : trung ương	3
+N : truyền thuyết	1
+N : trà	2
+N : trách nhiệm	1
+N : trưởng	1
+N : trạm	2
+N : trận	1
+N : trứng nhàu	1
+N : tài liệu	1
+N : tàu	8
+N : tên	4
+N : tình hình	4
+N : tư liệu	1
+N : tỉnh	4
+N : ven	1
+N : việc	1
+N : vùng	4
+N : vũ khí	3
+N : vẻ	1
+N : vịnh	1
+N : vỏ	1
+N : ông	2
+N : Đường mòn	1
+N : Đảo	1
+N : Đầu	1
+N : Địch	1
+N : Đồng chí	2
+N : đêm	2
+N : đêm đêm	1
+N : đòn	1
+N : đông	1
+N : đước	1
+N : đường	4
+N : đại đội	1
+N : đảo	13
+N : đất	1
+N : đất liền	1
+N : địch	4
+N : đồi mồi	3
+N : đồng chí	14
+N : độ	1
+N : ấn tượng	1
+N : ụ	1
+NP : *E*	45
+NP : *T*	3
+Nb : Arona	1
+Nc : Anh	6
+Nc : Chị	1
+Nc : Con	1
+Nc : anh	26
+Nc : chiếc	4
+Nc : con	3
+Nc : cuốn	1
+Nc : cuộc	1
+Nc : người	2
+Nc : nấm	2
+Nc : vỉa	1
+Nc : Ông	1
+Nc : ông	3
+Np : Ba	6
+Np : Ba  Bường	1
+Np : Ba Duẩn	4
+Np : Ba Hòa	1
+Np : Ba Hương	1
+Np : Bà Rịa	3
+Np : Bông Văn Dĩa	6
+Np : Bạc Liêu	4
+Np : Bắc	1
+Np : Bến Tre	1
+Np : Bồ Đề	1
+Np : Cà Mau	7
+Np : Côn Đảo	3
+Np : Cần Thơ	1
+Np : Dĩa	1
+Np : Hai	1
+Np : Hai Địa	20
+Np : Huynh	1
+Np : Hà Tiên	3
+Np : Hòn Chuối	1
+Np : Hòn Khoai	2
+Np : Hương Cảng	1
+Np : Hải Nam	1
+Np : Hải quân	1
+Np : Hắc Hổ	1
+Np : Hố Bỏ Gùi	1
+Np : Khu	1
+Np : Khu ủy	1
+Np : Kinh Năm	3
+Np : Kiên Giang	1
+Np : Kiên Hải	1
+Np : Kết	1
+Np : Lê Duẩn	2
+Np : Lê Hà	1
+Np : Lợi	1
+Np : Lữ đoàn	1
+Np : Mười Thơ	1
+Np : Nam	5
+Np : Nha Trang	1
+Np : Năm Lặc	2
+Np : Năm Đông	1
+Np : Phan Ngọc Hiển	1
+Np : Quảng Bình	2
+Np : Rạch Giá	6
+Np : Rạch Gốc	11
+Np : Sóc Trăng	1
+Np : Thái Lan	1
+Np : Thắng	1
+Np : Thổ Chu	4
+Np : Tranh	2
+Np : Trà Vinh	2
+Np : Trường Sa	3
+Np : Trường Sơn	1
+Np : Tư Mau	4
+Np : Tư Thắng	1
+Np : U Minh	1
+Np : Việt	1
+Np : Vàm Cái Su	1
+Np : Vàm Lũng	1
+Np : Vũ Đình Liệu	2
+Np : sao Bắc Đẩu	1
+Np : Đoàn	1
+Np : Đà Nẵng	2
+Np : Đông	3
+Np : Đấu	1
+Np : Đặng Văn Thanh	2
+Nu : giờ	3
+Nu : km	1
+Nu : m	1
+Nu : tấn	1
+Ny : VN	1
+P : Bấy giờ	2
+P : Chúng tôi	5
+P : Họ	2
+P : Tôi	5
+P : bây giờ	1
+P : bấy giờ	1
+P : chúng	1
+P : chúng tôi	8
+P : cả	5
+P : gì	1
+P : này	6
+P : ta	4
+P : thế	1
+P : tôi	12
+P : vậy	1
+P : Đây	1
+P : Đó	2
+P : đâu	3
+P : đây	5
+P : đó	4
+P : đấy	2
+P : ấy	2
+R : Chưa	2
+R : Cũng	1
+R : Lại	3
+R : Mãi	1
+R : Mới	1
+R : Vừa	1
+R : cho	1
+R : chưa	4
+R : chỉ	2
+R : chợt	1
+R : càng	1
+R : còn	4
+R : có thể	7
+R : cũng	3
+R : cứ	1
+R : hơn	3
+R : hầu như	1
+R : hết sức	1
+R : khá	1
+R : không	11
+R : không thể	1
+R : luôn	1
+R : lên	3
+R : lại	7
+R : lấy	1
+R : một mực	1
+R : mới	2
+R : ngay	1
+R : nhất định	1
+R : quá	3
+R : ra	7
+R : rất	2
+R : rồi	2
+R : thường	2
+R : thể	1
+R : từng	1
+R : vẫn	5
+R : về	11
+R : vừa	1
+R : Đang	1
+R : Đã	1
+R : đang	4
+R : đi	1
+R : đã	10
+R : được	6
+R : đến	2
+R : đều	1
+RBKT : RBKT	1
+T : Chính	1
+T : Riêng	2
+T : chính	1
+T : hề	1
+T : lắm	2
+T : ngay	1
+T : nữa	1
+T : thôi	2
+V : *E*	1
+V : Bị	1
+V : Chèo	1
+V : Còn	2
+V : Có	1
+V : Cần	2
+V : Cập	1
+V : Khai thông	1
+V : Lần	1
+V : Lần mò	1
+V : Lộ	1
+V : Nghe	1
+V : Ngồi	1
+V : Nắm	1
+V : Phải	2
+V : Tìm	2
+V : Về	1
+V : Xác minh	1
+V : biết	7
+V : báo cáo	8
+V : bảo	3
+V : bảo vệ	2
+V : bảo đảm	1
+V : bắt	5
+V : bắt đầu	1
+V : bị	7
+V : bỏ	2
+V : chiến đấu	1
+V : cho	6
+V : chuyển	3
+V : chèo	2
+V : chạy	1
+V : chỉ huy	1
+V : chỉ thị	2
+V : chịu	3
+V : chọn lọc	1
+V : chọn lựa	1
+V : chờ	1
+V : chở	3
+V : chứa	1
+V : cách	1
+V : câu	1
+V : còn	2
+V : có	10
+V : công tác	1
+V : cướp	1
+V : cần	1
+V : cập	1
+V : cử	4
+V : dò	1
+V : dùng	3
+V : dạt vô	1
+V : dẫn	1
+V : dọa	1
+V : dừng	1
+V : ghi	1
+V : ghi chép	3
+V : ghé	1
+V : giam	3
+V : giao	2
+V : giải	1
+V : giấu	1
+V : giật mình	1
+V : giục giã	1
+V : giữ	1
+V : gặp	8
+V : gọi	3
+V : hoạt động	1
+V : hình thành	1
+V : hỏi thăm	2
+V : im lặng	1
+V : khai báo	1
+V : khai thông	1
+V : khảo sát	4
+V : khởi nghĩa	1
+V : kéo	2
+V : kể	1
+V : liên lạc	2
+V : liên quan	1
+V : là	13
+V : làm	6
+V : làm việc	1
+V : lân la	1
+V : lưu trữ	1
+V : lấy	2
+V : lần	2
+V : lập	3
+V : lộ	2
+V : lỡ	1
+V : mang	1
+V : mò	1
+V : mất	1
+V : nghiên cứu	1
+V : nghiêng mình	1
+V : nhào nặn	1
+V : nhìn	1
+V : nhòm ngó	1
+V : nhận định	1
+V : nhớ	1
+V : nói	1
+V : nương náu	1
+V : nấp	1
+V : nổ	1
+V : pha	1
+V : pha chế	1
+V : phơi	1
+V : phải	3
+V : phụ trách	3
+V : quanh quẩn	1
+V : quay	2
+V : quyết định	2
+V : ra	17
+V : rượt	1
+V : sống	1
+V : tha	1
+V : tham gia	1
+V : thay	1
+V : thoát	1
+V : thành	2
+V : thành lập	1
+V : thấy	2
+V : tin cậy	2
+V : tiết lộ	1
+V : trung chuyển	2
+V : trích	1
+V : trôi dạt	2
+V : trở	1
+V : tìm	5
+V : tìm bắt	1
+V : tính chuyện	1
+V : tính đi tính lại	1
+V : tù	2
+V : tưởng	1
+V : tổ chức	2
+V : tới	2
+V : tự vệ	1
+V : tự xưng	1
+V : uống	2
+V : vào	3
+V : vượt	1
+V : về	3
+V : xong	1
+V : xuyên	1
+V : xuôi	1
+V : xuất phát	2
+V : xuống	1
+V : xông	1
+V : xẻ	1
+V : xới	1
+V : yêu cầu	1
+V : ôm chầm	1
+V : ăn	1
+V : Đi	4
+V : Đành	1
+V : đi	16
+V : đi lại	2
+V : đo	1
+V : đuổi	1
+V : đào	1
+V : đánh	2
+V : đánh cá	1
+V : đánh phá	1
+V : đòi	1
+V : đón	1
+V : đóng	1
+V : đưa	7
+V : được	15
+V : đến	5
+V : đề phòng	1
+V : đọc	1
+V : đốn	1
+V : ở	2
+… : ...	1

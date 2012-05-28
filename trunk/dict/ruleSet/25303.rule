@@ -1,0 +1,53 @@
+AP : A	4
+AP : R A	1
+NP : A N N AP PP VP	1
+NP : L N A	2
+NP : L N N AP VP	1
+NP : L N VP	1
+NP : L N VP PP	1
+NP : M N	2
+NP : M Ny Np , NP , NP , NP	1
+NP : N	9
+NP : N AP	2
+NP : N M - M	2
+NP : N N	1
+NP : N N Np LBKT VP RBKT SBAR	1
+NP : N NP NP	1
+NP : N Np M PP	1
+NP : N Np NP	1
+NP : N Ny NP	1
+NP : N P	1
+NP : N PP	1
+NP : N S	1
+NP : N S NP	1
+NP : N VP	3
+NP : Nc Np , NP	1
+NP : Nc Np - NP	1
+NP : Np	3
+NP : Ny . M	1
+NP : Ny . Np	2
+NP : P	1
+PP : E NP	6
+RP : R	1
+S : NP , NP - VP .	1
+S : NP , VP .	1
+S : NP NP VP .	1
+S : NP VP	7
+S : NP VP .	1
+S : RP NP VP .	1
+S : SBAR C S	1
+S : VP .	1
+SBAR : E S	1
+SBAR : S	6
+VP : R R V VP VP	1
+VP : R V NP	2
+VP : R V NP AP	1
+VP : R V SBAR	1
+VP : V	3
+VP : V : NP , NP , NP C NP	1
+VP : V NP	9
+VP : V NP PP	1
+VP : V SBAR	2
+VP : V V PP	1
+VP : V V SBAR	2
+VP : VP VP	1

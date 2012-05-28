@@ -1,0 +1,576 @@
+! : !	1
+" : "	15
+, : ,	96
+- : -	15
+- : –	5
+. : .	65
+... : ...	8
+/ : /	4
+: : :	5
+A : Căng thẳng	1
+A : Nhiều	1
+A : bất hợp pháp	1
+A : bất ngờ	1
+A : chính thức	1
+A : chật hẹp	1
+A : cũ	3
+A : dài	1
+A : gian khổ	1
+A : gian nan	2
+A : hợp pháp	1
+A : khác	5
+A : khắc khoải	1
+A : khốn cùng	1
+A : khốn khổ	1
+A : khủng khiếp	1
+A : kiệt sức	2
+A : liên tục	2
+A : lâu	1
+A : lạ	3
+A : may	1
+A : may mắn	2
+A : mệt mỏi	1
+A : ngơ ngác	1
+A : nhiều	1
+A : nhỏ	1
+A : nặng	1
+A : riêng	1
+A : rõ	1
+A : rủi ro	1
+A : sai	1
+A : sau	1
+A : sợ hãi	1
+A : thâm quầng	1
+A : thật	1
+A : thẳng	1
+A : trước	1
+A : trực tiếp	2
+A : tù tội	2
+A : tùy thân	2
+A : tạm	2
+A : tự do	1
+A : tự túc	1
+A : xa	1
+A : xanh mét	1
+A : xanh xao	1
+A : ít	1
+A : ít ỏi	1
+A : đói	1
+A : đói khát	3
+A : đủ	1
+A : ảm đạm	1
+C : Còn	1
+C : Dẫu sao	1
+C : Nhưng	1
+C : Và	1
+C : bởi	1
+C : cùng	3
+C : hoặc	1
+C : là	2
+C : như	4
+C : nhưng	1
+C : rằng	2
+C : rồi	1
+C : song	1
+C : thì	2
+C : và	14
+C : với	1
+E : Sau	2
+E : Từ	2
+E : Vì	1
+E : bởi	1
+E : cho	4
+E : của	6
+E : qua	1
+E : sau	4
+E : theo	1
+E : trong	12
+E : trên	5
+E : trước	3
+E : tại	3
+E : từ	5
+E : vào	2
+E : vì	5
+E : về	2
+E : với	3
+E : đến	5
+E : để	5
+E : ở	5
+L : Các	1
+L : các	5
+L : mọi	1
+L : những	14
+L : phần	1
+L : tất cả	1
+LBKT : LBKT	7
+M : 0134520	1
+M : 1	4
+M : 10	2
+M : 100. 000	1
+M : 11	1
+M : 12	3
+M : 15	1
+M : 150	1
+M : 17	5
+M : 19	1
+M : 2	1
+M : 2003	3
+M : 2004	4
+M : 206	3
+M : 21	2
+M : 23	1
+M : 25	3
+M : 28	1
+M : 3	3
+M : 30	1
+M : 39	1
+M : 61	2
+M : 7	1
+M : 8	1
+M : 864	1
+M : 87	2
+M : Nhất	1
+M : Tám	1
+M : ba	3
+M : bốn	2
+M : chục	1
+M : hai	6
+M : mỗi	3
+M : một	10
+M : một ít	1
+M : nhất	1
+M : sáu	3
+M : triệu	2
+M : tám	4
+M : Đôi	1
+N : Ban	1
+N : Chiều	1
+N : Chủ	1
+N : Cuộc sống	3
+N : Công ty	4
+N : Giám đốc	1
+N : Lao động	1
+N : Lỗi	1
+N : Ngày	3
+N : Nhật ký	1
+N : Nước mắt	1
+N : Sự việc	1
+N : Thương mại	1
+N : Trại	1
+N : Tết Nguyên đán	1
+N : anh em	1
+N : ban	1
+N : bia	1
+N : bánh mì	1
+N : bên	2
+N : bóng dáng	1
+N : bạn bè	1
+N : bệnh tật	1
+N : bệnh viện	1
+N : bộ	1
+N : cao su	1
+N : chi nhánh	1
+N : chiều	2
+N : chuyên gia	1
+N : chuyến	1
+N : chân	1
+N : chúng tôi	1
+N : chủ	4
+N : chữ ký	1
+N : con người	2
+N : cua	1
+N : cuộc	1
+N : cá	1
+N : công trình	1
+N : công trường	4
+N : công ty	11
+N : công việc	1
+N : căngtin	1
+N : cơm	2
+N : cạnh	1
+N : cảnh sát	3
+N : cửa	1
+N : cửa khẩu	1
+N : danh sách	1
+N : dân	1
+N : giày đinh	1
+N : giám đốc	1
+N : giấy	2
+N : giấy thông hành	1
+N : giấy tờ	2
+N : giờ	1
+N : gánh	1
+N : gói	1
+N : hiện	1
+N : hàng	1
+N : hàng rào	1
+N : hành lang	1
+N : hành trình	3
+N : hôm	2
+N : hộ chiếu	2
+N : khi	3
+N : khoảng	1
+N : khu vực	1
+N : khuôn mặt	1
+N : khách sạn	2
+N : kinh nghiệm	1
+N : lao động	8
+N : lán trại	1
+N : lý do	1
+N : lương bổng	3
+N : lần	1
+N : lầu	1
+N : lời	1
+N : máu	1
+N : mây	1
+N : mì	1
+N : mình	2
+N : món	1
+N : môi giới	1
+N : mảng	1
+N : mắt	1
+N : mặt	2
+N : ngoài	1
+N : ngày	22
+N : ngày đêm	2
+N : người	28
+N : nhau	4
+N : nhà giam	1
+N : nhà ở	2
+N : nhóm	1
+N : nhật	1
+N : nhật ký	4
+N : nét	1
+N : nơi	6
+N : nước	4
+N : nước da	1
+N : nền	1
+N : nỗi	1
+N : nợ	1
+N : phiên	1
+N : phí	1
+N : phía	1
+N : phần	1
+N : quyền	1
+N : rau	1
+N : roi	1
+N : rừng	4
+N : suất	1
+N : suối	1
+N : sáng	1
+N : số	6
+N : số phận	1
+N : sức khỏe	2
+N : sự cố	1
+N : sự thật	1
+N : sự việc	1
+N : tháng	1
+N : thân	1
+N : thương lái	1
+N : thứ	2
+N : tiếng	1
+N : tiền	8
+N : tiền bạc	2
+N : trang	2
+N : trách nhiệm	1
+N : trưa	1
+N : tác giả	1
+N : tác phẩm	1
+N : tâm sự	2
+N : tù	4
+N : tư trang	1
+N : tết	2
+N : tỉnh	1
+N : việc	3
+N : việc làm	2
+N : viện phí	1
+N : vòng	1
+N : vỉa hè	1
+N : xe	1
+N : xe khách	1
+N : xóm	1
+N : xứ	4
+N : y tá	1
+N : ác mộng	1
+N : ít lâu	1
+N : ông	1
+N : ông bà	1
+N : Điều	1
+N : điều kiện	1
+N : đu đủ	1
+N : đêm	1
+N : đơn	2
+N : đại diện	3
+N : đất	1
+N : địa chỉ	1
+N : đồ dùng	1
+N : đời	1
+NP : *E*	13
+NP : *T*	3
+Nb : côppha	1
+Nc : con	1
+Nc : cuốn	1
+Nc : cuộc	3
+Nc : cây	1
+Nc : cơn	1
+Nc : dòng	1
+Nc : giọt	1
+Nc : khoản	1
+Nc : khu	1
+Nc : lon	1
+Nc : lát	1
+Nc : người	6
+Nc : nỗi	1
+Nc : sự	3
+Nc : vắt	1
+Nc : Ông	1
+Nc : ông	6
+Nc : đoàn	2
+Np : An Giang	1
+Np : Bitocimex	2
+Np : Bình Phước	2
+Np : Campuchia	2
+Np : Chu Văn Thiệp	1
+Np : Cương Gián	1
+Np : Hà Tĩnh	1
+Np : Hồ Văn Thông	1
+Np : Hồ Văn Trương	2
+Np : Indo	1
+Np : Johor	2
+Np : Kem Kjang	1
+Np : Kuala Lumpur	2
+Np : Lâm Xuân	1
+Np : Lê Tuấn Anh	1
+Np : Malaysia	4
+Np : Nam Đàn	1
+Np : Nghi Xuân	1
+Np : Nghĩa Hoàn	1
+Np : Nghệ An	2
+Np : Nguyễn Thọ Tuấn	1
+Np : Nguyễn Văn Toàn	1
+Np : Thái Lan	1
+Np : Thông	1
+Np : Tuấn Anh	1
+Np : Tàu	1
+Np : Tân Kỳ	1
+Np : Vân Diên	1
+Np : Vạn An	1
+Nu : USD	1
+Nu : giờ	1
+Nu : kilômet	1
+Nu : km	1
+Nu : ringgit	1
+Nu : đồng	3
+Ny : A4	2
+Ny : AX	1
+Ny : TP. HCM	1
+Ny : TP. TH HCM	1
+Ny : UBND	1
+Ny : VN	4
+P : Chúng tôi	4
+P : Cả	2
+P : Giờ đây	1
+P : Họ	2
+P : Tôi	1
+P : Tất cả	1
+P : ai	5
+P : bao	1
+P : chúng tôi	16
+P : cả	2
+P : gì	1
+P : hơn	1
+P : họ	1
+P : mình	1
+P : này	3
+P : tôi	3
+P : tất cả	1
+P : từng	2
+P : tự	2
+P : Đây	1
+P : đây	3
+P : đó	3
+P : ấy	1
+PH : chúng tôi	1
+R : Cứ	1
+R : Không	3
+R : Mới	1
+R : Quả thật	1
+R : bất kể	1
+R : chẳng	1
+R : chỉ	4
+R : còn	3
+R : cũng	5
+R : cứ	2
+R : hàng	1
+R : không	34
+R : lại	11
+R : lấy	1
+R : mới	1
+R : ra	3
+R : rất	1
+R : sẽ	1
+R : thật	1
+R : tới	1
+R : từng	1
+R : vẫn	1
+R : về	4
+R : xuống	1
+R : đang	4
+R : đi	3
+R : đã	5
+R : được	4
+R : đều	2
+RBKR : RBKT	1
+RBKT : RBKT	6
+S : phó	1
+T : Riêng	1
+T : Thật	1
+T : cả	2
+T : gì	1
+T : ngay	1
+V : *E*	2
+V : *T*	1
+V : Có	3
+V : Làm	1
+V : biến	1
+V : biết	6
+V : bám	1
+V : bán	4
+V : bắt	5
+V : bị	10
+V : bỏ	1
+V : bộ	1
+V : can thiệp	1
+V : che chở	1
+V : cho	1
+V : chuyển	1
+V : chuyển dời	1
+V : chuộc	2
+V : chặn	1
+V : chết	1
+V : chờ đợi	1
+V : chở	1
+V : còn	5
+V : có	14
+V : cầm hơi	1
+V : cầu cứu	1
+V : cố	1
+V : cứu	2
+V : du lịch	1
+V : dám	2
+V : dòm ngó	1
+V : dọn	1
+V : dồn	1
+V : giành	1
+V : giúp đỡ	1
+V : giả dạng	1
+V : giải quyết	1
+V : gọi	1
+V : gửi	1
+V : hay	1
+V : hi vọng	1
+V : hiện	1
+V : hết	2
+V : hợp tác	1
+V : hứa	2
+V : khiến	1
+V : khát	1
+V : khỏi	2
+V : khủng hoảng	1
+V : kinh hoàng	1
+V : kiếm	3
+V : kiểm soát	1
+V : kéo dài	1
+V : ký	1
+V : kẹt	1
+V : lo âu	1
+V : là	9
+V : làm	7
+V : làm việc	7
+V : làm ăn	2
+V : lượm	1
+V : lấy	1
+V : lội	1
+V : lựa chọn	1
+V : mang	2
+V : mong	1
+V : mua	1
+V : muốn	3
+V : mò	1
+V : mất	2
+V : ngủ	2
+V : nhìn	1
+V : nhảy	1
+V : nhận	2
+V : nhờ	1
+V : nói	3
+V : nấu	1
+V : nằm	2
+V : phát	3
+V : phải	5
+V : phụ trách	1
+V : phủi	1
+V : qua	3
+V : quản lý	2
+V : ra	2
+V : sôi	1
+V : sống	4
+V : thanh toán	1
+V : thay	2
+V : thành	2
+V : thảng thốt	1
+V : thấp thỏm	1
+V : thất nghiệp	1
+V : thấy	1
+V : tin	1
+V : tin cậy	1
+V : tiếp tục	2
+V : trà trộn	1
+V : trôi	1
+V : trả	1
+V : trở lại	1
+V : trở về	1
+V : trực thuộc	1
+V : tuyệt vọng	1
+V : tách	1
+V : té	1
+V : tại	1
+V : tứ tán	1
+V : tự nguyện	2
+V : viết	1
+V : vào	2
+V : vơi	1
+V : vắng mặt	1
+V : về	6
+V : vệ sinh	1
+V : xin	4
+V : xuất nhập khẩu	1
+V : xảy	1
+V : xử lý	1
+V : ào	1
+V : ăn	9
+V : ăn ở	1
+V : Được	1
+V : đau	1
+V : đi	10
+V : đi lại	1
+V : điểm danh	1
+V : đánh đổi	1
+V : đói	2
+V : đóng	1
+V : đưa	7
+V : được	12
+V : đạp	1
+V : đếm	1
+V : đến	6
+V : đề nghị	1
+V : đồng ý	1
+V : đổ	1
+V : đứng	1
+V : ở	4
+X : Ngược lại	1
+X : dường như	1
+X : như thế	2
+X : ra sao	2
+X : thế nào	1
+” : “	1

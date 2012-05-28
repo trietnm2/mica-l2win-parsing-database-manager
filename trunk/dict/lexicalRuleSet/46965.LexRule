@@ -1,0 +1,540 @@
+! : !	2
+" : "	34
+, : ,	55
+- : -	1
+. : .	67
+... : ...	5
+: : :	4
+? : ?	2
+A : béo	2
+A : bê bết	1
+A : bùi ngùi	1
+A : chừng	1
+A : còi	1
+A : dai	1
+A : dài	1
+A : dữ	1
+A : dữ dằn	2
+A : gần	2
+A : hoang dã	1
+A : hung hăng	1
+A : hơn	2
+A : hờ	1
+A : khác	1
+A : lệch	1
+A : muộn	1
+A : mượt	1
+A : mộng	1
+A : mới	2
+A : ngay ngắn	1
+A : ngoan	1
+A : nhiều	2
+A : như	1
+A : nhạt	1
+A : nhất	3
+A : nổi tiếng	1
+A : phải	2
+A : sung sướng	1
+A : suốt	1
+A : sâu đậm	1
+A : sấp	1
+A : sẵn sàng	1
+A : thân thiện	1
+A : thân thuộc	1
+A : thôi nôi	1
+A : thông minh	2
+A : thường xuyên	1
+A : to	1
+A : trái phép	1
+A : tròn	2
+A : trước	2
+A : trướng	1
+A : trục	1
+A : táo bạo	1
+A : vang	1
+A : vuông	1
+A : xấu	1
+A : ít nhiều	1
+A : óng ánh	1
+A : Đủ	1
+A : đen	1
+A : đúng	2
+A : đơn sơ	1
+A : đầu tiên	1
+A : đặc biệt	2
+A : đẹp	1
+A : đủ	3
+A : ầm ầm	1
+C : Dù	1
+C : Nhưng	1
+C : Rồi	1
+C : Tuy nhiên	1
+C : Và	1
+C : còn	1
+C : dù	1
+C : hoặc	1
+C : là	4
+C : lỡ	1
+C : mà	4
+C : như	4
+C : nhưng	3
+C : nếu	2
+C : rồi	3
+C : song	1
+C : thì	6
+C : và	7
+E : Từ	1
+E : Vì	2
+E : bởi	1
+E : cho	3
+E : của	12
+E : do	1
+E : dù	2
+E : lên	1
+E : sau	1
+E : theo	1
+E : trong	8
+E : trên	4
+E : từ	2
+E : vào	2
+E : về	5
+E : với	6
+E : đến	7
+E : để	1
+E : ở	5
+L : Các	2
+L : Những	1
+L : Tất cả	1
+L : Vài	1
+L : các	8
+L : mấy	1
+L : mọi	1
+L : những	11
+L : vài	1
+M : 101	1
+M : 15	1
+M : 1998	1
+M : 2 /3	1
+M : 25	1
+M : 30	2
+M : 87	1
+M : Ba	1
+M : Bốn	1
+M : Hai	1
+M : Mỗi	1
+M : bốn	1
+M : chục	2
+M : hai	4
+M : mỗi	1
+M : một	11
+M : nghìn	1
+M : năm	2
+M : song	1
+M : trăm	1
+N : Anh	2
+N : Bàn tay	2
+N : Chuyện	1
+N : Chị	3
+N : Chữ	1
+N : Cánh	1
+N : Giờ	1
+N : Hậu quả	1
+N : Hổ	1
+N : Khi	3
+N : Lần	1
+N : Mùa	1
+N : Mẹ	1
+N : Nay	1
+N : Ngày	1
+N : Ngày ngày	1
+N : Người	1
+N : Ngựa	1
+N : Thạc sĩ	1
+N : Vườn	2
+N : Vượn	1
+N : Xung quanh	1
+N : ai	1
+N : anh	6
+N : anh em	1
+N : bà đỡ	1
+N : bàn	1
+N : bàn tay	4
+N : báo	1
+N : bên	1
+N : bò	1
+N : bản năng	1
+N : bồ câu	2
+N : bộ	1
+N : bụng	1
+N : chuyên ngành	1
+N : chuyện	1
+N : chuồng	5
+N : chú	1
+N : chúa sơn lâm	1
+N : chị	10
+N : con	4
+N : cuộc thi	1
+N : cuộc đời	2
+N : cánh	1
+N : câu chuyện	3
+N : cô	2
+N : cô gái	1
+N : công	1
+N : công việc	1
+N : cú	1
+N : cửa	2
+N : dụng cụ	1
+N : dứa	2
+N : gang tấc	1
+N : giờ	1
+N : gân	1
+N : gì	1
+N : gấu	1
+N : gậy gộc	1
+N : hòa bình	1
+N : hùm	1
+N : hổ	18
+N : khi	4
+N : khẩu phần	1
+N : kim tiêm	1
+N : kiểu	1
+N : kỷ niệm	1
+N : lao	1
+N : lãnh đạo	1
+N : lòng	1
+N : lúc	2
+N : lần	6
+N : lời	1
+N : lửa	1
+N : miệng	1
+N : muông thú	1
+N : máu	1
+N : mãnh thú	1
+N : mẹ	6
+N : mồi	2
+N : một mình	1
+N : mức	1
+N : nanh	1
+N : nay	2
+N : nghĩa	1
+N : nghề	1
+N : nghề nghiệp	2
+N : ngày	4
+N : người	4
+N : ngựa	2
+N : nhau	2
+N : nhung	1
+N : nhân viên	1
+N : năm	6
+N : nơi	1
+N : nước	2
+N : nữ	1
+N : phát	1
+N : phía	1
+N : phòng	1
+N : phương án	1
+N : phản xạ	1
+N : phố	1
+N : phụ nữ	1
+N : quanh	1
+N : quyết định	1
+N : quản tượng	1
+N : răng	1
+N : rừng	2
+N : song	1
+N : sách	1
+N : sư tử	1
+N : sản phẩm	1
+N : sắt	1
+N : sẹo	2
+N : số	1
+N : số phận	1
+N : sữa	1
+N : sự nghiệp	2
+N : tai nạn	1
+N : tay	2
+N : thiếu nhi	1
+N : thuốc	1
+N : thuốc men	1
+N : thuốc mê	1
+N : tháng	1
+N : thú	17
+N : thú dữ	3
+N : thú y	3
+N : thạc sĩ	1
+N : thế	1
+N : thế giới	1
+N : thời kỳ	3
+N : tiêu chuẩn	1
+N : tiếng	1
+N : tranh	1
+N : tuổi	2
+N : tuổi xuân	1
+N : tài sản	1
+N : tên	2
+N : tính mạng	1
+N : tường	1
+N : tổ	1
+N : vai	1
+N : việc	1
+N : voi	4
+N : vòi	1
+N : vườn	7
+N : vườn thú	1
+N : vật	6
+N : vằn	1
+N : vụ	1
+N : xuân	1
+N : xưa nay	1
+N : yết hầu	1
+N : ác thú	1
+N : đe dọa	1
+N : đuôi	1
+N : đầu	3
+N : đầu tiên	2
+N : động vật	1
+N : đời	1
+N : ấn tượng	1
+NP : *E*	7
+Nc : Anh	1
+Nc : Chú	1
+Nc : Chị	3
+Nc : Con	2
+Nc : Căn	1
+Nc : bầy	2
+Nc : bức	1
+Nc : chiếc	1
+Nc : chú	6
+Nc : chị	1
+Nc : con	20
+Nc : cái	1
+Nc : loài	2
+Nc : loại	1
+Nc : nỗi	1
+Nc : quả	1
+Nc : vết	2
+Nc : đàn	2
+Nc : đứa	1
+Np : A Khâm	2
+Np : Anh	1
+Np : Bin	1
+Np : Huế	1
+Np : Huế My	1
+Np : Hà Nội	3
+Np : Hải	1
+Np : Lâm Nhi	7
+Np : Mai Quế Tiệp	1
+Np : My	2
+Np : Pha Lang	1
+Np : Tiệp	4
+Np : Vũ Thanh Thủy	1
+Np : Đen	3
+Np : Đông	3
+Np : Ước	2
+Nu : kg	1
+Nu : m2	1
+Nu : tuổi	2
+Ny : G	1
+P : Chúng tôi	1
+P : Cả	2
+P : Tất cả	1
+P : chúng	8
+P : cả	4
+P : họ	1
+P : mình	7
+P : nào	2
+P : này	4
+P : nó	12
+P : ta	1
+P : tôi	1
+P : vậy	1
+P : Đó	1
+P : đâu	1
+P : đây	3
+P : đó	1
+P : ấy	2
+R : Chỉ	2
+R : Hàng	1
+R : Không	1
+R : bỗng	1
+R : cho	2
+R : chưa	2
+R : chưa thể	1
+R : chỉ	4
+R : còn	1
+R : cũng	5
+R : cứ	1
+R : dần	1
+R : dần dần	1
+R : hàng	2
+R : hơn	1
+R : hết sức	2
+R : không	6
+R : không thể	2
+R : khỏi	1
+R : lên	1
+R : lại	6
+R : lắm	1
+R : mới	5
+R : nữa	1
+R : qua	2
+R : quá	1
+R : ra	7
+R : rất	1
+R : sẽ	3
+R : toàn	1
+R : tới	1
+R : từng	1
+R : vào	2
+R : vẫn	3
+R : về	1
+R : xuống	2
+R : đang	2
+R : đi	1
+R : đã	19
+R : được	5
+R : đến	1
+R : đều	2
+T : Chính	1
+T : Thế	1
+T : chính	2
+T : cả	3
+T : lắm	1
+T : mà	1
+T : ngay	1
+T : nào	1
+T : nữa	2
+T : thôi	2
+V : Có	2
+V : Quyết tâm	1
+V : Yêu	1
+V : biết	1
+V : buôn bán	1
+V : buồn	3
+V : bóp	1
+V : bù đắp	1
+V : bảo vệ	1
+V : bị	5
+V : bỏ	1
+V : bồi	1
+V : bổ	2
+V : bớt	1
+V : chia tay	2
+V : cho	4
+V : chăm bẵm	1
+V : chăm sóc	3
+V : chạm trán	1
+V : chạy	2
+V : chắc	1
+V : chết	1
+V : chịu	1
+V : coi	1
+V : còn	1
+V : có	11
+V : công tác	1
+V : cầm	1
+V : cắm	1
+V : cắn	1
+V : cắt	1
+V : dạy	1
+V : dừng	1
+V : giao phối	3
+V : gầm	1
+V : gắn	1
+V : gắn bó	2
+V : gặp	1
+V : gọi	1
+V : gừ gừ	1
+V : hiểu	1
+V : huơ	1
+V : hãi	1
+V : hưu	1
+V : hỏi	1
+V : hồi hộp	1
+V : khiến	1
+V : khép	1
+V : khủng khiếp	1
+V : kinh hoàng	2
+V : lao	3
+V : là	9
+V : làm	1
+V : lê	1
+V : lưu	1
+V : lại	1
+V : lấy	3
+V : lập	1
+V : lớn	1
+V : mang	1
+V : mất	1
+V : nghĩ	1
+V : nghỉ	1
+V : nguôi ngoai	1
+V : ngã	1
+V : ngờ	1
+V : nhe	1
+V : nhìn	1
+V : nhả	1
+V : nhắn nhủ	1
+V : nhớ	1
+V : nhớ đời	1
+V : nhờ	1
+V : nuôi	7
+V : nằm	1
+V : phì phì	1
+V : phải	7
+V : phập	1
+V : qua	2
+V : quay	1
+V : quyết định	1
+V : quá	1
+V : quét	1
+V : quên	3
+V : quấn	1
+V : ra	1
+V : ra đời	1
+V : rút	1
+V : say	1
+V : sinh sản	2
+V : sà	1
+V : tham gia	1
+V : theo	1
+V : thoát	1
+V : thuần hóa	1
+V : thành	2
+V : thành công	1
+V : thêm	1
+V : thương	2
+V : thấy	2
+V : tiêm	2
+V : trở dạ	1
+V : trở nên	1
+V : tách	1
+V : tát	1
+V : tính	1
+V : vào	3
+V : vượt	2
+V : vật	1
+V : về	2
+V : xoa xoa	1
+V : xuyên	1
+V : xảy	2
+V : yêu	2
+V : yêu thích	1
+V : yêu thương	1
+V : đau	1
+V : đe dọa	2
+V : điểm	1
+V : đáng	1
+V : đáp	1
+V : đưa	3
+V : được	6
+V : đảm bảo	1
+V : đấu	1
+V : đặt	4
+V : đề phòng	1
+V : để	1
+V : để ý	1
+V : đối mặt	2
+V : động dục	3
+V : đỡ	1
+X : bằng được	1

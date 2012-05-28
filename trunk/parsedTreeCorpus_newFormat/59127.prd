@@ -1,0 +1,3187 @@
+<s id = "1">
+S(TTL)
+	NP
+		N(H)
+			 Áo
+		A
+			 trắng
+		VP
+			V(H)
+				 xuống đường
+	LBKT
+		 LBKT
+	NP
+		N(H)
+			 kỳ
+		M
+			 1
+	RBKT
+		 RBKT
+	:
+		 :
+	VP
+		VP
+			V(H)
+				 Xé
+			NP(DOB)
+				N(H)
+					 hiến chương
+				Np
+					 Vũng Tàu
+		C
+			 và
+		VP
+			V(H)
+				 buộc
+			NP(DOB)
+				Np(H)
+					 Nguyễn Khánh
+				VP
+					V(H)
+						 từ chức
+	.
+		 .
+</s>
+<s id = "2">
+S(PV)
+	PP(MNR)
+		E(H)
+			 Dưới
+		NP
+			N(H)
+				 mắt
+			NP
+				L
+					 những
+				N(H)
+					 học trò
+				NP
+					N(H)
+						 tuổi
+					M
+						 16
+					-
+						 -
+					M
+						 20
+	PP(TMP)
+		E(H)
+			 vào
+		NP
+			L
+				 những
+			N(H)
+				 năm
+			M
+				 1968
+			-
+				 -
+			M
+				 1970
+	C
+		 thì
+	AP(ADV)
+		A(H)
+			 rõ ràng
+	NP(SUB)
+		Np(H)
+			 Sài Gòn
+		NP
+			N(H)
+				 quê hương
+			P
+				 mình
+	VP
+		R
+			 đang
+		V(H)
+			 bị
+		SBAR
+			S
+				NP(SUB)
+					Nc(H)
+						 người
+					Np
+						 Mỹ
+				VP
+					V(H)
+						 chiếm đóng
+	.
+		 .
+</s>
+<s id = "3">
+S(TTL)
+	NP(TMP)
+		N(H)
+			 Ngày
+		P
+			 ấy
+	,
+		 ,
+	PP(MNR)
+		E(H)
+			 dưới
+		NP
+			N(H)
+				 mắt
+			NP
+				N(H)
+					 thế hệ
+				P
+					 chúng tôi
+	...
+		 ...
+</s>
+<s id = "4">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Đại lộ
+			Np
+				 Trần Hưng Đạo
+		VP
+			V(H)
+				 đóng
+			AP
+				A(H)
+					 dày đặc
+			NP(LOC)
+				L
+					 các
+				N(H)
+					 cơ quan
+				C
+					 và
+				N(H)
+					 khách sạn
+				PP
+					E(H)
+						 của
+					NP
+						N(H)
+							 quân đội
+						Np
+							 Mỹ
+	;
+		 ;
+	S
+		NP(SUB)
+			NP
+				N(H)
+					 đường
+				Np
+					 Tự Do
+				LBKT
+					 LBKT
+				NP(LOC)
+					Np(H)
+						 Đồng Khởi
+					N
+						 ngày nay
+				RBKT
+					 RBKT
+			,
+				 ,
+			NP
+				N(H)
+					 đường
+				Np
+					 Trịnh Minh Thế
+				LBKT
+					 LBKT
+				NP
+					Np(H)
+						 Nguyễn Tất Thành
+				,
+					 ,
+				NP
+					Ny(H)
+						 Q .
+					M
+						 4
+					NP(TMP)
+						N(Hngày)
+							 nay
+				RBKT
+					 RBKT
+		AP(PRD)
+			A(H)
+				 nhan nhản
+			NP
+				NP
+					L
+						 những
+					N(H)
+						 quán
+					Nb
+						 bar
+				C
+					 với
+				NP
+					L
+						 các
+					N(H)
+						 cô
+					N
+						 gái
+					NP
+						N(H)
+							 váy
+						A
+							 ngắn
+				VP(PRP)
+					V(H)
+						 dành
+					PP(IOB)
+						E(H)
+							 cho
+						NP
+							N(H)
+								 lính
+							Np
+								 Mỹ
+	.
+		 .
+</s>
+<s id = "5">
+S
+	C
+		 Nhưng
+	NP(SUB)
+		Nc(H)
+			 cuộc
+		V
+			 tổng tiến công
+		NP(TMP)
+			N(H)
+				 Tết
+			Np
+				 Mậu Thân
+			M
+				 1968
+		PP
+			E(H)
+				 của
+			NP
+				N(H)
+					 quân
+				N
+					 giải phóng
+		PP(LOC)
+			E(H)
+				 vào
+			NP
+				L
+					 các
+				N(H)
+					 đô thị
+				NP
+					N(H)
+						 miền
+					Np
+						 Nam
+	VP
+		R
+			 đã
+		V(H)
+			 gây
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 ảnh hưởng
+			AP
+				A(H)
+					 lớn
+			PP(LOC)
+				E(H)
+					 trong
+				NP
+					N(H)
+						 nhận thức
+					PP
+						E(H)
+							 của
+						NP
+							N(H)
+								 giới
+							N
+								 trẻ
+							NP
+								Np(H)
+									 Sài Gòn
+			PP
+				PP
+					E(H)
+						 về
+					AP
+						A(H)
+							 chính nghĩa
+						NP
+							N(H)
+								 dân tộc
+							C
+								 và
+							N(H)
+								 nô lệ
+							NP(LOC)
+								N(H)
+									 ngoại bang
+				,
+					 ,
+				PP
+					E(H)
+						 về
+					NP
+						NP
+							N(H)
+								 người
+							N
+								 lính
+							NP
+								N(H)
+									 cách mạng
+						C
+							 và
+						NP
+							N(H)
+								 người
+							N
+								 lính
+							NP
+								N(H)
+									 tay sai
+	.
+		 .
+</s>
+<s id = "6">
+S
+	NP(SUB)
+		NP
+			L
+				 Những
+			N(H)
+				 người
+			N
+				 đảng viên
+			AP
+				A(H)
+					 trẻ
+		C
+			 và
+		NP
+			L
+				 những
+			N(H)
+				 người
+			N
+				 đoàn viên
+			N
+				 thanh niên
+			AP
+				A(H)
+					 cộng sản
+	-
+		 -
+	VP(ADV)
+		V(H)
+			 thông qua
+		NP(DOB)
+			Nc(H)
+				 sự
+			V
+				 lãnh đạo
+			PP
+				E(H)
+					 của
+				NP
+					Np(H)
+						 Thành ủy
+					C
+						 và
+					Np(H)
+						 Thành đoàn
+					NP
+						N(H)
+							 thanh niên
+						NP(LOC)
+							Np(H)
+								 Sài Gòn
+							-
+								 -
+							Np(H)
+								 Gia Định
+		VP
+			V(H)
+				 hoạt động
+			A
+				 bí mật
+			PP(LOC)
+				E(H)
+					 trong
+				NP
+					L
+						 các
+					N(H)
+						 trường
+					NP
+						N(H)
+							 trung
+						-
+							 -
+						N(H)
+							 đại học
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								Np(H)
+									 Sài Gòn
+	,
+		 ,
+	VP
+		VP
+			R
+				 đã
+			V(H)
+				 nắm bắt
+			VP
+				V(H)
+					 lấy
+				NP(DOB)
+					N(H)
+						 thời cơ
+					N
+						 cách mạng
+					P
+						 đó
+		,
+			 ,
+		VP
+			V(H)
+				 ra sức
+			VP(PRP)
+				V(H)
+					 phát triển
+				NP(DOB)
+					N(H)
+						 lực lượng
+					PP
+						E(H)
+							 trong
+						NP
+							N(H)
+								 sinh viên
+							N(H)
+								 học sinh
+							LBKR
+								 LBKT
+							NP
+								Ny(H)
+									 SVHS
+							RBKT
+								 RBKT
+					VP
+						V(H)
+							 thông qua
+						NP(DOB)
+							N(H)
+								 việc
+							V
+								 tập hợp
+							NP
+								Ny(H)
+									 SVHS
+								PP
+									E(H)
+										 vào
+									NP
+										L
+											 các
+										N(H)
+											 phong trào
+										NP
+											N(H)
+												 công tác
+											N
+												 xã hội
+										,
+											 ,
+										VP
+											V(H)
+												 hoạt động
+											NP(DOB)
+												N(H)
+													 văn nghệ
+												-
+													 -
+												N(H)
+													 báo chí
+	.
+		 .
+</s>
+<s id = "7">
+S
+	PP(TMP)
+		E(H)
+			 Vào
+		NP
+			N(H)
+				 thời kỳ
+			P
+				 đó
+	,
+		 ,
+	C
+		 như
+	NP(ADV)
+		M
+			 một
+		N(H)
+			 qui luật
+	,
+		 ,
+	NP(SUB)
+		L
+			 những
+		N(H)
+			 biến chuyển
+		PP
+			E(H)
+				 về
+			NP
+				N(H)
+					 chính trị
+				-
+					 -
+				N(H)
+					 xã hội
+		PP
+			E(H)
+				 của
+			NP
+				M
+					 một
+				N(H)
+					 đất nước
+	VP
+		R
+			 thường
+		V(H)
+			 được
+		VP
+			V(H)
+				 báo hiệu
+			PP(MNR)
+				E(H)
+					 qua
+				NP
+					N(H)
+						 phản ứng
+					PP
+						E(H)
+							 của
+						NP
+							Nc(H)
+								 giới
+							N
+								 trí thức
+							,
+								 ,
+							NP
+								X
+									 nhất là
+								Ny(H)
+									 SVHS
+	.
+		 .
+</s>
+<s id = "8">
+S
+	SBAR(PRP)
+		E(H)
+			 Bởi
+		S
+			NP(SUB)
+				L
+					 những
+				N(H)
+					 người
+				N
+					 học trò
+				VP
+					R
+						 chưa
+					V(H)
+						 vào
+					NP(DOB)
+						N(H)
+							 đời
+				P
+					 này
+			VP
+				VP
+					V(H)
+						 được
+					V
+						 tiếp cận
+					PP
+						E(H)
+							 với
+						NP
+							A
+								 nhiều
+							N(H)
+								 thông tin
+							,
+								 ,
+							N(H)
+								 tri thức
+				,
+					 ,
+				VP
+					V(H)
+						 có
+					NP(DOB)
+						N(H)
+							 năng lượng
+						VP
+							V(H)
+								 hoạt động
+						AP
+							A(H)
+								 dồi dào
+				,
+					 ,
+				VP
+					R
+						 lại
+					V(H)
+						 là
+					NP
+						N(H)
+							 con em
+						PP
+							E(H)
+								 của
+							NP
+								A
+									 nhiều
+								N(H)
+									 tầng lớp
+								NP
+									N(H)
+										 đồng bào
+								PP(LOC)
+									E(H)
+										 trong
+									NP
+										N(H)
+											 xã hội
+	,
+		 ,
+	C
+		 nên
+	S
+		NP(SUB)
+			L
+				 những
+			N
+				 H phản ứng
+			PP
+				E(H)
+					 của
+				NP
+					Ny(H)
+						 SVHS
+		VP
+			R
+				 thường
+			V(H)
+				 có
+			VP
+				V(H)
+					 tác dụng
+				VP
+					V(H)
+						 châm
+					NP(DOB)
+						N(H)
+							 ngòi
+				-
+					 -
+				NP(DOB)
+					N(H)
+						 dây chuyền
+				PP(IOB)
+					E(H)
+						 cho
+					NP
+						L
+							 những
+						N(H)
+							 phản ứng
+						PP
+							E(H)
+								 của
+							NP
+								R
+									 toàn
+								N(H)
+									 xã hội
+	.
+		 .
+</s>
+<s id = "9">
+S
+	NP(SUB)
+		NP
+			L
+				 Các
+			N(H)
+				 đảng phái
+			VP
+				V(H)
+					 chống
+				NP(DOB)
+					N(H)
+						 cộng
+		C
+			 và
+		NP
+			T
+				 cả
+			L
+				 các
+			N(H)
+				 cơ quan
+		PP
+			E(H)
+				 của
+			NP
+				Np(H)
+					 Mỹ
+	VP
+		VP
+			V(H)
+				 đội lốt
+			VP
+				V(H)
+					 hoạt động
+				N
+					 văn hóa
+				C
+					 như
+				NP
+					Ny(H)
+						 CPS
+					LBKT
+						 LBKT
+					NP
+						N(H)
+							 chương trình
+						VP
+							V(H)
+								 phát triển
+							NP(DOB)
+								N(H)
+									 sinh hoạt
+								NP(LOC)
+									N(H)
+										 học đường
+					RBKT
+						 RKBT
+		VP
+			R
+				 cũng
+			V(H)
+				 tổ chức
+			NP(DOB)
+				A
+					 nhiều
+				N(H)
+					 đoàn thể
+				PP(PRP)
+					E(H)
+						 nhằm
+					VP
+						V(H)
+							 lôi kéo
+						NP(DOB)
+							Ny(H)
+								 SVHS
+						PP
+							E(H)
+								 vào
+							NP
+								N(H)
+									 vòng
+								V
+									 ảnh hưởng
+								AP
+									A(H)
+										 thân
+									Np
+										 Mỹ
+								C
+									 và
+								VP
+									V(H)
+										 chống
+									NP(DOB)
+										N(H)
+											 cộng
+								PP
+									E(H)
+										 của
+									NP
+										P(H)
+											 họ
+								,
+									 ,
+								C
+									 nhưng
+								VP
+									V(H)
+										 ảnh hưởng
+									AP
+										R
+											 không
+										A(H)
+											 đáng kể
+	.
+		 .
+</s>
+<s id = "10">
+S
+	S
+		AP(SUB)
+			A(H)
+				 Đáng kể
+		VP
+			T
+				 chính
+			V(H)
+				 là
+			NP
+				Np(H)
+					 Đảng
+				N
+					 Cộng sản
+	C
+		 và
+	S
+		NP(SUB)
+			Nc(H)
+				 Đoàn
+			N
+				 thanh niên
+			AP
+				A(H)
+					 cộng sản
+		VP
+			R
+				 đã
+			V(H)
+				 tập hợp
+			R
+				 được
+			NP(DOB)
+				A
+					 đông đảo
+				Ny(H)
+					 SVHS
+				VP
+					V(H)
+						 theo
+					NP(DOB)
+						N(H)
+							 ngọn
+						N
+							 cờ
+						VP
+							VP
+								V(H)
+									 đấu tranh
+								VP(PRP)
+									V(H)
+										 chống
+									NP(DOB)
+										Ny(H)
+											 Mỹ
+							,
+								 ,
+							VP
+								V(H)
+									 giải phóng
+								NP(DOB)
+									N(H)
+										 đất nước
+							,
+								 ,
+							VP
+								V(H)
+									 xuyên
+								AP(TMP)
+									A(H)
+										 suốt
+									NP
+										N(H)
+											 quá trình
+										NP
+											M
+												 20
+											N(H)
+												 năm
+											QP
+												M(H)
+													 1955
+												-
+													 -
+												M(H)
+													 1975
+										PP(LOC)
+											E(H)
+												 ở
+											NP
+												N(H)
+													 miền
+												Np
+													 Nam
+	.
+		 .
+</s>
+<s id = "11">
+S(TTL)
+	NP
+		N(H)
+			 Hiến chương
+		Np
+			 Vũng Tàu
+	.
+		 .
+</s>
+<s id = "12">
+S
+	NP(TMP)
+		N(H)
+			 Năm
+		M
+			 1963
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 quân đội
+		Np
+			 Sài Gòn
+		SBAR(PRP)
+			E(H)
+				 do
+			S
+				NP(SUB)
+					N(H)
+						 tướng
+					Np
+						 Dương Văn Minh
+				VP
+					V(H)
+						 lãnh đạo
+	VP
+		R
+			 đã
+		V(H)
+			 đảo chính
+		VP(PRP)
+			V(H)
+				 lật đổ
+			NP(DOB)
+				N(H)
+					 chế độ
+				AP
+					A(H)
+						 độc tài
+				NP
+					Np(H)
+						 Ngô Đình Diệm
+	.
+		 .
+</s>
+<s id = "13">
+S
+	C
+		 Song
+	SBAR(PRP)
+		E(H)
+			 do
+		S
+			NP(SUB)
+				Nc(H)
+					 ông
+				Np
+					 Minh
+			VP
+				R
+					 không
+				V(H)
+					 chịu
+				VP
+					V(H)
+						 làm
+					V
+						 vừa lòng
+					NP(DOB)
+						Np(H)
+							 Mỹ
+	,
+		 ,
+	S
+		NP(SUB)
+			Nc(H)
+				 người
+			Np
+				 Mỹ
+		XP
+			R
+				 đã
+			X(H)
+				 bật đèn xanh
+			SBAR(PRP)
+				E(H)
+					 cho
+				S
+					NP(SUB)
+						N(H)
+							 tướng
+						Np
+							 Nguyễn Khánh
+					VP
+						V(H)
+							 lật đổ
+						NP(DOB)
+							N(H)
+								 ông
+	.
+		 .
+</s>
+<s id = "14">
+S
+	SBAR(PRP)
+		S
+			NP(SUB)
+				N(H)
+					 Tướng
+				N
+					 người
+			AP(PRD)
+				A(H)
+					 thấp
+				,
+					 ,
+				A(H)
+					 mập
+			C
+				 và
+			VP
+				V(H)
+					 để
+				NP(DOB)
+					M
+						 một
+					Nc(H)
+						 chòm
+					N
+						 râu
+					PP(LOC)
+						E(H)
+							 dưới
+						NP
+							N(H)
+								 cằm
+	C
+		 nên
+	S(PV)
+		NP(SUB)
+			Np(H)
+				 Nguyễn Khánh
+		VP
+			V(H)
+				 được
+			SBAR
+				S
+					NP(SUB)
+						Nc(H)
+							 giới
+						N
+							 báo chí
+					VP
+						V(H)
+							 đặt
+						V
+							 cho
+						NP(DOB)
+							N(H)
+								 biệt danh
+							NP
+								"
+									 "
+								N(H)
+									 tướng
+								N
+									 râu
+								A
+									 dê
+								"
+									 "
+	.
+		 .
+</s>
+<s id = "15">
+S
+	PP(MNR)
+		E(H)
+			 Với
+		NP
+			N(H)
+				 tham vọng
+			N
+				 quyền lực
+	,
+		 ,
+	NP(SUB)
+		Np(H)
+			 Nguyễn Khánh
+	VP
+		R
+			 đã
+		V(H)
+			 tổ chức
+		NP(DOB)
+			M
+				 một
+			N(H)
+				 hội nghị
+			NP
+				N(H)
+					 cấp
+				N
+					 chính phủ
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					Np(H)
+						 Vũng Tàu
+			PP(PRP)
+				E(H)
+					 để
+				VP
+					V(H)
+						 thông qua
+					NP(DOB)
+						M
+							 một
+						N(H)
+							 sắc luật
+						NP
+							X
+								 gọi là
+							"
+								 "
+							N(H)
+								 Hiến chương
+							Np
+								 Vũng Tàu
+							"
+								 "
+			,
+				 ,
+			PP(TMP)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 ngày
+					M
+						 16
+					-
+						 -
+					M
+						 8
+					-
+						 -
+					M
+						 1964
+			,
+				 ,
+			PP
+				E(H)
+					 trong
+				NP
+					P(H)
+						 đó
+					VP
+						V(H)
+							 có
+						NP(DOB)
+							N(H)
+								 điểm
+							A
+								 chính
+							C
+								 là
+							VP
+								V(H)
+									 dành
+								V
+									 cho
+								NP(DOB)
+									Np(H)
+										 Nguyễn Khánh
+									NP
+										N(H)
+											 quyền
+										VP
+											V(H)
+												 làm
+											NP(DOB)
+												N(H)
+													 quốc trưởng
+												AP(TMP)
+													A(H)
+														 suốt
+													NP
+														N(H)
+															 đời
+	.
+		 .
+</s>
+<s id = "16">
+S
+	PP(ADV)
+		E(H)
+			 Trước
+		NP
+			N(H)
+				 nguy cơ
+			VP
+				V(H)
+					 tái diễn
+				NP(DOB)
+					N(H)
+						 chế độ
+					N
+						 độc tài
+					NP
+						N(H)
+							 kiểu
+						Np
+							 Ngô Đình Diệm
+	,
+		 ,
+	NP(SUB)
+		NP
+			L
+				 các
+			N(H)
+				 lực lượng
+			N
+				 cách mạng
+		C
+			 và
+		NP
+			L
+				 các
+			N(H)
+				 đoàn thể
+		VP
+			V(H)
+				 đấu tranh
+			PP(IOB)
+				E(H)
+					 cho
+				NP
+					N(H)
+						 dân chủ
+					,
+						 ,
+					N(H)
+						 hòa bình
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					L
+						 các
+					N(H)
+						 đô thị
+					NP
+						N(H)
+							 miền
+						Np
+							 Nam
+	VP
+		V(H)
+			 phải
+		VP
+			V(H)
+				 phối hợp
+			,
+				 ,
+			VP(PRP)
+				VP
+					V(H)
+						 ra sức
+					V
+						 đấu tranh
+				,
+					 ,
+				VP
+					V(H)
+						 ngăn chặn
+				,
+					 ,
+				VP
+					V(H)
+						 phá
+					V
+						 vỡ
+				NP(DOB)
+					N(H)
+						 âm mưu
+					P
+						 này
+	.
+		 .
+</s>
+<s id = "17">
+S(TTL)
+	C
+		 Và
+	NP
+		N(H)
+			 thất bại
+		PP
+			E(H)
+				 của
+			NP
+				N(H)
+					 ông
+				NP
+					"
+						 "
+					N(H)
+						 trung tướng
+					N
+						 chủ tịch
+					"
+						 "
+	.
+		 .
+</s>
+<s id = "18">
+S
+	NP(TMP)
+		N(H)
+			 Sáng
+		M
+			 21
+		-
+			 -
+		M
+			 8
+		-
+			 -
+		M
+			 1964
+	,
+		 ,
+	NP(SUB)
+		R
+			 hàng
+		M
+			 ngàn
+		Ny(H)
+			 SVHS
+	VP
+		VP
+			V(H)
+				 tập hợp
+			PP(LOC)
+				E(H)
+					 tại
+				NP
+					NP
+						N(H)
+							 trụ sở
+						NP
+							Np(H)
+								 Tổng hội
+							N
+								 Sinh viên
+							NP
+								Np(H)
+									 Sài Gòn
+					,
+						 ,
+					NP
+						N(H)
+							 số
+						M
+							 4
+						NP
+							Np(H)
+								 Duy Tân
+					LBKT
+						 LBKT
+					S
+						NP(TMP)
+							P(H)
+								 nay
+						NP(SUB)
+							 *E*
+						VP
+							V(H)
+								 là
+							NP
+								N(H)
+									 đường
+								Np
+									 Phạm Ngọc Thạch
+					RBKT
+						 RBKT
+		C
+			 rồi
+		VP
+			V(H)
+				 kéo
+			PP(LOC)
+				E(H)
+					 tới
+				NP
+					NP
+						N(H)
+							 tòa
+						N(H)
+							 nhà
+						NP
+							N(H)
+								 số
+							M
+								 5
+							NP
+								Np(H)
+									 Thống Nhất
+					LBKT
+						 LBKT
+					S
+						NP(TMP)
+							P(H)
+								 nay
+						NP(SUB)
+							 *E*
+						VP
+							V(H)
+								 là
+							NP
+								N(H)
+									 đường
+								Np
+									 Lê Duẩn
+					RBKT
+						 RBKT
+					-
+						 -
+					NP
+						N(H)
+							 dinh
+						PP
+							E(H)
+								 của
+							NP
+								"
+									 "
+								N(H)
+									 thủ tướng
+								Np
+									 Nguyễn Khánh
+								"
+									 "
+		-
+			 -
+		VP(PRP)
+			V(H)
+				 đòi
+			VP
+				V(H)
+					 bãi bỏ
+				NP(DOB)
+					N(H)
+						 lệnh
+					V
+						 giới nghiêm
+	.
+		 .
+</s>
+<s id = "19">
+S(SPL)
+	NP(TMP)
+		N(H)
+			 Ngày
+		M
+			 25
+		-
+			 -
+		M
+			 8
+		-
+			 -
+		M
+			 1964
+	,
+		 ,
+	VP(TMP)
+		V(H)
+			 quá
+		NP
+			M
+				 một
+			N(H)
+				 ngày
+			PP
+				E(H)
+					 theo
+				VP
+					V(H)
+						 hạn định
+					PP
+						E(H)
+							 của
+						NP
+							Ny(H)
+								 SVHS
+							VP
+								V(H)
+									 đặt
+								V
+									 ra
+								SBAR
+									E(H)
+										 cho
+									S
+										NP(SUB)
+											Np(H)
+												 Nguyễn Khánh
+										VP
+											V(H)
+												 phải
+											VP
+												V(H)
+													 trả lời
+												PP
+													PP
+														E(H)
+															 về
+														NP
+															N(H)
+																 tình trạng
+															A
+																 khẩn trương
+													,
+														 ,
+													PP
+														E(H)
+															 về
+														NP
+															N(H)
+																 chế độ
+															VP
+																VP
+																	V(H)
+																		 kiểm duyệt
+																	NP(DOB)
+																		N(H)
+																			 báo chí
+																C
+																	 và
+																VP
+																	V(H)
+																		 xét
+																	V
+																		 lại
+																	NP(DOB)
+																		Nc(H)
+																			 bản
+																		N
+																			 Hiến chương
+																		Np
+																			 Vũng Tàu
+																		LBKT
+																			 LBKT
+																		QP
+																			M(H)
+																				 16
+																			-
+																				 -
+																			M(H)
+																				 8
+																		RBKT
+																			 RBKT
+	.
+		 .
+</s>
+<s id = "20">
+S
+	NP(TMP)
+		N(H)
+			 Ngày
+		P
+			 này
+	,
+		 ,
+	VP(TMP)
+		V(H)
+			 cách
+		NP
+			P(H)
+				 đó
+			AP
+				A(H)
+					 đúng
+				NP
+					M
+						 một
+					N(H)
+						 năm
+	NP(SUB)
+		N(H)
+			 nữ sinh
+		Np
+			 Quách Thị Trang
+	VP
+		R
+			 đã
+		V(H)
+			 ngã
+		R
+			 xuống
+		PP(LOC)
+			E(H)
+				 trước
+			NP
+				N(H)
+					 bùng binh
+				NP
+					N(H)
+						 chợ
+					Np
+						 Bến Thành
+		PP(TMP)
+			E(H)
+				 trong
+			NP
+				M
+					 một
+				Nc(H)
+					 cuộc
+				V
+					 biểu tình
+				VP
+					V(H)
+						 bị
+					NP(DOB)
+						N(H)
+							 cảnh sát
+						Np
+							 Diệm Nhu
+						VP
+							V(H)
+								 đàn áp
+							A
+								 dã man
+	.
+		 .
+</s>
+<s id = "21">
+S
+	NP(TMP)
+		N(H)
+			 Sáng
+		NP
+			N(H)
+				 hôm
+			P
+				 đó
+	NP(SUB)
+		P
+			 cả
+		N(H)
+			 rừng
+		N
+			 người
+		,
+			 ,
+		VP
+			V(H)
+				 ước tính
+			NP(DOB)
+				R
+					 hàng
+				M
+					 trăm ngàn
+				N(H)
+					 người
+				VP
+					V(H)
+						 gồm
+					NP(DOB)
+						NP
+							Ny(H)
+								 SVHS
+						,
+							 ,
+						NP
+							N(H)
+								 phụ nữ
+						NP
+							N(H)
+								 thanh niên
+						PP(TMP)
+							E(H)
+								 sau
+							NP
+								N(H)
+									 lễ
+								V
+									 tưởng niệm
+								NP
+									Np(H)
+										 Quách Thị Trang
+		PP(LOC)
+			R
+				 đã
+			E(H)
+				 từ
+			NP
+				N(H)
+					 bùng binh
+				NP
+					N(H)
+						 chợ
+					Np
+						 Bến Thành
+	VP
+		V(H)
+			 tuần hành
+		A
+			 thẳng
+		PP(LOC)
+			E(H)
+				 tới
+			NP
+				N(H)
+					 dinh
+				Np
+					 Nguyễn Khánh
+	.
+		 .
+</s>
+<s id = "22">
+S
+	NP(LOC)
+		N(H)
+			 Cổng
+		NP
+			N(H)
+				 số
+			M
+				 5
+	,
+		 ,
+	NP(SUB)
+		N(H)
+			 cánh
+		N
+			 sắt
+		NP
+			N(H)
+				 nan hoa
+	VP
+		R
+			 đang
+		V(H)
+			 đóng
+		AP
+			A(H)
+				 chặt
+	.
+		 .
+</s>
+<s id = "23">
+S
+	S
+		NP(SUBN)
+			L
+				 Những
+			N(H)
+				 người
+			NP
+				N(H)
+					 lính
+				V
+					 gác
+		VP
+			VP
+				V(H)
+					 giữ
+				NP(DOB)
+					N(H)
+						 vẻ
+					N
+						 mặt
+					AP
+						A(H)
+							 lạnh lùng
+			VP
+				V(H)
+					 nhìn
+				NP(DOB)
+					Nc(H)
+						 đoàn
+					V
+						 biểu tình
+					PP(MNR)
+						E(H)
+							 bằng
+						NP
+							M
+								 cặp
+							N(H)
+								 mắt
+							AP
+								A(H)
+									 lo lắng
+	,
+		 ,
+	C
+		 dù
+	S
+		S(SUB)
+			NP(SUB)
+				 *E*
+			VP
+				V(H)
+					 muốn
+				VP
+					V(H)
+						 chạy
+		VP
+			R
+				 cũng
+			R
+				 không
+			V(H)
+				 còn
+			NP(DOB)
+				N(H)
+					 đường
+				VP
+					V(H)
+						 chạy
+					SBAR(PRP)
+						E(H)
+							 vì
+						S
+							NP(SUB)
+								N(H)
+									 vòng vây
+							VP
+								R
+									 đã
+								V(H)
+									 siết
+								AP
+									A(H)
+										 chặt
+	.
+		 .
+</s>
+<s id = "24">
+S
+	S
+		NP(TMP)
+			M
+				 10
+			Nu(H)
+				 g
+			M
+				 04
+		,
+			 ,
+		NP(SUB)
+			Np(H)
+				 Nghiêm Xuân Hồng
+			,
+				 ,
+			"
+				 "
+			NP
+				N(H)
+					 bộ trưởng
+				NP
+					N(H)
+						 phủ
+					N
+						 thủ tướng
+			"
+				 "
+			,
+				 ,
+			VP
+				V(H)
+					 nhân danh
+				NP
+					"
+						 "
+					N(H)
+						 trung tướng
+					N
+						 chủ tịch
+					"
+						 "
+		VP
+			V(H)
+				 ra
+			VP(PRP)
+				V(H)
+					 tiếp
+				NP(DOB)
+					Nc(H)
+						 đoàn
+	,
+		 ,
+	C
+		 nhưng
+	S
+		PP(ADV)
+			R
+				 vừa
+			V(H)
+				 tới
+			NP(LOC)
+				N(H)
+					 cổng
+		NP(SUB)
+			 *E*
+		VP
+			R
+				 đã
+			V(H)
+				 bị
+			NP(DOB)
+				R
+					 hàng
+				M
+					 ngàn
+				N(H)
+					 tiếng
+				VP
+					V(H)
+						 la ó
+				:
+					 :
+				"
+					 "
+				VP(VOC)
+					VP
+						V(H)
+							 Vô
+						R
+							 đi
+					,
+						 ,
+					VP
+						V(H)
+							 vô
+						R
+							 đi
+				,
+					 ,
+				VP
+					V(H)
+						 yêu cầu
+					SBAR
+						S
+							NP(SUB)
+								Np(H)
+									 Nguyễn Khánh
+							VP
+								V(H)
+									 ra
+								NP(LOC)
+									P(H)
+										 đây
+				!
+					 !
+				"
+					 "
+	.
+		 .
+</s>
+<s id = "25">
+S
+	NP(SUB)
+		M
+			 Một
+		N(H)
+			 đại diện
+		PP
+			E(H)
+				 của
+			NP
+				Nc(H)
+					 đoàn
+				V
+					 biểu tình
+	VP
+		VP
+			V(H)
+				 bước
+			V
+				 tới
+			VP
+				V(H)
+					 thông báo
+				SBAR(PRP)
+					E(H)
+						 cho
+					S
+						NP(SUB)
+							Np(H)
+								 Nghiêm Xuân Hồng
+						VP
+							V(H)
+								 biết
+							SBAR
+								S
+									NP(SUB)
+										N(H)
+											 ông
+									AP(PRD)
+										R
+											 không
+										A(H)
+											 đủ
+										NP
+											N(H)
+												 tư cách
+											VP(PRP)
+												V(H)
+													 nói chuyện
+		C
+			 và
+		VP
+			V(H)
+				 đòi
+			SBAR
+				S
+					NP(SUB)
+						Np(H)
+							 Nguyễn Khánh
+					VP
+						V(H)
+							 phải
+						V
+							 trả lời
+						RP
+							R(H)
+								 tức khắc
+						PP
+							E(H)
+								 đối với
+							NP
+								L
+									 những
+								N(H)
+									 điều
+								VP
+									R
+										 đã
+									V(H)
+										 nêu
+									R
+										 ra
+									PP(LOC)
+										E(H)
+											 trong
+										NP
+											N(H)
+												 kiến nghị
+									NP(TMP)
+										N(H)
+											 ngày
+										M
+											 21
+										-
+											 -
+										M
+											 8
+	.
+		 .
+</s>
+<s id = "26">
+S
+	S
+		NP(SUB)
+			Np(H)
+				 Hồng
+		VP
+			R
+				 đang
+			V(H)
+				 phân trần
+	C
+		 thì
+	S
+		NP(SUB)
+			M
+				 một
+			N(H)
+				 học sinh
+		VP
+			VP
+				V(H)
+					 nhào
+				V
+					 tới
+				PP(LOC)
+					E(H)
+						 sau
+					NP
+						N(H)
+							 lưng
+			VP
+				V(H)
+					 nắm
+				NP(DOB)
+					M
+						 hai
+					N(H)
+						 cánh tay
+			VP
+				V(H)
+					 xoay
+				NP(DOB)
+					N(H)
+						 người
+					Np
+						 Hồng
+					NP(EXT)
+						M
+							 nửa
+						N(H)
+							 vòng
+			VP
+				VP
+					R
+						 vừa
+					V(H)
+						 đẩy
+					V
+						 vào
+					PP(LOC)
+						E(H)
+							 trong
+						NP
+							N(H)
+								 cửa
+				VP
+					R
+						 vừa
+					V(H)
+						 la
+					A
+						 lớn
+					:
+						 :
+					"
+						 "
+					VP(VOC)
+						V(H)
+							 Vô
+						!
+							 !
+						V(H)
+							 Vô
+						!
+							 !
+					"
+						 "
+	.
+		 .
+</s>
+<s id = "27">
+S
+	NP(SUB)
+		Np(H)
+			 Nguyễn Khánh
+	VP
+		VP
+			V(H)
+				 phải
+			VP
+				V(H)
+					 ra mặt
+		C
+			 và
+		VP
+			R
+				 lập tức
+			V(H)
+				 bị
+			VP
+				V(H)
+					 bao vây
+	.
+		 .
+</s>
+<s id = "28">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Đại diện
+			NP
+				Nc(H)
+					 đoàn
+				V
+					 biểu tình
+		VP
+			V(H)
+				 đọc
+			VP
+				V(H)
+					 tuyên cáo
+			VP
+				V(H)
+					 xong
+	,
+		 ,
+	S(PV)
+		NP(SUB)
+			Nc(H)
+				 cái
+			Nb
+				 mirco
+			VP
+				V(H)
+					 cầm
+				N
+					 tay
+		VP
+			V(H)
+				 được
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 chuyển
+						PP
+							E(H)
+								 tới
+							NP(DOB)
+								A
+									 nhiều
+								N(H)
+									 người
+	,
+		 ,
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 nêu
+			NP(DOB)
+				L
+					 những
+				N(H)
+					 câu
+				V
+					 chất vấn
+				PP
+					PP
+						E(H)
+							 về
+						NP
+							NP
+								N(H)
+									 tình trạng
+								A
+									 khẩn trương
+							,
+								 ,
+							NP
+								N(H)
+									 vấn đề
+								V
+									 giới nghiêm
+						,
+							 ,
+						VP
+							VP
+								V(H)
+									 kiểm duyệt
+								N
+									 báo chí
+							,
+								 ,
+							VP
+								V(H)
+									 trả thù
+								NP(DOB)
+									L
+										 những
+									N(H)
+										 người
+									VP
+										V(H)
+											 chống
+										NP(DOB)
+											Np(H)
+												 Diệm
+											PP(LOC)
+												E(H)
+													 ở
+												NP
+													L
+														 một số
+													N(H)
+														 địa phương
+					,
+						 ,
+					PP
+						E(H)
+							 về
+						NP
+							NP
+								Nc(H)
+									 sự
+								A
+									 phi pháp
+							C
+								 và
+							NP
+								S
+									 phản
+								N(H)
+									 dân chủ
+							PP
+								E(H)
+									 của
+								NP
+									N(H)
+										 Hiến chương
+									Np
+										 Vũng Tàu
+	...
+		 ...
+</s>
+<s id = "29">
+S
+	NP(TPC)
+		L
+			 Một số
+		N(H)
+			 tư liệu
+		PP(LOC)
+			E(H)
+				 trong
+			NP
+				N(H)
+					 bài
+				V
+					 viết
+				P
+					 này
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		R
+			 có
+		V(H)
+			 sử dụng
+		;
+			 :
+		NP
+			N(H)
+				 Ký sự
+			PP
+				E(H)
+					 của
+				NP
+					L
+						 các
+					N(H)
+						 tác giả
+					NP
+						Np(H)
+							 Nguyễn Nguyên
+					,
+						 ,
+					NP
+						Np(H)
+							 Phúc Tiến
+					,
+						 ,
+					NP
+						Np(H)
+							 Nguyễn Hữu Đức
+					,
+						 ,
+					NP
+						Np(H)
+							 Hàng Chức Nguyên
+					PP(LOC)
+						E(H)
+							 trong
+						NP
+							Nc(H)
+								 cuốn
+							NP
+								Np(H)
+									 Trui rèn
+								PP
+									E(H)
+										 trong
+									NP
+										N(H)
+											 lửa
+										A
+											 đỏ
+			PP
+				E(H)
+					 của
+				NP
+					Ny(H)
+						 NXB
+					Np
+						 Văn Nghệ
+				C
+					 và
+				NP
+					Np(H)
+						 Thành đoàn
+					Ny
+						 TNCS
+					Np
+						 Hồ Chí Minh
+					QP(TMP)
+						M(H)
+							 1985
+	.
+		 .
+</s>
+<s id = "30">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Ghi chép
+		PP
+			E(H)
+				 theo
+			NP
+				N(H)
+					 lời
+				V
+					 kể
+				PP
+					E(H)
+						 của
+					NP
+						L
+							 một số
+						N(H)
+							 anh chị
+						NP
+							NP
+								N(H)
+									 cán bộ
+								Np
+									 Đoàn
+							C
+								 và
+							NP
+								N(H)
+									 cán bộ
+								N
+									 phong trào
+								NP
+									NP
+										N(H)
+											 thanh niên
+									,
+										 ,
+									NP
+										N(H)
+											 sinh viên
+									,
+										 ,
+									NP
+										N(H)
+											 học sinh
+							NP(LOC)
+								Np(H)
+									 Sài Gòn
+	.
+		 .
+</s>
+<s id = "31">
+S
+	NP(SUB)
+		Np(H)
+			 Nguyễn Khánh
+	VP
+		PP(LOC)
+			E(H)
+				 từ
+			E
+				 trên
+			NP
+				N(H)
+					 mui
+				N
+					 xe
+		VP
+			V(H)
+				 nhảy
+			V
+				 xuống
+			NP(LOC)
+				N(H)
+					 đất
+	,
+		 ,
+	XP
+		X(H)
+			 bước tới bước lui
+	.
+		 .
+</s>
+<s id = "32">
+S
+	NP(MNR)
+		NP
+			N(H)
+				 Nét
+			N
+				 mặt
+			AP
+				R
+					 đầy
+				A(H)
+					 cay đắng
+		,
+			 ,
+		NP
+			N(H)
+				 mồ hôi
+			A
+				 đầm đìa
+	,
+		 ,
+	NP(SUB)
+		Np(H)
+			 Nguyễn Khánh
+	VP
+		V(H)
+			 ấp a ấp úng
+		:
+			 :
+		SBAR
+			S
+				S
+					NP(SUB)
+						P(H)
+							 Tôi
+					C
+						 mà
+					AP(PRD)
+						A(H)
+							 độc tài
+						I
+							 à
+				,
+					 ,
+				S
+					SBAR(PRP)
+						C
+							 nếu
+						S(CND)
+							NP(SUB)
+								P(H)
+									 tôi
+							AP(PRD)
+								A(H)
+									 độc tài
+					C
+						 thì
+					S
+						NP(SUB)
+							L
+								 mọi
+							N(H)
+								 người
+						VP
+							R
+								 cứ việc
+							V(H)
+								 đả đảo
+							NP(DOB)
+								P(H)
+									 tôi
+	.
+		 .
+</s>
+<s id = "33">
+S
+	R
+		 Lập tức
+	NP(SUB)
+		M
+			 một
+		N(H)
+			 sinh viên
+	VP
+		VP
+			V(H)
+				 giật
+			V
+				 lấy
+			NP(DOB)
+				Nb(H)
+					 micro
+		VP
+			V(H)
+				 *E*
+			:
+				 :
+			SBAR
+				S
+					SBAR
+						C
+							 Nếu
+						S(CND)
+							NP(SUB)
+								 *E*
+							AP(PRD)
+								R
+									 không
+								A(H)
+									 độc tài
+					C
+						 thì
+					S
+						WHNP
+							P(H)
+								 sao
+						NP(SUB)
+							L
+								 mọi
+							N(H)
+								 người
+						VP
+							R
+								 lại
+							V(H)
+								 phải
+							VP
+								V(H)
+									 biểu tình
+								VP(PRP)
+									V(H)
+										 chống
+									AP
+										A(H)
+											 độc tài
+	?
+		 ?
+</s>
+<s id = "34">
+S
+	NP(SUB)
+		 *E*
+	VP
+		VP
+			R
+				 Không thể
+			V(H)
+				 chối bỏ
+			PP(MNR)
+				E(H)
+					 bằng
+				NP
+					N(H)
+						 lời nói
+		C
+			 mà
+		VP
+			V(H)
+				 phải
+			PP(MNR)
+				E(H)
+					 bằng
+				NP
+					N(H)
+						 hành động
+	.
+		 .
+</s>
+<s id = "35">
+SQ
+	NP(SUB)
+		N(H)
+			 Anh chị em
+	VP
+		R
+			 có
+		V(H)
+			 đồng ý
+		R
+			 không
+	?
+		 ?
+</s>
+<s id = "36">
+S
+	NP(SUB)
+		P
+			 Từng
+		N(H)
+			 chập
+		NP
+			L
+				 những
+			N(H)
+				 tiếng
+			V
+				 hô
+	AP(PRD)
+		A(H)
+			 rền
+		A
+			 vang
+		NP(LOC)
+			M
+				 một
+			N(H)
+				 góc
+			N
+				 trời
+		:
+			 :
+		"
+			 "
+		VP(VOC)
+			V(H)
+				 Đả đảo
+			AP
+				A(H)
+					 độc tài
+				A
+					 quân phiệt
+		!
+			 !
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "37">
+S
+	NP(SUB)
+		T
+			 Cả
+		Np(H)
+			 Nguyễn Khánh
+	S(PRD)
+		NP(SUB)
+			R
+				 cũng
+			M
+				 một
+			N(H)
+				 tay
+		VP
+			V(H)
+				 vung
+			V
+				 lên
+	,
+		 ,
+	S(PRD)
+		NP(SUB)
+			M
+				 một
+			N(H)
+				 tay
+		VP
+			V(H)
+				 cầm
+			NP(DOB)
+				Nb(H)
+					 micro
+				:
+					 :
+				"
+					 "
+				VP(VOC)
+					V(H)
+						 Đả đảo
+				"
+					 "
+	.
+		 .
+</s>
+<s id = "38">
+S
+	AP(ADV)
+		A(H)
+			 Rõ ràng
+	NP(SUB)
+		N(H)
+			 ông
+		P
+			 ta
+	UCP
+		VP
+			V(H)
+				 thất thần
+		AP(PRD)
+			A(H)
+				 quýnh quáng
+		PP
+			E(H)
+				 trước
+			NP
+				N(H)
+					 áp lực
+				N
+					 quần chúng
+	.
+		 .
+</s>
+<s id = "39">
+S
+	NP(TMP)
+		M
+			 Ba
+		Nu(H)
+			 tiếng
+		N
+			 đồng hồ
+		PP
+			E(H)
+				 sau
+			NP
+				N(H)
+					 khi
+				SBAR
+					S
+						NP(SUB)
+							Np(H)
+								 Khánh
+						AP(PRD)
+							A(H)
+								 lầm lũi
+							VP
+								V(H)
+									 quay
+								V
+									 vào
+								NP(LOC)
+									N(H)
+										 dinh
+	,
+		 ,
+	NP(SUB)
+		M
+			 một
+		N(H)
+			 đại diện
+	VP
+		V(H)
+			 ra
+		VP(PRP)
+			V(H)
+				 đọc
+			V
+				 tuyên cáo
+			:
+				 :
+			SBAR
+				S
+					NP(SUB)
+						Np(H)
+							 Khánh
+					VP
+						VP
+							V(H)
+								 hủy bỏ
+							NP(DOB)
+								Nc(H)
+									 bản
+								Np
+									 Hiến chương
+								Np
+									 Vũng Tàu
+						C
+							 và
+						VP
+							V(H)
+								 từ chức
+							NP(DOB)
+								N(H)
+									 chủ tịch
+								Np
+									 Việt Nam
+								N
+									 cộng hòa
+	.
+		 .
+</s>
+<s id = "40">
+S
+	NP(SUB)
+		N(H)
+			 Lúc
+		P
+			 đó
+	VP
+		V(H)
+			 là
+		NP(TMP)
+			M
+				 14
+			Nu(H)
+				 g
+			M
+				 55
+	.
+		 .
+</s>
+<s id = "41">
+S
+	NP(SUB)
+		Nc(H)
+			 Đoàn
+		V
+			 biểu tình
+	PP(LOC)
+		E(H)
+			 từ
+		NP
+			N(H)
+				 phủ
+			N
+				 chủ tịch
+	VP
+		V(H)
+			 diễu hành
+		PP(LOC)
+			E(H)
+				 về
+			NP
+				N(H)
+					 quảng trường
+				Np
+					 Diên Hồng
+	.
+		 .
+</s>
+<s id = "42">
+S
+	AP(LOC)
+		A(H)
+			 Dọc
+		N
+			 đường
+	,
+		 ,
+	VP
+		V(H)
+			 có
+		SBAR
+			SNP(SUB)
+				T
+					 cả
+				M
+					 trăm ngàn
+				N(H)
+					 đồng bào
+				PP(LOC)
+					E(H)
+						 từ
+					AP
+						A(H)
+							 khắp
+						N
+							 nơi
+			AP(PRD)
+				AP
+					A(H)
+						 tự giác
+					VP
+						V(H)
+							 đến
+						VP(PRP)
+							V(H)
+								 tăng cường
+							PP(IOB)
+								E(H)
+									 cho
+								NP
+									Nc(H)
+										 đoàn
+				,
+					 ,
+				AP
+					A(H)
+						 sẵn sàng
+					VP
+						V(H)
+							 gây
+						NP(DOB)
+							N(H)
+								 sức ép
+				SBAR
+					C
+						 nếu
+					S
+						NP(SUB)
+							Np(H)
+								 Nguyễn Khánh
+						AP(PRD)
+							R
+								 còn
+							A(H)
+								 ngoan cố
+	.
+		 .
+</s>
+<s id = "43">
+S
+	NP(SUB)
+		N(H)
+			 Trận
+		V
+			 đánh
+		QP(TMP)
+			M
+				 25
+			-
+				 -
+			M
+				 8
+			-
+				 -
+			M
+				 1964
+	VP
+		V(H)
+			 kết thúc
+		VP
+			V(H)
+				 thắng lợi
+	.
+		 .
+</s>
+<s id = "44">
+S
+	S
+		NP(SUB)
+			Np(H)
+				 Mỹ
+		VP
+			R
+				 không
+			V(H)
+				 ngờ
+			R
+				 được
+			NP(DOB)
+				Nc(H)
+					 sự
+				V
+					 đột biến
+	,
+		 ,
+	S
+		NP(SUB)
+			NP
+				N(H)
+					 lực lượng
+				NP
+					N(H)
+						 chính trị
+					N
+						 thanh niên
+			,
+				 ,
+			NP
+				Ny(H)
+					 SVHS
+			C
+				 và
+			NP
+				L
+					 các
+				N(H)
+					 giới
+			PP(TMP)
+				E(H)
+					 ở
+				NP
+					N(H)
+						 phút
+					A
+						 chót
+		VP
+			R
+				 đã
+			V(H)
+				 quật
+			V
+				 nhào
+			NP(DOB)
+				Np(H)
+					 Nguyễn Khánh
+				,
+					 ,
+				AP
+					A(H)
+						 đương kim
+					NP
+						N(H)
+							 nguyên thủ
+						N
+							 quốc gia
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 chế độ
+								Np
+									 Sài Gòn
+	.
+		 .
+</s>

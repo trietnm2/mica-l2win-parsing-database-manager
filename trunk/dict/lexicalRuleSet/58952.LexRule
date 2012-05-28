@@ -1,0 +1,539 @@
+" : "	14
+, : ,	56
+- : -	10
+. : .	55
+... : ...	1
+: : :	6
+A : Hơn	1
+A : Nhiều	1
+A : bùi ngùi	1
+A : bại liệt	1
+A : cao	2
+A : chính	1
+A : chật	1
+A : còng	1
+A : cùng	3
+A : dài	1
+A : ghê gớm	1
+A : giỏi	5
+A : kha khá	1
+A : khuyết tật	1
+A : khác	3
+A : khó khăn	1
+A : kinh khủng	1
+A : kém	1
+A : kín	1
+A : kịp	1
+A : lâu	1
+A : mịt mù	1
+A : nghèo	1
+A : ngắn ngủi	1
+A : nhiều	1
+A : như	1
+A : nhỏ	1
+A : phải	1
+A : rạng rỡ	1
+A : suốt	1
+A : thiêng liêng	1
+A : thân thiết	1
+A : thân yêu	1
+A : thẳng thừng	1
+A : tinh nghịch	1
+A : tài giỏi	1
+A : tất tả	1
+A : tật nguyền	6
+A : vững	1
+A : xa	1
+A : xa lạ	1
+A : xuất sắc	1
+A : yếu	1
+A : ít	1
+A : đầu tiên	2
+A : đầy	1
+A : ẹ	1
+C : Rồi	1
+C : Và	1
+C : Vậy	1
+C : còn	1
+C : dù	2
+C : hay	1
+C : là	5
+C : mà	3
+C : mà còn	2
+C : như	2
+C : nhưng	8
+C : nên	2
+C : rằng	3
+C : rồi	3
+C : thì	4
+C : và	13
+C : với lại	1
+E : Lên	1
+E : Sau	2
+E : Trong	1
+E : Từ	1
+E : Với	1
+E : cho	13
+E : của	23
+E : dù	2
+E : sau	3
+E : trong	3
+E : trên	2
+E : tại	4
+E : từ	3
+E : vào	2
+E : vì	6
+E : về	4
+E : với	8
+E : Đến	3
+E : Để	1
+E : đến	2
+E : để	6
+E : Ở	1
+E : ở	9
+L : Những	2
+L : chút ít	1
+L : các	6
+L : mấy	1
+L : những	15
+LBKT : LBKT	6
+M : 12	1
+M : 1990	1
+M : 1993	1
+M : 1995	1
+M : 1999	1
+M : 2003	1
+M : 2004	2
+M : 3	1
+M : 38	1
+M : 6	3
+M : I	2
+M : II	1
+M : III	1
+M : Một	1
+M : ba	1
+M : bảy	1
+M : bốn	1
+M : hai	1
+M : một	13
+M : đôi	4
+N : Bạn bè	1
+N : Bộ	1
+N : Chị	8
+N : Giáo dục	1
+N : Giờ đây	1
+N : Hiện nay	1
+N : Hồi	1
+N : Kinh tế	2
+N : Lúc	1
+N : Ngân hàng	1
+N : Người ta	1
+N : Nỗ lực	1
+N : Quyết tâm	1
+N : Quĩ	1
+N : Sư phạm	3
+N : Tháng	1
+N : Trường	3
+N : Tuổi thơ	1
+N : bom đạn	1
+N : buổi	1
+N : bé	1
+N : bí thư	1
+N : bạn	1
+N : bằng	2
+N : chi đội trưởng	1
+N : chiến tranh	1
+N : chân	4
+N : chính sách	2
+N : chương trình	2
+N : chết chóc	1
+N : chị	48
+N : chức năng	1
+N : con	2
+N : con người	1
+N : con nuôi	1
+N : cuối	1
+N : cách	1
+N : công trình	1
+N : công tác	2
+N : cơ hội	2
+N : cảnh ngộ	1
+N : cấp	4
+N : cố vấn	2
+N : cử nhân	1
+N : gia đình	1
+N : giáo sư	2
+N : giáo trình	2
+N : huyện	1
+N : hình ảnh	2
+N : hôm nay	1
+N : họa	1
+N : học bổng	1
+N : học kỳ	1
+N : hồ sơ	1
+N : hồi	1
+N : hội nghị	1
+N : hội đồng	1
+N : khi	6
+N : khiếu	1
+N : khoa	1
+N : khoa học	1
+N : khoảng	1
+N : khuyết tật	1
+N : kiến thức	1
+N : kỳ	1
+N : kỹ năng	1
+N : liên đội trưởng	1
+N : làng	1
+N : lúc	2
+N : lúc nào	1
+N : lưng	1
+N : lần	4
+N : may	1
+N : mẹ	3
+N : nghị sĩ	1
+N : ngoại ngữ	4
+N : ngành	1
+N : ngày	2
+N : ngày xưa	2
+N : người	8
+N : người ta	2
+N : người thân	1
+N : ngần	1
+N : nhà	3
+N : nhóm	1
+N : năm	7
+N : năm học	1
+N : năng lực	4
+N : nơi	2
+N : nước	1
+N : nước ngoài	2
+N : quãng	1
+N : quê	2
+N : quê hương	4
+N : sau này	1
+N : sách	2
+N : số	1
+N : sốc	3
+N : sức	1
+N : thiếu niên	1
+N : thành tích	1
+N : tháng	1
+N : thân phận	1
+N : thóc	1
+N : thượng nghị sĩ	1
+N : thượng viện	1
+N : thạc sĩ	1
+N : thời gian	3
+N : tiến sĩ	1
+N : tiếng	8
+N : tiền phong	1
+N : toàn phần	1
+N : trên hết	1
+N : trước	1
+N : trường	5
+N : trẻ	1
+N : trụ sở	1
+N : tuổi	2
+N : tài liệu	2
+N : tên	1
+N : tình cảnh	1
+N : tổng thống	1
+N : việc	1
+N : việc làm	3
+N : vấn đề	1
+N : vốn	2
+N : xã	1
+N : ông	1
+N : ý nghĩ	1
+N : ý định	1
+N : Đoàn	1
+N : Đội	1
+N : điều kiện	1
+N : điểm	2
+N : đóng góp	1
+N : đơn	1
+N : đường	1
+N : đất đỏ	1
+N : đầu	3
+N : đầu tiên	1
+N : đề tài	2
+N : đời	3
+NP : *E*	11
+NP : *T	1
+NP : *T*	8
+Nc : Cô	1
+Nc : bà	1
+Nc : chị	1
+Nc : cái	1
+Nc : cô	2
+Nc : cú	3
+Nc : hạt	1
+Nc : loại	1
+Nc : người	1
+Nc : sự	1
+Nc : tấm	1
+Nc : đống	1
+Nc : đứa	4
+Np : Anh	6
+Np : Ford	1
+Np : Glen White	2
+Np : Hiệp Phước	1
+Np : Hội	1
+Np : Judith E . Heuman	1
+Np : Kansas	3
+Np : Mỹ	8
+Np : Nga	1
+Np : Nhà Trắng	1
+Np : Nhơn Trạch	1
+Np : Thế giới	1
+Np : Tom Harkins	1
+Np : Troy Justesen	1
+Np : Việt Nam	1
+Np : Võ Thị Hoàng Yến	1
+Np : Washington DC	2
+Np : Yến	2
+Np : Út	3
+Np : Đoàn	2
+Np : Đà Lạt	1
+Np : Đồng Nai	1
+Ny : A	1
+Ny : C	1
+Ny : NIDRR	1
+Ny : NKT	11
+Ny : SV	4
+Ny : TP.HCM	4
+Ny : VN	4
+Ny : WB	2
+Ny : ĐH	10
+P : Cả	1
+P : ai	2
+P : cả	2
+P : gì	2
+P : họ	1
+P : mình	21
+P : nào	2
+P : này	2
+P : nọ	1
+P : sao	1
+P : thế	3
+P : tôi	3
+P : tự	1
+P : vậy	1
+P : đâu	1
+P : đích thân	1
+P : đó	9
+P : Ấy	1
+R : Càng	1
+R : Không	1
+R : Không những	2
+R : Thật ra	1
+R : biết đâu	1
+R : cho	2
+R : chưa	1
+R : chẳng	1
+R : chẳng qua	1
+R : chỉ	4
+R : càng	1
+R : còn	6
+R : có thể	1
+R : cùng	1
+R : cũng	8
+R : cứ	2
+R : dần	1
+R : hay	2
+R : hoàn toàn	1
+R : hàng	1
+R : hầu như	1
+R : hết	2
+R : không	11
+R : không thể	2
+R : liền	1
+R : lên	1
+R : lại	8
+R : lắm	1
+R : một mực	2
+R : mới	3
+R : ngay	1
+R : nhất	2
+R : qua	1
+R : ra	4
+R : rất	1
+R : sẽ	2
+R : thêm	1
+R : thậm chí	1
+R : thật	1
+R : thừa	1
+R : từng	2
+R : tự	1
+R : vào	4
+R : về	5
+R : Đồng thời	1
+R : đang	1
+R : đâu	1
+R : đã	11
+R : được	11
+R : đến	4
+R : đều	1
+RBKT : RBKT	6
+S : tân	1
+T : Thế	1
+T : gì	1
+T : lắm	1
+T : ngay	2
+T : riêng	2
+T : thôi	1
+T : trời	1
+V : Chia tay	1
+V : Cố gắng	1
+V : Giúp	1
+V : Gõ cửa	1
+V : Học	1
+V : Là	1
+V : Lặng thinh	1
+V : Nghĩ	1
+V : Nhờ	1
+V : Nói	1
+V : Trở	1
+V : Từ chối	1
+V : Xin	1
+V : biết	5
+V : buồn	1
+V : buộc	1
+V : bày tỏ	1
+V : báo cáo	1
+V : bước	1
+V : bị	5
+V : bỏ	1
+V : bộc bạch	1
+V : chọc ghẹo	1
+V : coi thường	1
+V : có	5
+V : công nhận	1
+V : cười	1
+V : cần	1
+V : cắp	1
+V : cố	1
+V : cố công	1
+V : cố gắng	1
+V : dành	1
+V : dưỡng thương	1
+V : dạy	2
+V : dự	1
+V : gián đoạn	1
+V : giáo dục	1
+V : giúp	1
+V : giảng dạy	2
+V : gặp	4
+V : gặp gỡ	1
+V : hiểu	1
+V : học	16
+V : học tập	3
+V : hứa	1
+V : in	1
+V : kiếm	1
+V : kiểm tra	1
+V : kèm	1
+V : kể	1
+V : lao	1
+V : liên quan	2
+V : lo lắng	1
+V : lo âu	1
+V : là	12
+V : làm	4
+V : làm quen	1
+V : làm việc	2
+V : lê	1
+V : lên	1
+V : lắc đầu	1
+V : lớn	1
+V : mang	2
+V : muốn	1
+V : mắc cỡ	1
+V : mặc cảm	1
+V : mổ	1
+V : mời	4
+V : nghe	1
+V : nghiên cứu	3
+V : nghĩ	1
+V : nghĩ lại	1
+V : nhận	4
+V : nhặt	1
+V : nhớ	1
+V : nhờ	1
+V : nuôi	1
+V : nói	5
+V : nói chuyện	2
+V : nằm	1
+V : nỗ lực	1
+V : phát hiện	1
+V : phát triển	3
+V : phù hợp	1
+V : phải	8
+V : phản kháng	1
+V : phụ trách	1
+V : phục hồi	1
+V : quay	1
+V : rước	1
+V : sang	1
+V : sinh	1
+V : soạn	1
+V : sắp xếp	1
+V : sống	4
+V : tham gia	3
+V : theo	2
+V : thi	5
+V : thiếu	2
+V : thuộc	1
+V : thành	1
+V : thêm	1
+V : thương hại	1
+V : thấm thía	1
+V : thấy	1
+V : thắc thỏm	1
+V : tiếp	1
+V : tiếp tục	1
+V : trao đổi	1
+V : truyền đạt	1
+V : trêu chọc	1
+V : trêu đùa	1
+V : trở	1
+V : trở thành	1
+V : trợ giảng	1
+V : tâm niệm	1
+V : tìm	2
+V : tích lũy	1
+V : tỏ	1
+V : tốt nghiệp	2
+V : tủi	1
+V : từ chối	2
+V : tự tin	2
+V : tự vệ	1
+V : vào	1
+V : vác	1
+V : vô	1
+V : vượt	1
+V : vượt bậc	1
+V : xa	1
+V : xa lánh	1
+V : xem	1
+V : xin	4
+V : ái ngại	1
+V : ăn học	1
+V : Được	2
+V : Đứng	1
+V : đau	1
+V : đi	3
+V : đoạt	2
+V : đánh giá	1
+V : đòi	1
+V : đóng góp	1
+V : được	13
+V : đạt	1
+V : đậu	2
+V : đến	2
+V : định cư	1
+V : đọc	1
+V : đồng ý	1
+V : ở	2
+X : vừa qua	1

@@ -1,0 +1,456 @@
+" : "	7
+, : ,	47
+- : -	8
+- : –	2
+. : .	41
+... : ...	14
+: : :	6
+A : bàng hoàng	1
+A : cao	2
+A : chấn thương	1
+A : có thể	3
+A : cùng	1
+A : dài	1
+A : dữ dội	1
+A : gần	3
+A : hơn	2
+A : khác	1
+A : khủng khiếp	1
+A : kịp thời	1
+A : lâu	1
+A : lơ lửng	1
+A : lạnh	2
+A : lớn	7
+A : may mắn	3
+A : mạnh	3
+A : mịt mùng	2
+A : mới	1
+A : nghiêng	1
+A : nguy hiểm	2
+A : nhanh	1
+A : nhiều	5
+A : nhất	1
+A : quá	2
+A : rách	2
+A : sau cùng	1
+A : sát	1
+A : sâu	1
+A : sớm	1
+A : to	1
+A : tròn	2
+A : trưởng	1
+A : trực tiếp	1
+A : tơi tả	1
+A : vội	1
+A : xa	1
+A : xấu số	2
+A : xẹp	1
+A : đầu tiên	1
+A : đẹp	3
+A : đủ	1
+C : Còn	1
+C : Nhưng	1
+C : Thế là	1
+C : Và	2
+C : chứ	1
+C : còn	1
+C : cùng	1
+C : hay	1
+C : hoặc	1
+C : là	1
+C : mà	2
+C : như	3
+C : nhưng	5
+C : nên	2
+C : nếu	2
+C : thì	8
+C : và	14
+E : Sau	2
+E : Trong	3
+E : bởi	1
+E : cho	5
+E : của	8
+E : do	2
+E : dưới	1
+E : lên	2
+E : ngoài	1
+E : theo	2
+E : trong	3
+E : trên	7
+E : tại	3
+E : tới	2
+E : từ	4
+E : vào	15
+E : vì	2
+E : với	4
+E : xuống	2
+E : đến	2
+E : để	4
+E : Ở	1
+E : ở	1
+L : Các	2
+L : các	3
+L : mấy	1
+L : mọi	2
+L : những	4
+LBKT : LBKT	7
+M : 10	4
+M : 100	1
+M : 12	1
+M : 13	1
+M : 15	1
+M : 1944	1
+M : 20	1
+M : 2003	2
+M : 21	1
+M : 22	2
+M : 25	1
+M : 26	1
+M : 27	1
+M : 3	1
+M : 35	3
+M : 46	1
+M : 47	1
+M : 5	1
+M : 6	1
+M : Mỗi	1
+M : hai	3
+M : mỗi	2
+M : một	4
+M : một chút	1
+M : trăm	1
+N : Anh em	1
+N : Bệnh viện	1
+N : Bộ đội	1
+N : Chiều	1
+N : Khi	2
+N : Lúc	2
+N : Lớp học	1
+N : Nước	1
+N : Sáng	1
+N : Tai ương	1
+N : Thuyền trưởng	2
+N : Thủy thủ	1
+N : Trời	1
+N : Tàu	2
+N : anh	2
+N : anh em	3
+N : ban đầu	2
+N : biên phòng	1
+N : biển	2
+N : boong	3
+N : chiếc	2
+N : chân	1
+N : chủ	1
+N : chừng	3
+N : chữ	3
+N : cá nhân	1
+N : cách	4
+N : cây số	1
+N : công ty	2
+N : cõi	1
+N : cấp	2
+N : cầu cảng	1
+N : dây	8
+N : gia tộc	1
+N : gió	1
+N : giường	1
+N : hi vọng	1
+N : hiệu lệnh	1
+N : hôm qua	1
+N : hướng	1
+N : hệ thống	1
+N : họ	2
+N : học viên	1
+N : khi	8
+N : khoảng	1
+N : khoảng cách	1
+N : khả năng	1
+N : kênh	1
+N : lúc	3
+N : lần	3
+N : lệnh	1
+N : lớp	1
+N : máy	1
+N : mình	3
+N : mưa	1
+N : mặt biển	2
+N : người	10
+N : nhau	5
+N : nhà	4
+N : nhà nghỉ	1
+N : năm	1
+N : nước	2
+N : nạn	3
+N : phao	4
+N : phố	2
+N : quê	1
+N : quần đùi	1
+N : sáng	1
+N : sóng	13
+N : sĩ quan	1
+N : số	1
+N : sức	2
+N : tang lễ	1
+N : tay	1
+N : thang	7
+N : thuyền trưởng	2
+N : thành	4
+N : thông báo	1
+N : thông tin	1
+N : thủy thủ	8
+N : toàn cầu	1
+N : truyền thống	1
+N : trên	1
+N : trường hợp	1
+N : tàu	32
+N : tình thế	1
+N : tín hiệu	3
+N : tôi	1
+N : tỉnh	2
+N : tốp	4
+N : va đập	1
+N : vùng biển	1
+N : vẻ	1
+N : vịnh	1
+N : vợ chồng	1
+N : xuồng	2
+N : áo	1
+N : áo phao	2
+N : Đêm tối	1
+N : đài	1
+N : đèn	1
+N : đêm tối	2
+N : đại phó	1
+N : đầu	1
+N : đầu tiên	1
+N : đồng hồ	1
+N : đồng đội	2
+N : độ	1
+NP : *E*	7
+NP : *T*	7
+Nc : Anh	1
+Nc : Con	2
+Nc : anh	4
+Nc : bộ	1
+Nc : ca	1
+Nc : chiếc	4
+Nc : con	4
+Nc : ngôi	1
+Nc : sợi	2
+Np : Cam Ranh	1
+Np : Capability	3
+Np : Dương	1
+Np : Dương Tuấn	2
+Np : Hoàng Đạt	3
+Np : Hà Nội	1
+Np : Hàng Mành	2
+Np : Hải Phòng	1
+Np : Khánh Hòa	2
+Np : Liberia	1
+Np : Lê Văn Vinh	1
+Np : Nguyễn Khắc Trường	1
+Np : Nguyễn Tiến Thảo	1
+Np : Nguyễn Văn Quỳnh	1
+Np : Nguyễn Đình Hùng	1
+Np : Nha Trang	1
+Np : Trường	2
+Np : Trường Sa	1
+Np : Trần Minh Đức	3
+Np : VN	1
+Np : Vũ Ngọc Bình	2
+Np : Ðặng Hải Lý	1
+Np : Đào Xuân Nhung	1
+Nu : giờ	1
+Nu : hải lý	1
+Nu : m	1
+Nu : mét	1
+Nu : tiếng	1
+Nu : tuổi	5
+Nu : độ	2
+P : Bấy giờ	1
+P : Họ	2
+P : Tôi	3
+P : ai	2
+P : chúng tôi	2
+P : gì	1
+P : họ	3
+P : người ta	1
+P : nào	2
+P : nó	1
+P : thế	4
+P : tôi	5
+P : tất cả	3
+P : tự	2
+P : đó	3
+P : ấy	3
+R : Chẳng	1
+R : Vừa	1
+R : cho	3
+R : chưa	1
+R : chẳng thể	1
+R : chỉ	7
+R : càng	2
+R : còn	1
+R : cùng	1
+R : cũng	3
+R : hơn	4
+R : hầu như	1
+R : không	7
+R : không thể	1
+R : lên	2
+R : lại	5
+R : lập tức	1
+R : mới	4
+R : nhất	1
+R : nữa	1
+R : quá	2
+R : ra	3
+R : rất	5
+R : sẽ	5
+R : thỉnh thoảng	1
+R : tức khắc	1
+R : vào	3
+R : vẫn	2
+R : về	2
+R : vừa	4
+R : xuống	4
+R : Đồng thời	1
+R : đang	2
+R : đã	7
+R : được	19
+R : đến	2
+R : đều	1
+R : để	2
+R : đồng thời	1
+RBKT : RBKT	7
+T : Chính	1
+T : Ngay	1
+T : Thế	2
+T : cả	4
+T : lắm	1
+T : ngay	1
+T : nữa	1
+T : thật	1
+T : đến	1
+V : Cứ	1
+V : Phải	1
+V : Trở	1
+V : biết	7
+V : bám	12
+V : báo	1
+V : báo động	2
+V : bơi	1
+V : bắn	1
+V : bị	12
+V : bớt	1
+V : chao	1
+V : cho	5
+V : chung	2
+V : chuyền	1
+V : chuyển	1
+V : chìm	1
+V : chạy	1
+V : chấn thương	1
+V : chết	1
+V : chịu	1
+V : chịu đựng	1
+V : chọn	1
+V : chờ	1
+V : cuốn	2
+V : cách	1
+V : còn	7
+V : có	6
+V : cấp cứu	3
+V : cố	3
+V : cứu	6
+V : cứu hộ	4
+V : dạt	1
+V : dạy	1
+V : dập	3
+V : dội	1
+V : giảm	1
+V : giữ	3
+V : gắng sức	2
+V : ham mê	1
+V : hết	1
+V : kinh hãi	1
+V : kẹp	1
+V : kể	1
+V : liên lạc	1
+V : luyện	1
+V : là	4
+V : làm	1
+V : lên	2
+V : lượn	1
+V : lắc	2
+V : lắc đầu	1
+V : mang	1
+V : mưa	1
+V : mất tích	1
+V : mặc	1
+V : mở	1
+V : nghe	1
+V : nghiêng	4
+V : nghĩ	1
+V : ngủ	1
+V : nhảy	1
+V : nhận	2
+V : nhắc	1
+V : nhồi	1
+V : nhờ	1
+V : nói	5
+V : phát	1
+V : phải	7
+V : quấn	1
+V : ra lệnh	1
+V : rùng mình	1
+V : rút	1
+V : rơi	2
+V : rời	2
+V : sinh	1
+V : sống	1
+V : theo	5
+V : thoát	1
+V : thu hút	1
+V : thuộc	1
+V : thành	1
+V : thả	2
+V : thổi	1
+V : tiếp tế	1
+V : tiếp tục	1
+V : tiễn đưa	1
+V : trôi	2
+V : trở lại	1
+V : trở thành	1
+V : trực	1
+V : tuột	1
+V : tìm	2
+V : tĩnh dưỡng	1
+V : tổ chức	1
+V : tới	1
+V : va đập	2
+V : viết	2
+V : vào	1
+V : văng	1
+V : vơ	1
+V : vướng mắc	1
+V : về	2
+V : với	1
+V : vớt	1
+V : xuống	1
+V : đánh	7
+V : đưa	1
+V : được	7
+V : đạp	1
+V : đẩy	1
+V : đập	1
+V : đặt chân	1
+V : đến	3
+V : ước chừng	1
+V : ập	1
+V : ở	3
+X : Hầu hết	1
+X : ngày càng	1
+“ : “	4
+” : ”	5

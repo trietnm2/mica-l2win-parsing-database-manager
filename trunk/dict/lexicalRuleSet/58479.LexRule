@@ -1,0 +1,670 @@
+" : "	10
+, : ,	136
+- : -	20
+. : .	48
+... : ...	3
+... : …	3
+/ : /	1
+: : :	5
+? : ?	2
+A : Có thể	1
+A : Gần	1
+A : Nhiều	1
+A : Riêng	1
+A : Sợ	1
+A : buốt	1
+A : bình thường	1
+A : cao	3
+A : cao cấp	1
+A : chán	1
+A : chủ yếu	2
+A : cuối	1
+A : cuồn cuộn	1
+A : cùng	2
+A : cạnh	1
+A : cực khổ	1
+A : dẻo	1
+A : gian nan	1
+A : già	1
+A : gần	2
+A : gần gũi	1
+A : ham	1
+A : hơn	2
+A : hạnh phúc	1
+A : hối hận	1
+A : hừng hực	1
+A : khuya	1
+A : khác	2
+A : khỏe	1
+A : kém	1
+A : lâu	1
+A : lêu lổng	1
+A : lù lù	1
+A : lạnh	1
+A : lắm	1
+A : lặng thầm	1
+A : lớn	2
+A : mộc mạc	1
+A : nghèo	1
+A : ngắn	1
+A : ngọt	1
+A : nhanh	1
+A : nhiều	5
+A : như	4
+A : nóng	1
+A : nặng nhọc	1
+A : phải	2
+A : phổ thông	3
+A : riêng	3
+A : ruột thịt	1
+A : rét	1
+A : rõ	1
+A : suốt	1
+A : sâu sắc	1
+A : sạch	1
+A : thông minh	1
+A : thấp	2
+A : trên	2
+A : trước	1
+A : trẻ	4
+A : tận tụy	1
+A : vất vả	1
+A : xuất sắc	1
+A : yêu	2
+A : âm thầm	1
+A : âu yếm	1
+A : êm đềm	1
+A : ít ỏi	1
+A : đầu tiên	1
+A : đầy	2
+A : đậm	1
+A : đặc biệt	3
+C : Nhưng	3
+C : Và	1
+C : còn	1
+C : hay	1
+C : hoặc	2
+C : là	6
+C : lẫn	1
+C : mà	4
+C : như	3
+C : nhưng	6
+C : rằng	1
+C : rồi	3
+C : thì	7
+C : và	14
+C : với	1
+E : Bằng	1
+E : Trong	1
+E : Từ	1
+E : cho	12
+E : của	14
+E : lên	1
+E : qua	1
+E : sau	6
+E : theo	1
+E : trong	17
+E : trên	4
+E : tại	3
+E : từ	6
+E : vào	1
+E : vì	1
+E : với	8
+E : Đến	1
+E : Để	1
+E : đến	5
+E : để	6
+E : ở	8
+I : nhé	1
+I : ơi	1
+L : Các	2
+L : Những	4
+L : các	38
+L : mấy	2
+L : những	15
+LBKT : LBKT	3
+M : 1 . 000	1
+M : 10	2
+M : 108	1
+M : 12	1
+M : 16 . 000	1
+M : 1954	1
+M : 1958	1
+M : 1959	1
+M : 1960	1
+M : 1975	1
+M : 20	2
+M : 22	2
+M : 25	1
+M : 27	1
+M : 28	1
+M : 29	1
+M : 3 . 000	1
+M : 30	3
+M : 30 . 000	1
+M : 300	1
+M : 4	2
+M : 45	1
+M : 50	1
+M : Hai	1
+M : Một	1
+M : ba	3
+M : chín	2
+M : chục	1
+M : cặp	1
+M : hai	2
+M : một	8
+M : ngàn	5
+M : vạn	1
+N : Ba	1
+N : Ban	2
+N : Bây giờ	1
+N : Bên	1
+N : Bộ	3
+N : Chiến lược	1
+N : Chính phủ	1
+N : Cuộc	1
+N : Dân tộc	2
+N : Giáo dục	1
+N : Hôm nay	1
+N : Hệ thống	1
+N : Khi	1
+N : Lương thực	1
+N : Miền	1
+N : Mùa	1
+N : Nay	1
+N : Nội thương	1
+N : Phần lớn	1
+N : Quân y viện	1
+N : Thầy	1
+N : Thứ trưởng	1
+N : Trường	6
+N : Tài chính	1
+N : Y tế	1
+N : anh em	1
+N : anh hùng	1
+N : ba	1
+N : biển	2
+N : bom đạn	1
+N : buôn làng	1
+N : bà	1
+N : bà con	1
+N : bác sĩ	1
+N : bãi	1
+N : bé	3
+N : bên	1
+N : bậc	1
+N : bố mẹ	1
+N : bộ phận	2
+N : bộ trưởng	2
+N : bộ đội	1
+N : canh	1
+N : cha	1
+N : cha mẹ	2
+N : chiến sĩ thi đua	1
+N : chiến tranh	1
+N : chiến đấu	1
+N : chuyên môn	2
+N : chuyên viên	1
+N : chuyện	2
+N : cháu	4
+N : chân tay	1
+N : chính sách	1
+N : chú	10
+N : chăn	2
+N : chấy	1
+N : chế độ	1
+N : chị em	1
+N : chỗ đứng	1
+N : con	7
+N : con em	2
+N : con người	2
+N : cuộc đời	1
+N : cách mạng	2
+N : cán bộ	10
+N : cô	6
+N : công nông	2
+N : công tác	1
+N : cơ sở	1
+N : cơm	2
+N : cạnh	1
+N : cảnh	2
+N : cấp	2
+N : cục phó	1
+N : cục trưởng	1
+N : dân tộc thiểu số	1
+N : em	4
+N : ghẻ lở	1
+N : gia tài	1
+N : gia đình	3
+N : giáo dục	1
+N : giáo viên	1
+N : giường bệnh	1
+N : giọng	1
+N : giọt	1
+N : giờ	2
+N : giữa	2
+N : hè	1
+N : hòa bình	1
+N : hạt giống	2
+N : hẹn ước	1
+N : hệ thống	1
+N : học	1
+N : học bổng	1
+N : học sinh	1
+N : học trò	2
+N : học xá	1
+N : khi	5
+N : khoa học	1
+N : khoa học kỹ thuật	1
+N : khoảng	1
+N : khu	1
+N : kháng chiến	1
+N : kinh nghiệm	1
+N : ký ức	1
+N : kỳ	1
+N : lao động	2
+N : loại hình	1
+N : làng	1
+N : lãnh đạo	2
+N : lòng	4
+N : lúc	3
+N : lĩnh vực	1
+N : lũ	1
+N : lương	2
+N : lớp	2
+N : lời	1
+N : mai	1
+N : miền	30
+N : màn	2
+N : má	3
+N : mô hình	2
+N : mùa	1
+N : mầm	1
+N : mẹ	3
+N : mền	1
+N : mức	1
+N : nghiệp vụ	1
+N : nghĩa tình	1
+N : nghề	3
+N : nghệ thuật	1
+N : ngoại	1
+N : ngày	7
+N : ngày tháng	1
+N : ngón	1
+N : người	11
+N : người lớn	1
+N : nhau	5
+N : nhi đồng	1
+N : nhà	1
+N : nhà doanh nghiệp	1
+N : nhà nước	1
+N : nhà trường	1
+N : nhân viên	1
+N : năm	6
+N : năm học	1
+N : năm tháng	1
+N : nơi	3
+N : nước	3
+N : nước mắt	2
+N : nước ngoài	2
+N : nỗi	1
+N : nội trú	2
+N : nữ sinh	1
+N : phim	2
+N : phó tiến sĩ	1
+N : phương tiện	1
+N : phần	1
+N : phổ thông	1
+N : quần áo	1
+N : quỷ sứ	1
+N : rận	1
+N : sinh hoạt phí	2
+N : sinh viên	1
+N : sung sướng	1
+N : sản xuất	1
+N : sắn	1
+N : số	5
+N : số lượng	1
+N : sự kiện	1
+N : tay	1
+N : thang	1
+N : thiếu nhi	2
+N : thác	1
+N : tháng	1
+N : thơ	1
+N : thầy	8
+N : thầy cô	7
+N : thầy cô giáo	1
+N : thầy giáo	1
+N : thế hệ	2
+N : thời bình	1
+N : thời gian	2
+N : thợ máy	1
+N : thứ trưởng	1
+N : thực phẩm	1
+N : tinh thần	1
+N : tiền	2
+N : trai	1
+N : trình độ	3
+N : trò	1
+N : trường	24
+N : trường học	1
+N : trại	1
+N : trẻ	1
+N : tuổi xuân	1
+N : tâm sức	1
+N : tên	1
+N : tỉnh	1
+N : tối	1
+N : việc	2
+N : vô tâm	1
+N : văn hóa	1
+N : văn học	1
+N : vạ	1
+N : vần	1
+N : vật chất	1
+N : vợ chồng	1
+N : xinê	2
+N : xã hội	1
+N : ông	2
+N : ông bà	2
+N : Đại tá	1
+N : Đảng	1
+N : đêm	2
+N : đò	1
+N : đóng góp	1
+N : đông	1
+N : đường	1
+N : đại học	1
+N : đất	3
+N : đất nước	1
+N : địa phương	1
+N : đồ	1
+N : đồi	1
+N : đồng bào	1
+N : độ	1
+N : đội ngũ	2
+N : đời sống	1
+N : đứa	2
+NP : *E*	15
+NP : *T*	1
+Nc : Chú	1
+Nc : Cô	1
+Nc : anh	1
+Nc : bọn	1
+Nc : chú	2
+Nc : con	2
+Nc : cái	3
+Nc : cô	4
+Nc : cậu	3
+Nc : dòng	1
+Nc : ngôi	2
+Nc : người	4
+Nc : quả	1
+Nc : thầy	3
+Nc : tấm	2
+Nc : Ông	1
+Nc : đứa	1
+Np : Bác Hồ	2
+Np : Bông	1
+Np : Bắc	9
+Np : Campuchia	1
+Np : Cúc	1
+Np : Duyên	3
+Np : Huỳnh Thảng	1
+Np : Hà Đông	3
+Np : Hải Phòng	1
+Np : Kinh	1
+Np : Kiệm	1
+Np : Liên Xô	2
+Np : Luận	1
+Np : Lê Hoàng Yến	1
+Np : Mỹ	1
+Np : Nam	26
+Np : Nam Ninh	1
+Np : Nay Gienny	1
+Np : Nguyễn Tấn Phát	1
+Np : Nguyễn Văn Huyên	1
+Np : Phát	4
+Np : Soạn	1
+Np : Sông Đông	1
+Np : Sự	1
+Np : T	1
+Np : Thảng	1
+Np : Tiến	3
+Np : Trung Quốc	2
+Np : Trường Sơn	1
+Np : Tây Nguyên	1
+Np : Êđê	1
+Np : Đức	1
+Nu : giờ	1
+Nu : năm	2
+Nu : tuổi	1
+Nu : đồng	2
+Ny : CHDC	1
+Ny : CĐ	1
+Ny : GD	1
+Ny : Giáo dục	1
+Ny : HS	18
+Ny : I	1
+Ny : II	1
+Ny : III	1
+Ny : T . Ư	2
+Ny : THCN	1
+Ny : XHCN	2
+Ny : ĐH	4
+Ny : ĐT	1
+P : Chúng tôi	3
+P : Họ	1
+P : ai	1
+P : bao giờ	1
+P : chúng	2
+P : chúng tôi	4
+P : cả	3
+P : họ	3
+P : mình	1
+P : nao	1
+P : nay	3
+P : nào	2
+P : này	5
+P : thế	1
+P : thế nào	1
+P : tất cả	1
+P : Đây	1
+P : đâu	4
+P : đó	2
+P : ấy	2
+R : Cũng	1
+R : chúng	1
+R : chăng	1
+R : chưa	4
+R : chỉ	5
+R : còn	1
+R : có khi	1
+R : cũng	10
+R : dần	1
+R : hàng	6
+R : hơn	4
+R : hầu hết	1
+R : hề	1
+R : không	9
+R : lên	2
+R : lại	6
+R : mới	1
+R : nhất	8
+R : qua	2
+R : ra	6
+R : rất	1
+R : rồi	1
+R : sang	1
+R : từng	1
+R : vào	1
+R : vẫn	5
+R : về	1
+R : vừa	1
+R : Đã	1
+R : đi	4
+R : đã	25
+R : được	1
+R : đều	5
+RBKT : RBKT	3
+S : cựu	1
+S : tổng	2
+T : Ngay	1
+T : chính	2
+T : cả	2
+T : ngay	2
+T : tận	1
+T : đến	4
+V : *E*	1
+V : Còn	1
+V : Khóc	1
+V : Tồn tại	1
+V : Vào	1
+V : bao gồm	1
+V : biết	4
+V : biết ơn	1
+V : băng	1
+V : bị	1
+V : bỏ	2
+V : bổ túc	2
+V : bổ túc văn hóa	1
+V : ca ngợi	1
+V : chia ly	1
+V : chiến tranh	1
+V : chiếu bóng	1
+V : cho	2
+V : chuẩn bị	2
+V : chán	1
+V : chơi	1
+V : chấm dứt	1
+V : chịu	1
+V : chống	1
+V : chủ chốt	1
+V : cung kính	1
+V : cãi cọ	1
+V : còn	2
+V : có	19
+V : cưới	1
+V : cảm phục	1
+V : cấp	1
+V : cấp dưỡng	2
+V : cắp	1
+V : cử	1
+V : dành	5
+V : dạy	1
+V : dấm dứt	1
+V : dự	1
+V : giơ	1
+V : giải phóng	2
+V : giận	1
+V : giận hờn	1
+V : gánh	1
+V : gặp	2
+V : gọi	1
+V : gửi	6
+V : hi sinh	1
+V : hư hỏng	1
+V : hưu	1
+V : hết	4
+V : hề	1
+V : học	9
+V : học tập	3
+V : khang trang	1
+V : khoác	1
+V : khóc	1
+V : kiêm	1
+V : kế cận	1
+V : kể	1
+V : lao động	1
+V : lo	4
+V : là	13
+V : làm	4
+V : lên	1
+V : lên cơn	1
+V : lăn	1
+V : lấy	3
+V : lập	1
+V : muốn	3
+V : mất hút	1
+V : nghe	2
+V : nghĩ	1
+V : ngồi	1
+V : ngủ nghê	1
+V : nhận	2
+V : nhập viện	1
+V : nhớ	5
+V : nuôi	2
+V : nói	1
+V : nảy	1
+V : nổ	1
+V : nổi tiếng	1
+V : nội trú	1
+V : phá phách	1
+V : phải	5
+V : phản ứng	1
+V : phụ cấp	1
+V : phục vụ	2
+V : qua	1
+V : quản lý	1
+V : ra	4
+V : rơm rớm	1
+V : sinh	1
+V : sinh hoạt	2
+V : sơ tán	1
+V : tham gia	1
+V : thay	1
+V : thu hút	1
+V : thuyết minh	1
+V : thành	3
+V : thành lập	1
+V : thành đạt	1
+V : thương	1
+V : thường trực	1
+V : thấm nhuần	1
+V : thấy	1
+V : thỏa	1
+V : thống nhất	2
+V : thử	1
+V : tiếp phẩm	2
+V : trang	1
+V : truyền tụng	1
+V : trách móc	1
+V : trộm	1
+V : trở thành	3
+V : tuyển	1
+V : tính	1
+V : tăng	1
+V : tập kết	1
+V : tắm giặt	2
+V : tốt nghiệp	1
+V : tổ chức	1
+V : từ nan	1
+V : vào	1
+V : vòng	1
+V : vô tư	1
+V : vượt	2
+V : vẫy	1
+V : về	5
+V : xem	2
+V : xưng	1
+V : yêu	2
+V : âm thầm	1
+V : ăn	2
+V : ăn uống	2
+V : ăn ở	1
+V : đem	1
+V : đi	5
+V : đào tạo	7
+V : đáng kể	1
+V : đánh	1
+V : đói	1
+V : đón	1
+V : đưa	3
+V : được	20
+V : đặt chân	1
+V : đến	1
+V : ưu tiên	2
+V : ước	1
+V : ở	3

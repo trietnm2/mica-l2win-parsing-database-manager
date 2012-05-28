@@ -1,0 +1,884 @@
+! : !	5
+" : "	2
+, : ,	113
+- : -	24
+. : .	62
+... : ...	7
+/ : /	3
+: : :	16
+? : ?	5
+A : Cao	1
+A : Dài	1
+A : Khác	1
+A : Lạnh	1
+A : Nhiều	1
+A : Nhẹ lâng	1
+A : Rộng	1
+A : Sâu	1
+A : bàng hoàng	2
+A : cao	1
+A : cao niên	2
+A : cao đẹp	1
+A : chung	2
+A : chính đáng	1
+A : chặt chẽ	1
+A : chủ yếu	2
+A : chững chạc	1
+A : có ích	1
+A : cô đúc	1
+A : cùng	2
+A : căng	1
+A : cũ	1
+A : cơ cực	1
+A : cần mẫn	2
+A : dài	2
+A : dạn dày	1
+A : dồi dào	1
+A : gian khó	1
+A : gian khổ	1
+A : gian nan	1
+A : gian truân	2
+A : già dặn	3
+A : giản đơn	1
+A : giằng chéo	1
+A : gạo cội	1
+A : gần	1
+A : hay	1
+A : hiếm	1
+A : hiểm nguy	1
+A : hiện đại	2
+A : hoan	1
+A : hoành tráng	2
+A : hào hùng	2
+A : hào sảng	1
+A : hân hoan	1
+A : hơn	1
+A : hạnh phúc	1
+A : khó	1
+A : khẩn	1
+A : khắp	1
+A : khỏe	1
+A : kiên cường	1
+A : kiên định	1
+A : kiệt cùng	1
+A : kỳ lạ	1
+A : kỹ	1
+A : linh hoạt	1
+A : lâm thời	1
+A : lâu	1
+A : lâu dài	1
+A : lậu	2
+A : lịch sử	5
+A : lớn	2
+A : lớn lao	1
+A : lủng	1
+A : mông mênh	1
+A : mưu trí	1
+A : mật	1
+A : nghiêm khắc	1
+A : nghiêm túc	1
+A : ngoại	1
+A : ngược	1
+A : ngất ngây	2
+A : ngắn gọn	1
+A : ngửa	3
+A : nhiều	13
+A : nhạy cảm	1
+A : nhất	1
+A : nhỏ	1
+A : non trẻ	1
+A : nóng bỏng	1
+A : năng động	1
+A : nặng	1
+A : nổi tiếng	2
+A : nổi trội	1
+A : nội	1
+A : oi ả	1
+A : phải	2
+A : phức tạp	1
+A : quan trọng	2
+A : quanh	1
+A : qui mô	2
+A : quyết liệt	1
+A : quá đáng	1
+A : riêng	2
+A : rách	3
+A : rối rắm	2
+A : sai trái	1
+A : sinh động	1
+A : suốt	2
+A : sâu	2
+A : sâu sắc	2
+A : sơ lược	1
+A : sắc	1
+A : sớm	1
+A : tao nhã	1
+A : thoải mái	1
+A : thăng trầm	1
+A : thường xuyên	1
+A : thấu đáo	1
+A : thật	1
+A : thời sự	1
+A : thủy chung	1
+A : tiêu biểu	1
+A : trung kiên	1
+A : trung tâm	1
+A : trước	1
+A : trầm tư	1
+A : trần	1
+A : trống trơn	1
+A : trữ tình	1
+A : tu từ	1
+A : tí tách	1
+A : tích cực	1
+A : tĩnh lặng	1
+A : tại chỗ	1
+A : tận cùng	1
+A : tột cùng	1
+A : vui	2
+A : xuất sắc	2
+A : xác thực	1
+A : xám	1
+A : ít	1
+A : Đúng	1
+A : đa tài	1
+A : điềm đạm	1
+A : đáng kể	1
+A : đúng mức	1
+A : đầu tay	2
+A : đầu tiên	1
+A : đậm nét	1
+A : đậm đà	1
+A : đậm đặc	1
+A : đắt giá	1
+A : đằng đẵng	1
+A : đặc biệt	3
+A : đặc sắc	2
+C : Dù	1
+C : Mà	1
+C : Nếu	1
+C : Thế là	1
+C : Tuy	1
+C : Và	1
+C : chứ	1
+C : dù	2
+C : hay	1
+C : hoặc	2
+C : là	6
+C : mà	7
+C : như	17
+C : nhưng	8
+C : nên	1
+C : nếu	1
+C : rằng	1
+C : thì	2
+C : tuy	1
+C : và	25
+C : vì	1
+C : vì thế	1
+C : với	1
+E : Do	1
+E : Qua	1
+E : Trong	5
+E : Trên	1
+E : Từ	1
+E : bằng	1
+E : cho	7
+E : của	45
+E : do	2
+E : dưới	3
+E : giữa	2
+E : ngoài	1
+E : qua	1
+E : sau	1
+E : trong	25
+E : trên	5
+E : trước	2
+E : tại	1
+E : từ	10
+E : vì	3
+E : về	8
+E : với	13
+E : Để	1
+E : đến	13
+E : để	4
+E : ở	6
+F : với	1
+L : Những	6
+L : các	4
+L : mấy	3
+L : một chút	3
+L : những	26
+LBKT : LBKT	35
+M : 1 . 090	1
+M : 1.5000	1
+M : 112	1
+M : 15	1
+M : 17	2
+M : 19	1
+M : 1925	1
+M : 1943	1
+M : 1945	3
+M : 1946	1
+M : 1951	2
+M : 1954	2
+M : 1963	1
+M : 1970	1
+M : 1972	1
+M : 1975	5
+M : 1978	2
+M : 1982	1
+M : 1984	1
+M : 1985	5
+M : 1986	3
+M : 1987	2
+M : 1988	1
+M : 1989	1
+M : 1991	1
+M : 1992	1
+M : 1997	1
+M : 2	1
+M : 2/3	1
+M : 20	1
+M : 2000	2
+M : 23	1
+M : 25	2
+M : 256	1
+M : 30	2
+M : 4	1
+M : 60	1
+M : 62	1
+M : 64	1
+M : 7	1
+M : 76	1
+M : 8	2
+M : 80	1
+M : 9	1
+M : Chín	1
+M : Một	3
+M : Nửa	1
+M : Tám	1
+M : ba	1
+M : bốn	1
+M : chín	1
+M : hai	3
+M : mỗi	1
+M : một	15
+M : ngàn	1
+M : năm	1
+N : Anh	3
+N : Biển	1
+N : Bài	1
+N : Bộ	1
+N : Chiến dịch	1
+N : Chiếu	2
+N : Chân dung	1
+N : Cuộc sống	1
+N : Cách mạng	1
+N : Câu thơ	1
+N : Cảm hứng	1
+N : Cống hiến	1
+N : Dòng	1
+N : Dấu	1
+N : Gian nan	1
+N : Giọt	1
+N : Hành tinh	1
+N : Hành trình	2
+N : Khí phách	1
+N : Lịch sử	1
+N : Miền	1
+N : Mặt	1
+N : Mỹ	1
+N : Ngày	2
+N : Người xưa	1
+N : Năm	2
+N : Phẩm chất	1
+N : Sự nghiệp	1
+N : Thành ủy	1
+N : Tháng	1
+N : Thần thoại	1
+N : Thể loại	1
+N : Trách nhiệm	1
+N : Trái đất	1
+N : Trước hết	1
+N : Trời	1
+N : Tuyển tập	1
+N : Tình yêu	1
+N : Tính	1
+N : Tập	1
+N : Ván	4
+N : Xâm Lăng	1
+N : anh hùng	1
+N : biến thiên	1
+N : biển	1
+N : biện pháp	1
+N : bài	9
+N : bài thơ	3
+N : báo	4
+N : báo chí	2
+N : bên	1
+N : bí thư	2
+N : bút	1
+N : bút danh	1
+N : bước	2
+N : bước đầu	1
+N : bạn	1
+N : bản lĩnh	2
+N : bậc	1
+N : bộ	1
+N : bộ trưởng	1
+N : bờ	1
+N : chim	1
+N : chiến sĩ	3
+N : chiến thắng	2
+N : chiếu	2
+N : chiều	2
+N : chuyền	1
+N : cháu	1
+N : chân lý	1
+N : châu	1
+N : chính khách	1
+N : chính luận	1
+N : chính quyền	2
+N : chính trị	1
+N : chất	2
+N : chống	1
+N : chủ tịch	3
+N : chừng mực	1
+N : con	1
+N : cuối	1
+N : cuộc	6
+N : cuộc sống	1
+N : cách mạng	9
+N : câu	2
+N : câu thơ	4
+N : cây bút	3
+N : công cuộc	1
+N : công dân	1
+N : công sức	1
+N : căn bệnh	1
+N : cương vị	1
+N : cảm giác	1
+N : cảm tình	1
+N : cẳng	1
+N : cặp	1
+N : cờ	1
+N : cỡ	1
+N : cục	2
+N : dân	2
+N : dòng	1
+N : dạng	1
+N : dạng thức	1
+N : gia đình	1
+N : giai đoạn	1
+N : giáo dục	1
+N : giải phóng	2
+N : hiện thực	1
+N : hiện tượng	2
+N : hiệu triệu	1
+N : hoa	1
+N : hoạt động	1
+N : hàng đầu	1
+N : hào khí	1
+N : hè	1
+N : học sinh	1
+N : hồ sơ	1
+N : khi	5
+N : khu	1
+N : khuynh hướng	1
+N : kháng chiến	2
+N : không gian	2
+N : không khí	1
+N : khúc	1
+N : khổ	2
+N : khởi nghĩa	1
+N : kiến nghị	1
+N : kịch	1
+N : kịch bản	3
+N : kỳ	1
+N : kỷ niệm	1
+N : lòng	1
+N : lúc	2
+N : lý tưởng	1
+N : lĩnh vực	4
+N : lượng	1
+N : lần	1
+N : lịch sử	2
+N : lời	1
+N : manh	1
+N : miền	5
+N : màu	2
+N : mùa	1
+N : mưa	1
+N : mảng	1
+N : mối	2
+N : mức	1
+N : nay	1
+N : nghè	1
+N : nghĩa	1
+N : nghệ sĩ	1
+N : nghệ thuật	2
+N : ngoại xâm	1
+N : ngày	7
+N : ngã	1
+N : ngòi bút	1
+N : ngôn từ	1
+N : người	10
+N : nhà	4
+N : nhà báo	1
+N : nhà sử học	1
+N : nhà thơ	3
+N : nhà văn	3
+N : nhân cách	1
+N : nhân dân	2
+N : nhân sĩ	1
+N : nhân vật	3
+N : nhóm	1
+N : nhật ký	1
+N : niên	1
+N : năm	14
+N : nước	6
+N : nước đá	1
+N : nền	2
+N : nội tâm	1
+N : nợ	1
+N : phim truyện	1
+N : phim ảnh	1
+N : phút	1
+N : phút giây	1
+N : phần	3
+N : quan hệ	1
+N : quân dân	1
+N : quản đốc	1
+N : ruột	1
+N : rơm	1
+N : suy tưởng	1
+N : sào huyệt	1
+N : sách	2
+N : sáng	1
+N : sáng tạo	1
+N : sóng	1
+N : sông	1
+N : số	2
+N : sức	4
+N : sức ép	1
+N : sử học	1
+N : sử thi	1
+N : sự	2
+N : thanh niên	1
+N : thi sĩ	1
+N : thành công	2
+N : thành phố	1
+N : thái độ	1
+N : thông báo	1
+N : thơ	10
+N : thập kỷ	1
+N : thế kỷ	3
+N : thế lực	1
+N : thềm	1
+N : thể loại	1
+N : thời	1
+N : thời gian	2
+N : thời điểm	1
+N : thực tế	1
+N : tinh thần	3
+N : tiêu cực	1
+N : tiếng	1
+N : tiền  khởi nghĩa	1
+N : tiểu thuyết	5
+N : trang	4
+N : truyện ngắn	1
+N : trách nhiệm	1
+N : trái đất	1
+N : trên	1
+N : trí thức	2
+N : trăng	1
+N : trời	2
+N : tuyến	1
+N : tuần	1
+N : tuổi	2
+N : tài năng	1
+N : tác giả	3
+N : tác phẩm	3
+N : tâm hôn	1
+N : tâm trạng	2
+N : tên	2
+N : tình	2
+N : tính	1
+N : tính cách	1
+N : tư liệu	1
+N : tướng lĩnh	1
+N : tầm	1
+N : tầm vóc	1
+N : tập	4
+N : tỉnh ủy	1
+N : tổng biên tập	1
+N : tột cùng	1
+N : tờ	1
+N : tự hào	1
+N : vai	1
+N : việc	4
+N : vong	1
+N : văn	1
+N : văn chương	3
+N : văn hóa	1
+N : văn học	3
+N : văn nghệ	1
+N : văn nghệ sĩ	1
+N : vườn	1
+N : vị trí	1
+N : xu thế	1
+N : xuân	2
+N : xã hội	2
+N : xúc động	1
+N : Ông	5
+N : áo	1
+N : ông	29
+N : ý nghĩa	1
+N : ý tưởng	1
+N : Đất nước	1
+N : điều kiện	1
+N : điện	1
+N : điện ảnh	2
+N : đêm	3
+N : đóng góp	1
+N : đường	2
+N : đại thắng	1
+N : đất nước	2
+N : đầu	3
+N : đầu óc	1
+N : đối phương	1
+N : đồng bằng	1
+N : đồng chí	1
+N : đồng đội	1
+N : đổi mới	1
+N : độc giả	1
+N : đời sống	1
+N : ảnh hưởng	2
+N : ấn tượng	1
+N : ủy viên	1
+NP : *E*	16
+NP : *T*	4
+Nc : Bác	1
+Nc : Ngành	1
+Nc : Người	1
+Nc : Nỗi	1
+Nc : bài	2
+Nc : chặng	1
+Nc : cuốn	1
+Nc : cái	1
+Nc : cụ	1
+Nc : người	10
+Nc : niềm	1
+Nc : sự	4
+Nc : tập	1
+Nc : Ông	1
+Nc : ông	1
+Nc : đống	1
+Np : Ban	1
+Np : Cabot Lodge	1
+Np : Chính phủ	1
+Np : Diệm	1
+Np : Dân tộc	2
+Np : Hai Cũ	1
+Np : Hưởng Triều	2
+Np : Lục Vân Tiên	1
+Np : Maxwell Taylor	1
+Np : Mậu Thân	1
+Np : Mặt trận	1
+Np : Mỹ	3
+Np : Nam	6
+Np : Nam bộ	2
+Np : Nguyên	1
+Np : Nguyễn Hiểu Trường	1
+Np : Nguyễn Thành Luân	1
+Np : Nguyễn Trương Thiên Lý	1
+Np : Ngô Đình Diệm	1
+Np : Ngô Đình Nhu	1
+Np : Nhân Dân	1
+Np : Paul arkins	1
+Np : Pháp	3
+Np : Quốc dân	1
+Np : Sài Gòn	4
+Np : Sáu Rồng	1
+Np : Thành ủy	1
+Np : Thùy Dung	1
+Np : Trung ương	2
+Np : Trương Gia Mô	1
+Np : Trương Gia Triều	1
+Np : Trần Bạch Đằng	11
+Np : Trần Huy Liệu	1
+Np : Trần Hưng Đạo	1
+Np : Trần Quang	1
+Np : Trần Văn Giàu	2
+Np : Trẻ	1
+Np : Tuổi Trẻ	1
+Np : Tân Trào	1
+Np : Việt Nam	1
+Np : Xa Cam	1
+Np : Đoàn	1
+Np : Đại hội	1
+Np : Đồng Nai	2
+Np : Đồng khởi	1
+Np : Ủy ban	2
+Nu : tuổi	1
+Ny : NXB	1
+Ny : VN	4
+P : Ai	8
+P : Cả	1
+P : Tôi	4
+P : bao giờ	1
+P : chúng ta	1
+P : cả	1
+P : họ	1
+P : mình	1
+P : nay	4
+P : nào	1
+P : này	8
+P : ta	5
+P : thế	2
+P : toàn	1
+P : tôi	3
+P : tự	1
+P : đây	1
+P : đó	4
+P : ấy	7
+R : Còn	1
+R : Có thể	3
+R : Không	1
+R : Thật	1
+R : chăng	1
+R : chưa	2
+R : chỉ	1
+R : còn	2
+R : có lẽ	1
+R : cũng	9
+R : cứ thế	1
+R : hàng	1
+R : hình như	1
+R : hơn	3
+R : hầu hết	1
+R : hằng	1
+R : hết	1
+R : hết sức	2
+R : khá	1
+R : không	9
+R : luôn	3
+R : lên	1
+R : lại	6
+R : lần lượt	3
+R : mới	2
+R : nổi	4
+R : qua	1
+R : quá	1
+R : quả	1
+R : rất	8
+R : sẽ	1
+R : thường	3
+R : thật sự	2
+R : từng	5
+R : vào	1
+R : vẫn	2
+R : vừa	2
+R : đã	19
+R : được	4
+R : đến	1
+RBKT : RBKT	35
+S : phó	1
+T : Có lẽ	1
+T : Ngay	1
+T : cả	1
+T : ngay	2
+T : rồi	5
+T : sao	1
+T : thật	1
+T : đấy	1
+T : đầy	1
+V : Chống	1
+V : Cần	1
+V : Dạy học	2
+V : Gặp	1
+V : Hỏi	1
+V : Kệ	1
+V : Làm	1
+V : Nghĩ	2
+V : Rải	1
+V : Theo	1
+V : Thèm	1
+V : Thôi thúc	1
+V : Thắng	5
+V : Trò chuyện	1
+V : Tuyên truyền	1
+V : Tính	1
+V : Viết	1
+V : Xin	2
+V : biết	2
+V : bình	1
+V : bơi	1
+V : bước	2
+V : bất ngờ	1
+V : bầu	1
+V : bắt đầu	2
+V : ca	2
+V : ca ngợi	1
+V : can thiệp	1
+V : chia	1
+V : chiếm lĩnh	2
+V : cho	1
+V : chuyển thể	1
+V : chú trọng	1
+V : chú ý	2
+V : chơi	1
+V : chắc chắn	1
+V : chịu	1
+V : chọn	1
+V : chống	4
+V : co	1
+V : coi	1
+V : cuốn hút	2
+V : có	18
+V : có mặt	1
+V : cường điệu	1
+V : cảm nhận	1
+V : cầm	1
+V : cắt	1
+V : cống hiến	1
+V : cử	2
+V : cực tả	1
+V : dành	1
+V : e	1
+V : ghi	2
+V : ghi nhận	1
+V : giao	1
+V : giác ngộ	1
+V : giải tỏa	1
+V : giữ	1
+V : gây	2
+V : gây hấn	1
+V : góp phần	1
+V : gắn bó	3
+V : gặp gỡ	1
+V : gồm	1
+V : ham thích	1
+V : hoang mang	1
+V : hoàn thành	1
+V : hoạt động	2
+V : hình thành	1
+V : hòa quyện	2
+V : hết	1
+V : hồi sinh	1
+V : in	1
+V : khai thác	1
+V : khiến	1
+V : khẳng định	1
+V : khởi nghĩa	1
+V : kiềm chế	1
+V : kính trọng	1
+V : ký	1
+V : kết thúc	1
+V : kể	1
+V : lao động	2
+V : là	15
+V : làm	5
+V : lãnh đạo	1
+V : lật	3
+V : mang	1
+V : muốn	3
+V : mưa	2
+V : mắc	1
+V : mở đầu	1
+V : mừng	1
+V : nghi vấn	1
+V : nghiên cứu	2
+V : nghĩ	4
+V : ngạc nhiên	1
+V : ngủ	1
+V : ngừng	2
+V : nhớ	2
+V : nín	2
+V : nói	6
+V : nể	1
+V : nở	1
+V : phê phán	1
+V : phải	2
+V : phản cảm	1
+V : phụ trách	2
+V : quan sát	1
+V : quan tâm	3
+V : quay	2
+V : quán xuyến	1
+V : quên	2
+V : quí mến	1
+V : reo	1
+V : rẽ	1
+V : sinh	1
+V : suy tưởng	1
+V : sáng tác	2
+V : sóng	1
+V : thuộc	2
+V : thành	1
+V : thành công	1
+V : thêm	1
+V : thúc đẩy	1
+V : thấy	2
+V : thể hiện	1
+V : thở	2
+V : thử	1
+V : thử thách	1
+V : thực hiện	1
+V : tin	1
+V : tiếp tục	1
+V : tiếp xúc	1
+V : tranh đấu	2
+V : trau chuốt	1
+V : tránh	1
+V : trọng	1
+V : trở	1
+V : tuyên huấn	1
+V : tái hiện	1
+V : tìm	1
+V : tìm hiểu	1
+V : tính	3
+V : tốn	1
+V : tổng tấn công	2
+V : tới	1
+V : viết	5
+V : vào	1
+V : vượt	1
+V : về	2
+V : xa rời	1
+V : xuất bản	1
+V : xâm lược	2
+V : xây dựng	1
+V : xôn xao	1
+V : xếp	1
+V : yêu	1
+V : Đi	1
+V : Đổi mới	1
+V : đi	1
+V : đo	1
+V : đoán	2
+V : đáng	3
+V : đáp	1
+V : đè	1
+V : đăng	1
+V : được	13
+V : đại thắng	1
+V : đảm trách	1
+V : đấu tranh	2
+V : đặt	2
+V : đến	4
+V : đề cập	1
+V : đọc	7
+V : đối diện	1
+V : đối lập	1
+V : đối đầu	1
+V : đổi	2
+V : đổi mới	2
+V : đợi chờ	1
+V : đứng	1
+V : ước	2
+V : Ấp ủ	1
+V : Ở	2
+X : có lẽ	1
+X : trước tác đẳng thân	1

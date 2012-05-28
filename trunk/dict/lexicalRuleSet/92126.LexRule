@@ -1,0 +1,748 @@
+! : !	16
+" : "	70
+, : ,	87
+- : -	5
+. : .	64
+... : ...	17
+/ : /	6
+: : :	20
+; : ;	1
+A : Cuối cùng	1
+A : Tự nhiên	1
+A : bình đẳng	1
+A : cao	2
+A : chuyên nghiệp	1
+A : chủ quan	1
+A : chủ yếu	1
+A : cuối	1
+A : cuối cùng	1
+A : công phu	1
+A : căn bản	1
+A : cơ bản	1
+A : dài	1
+A : dầu mỡ	1
+A : dễ	2
+A : dữ dội	1
+A : giỏi	3
+A : hiền	2
+A : hoàn toàn	1
+A : hừng hực	1
+A : khoa học	1
+A : khác	5
+A : khó	1
+A : không	1
+A : khắp	1
+A : khốc liệt	1
+A : liên tục	2
+A : lì	1
+A : lưu loát	1
+A : lạ	2
+A : lấm lem	1
+A : lớn	1
+A : mãnh liệt	2
+A : mới	3
+A : mới mẻ	1
+A : ngoạn mục	1
+A : nhiều	3
+A : như ý	1
+A : nhất	4
+A : nôn nóng	1
+A : nặng nề	2
+A : quan trọng	4
+A : quen thuộc	1
+A : quí giá	1
+A : riêng	1
+A : rộng	1
+A : rực rỡ	1
+A : sau	1
+A : suốt	2
+A : sáng tạo	1
+A : sâu	1
+A : sơ khai	1
+A : sẵn sàng	1
+A : thẳng	1
+A : thực tình	1
+A : trong	1
+A : trung bình	1
+A : tròn	1
+A : trước	1
+A : trắng	1
+A : trẻ	2
+A : trọn vẹn	1
+A : trống không	1
+A : tất nhiên	1
+A : tỉnh táo	1
+A : vòng	1
+A : xa lạ	1
+A : xuất sắc	1
+A : xứng đáng	1
+A : ào ào	1
+A : ít	1
+A : đúng	2
+A : đơn giản	2
+A : đương nhiên	1
+A : đầu tiên	8
+A : đầy	1
+A : đầy đủ	1
+A : đắng cay	1
+A : độc lập	1
+C : Cho dù	1
+C : Còn	1
+C : Nhưng	3
+C : Nếu	1
+C : Rồi	1
+C : Và	4
+C : do	1
+C : hay	2
+C : hoặc	1
+C : là	2
+C : mà	4
+C : như	10
+C : nhưng	9
+C : nên	1
+C : rằng	1
+C : rồi	2
+C : thì	4
+C : và	18
+C : với	1
+Cb : and	1
+E : Trong	1
+E : Từ	1
+E : Với	1
+E : bằng	2
+E : bởi	4
+E : cho	17
+E : của	17
+E : do	2
+E : lên	1
+E : mà	5
+E : qua	1
+E : sang	1
+E : sau	1
+E : trong	19
+E : trên	2
+E : trước	1
+E : tại	4
+E : tận	2
+E : tới	1
+E : từ	3
+E : vào	2
+E : vì	1
+E : về	8
+E : với	17
+E : Để	1
+E : đến	1
+E : để	4
+E : đối với	2
+E : ở	8
+L : Các	1
+L : Những	4
+L : các	5
+L : mọi	1
+L : những	24
+L : toàn bộ	1
+LBKT : LBKT	2
+M : 1	2
+M : 10	1
+M : 1992	1
+M : 1993	1
+M : 1999	1
+M : 20	1
+M : 3	1
+M : 30	1
+M : 34	2
+M : 400	1
+M : 5 . 000	1
+M : 50 . 000	2
+M : 50.000	1
+M : 6 . 000	1
+M : 6.000	1
+M : 600 . 000	1
+M : Mỗi	2
+M : Một	1
+M : ba	4
+M : hai	6
+M : mười	1
+M : một	29
+M : năm	1
+M : sáu	3
+M : triệu	3
+M : tám	1
+N : Bà	2
+N : Cuộc đời	1
+N : Cậu	1
+N : Hãng	2
+N : Khi	2
+N : Ký ức	1
+N : Lần	2
+N : Mức	1
+N : Nhiệm vụ	2
+N : Năm	3
+N : Phần thưởng	1
+N : Sau này	1
+N : Sếp	1
+N : Thành	1
+N : Thất bại	1
+N : Thời	1
+N : Trước tiên	1
+N : Tổng giám đốc	1
+N : anh	5
+N : banh	1
+N : buổi	1
+N : bà	4
+N : bài học	3
+N : bánh	1
+N : bên	3
+N : bước ngoặt	1
+N : bạn	1
+N : bản làng	1
+N : bảng	4
+N : bổn phận	1
+N : bộ môn	1
+N : cao học	1
+N : chiến thắng	2
+N : chuyên gia	2
+N : chuyện	3
+N : chàng	1
+N : chân	2
+N : chó	1
+N : chương trình	1
+N : chủ nghĩa	1
+N : chức	1
+N : chữ	1
+N : con dấu	2
+N : con em	1
+N : con người	1
+N : con số	1
+N : cuộc	5
+N : cuộc đời	1
+N : cà vạt	1
+N : cách	2
+N : cách thức	1
+N : cái	1
+N : cánh	1
+N : câu	3
+N : câu chuyện	2
+N : công	2
+N : công nghiệp	1
+N : công sức	1
+N : công trạng	1
+N : công ty	6
+N : công việc	2
+N : cơ bắp	1
+N : cơ chế	1
+N : cương vị	1
+N : cảnh	1
+N : cận cảnh	1
+N : cặp táp	1
+N : cộng đồng	2
+N : cửa	3
+N : diện	1
+N : doanh nghiệp	2
+N : doanh số	1
+N : dân	1
+N : dầu nhớt	1
+N : dịp	1
+N : dữ liệu	1
+N : dự án	3
+N : ghe	1
+N : giai đoạn	1
+N : giá trị	4
+N : giáo trình	1
+N : giải pháp	1
+N : giải thưởng	1
+N : giờ	1
+N : hiện	1
+N : hoài bão	1
+N : hoạt động	3
+N : hàng	2
+N : hàng loạt	2
+N : hàng tiêu dùng	1
+N : hàng đầu	1
+N : hôm nay	1
+N : hạ tầng	1
+N : hệ thống	1
+N : học bổng	1
+N : khi	9
+N : khu phố	1
+N : khách hàng	1
+N : không	1
+N : khả năng	1
+N : khủng hoảng	1
+N : kinh  nghiệm	1
+N : kinh nghiệm	3
+N : kinh tế	1
+N : kết quả	1
+N : kỹ năng	2
+N : kỹ thuật	1
+N : lao động	1
+N : loại	1
+N : loại hình	1
+N : lãnh đạo	2
+N : lúc	4
+N : lương	5
+N : lần	2
+N : lề	1
+N : lỗi	1
+N : lời	1
+N : lửa	1
+N : món	1
+N : môi trường	1
+N : mảng	1
+N : mẫu mã	1
+N : mắt	1
+N : mối	1
+N : một cách	3
+N : mức	4
+N : nghề	3
+N : ngoài	1
+N : ngày	2
+N : người	12
+N : nhiệm vụ	1
+N : nhà	1
+N : nhà nước	1
+N : nhà trường	2
+N : nhân viên	2
+N : nhãn hiệu	6
+N : nhóm	2
+N : nhớt	1
+N : nhựa	1
+N : nhựa đường	1
+N : năm	5
+N : năng lực	1
+N : nơi	2
+N : nước	1
+N : nước ngoài	2
+N : phiếu	1
+N : phía	1
+N : phòng	1
+N : phương thức	1
+N : phạm vi	2
+N : phụ nữ	1
+N : quan hệ	1
+N : quốc gia	3
+N : răng	1
+N : sai lầm	1
+N : sau này	2
+N : sinh viên	4
+N : suất	2
+N : sản phẩm	4
+N : sếp	1
+N : số	2
+N : số liệu	1
+N : số phận	1
+N : sở thích	1
+N : sức mạnh	1
+N : sữa	3
+N : tai	1
+N : thuật ngữ	1
+N : thành công	1
+N : thành viên	1
+N : thái độ	1
+N : tháng	7
+N : thói quen	1
+N : thông tin	2
+N : thương hiệu	4
+N : thương trường	1
+N : thị trường	15
+N : thời	3
+N : thời điểm	1
+N : thợ	1
+N : thứ	1
+N : thử thách	1
+N : tiêu chuẩn	1
+N : tiếng	2
+N : tiền	4
+N : toàn cầu	2
+N : trai	2
+N : trung tâm	1
+N : truyền hình	1
+N : trách nhiệm	1
+N : trường	1
+N : trưởng phòng	1
+N : tuần	4
+N : tuổi	2
+N : tài năng	1
+N : tâm trí	1
+N : tình trạng	1
+N : tóc	1
+N : tư thế	1
+N : tập đoàn	5
+N : tỉ	1
+N : tổng giám đốc	4
+N : vai vế	1
+N : việc	6
+N : vòng	1
+N : vấn đề	1
+N : vật	1
+N : vẻ	1
+N : vị trí	2
+N : vốn	1
+N : vụ	1
+N : xe	2
+N : xà bông	1
+N : xà phòng	1
+N : xương máu	1
+N : y tế	1
+N : án	1
+N : áo	1
+N : Đơn	1
+N : điều	2
+N : điểm	1
+N : đàn bà	1
+N : đôi	2
+N : đơn vị	1
+N : đường	5
+N : đại gia	1
+N : đầu	4
+N : đầu óc	1
+N : đối thủ	1
+N : đối tượng	2
+N : đồng lương	2
+N : độ	1
+N : đời	2
+NP : *E*	14
+NP : *T*	2
+NP : Pepsi	1
+Nb : markerting	1
+Nb : marketing	5
+Nb : sales	1
+Nc : Con	1
+Nc : chàng	2
+Nc : con	2
+Nc : cái	3
+Nc : người	6
+Nc : sự	1
+Nc : tấm	1
+Nc : vị	1
+Nc : Ông	2
+Nc : ông	1
+Np : Anh	2
+Np : Caltex	3
+Np : Cao Bằng	1
+Np : Công ty	2
+Np : HCM	3
+Np : Hà Nội	2
+Np : Hãng	2
+Np : Johnson	2
+Np : Kinh tế	2
+Np : Lifebuoy	3
+Np : Lux	1
+Np : Lê Trung Thành	2
+Np : Pasteur	1
+Np : Pepsi	2
+Np : Phạm Phú Ngọc Trai	1
+Np : Sunsilk	1
+Np : Thành	18
+Np : Thái Lan	3
+Np : Thụy Sĩ	2
+Np : Trung tâm	1
+Np : Trường	2
+Np : Tập đoàn	1
+Np : Unilever	5
+Np : Viện	1
+Np : Úc	2
+Np : Đà Nẵng	2
+Nu : USD	5
+Nu : tuổi	1
+Nu : đ	1
+Nu : đồng	4
+Ny : F	5
+Ny : G	1
+Ny : IAM	2
+Ny : P	1
+Ny : SV	1
+Ny : TP	3
+Ny : Th	2
+Ny : VN	8
+Ny : ĐBSCL	1
+Ny : ĐH	2
+P : Nó	1
+P : Tôi	3
+P : ai	1
+P : bao giờ	2
+P : bao nhiêu	1
+P : bây giờ	1
+P : chúng tôi	1
+P : cả	2
+P : gì	3
+P : họ	4
+P : mình	9
+P : nào	5
+P : này	6
+P : sao	2
+P : ta	4
+P : thế	3
+P : tôi	19
+P : tự	1
+P : vậy	1
+P : Đây	1
+P : Đó	5
+P : đâu	2
+P : đây	3
+P : đó	9
+P : ấy	7
+R : Chỉ	1
+R : Hãy	2
+R : Không	1
+R : bất cứ	2
+R : cho	1
+R : chưa	5
+R : chẳng	2
+R : chỉ	3
+R : còn	2
+R : có thể	1
+R : cũng	9
+R : cứ	2
+R : dần	1
+R : dần dần	1
+R : hàng	1
+R : hơn	6
+R : hầu như	1
+R : hết sức	2
+R : không	12
+R : không thể	1
+R : luôn	1
+R : lên	1
+R : lại	13
+R : mới	5
+R : ngay	2
+R : nữa	1
+R : qua	3
+R : quá	2
+R : ra	5
+R : rất	4
+R : sang	2
+R : sẽ	1
+R : thật	1
+R : thật sự	1
+R : toàn	1
+R : tít	1
+R : vào	3
+R : vẫn	4
+R : về	2
+R : vốn	2
+R : vừa	1
+R : Đã	2
+R : đang	2
+R : đã	14
+R : được	15
+R : đến	1
+R : đều	1
+R : đồng thời	1
+R : đừng	1
+RBKT : RBKT	2
+S : phó	3
+S : trưởng	1
+S : đa	3
+T : chính	2
+T : lấy	1
+T : mà	1
+T : thật	1
+T : trời	2
+T : đến	1
+V : *E*	1
+V : Có	1
+V : Cầm	1
+V : Hết	1
+V : Học	2
+V : Là	1
+V : Thất bại	1
+V : Tốt nghiệp	1
+V : bay	1
+V : biết	5
+V : biếu xén	1
+V : bán	3
+V : báo cáo	1
+V : bù	1
+V : bước	3
+V : bại	1
+V : bảo	2
+V : bất chấp	1
+V : bắt đầu	1
+V : bị	4
+V : bỏ	1
+V : bộc lộ	1
+V : bứt	1
+V : cam kết	1
+V : chinh phục	3
+V : chiếm lĩnh	1
+V : chiến	1
+V : cho	1
+V : chuyển	2
+V : chào hàng	1
+V : chấp nhận	1
+V : chọn	2
+V : chọn lựa	1
+V : chờ	1
+V : chứa đựng	1
+V : chứng	2
+V : chữa cháy	1
+V : cán	1
+V : còn	1
+V : có	17
+V : cạnh tranh	1
+V : cảm	2
+V : cần	2
+V : cầu	2
+V : cắn	1
+V : cử	1
+V : du học	1
+V : dành	2
+V : dạy	3
+V : giao	2
+V : giao tiếp	1
+V : giành	1
+V : gõ	2
+V : gõ cửa	1
+V : gấp	2
+V : gật gù	1
+V : gặp	1
+V : hiểu	1
+V : hòa nhập	1
+V : hưởng	1
+V : học	5
+V : học hỏi	1
+V : hỏi	5
+V : khen ngợi	1
+V : khát khao	1
+V : khảo sát	6
+V : khởi nghiệp	1
+V : khủng hoảng	1
+V : kinh doanh	1
+V : kinh hồn	1
+V : kiếm	1
+V : kiểm chứng	1
+V : kéo theo	1
+V : kính trọng	1
+V : lao	1
+V : liên kết	1
+V : là	24
+V : làm	12
+V : làm thuê	2
+V : làm việc	5
+V : lên	1
+V : lấy	1
+V : lặn lội	1
+V : lọt	1
+V : lỗ	1
+V : lủi	1
+V : lựa chọn	1
+V : mang	2
+V : mua bán	1
+V : mê	1
+V : mời	2
+V : mở	1
+V : nghiên cứu	4
+V : nghĩ	4
+V : ngờ	1
+V : nhen	1
+V : nhuộm	1
+V : nhìn	2
+V : nhận	1
+V : nuốt	1
+V : nâng đỡ	1
+V : nói	5
+V : nằm	2
+V : nộp	1
+V : phai	1
+V : phán đoán	1
+V : phát	1
+V : phát động	1
+V : phải	11
+V : phản đối	1
+V : phỏng vấn	2
+V : phụ trách	2
+V : quay	1
+V : qui định	1
+V : quyết tâm	1
+V : quyết định	2
+V : quản trị	1
+V : quảng bá	1
+V : rẽ	1
+V : say mê	1
+V : so	2
+V : suy nghĩ	1
+V : sáng lập	1
+V : sửa	1
+V : tham gia	2
+V : thay đổi	1
+V : thu thập	1
+V : thuộc	1
+V : thành	1
+V : thành công	3
+V : thân quen	1
+V : thêm	1
+V : thôi	1
+V : thú thật	1
+V : thăm dò	1
+V : thấm	1
+V : thất bại	2
+V : thấy	6
+V : thắng	1
+V : thống kê	1
+V : thử nghiệm	1
+V : thực hiện	1
+V : tiêu dùng	1
+V : tiêu xài	1
+V : tiếp cận	2
+V : tiếp theo	1
+V : tiếp thị	2
+V : truyền đạt	1
+V : trả	2
+V : trở thành	2
+V : tuyển dụng	1
+V : tác dụng	1
+V : tìm kiếm	1
+V : tình nguyện	1
+V : tăng	1
+V : tăng trưởng	1
+V : tưởng chừng	1
+V : tốn kém	1
+V : tổ chức	1
+V : tới	1
+V : từ chối	1
+V : vào	2
+V : vò	1
+V : vùng	1
+V : vượt	2
+V : vấp	1
+V : vật vã	2
+V : về	3
+V : xem	2
+V : xin	1
+V : xong	1
+V : xuất hiện	2
+V : xác lập	1
+V : xách	1
+V : xây dựng	1
+V : đi	9
+V : điều nghiên	2
+V : điều tra	8
+V : đua	1
+V : đuổi	1
+V : đành	1
+V : đào tạo	1
+V : đá	1
+V : đòi	1
+V : đúc kết	1
+V : đưa	2
+V : được	11
+V : đầu quân	2
+V : đặt	2
+V : đến	2
+V : đề nghị	3
+V : đề xuất	1
+V : để	1
+V : đối diện	1
+V : đồng ý	1
+V : đổ	1
+V : đổ thừa	1
+V : đụng	1
+V : đứng	1
+V : ấp ủ	1
+V : ở	2
+X : Hóa ra	1
+X : hang cùng ngõ hẻm	1
+X : hầu hết	1
+Y : &	1

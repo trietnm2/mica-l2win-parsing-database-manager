@@ -1,0 +1,482 @@
+" : "	4
+, : ,	70
+- : -	2
+. : .	48
+... : ...	2
+/ : /	2
+: : :	1
+? : ?	5
+A : Mạnh dạn	1
+A : Nhiều	2
+A : bình đẳng	1
+A : băn khoăn	1
+A : cao	1
+A : chính đáng	3
+A : chủ động	1
+A : cuối cùng	2
+A : cá biệt	1
+A : công khai	3
+A : cụ thể	2
+A : hạn chế	1
+A : hợp lý	1
+A : hợp pháp	1
+A : khác	3
+A : liên tục	1
+A : lớn	2
+A : mạnh	1
+A : mạnh dạn	1
+A : mạnh mẽ	2
+A : nghiêm chỉnh	1
+A : nghiêm ngặt	1
+A : nhanh chóng	1
+A : nhiều	7
+A : nặng	1
+A : nổi bật	4
+A : phong phú	1
+A : phải	1
+A : quan trọng	1
+A : quốc tế	2
+A : riêng	1
+A : rõ	4
+A : rộng rãi	2
+A : song phương	1
+A : sung túc	1
+A : sát	1
+A : sát sao	1
+A : sở tại	5
+A : thông thoáng	2
+A : thường xuyên	1
+A : thỏa đáng	1
+A : thực tế	1
+A : toàn diện	4
+A : truyền thống	1
+A : trái	1
+A : trước	3
+A : trẻ	1
+A : tích cực	2
+A : tối đa	1
+A : tốt	2
+A : đa phương	1
+A : đầu tiên	3
+A : đầy đủ	1
+A : đặc biệt	1
+A : đồng bộ	1
+A : đổi mới	1
+A : ưu đãi	1
+C : Ngoài ra	2
+C : Nhưng	1
+C : Nếu như	1
+C : Tuy nhiên	1
+C : do	1
+C : do vậy	1
+C : hay	1
+C : hoặc	2
+C : là	3
+C : mà	2
+C : như	4
+C : nhưng	2
+C : nếu	2
+C : nếu như	1
+C : rằng	4
+C : rồi	1
+C : thì	1
+C : tuy	1
+C : và	22
+C : vì vậy	1
+E : Trong	1
+E : Trước	2
+E : Với	1
+E : cho	6
+E : của	31
+E : dưới	1
+E : ngoài	1
+E : nhằm	2
+E : theo	2
+E : trong	19
+E : tại	4
+E : tới	6
+E : từ	1
+E : vào	3
+E : về	7
+E : với	10
+E : đến	1
+E : để	7
+E : đối với	10
+E : ở	9
+I : Vâng	1
+L : Các	1
+L : Mỗi	1
+L : Những	2
+L : các	20
+L : mỗi	1
+L : một số	1
+L : những	15
+L : toàn bộ	1
+LBKT : LBKT	3
+M : 1986	1
+M : 1987	1
+M : 2,6	1
+M : 2,7	1
+M : 360.000	1
+M : 8.000	1
+M : ba	1
+M : bốn	1
+M : hai	4
+M : mỗi	1
+M : một	6
+M : nhất	1
+M : tỉ	1
+N : Bà con	1
+N : Báo điện tử	1
+N : Bên	2
+N : Bộ	5
+N : Chính sách	2
+N : Chính trị	2
+N : Chủ trương	1
+N : Công tác	1
+N : Lý do	1
+N : Mục đích	1
+N : Nghị quyết	3
+N : Ngoại giao	2
+N : Người	1
+N : Nhà nước	9
+N : Thời gian	1
+N : Thủ tướng	1
+N : Thứ	3
+N : Thứ trưởng	2
+N : Tinh thần	1
+N : Trước hết	1
+N : Tuổi Trẻ	2
+N : Việt kiều	1
+N : Vấn đề	1
+N : bà con	22
+N : báo	1
+N : báo điện tử	1
+N : bước	1
+N : bản thân	1
+N : bộ	1
+N : chuyên gia	1
+N : chính quyền	1
+N : chính sách	13
+N : chùa chiền	1
+N : chương trình	5
+N : chất xám	1
+N : chủ nhiệm	1
+N : chủ trương	5
+N : cuộc	1
+N : cuộc sống	2
+N : công dân	3
+N : công tác	4
+N : công ước	1
+N : cơ quan	5
+N : cạnh	2
+N : cộng đồng	7
+N : dư luận	1
+N : dịch vụ	2
+N : dự án	1
+N : giá	1
+N : giải pháp	2
+N : giấy tờ	1
+N : gốc	1
+N : hiện tại	1
+N : hiệp định	3
+N : hoàn cảnh	2
+N : hàng hóa	1
+N : hôm qua	1
+N : khoảng	2
+N : khía cạnh	2
+N : khó khăn	1
+N : khả năng	2
+N : kinh tế	1
+N : kiều bào	3
+N : kiều hối	1
+N : kênh	1
+N : kỷ lục	1
+N : luật pháp	2
+N : lãnh sự	1
+N : lòng	1
+N : lý do	1
+N : lượng	1
+N : lượt	1
+N : lần	6
+N : lợi ích	1
+N : môi trường	1
+N : một cách	3
+N : mức	1
+N : nghĩa vụ	3
+N : nghệ sĩ	2
+N : nghị quyết	7
+N : ngoại giao	2
+N : nguyện vọng	2
+N : ngành	1
+N : người	8
+N : nhau	1
+N : nhu cầu	4
+N : nhà	1
+N : nhà đất	1
+N : nhân dân	1
+N : nhân tài	1
+N : nhân đạo	1
+N : năm	4
+N : nơi	1
+N : nước	13
+N : nước ngoài	7
+N : nếp	1
+N : pháp lý	2
+N : phần	1
+N : quyền	1
+N : quyền lợi	2
+N : quê	2
+N : quê hương	1
+N : quốc tịch	3
+N : số	1
+N : số lượng	1
+N : thuận lợi	1
+N : thân nhân	1
+N : thông lệ	1
+N : thông tin	3
+N : thời gian	1
+N : thời điểm	2
+N : thứ	3
+N : thực tế	1
+N : tin	1
+N : tinh thần	1
+N : tiếng	2
+N : tiềm lực	1
+N : tiềm năng	1
+N : triệu	1
+N : trách nhiệm	6
+N : trên	1
+N : trí thức	2
+N : trường hợp	1
+N : trở ngại	1
+N : tuổi	1
+N : tình hình	1
+N : tư cách	3
+N : tư cách pháp nhân	1
+N : tư pháp	1
+N : tổ tiên	1
+N : từng	1
+N : việc	18
+N : văn hóa	1
+N : vướng mắc	1
+N : vấn đề	4
+N : vận động viên	1
+N : yêu cầu	1
+N : ông	6
+N : Điểm	2
+N : Đảng	1
+N : điều kiện	4
+N : điểm	5
+N : đất nước	2
+N : địa bàn	1
+N : đồng bào	1
+N : đổi mới	1
+N : đời sống	1
+N : Ủy ban	1
+NP : *E*	12
+NP : *T*	3
+Nc : Nhóm	1
+Nc : cuộc	1
+Nc : người	5
+Nc : nhà	1
+Nc : nhóm	1
+Nc : sự	2
+Nc : trang	1
+Nc : tờ	1
+Np : Chính phủ	1
+Np : Hà Nội	1
+Np : Ngoại giao	1
+Np : Nguyễn Phú Bình	2
+Np : Online	1
+Np : Quê Hương	1
+Np : Sea Games	1
+Np : Việt	6
+Np : Việt kiều	7
+Nu : USD	1
+Ny : NVONN	1
+Ny : NVƠNN	16
+Ny : VN	11
+P : Chúng ta	1
+P : chúng ta	1
+P : chúng tôi	2
+P : gì	3
+P : họ	2
+P : mình	4
+P : nay	1
+P : nào	3
+P : này	12
+P : vậy	1
+P : đây	5
+P : đó	3
+R : Sắp	1
+R : chưa	4
+R : chỉ	2
+R : còn	1
+R : có thể	2
+R : cũng	7
+R : hơn	5
+R : không	4
+R : luôn	1
+R : lên	1
+R : lại	2
+R : mới	4
+R : nữa	1
+R : qua	1
+R : ra	1
+R : rất	3
+R : sắp	1
+R : sẽ	16
+R : thường	1
+R : thậm chí	1
+R : từng	1
+R : vô cùng	2
+R : vẫn	3
+R : đang	3
+R : đã	11
+R : được	2
+RBKT : RBKT	3
+S : hóa	1
+S : tái	1
+T : Chính	2
+T : Riêng	1
+T : chính	1
+T : cả	3
+T : ngay	1
+V : *E*	2
+V : Dựa	1
+V : Thưa	2
+V : Xin	1
+V : ban hành	2
+V : biết	1
+V : biểu diễn	1
+V : báo cáo	1
+V : bù	1
+V : bảo hộ	2
+V : bảo vệ	4
+V : cho	1
+V : chuyển	1
+V : chú trọng	4
+V : chấp nhận	1
+V : chắp nối	1
+V : chỉ	1
+V : chứng tỏ	1
+V : coi trọng	1
+V : còn	1
+V : có	16
+V : cư trú	1
+V : cải thiện	1
+V : cải tiến	1
+V : cảm ơn	1
+V : cập nhật	1
+V : dành	3
+V : dạy	1
+V : dẫn	1
+V : dự kiến	1
+V : dự thảo	1
+V : giao lưu	1
+V : giải quyết	1
+V : giới hạn	1
+V : góp phần	1
+V : gặp	1
+V : gặp gỡ	1
+V : hoan nghênh	1
+V : hành động	3
+V : hướng dẫn	1
+V : học	1
+V : hỗ trợ	2
+V : hội nhập	1
+V : hợp tác	1
+V : khai thác	1
+V : khuyến khích	2
+V : khẳng định	3
+V : kinh doanh	2
+V : kiến nghị	1
+V : kiểm điểm	1
+V : ký kết	1
+V : liên quan	1
+V : là	15
+V : làm	1
+V : làm việc	2
+V : làm ăn	1
+V : lên	1
+V : mang	1
+V : mời	2
+V : mở rộng	1
+V : nghĩ	2
+V : nhìn nhận	1
+V : nhấn mạnh	1
+V : nhất thiết	1
+V : nhận thức	1
+V : nhập	1
+V : nâng	1
+V : nêu	3
+V : nắm	2
+V : phát huy	1
+V : phê duyệt	1
+V : phải	6
+V : phổ biến	2
+V : phục vụ	1
+V : qua	1
+V : quan tâm	4
+V : ra	1
+V : ra đời	2
+V : sinh sống	1
+V : so	2
+V : sở hữu	1
+V : tham gia	2
+V : tham mưu	1
+V : tham quan	1
+V : theo	1
+V : theo dõi	1
+V : thi	1
+V : thiết lập	1
+V : thiếu	1
+V : thu hút	1
+V : tháo gỡ	1
+V : thăm	3
+V : thưa	3
+V : thương thảo	1
+V : thấu hiểu	1
+V : thờ cúng	2
+V : thực hiện	7
+V : tiêu thụ	1
+V : tiến hành	1
+V : trao đổi	1
+V : trọng dụng	1
+V : tìm hiểu	1
+V : tính	1
+V : tùy	1
+V : tăng	1
+V : tạo	4
+V : tới	4
+V : vào	1
+V : ví dụ	1
+V : vận dụng	1
+V : vận động	1
+V : về	8
+V : xác định	2
+V : xây	1
+V : xây dựng	3
+V : đi	2
+V : đàm phán	1
+V : đánh giá	1
+V : đáp ứng	2
+V : đòi hỏi	1
+V : đóng góp	2
+V : được	16
+V : đại diện	1
+V : đạt	1
+V : đảm bảo	1
+V : đầu tư	5
+V : đặt	1
+V : đề cao	1
+V : đề cập	3
+V : ưu đãi	1
+X : Mặt khác	1
+X : Ngoài ra	1
+X : có thể	1
+X : màu cờ sắc áo	1
+X : như thế nào	1
+X : nhất là	1
+X : tái	1

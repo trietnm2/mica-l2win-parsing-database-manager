@@ -1,0 +1,256 @@
+AP : A	8
+AP : A , A	1
+AP : A A	2
+AP : A NP	1
+AP : R A	3
+AP : R A A	1
+AP : R A NP	1
+AP : R A VP	1
+AP : R R A	2
+AP : R R A R NP	1
+AP : R R A T	1
+AP : T A	2
+NP : A M N	1
+NP : A M N N	1
+NP : A M Nu	1
+NP : A N VP	1
+NP : A Nu M NP	1
+NP : L N	4
+NP : L N , N	1
+NP : L N A	1
+NP : L N N	1
+NP : L N N AP	1
+NP : L N N AP VP	1
+NP : L N N SBAR	1
+NP : L N P	1
+NP : L N PP	1
+NP : L N PP C VP : " SBAR	1
+NP : L N SBAR	1
+NP : L N V PP	1
+NP : L N VP	5
+NP : L Nc A PP	1
+NP : L Nc N	1
+NP : L Nc N , N VP	1
+NP : L Nc N A	1
+NP : L Nc N AP	1
+NP : L Nc N SBAR	1
+NP : L Nc N VP	2
+NP : M N	6
+NP : M N A	1
+NP : M N A , XP , VP , NP VP	1
+NP : M N AP	1
+NP : M N N	1
+NP : M N N N NP	1
+NP : M N N SBAR NP	1
+NP : M N P	1
+NP : M N VP	2
+NP : M Nc N	1
+NP : M Nc N NP	1
+NP : M Nc N T PP	1
+NP : N	82
+NP : N , N	2
+NP : N A	5
+NP : N A V	1
+NP : N N	12
+NP : N N - PP -	1
+NP : N N A	1
+NP : N N AP PP	1
+NP : N N N	1
+NP : N N N A	1
+NP : N N N PP	1
+NP : N N NP	1
+NP : N N PP	1
+NP : N N PP PP	1
+NP : N N SBAR	1
+NP : N N VP	1
+NP : N NP	3
+NP : N NP , NP , NP	1
+NP : N Np	2
+NP : N P	4
+NP : N P NP	1
+NP : N P T	1
+NP : N PP	7
+NP : N SBAR	7
+NP : N T	1
+NP : N V	6
+NP : N V : SBAR	1
+NP : N V N	3
+NP : N V N AP	1
+NP : N V NP	3
+NP : N V NP PP	1
+NP : N V PP	1
+NP : N VP	9
+NP : N VP , VP	1
+NP : N VP VP	1
+NP : N X	1
+NP : N XP	1
+NP : NP , NP	4
+NP : NP , NP PP	1
+NP : NP C NP	2
+NP : Nc	1
+NP : Nc A , A	1
+NP : Nc N	6
+NP : Nc N A	1
+NP : Nc N N	1
+NP : Nc N Np	3
+NP : Nc N V PP : SBAR	1
+NP : Nc N VP	1
+NP : Nc Nc N	1
+NP : Nc Np	1
+NP : Nc V	2
+NP : Np	4
+NP : Np , Np PP LBKT " NP " , NP RBKT	1
+NP : Np QP	1
+NP : P	28
+NP : P M N N VP	1
+NP : P N	1
+NP : P PP	1
+NP : P T	1
+NP : R A M N	1
+NP : R N	3
+NP : R N PP	2
+NP : R N SBAR	1
+NP : R N VP	2
+NP : R Nc N	1
+NP : R P	3
+NP : R P P	1
+NP : R R P	1
+NP : T L N N	1
+NP : T N	1
+NP : T N N NP	1
+PP : E AP	2
+PP : E E NP	1
+PP : E NP	51
+PP : E NP , NP	1
+PP : E VP	6
+PP : PP PP	1
+PP : T E NP	2
+QP : A M	1
+QP : M	5
+S : " NP VP " .	1
+S : C NP C VP " .	1
+S : C NP C VP .	1
+S : C NP S , S .	1
+S : C NP VP .	1
+S : NP	1
+S : NP " VP ... "	1
+S : NP , S , C S ...	1
+S : NP , S C S .	1
+S : NP AP	8
+S : NP AP .	1
+S : NP C AP	1
+S : NP C VP	4
+S : NP C VP .	1
+S : NP NP	1
+S : NP NP , VP	1
+S : NP NP .	1
+S : NP NP VP	2
+S : NP VP	57
+S : NP VP " .	1
+S : NP VP .	12
+S : NP VP ...	2
+S : NP VP ? .	1
+S : PP , NP VP .	2
+S : PP S , S , C S .	1
+S : PP VP	1
+S : QP NP	2
+S : QP QP	1
+S : QP VP	1
+S : R T NP , S , S .	1
+S : S , C S ?	1
+S : S , S	5
+S : S , S , S .	2
+S : S , S .	4
+S : S , S C S , S C S .	1
+S : S C S .	3
+S : S VP .	1
+S : T T NP AP .	1
+S : VP , NP VP .	3
+S : VP .	1
+S : VP C NP VP .	1
+S : WHRP NP VP	1
+SBAR : C S	2
+SBAR : E S	4
+SBAR : NP VP	2
+SBAR : S	31
+SBAR : SQ	1
+SQ : " P NP VP ? " .	1
+SQ : S C VP	1
+VP : A V NP	4
+VP : A V NP VP	1
+VP : P V NP	2
+VP : R A V NP	1
+VP : R A V R NP , VP	1
+VP : R R V	1
+VP : R R V AP	1
+VP : R R V N VP	1
+VP : R R V NP	1
+VP : R R V R NP	1
+VP : R R V SBAR	1
+VP : R R V V	1
+VP : R R V XP SBAR	1
+VP : R T V VP	1
+VP : R V	3
+VP : R V A	2
+VP : R V A PP	1
+VP : R V AP	1
+VP : R V NP	14
+VP : R V NP : SBAR	1
+VP : R V NP VP	1
+VP : R V PP	3
+VP : R V PP NP	1
+VP : R V PP PP	1
+VP : R V R	1
+VP : R V R NP	2
+VP : R V SBAR	4
+VP : R V SBAR ... "	1
+VP : R V T PP	1
+VP : R V V	2
+VP : R V V PP	1
+VP : R V VP	6
+VP : R V VP , SBAR	1
+VP : R VP VP R	1
+VP : T V NP	1
+VP : V	14
+VP : V : " SBAR	3
+VP : V A	1
+VP : V A NP	2
+VP : V A PP	1
+VP : V AP	2
+VP : V C NP	1
+VP : V C V	1
+VP : V C VP	1
+VP : V N VP	1
+VP : V NP	48
+VP : V NP PP	4
+VP : V NP R	1
+VP : V NP VP	4
+VP : V PP	9
+VP : V PP NP	2
+VP : V PP VP	1
+VP : V R NP	6
+VP : V R NP PP	1
+VP : V R PP	2
+VP : V R V R : " SBAR	1
+VP : V SBAR	10
+VP : V SBAR "	1
+VP : V T	1
+VP : V T PP	1
+VP : V V	1
+VP : V V AP	1
+VP : V V PP T	1
+VP : V V VP	1
+VP : V VP	23
+VP : V WPRP	1
+VP : VP , C VP	2
+VP : VP , VP	12
+VP : VP , VP , VP	1
+VP : VP , VP PP	1
+VP : VP C VP	2
+VP : VP VP	2
+VP : VP VP NP	1
+VP : VP VP VP	1
+WHRP : P	1
+WPRP : X	1
+XP : R R X	1
+XP : X	2

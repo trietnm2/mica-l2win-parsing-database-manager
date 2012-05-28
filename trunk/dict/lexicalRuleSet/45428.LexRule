@@ -1,0 +1,565 @@
+" : "	57
+, : ,	65
+- : -	7
+. : .	51
+... : ...	10
+: : :	8
+? : ?	6
+A : Bình thường	1
+A : Giống	1
+A : Nhiều	1
+A : bất ngờ	1
+A : bồi hồi	1
+A : cao	2
+A : chuyên	1
+A : chân thành	1
+A : chắc	1
+A : chững chạc	1
+A : cùng	1
+A : căng thẳng	1
+A : cương quyết	1
+A : cắc cớ	1
+A : dễ	1
+A : dễ dàng	1
+A : già	1
+A : giả	1
+A : giản dị	1
+A : gần	2
+A : hoa	1
+A : hài	1
+A : khoảng	2
+A : khác	1
+A : kém	1
+A : liền	1
+A : lớn	2
+A : may	1
+A : may mắn	1
+A : mịt mù	1
+A : mỏng	1
+A : nhiều	3
+A : nhỏ	3
+A : phải	2
+A : phức tạp	1
+A : riêng	2
+A : sát	1
+A : tinh vi	1
+A : tiêu biểu	2
+A : trẻ	2
+A : tự nhiên	1
+A : vững vàng	1
+A : xảo quyệt	1
+A : ít	1
+A : đau lòng	1
+A : điềm tĩnh	1
+A : đẫm	1
+A : đột xuất	1
+C : Còn	1
+C : Nhưng	2
+C : Nếu	2
+C : Tuy nhiên	1
+C : Và	1
+C : còn	2
+C : cùng	2
+C : hay	1
+C : như	3
+C : nhưng	9
+C : nên	1
+C : nếu	1
+C : thì	5
+C : và	12
+E : Trong	1
+E : Trước	1
+E : cho	4
+E : của	17
+E : do	1
+E : giữa	1
+E : ngoài	2
+E : trong	14
+E : trên	2
+E : trước	1
+E : tại	3
+E : từ	2
+E : vào	2
+E : vì	5
+E : về	4
+E : với	10
+E : Để	2
+E : đến	5
+E : để	7
+E : đối với	2
+E : ở	3
+L : Những	1
+L : các	6
+L : mọi	1
+L : một số	2
+L : những	7
+L : số	1
+LBKT : KBKT	1
+LBKT : LBKT	5
+M : 1	1
+M : 18	1
+M : 1997	1
+M : 20	1
+M : 24	2
+M : 27	2
+M : 28	1
+M : 3 . 000	1
+M : 30	2
+M : 5	2
+M : 59	1
+M : 6	1
+M : 8	2
+M : 9	1
+M : Ba	1
+M : chục	2
+M : mười	1
+M : một	18
+M : năm	1
+M : sáu	1
+N : *T*	1
+N : 12 - 2003	1
+N : Anh	1
+N : Bạn	2
+N : Câu	1
+N : Câu chuyện	1
+N : Công an	4
+N : Công việc	1
+N : Hôm	1
+N : Khi	5
+N : Khói	1
+N : Khắc tinh	1
+N : Kinh tế	1
+N : Linh tính	1
+N : Nghệ sĩ	1
+N : Người ta	1
+N : Nhà văn hóa	1
+N : Sau	1
+N : Số	1
+N : Thiếu úy	1
+N : Trường	2
+N : Tuổi trẻ	1
+N : an ninh	1
+N : anh	15
+N : bánh mì	1
+N : báo chí	1
+N : bên	1
+N : bình yên	3
+N : bạn	3
+N : bậc	1
+N : bệnh viện	2
+N : cha	4
+N : chiến công	1
+N : chiến sĩ	3
+N : chiến sĩ thi đua	1
+N : chiến tranh	1
+N : chuyện	3
+N : cháy	1
+N : chân	1
+N : chứng cứ	2
+N : cuộc sống	1
+N : cái chết trắng	1
+N : cám dỗ	1
+N : câu	2
+N : cô	1
+N : công an	4
+N : công việc	2
+N : cơ hội	1
+N : cướp	1
+N : cạnh	1
+N : cảm giác	1
+N : cảnh sát	7
+N : cửa kính	1
+N : dân	1
+N : dây	1
+N : dũng cảm	1
+N : em	2
+N : giao lưu	2
+N : giao thông	3
+N : giấy phép	1
+N : giấy tờ	1
+N : giờ	1
+N : gái	2
+N : gương mặt	1
+N : hiện	2
+N : hiện trường	1
+N : hoàn cảnh	1
+N : huyết áp	1
+N : hình sự	2
+N : hóa chất	1
+N : hôm qua	1
+N : học sinh	1
+N : hỏi	1
+N : hồ sơ	1
+N : hội trường	2
+N : khi	9
+N : khoa	1
+N : khu vực	2
+N : khói	2
+N : khắc tinh	1
+N : kính	1
+N : lúc	2
+N : lần	3
+N : lầu	2
+N : lửa	2
+N : ma túy	5
+N : miệng	1
+N : màu	3
+N : máu	2
+N : mãi lộ	1
+N : mũi	1
+N : mắt	1
+N : nghĩa vụ	1
+N : nghề	2
+N : nghề nghiệp	1
+N : ngoài	3
+N : ngành	1
+N : ngày	2
+N : người	6
+N : nhiệm vụ	2
+N : nhân dân	4
+N : năm	3
+N : nơi	1
+N : nặng lãi	1
+N : nịt	1
+N : phong trào	1
+N : phòng	3
+N : phường	3
+N : phần	2
+N : quần chúng	1
+N : quận	2
+N : sai phạm	1
+N : sinh viên	1
+N : sâu	1
+N : tay	1
+N : tay chân	1
+N : thanh niên	1
+N : thành phố	1
+N : tháng	1
+N : thâm niên	1
+N : thùng	1
+N : thời khắc	3
+N : thủ đoạn	1
+N : tiêu cực	1
+N : tiền	1
+N : trang lứa	1
+N : trinh sát	1
+N : trung úy	2
+N : trà	1
+N : trách nhiệm	2
+N : trùm	2
+N : trường hợp	1
+N : trật tự	1
+N : trẻ	1
+N : tuổi	6
+N : tuổi trẻ	1
+N : tài sản	2
+N : tâm trạng	1
+N : tên	2
+N : tội phạm	12
+N : tội ác	1
+N : tụ điểm	1
+N : vai	1
+N : việc	1
+N : vòng	1
+N : vật chất	1
+N : vết thương	1
+N : vỉa hè	1
+N : vụ	1
+N : xe ôm	1
+N : y dược	2
+N : án	2
+N : ánh sáng	1
+N : áo	4
+N : Đêm	1
+N : Đại học	1
+N : điều	4
+N : điều tra viên	1
+N : đàn anh	1
+N : đá	1
+N : đêm	1
+N : đường dây	4
+N : đại học	2
+N : đồng hồ	2
+N : đồng nghiệp	2
+N : đồng đội	2
+N : độ	1
+N : đội	3
+N : đội trưởng	1
+N : đời	1
+N : ống kim tiêm	3
+NP : *E*	10
+NP : *T*	2
+NP : *T* -1	1
+NP : *T*-1	1
+Nc : Anh	1
+Nc : anh	5
+Nc : buổi	1
+Nc : bọn	2
+Nc : con	1
+Nc : cuộc	2
+Nc : lòng	1
+Nc : mảnh	1
+Nc : ngọn	1
+Nc : niềm	2
+Nc : sự	3
+Nc : tên	1
+Nc : việc	2
+Nc : vụ	6
+Np : Bác Hồ	1
+Np : Bình Thạnh	1
+Np : Cự	1
+Np : Gò Vấp	1
+Np : Nguyên	5
+Np : Nguyễn Anh Tuấn	1
+Np : Nguyễn Văn Minh Tiến	1
+Np : Nguyễn Văn Tú	1
+Np : Phạm Ngọc Thăng	1
+Np : Quang	4
+Np : Thanh niên	1
+Np : Thành Bỉ	4
+Np : Thăng	2
+Np : Tiến	2
+Np : Trung Dân	1
+Np : Trần Minh Quang	1
+Np : Trần Ngọc Đoàn	1
+Np : Trần Thanh Nguyên	1
+Np : Tân Bình	1
+Np : Việt	3
+Np : Đoàn	7
+Np : Đặng Văn Cự	1
+Np : Đỗ Quốc Việt	2
+Nu : USD	1
+Ny : HIV	1
+Ny : TP	2
+Ny : TP . HCM	1
+Ny : TP .HCM	1
+P : Cả	1
+P : Họ	2
+P : Tôi	3
+P : Tất cả	1
+P : bao nhiêu	1
+P : chúng tôi	1
+P : cả	1
+P : hắn	1
+P : họ	2
+P : mình	3
+P : nay	1
+P : nào	1
+P : này	4
+P : sao	2
+P : thế nào	3
+P : tôi	10
+P : tự	1
+P : Đây	2
+P : Đó	2
+P : đây	1
+P : đó	6
+P : ấy	5
+R : Cũng	1
+R : Rất	1
+R : cho	2
+R : chẳng	1
+R : chỉ	4
+R : còn	4
+R : có	2
+R : cũng	5
+R : hàng	2
+R : hằng	1
+R : hết	1
+R : không	9
+R : luôn	1
+R : lên	1
+R : lại	2
+R : lắm	1
+R : mà	1
+R : ngay	2
+R : nữa	2
+R : quả tang	2
+R : ra	1
+R : rất	3
+R : sẽ	2
+R : thậm chí	1
+R : vào	1
+R : vẫn	4
+R : vừa	3
+R : đang	3
+R : đã	20
+R : được	6
+R : đều	1
+RBKR : RBKT	1
+RBKT : RBKT	5
+T : Ngay	1
+T : cả	1
+T : thật	1
+T : đi	1
+V : Có	1
+V : Kỷ niệm	1
+V : Suy nghĩ	1
+V : Tha	1
+V : Tham gia	1
+V : buồn	2
+V : bán dâm	1
+V : bén	1
+V : bước	1
+V : bảo	3
+V : bảo vệ	2
+V : bắt	9
+V : bắt giữ	1
+V : bể	1
+V : bị	3
+V : bịt	1
+V : bốc	1
+V : bộc bạch	2
+V : cho	2
+V : cháy	5
+V : chìm	2
+V : chọn	1
+V : chống	1
+V : chứng kiến	1
+V : chữa cháy	2
+V : cám dỗ	1
+V : có	5
+V : có mặt	2
+V : công tác	1
+V : cướp	2
+V : cướp giật	1
+V : cười	1
+V : cảm thấy	1
+V : cấp cứu	1
+V : cầm	1
+V : cần	1
+V : cứu	4
+V : dùng	3
+V : dạy	1
+V : dẫn chương trình	1
+V : dồn	1
+V : giao	1
+V : giao lưu	1
+V : giao nhận	1
+V : giúp	1
+V : giới thiệu	1
+V : gác	2
+V : góp	1
+V : góp phần	1
+V : gặp	1
+V : hiểu	1
+V : hướng	1
+V : hướng dẫn	1
+V : học	1
+V : hỏi	6
+V : im lặng	2
+V : in	1
+V : khen thưởng	1
+V : khoác	1
+V : khẳng định	1
+V : khống chế	1
+V : kẹt	1
+V : kể	4
+V : leo	1
+V : lo lắng	1
+V : là	13
+V : làm	5
+V : lái xe	1
+V : lên	3
+V : lên đường	1
+V : lăn xả	1
+V : lại	1
+V : lớn	1
+V : mang	1
+V : mua bán	1
+V : muốn	1
+V : mách bảo	1
+V : mại dâm	1
+V : mất	1
+V : mở đầu	1
+V : nghĩ	1
+V : ngã	1
+V : ngụ	2
+V : ngủ	1
+V : nhiễm	1
+V : nhìn	1
+V : nhận	2
+V : nhớ	2
+V : nói	3
+V : phá	3
+V : phá án	4
+V : phân công	1
+V : phòng	1
+V : phòng chống	1
+V : phóng	1
+V : phạm tội	1
+V : phải	6
+V : phản ánh	1
+V : qua	2
+V : quên	1
+V : ra	3
+V : rượt	1
+V : sa ngã	1
+V : so	1
+V : suy nghĩ	2
+V : sắp xếp	1
+V : sống	1
+V : sợ	2
+V : tham gia	3
+V : theo	1
+V : thoát	1
+V : thu thập	1
+V : thành lập	1
+V : tháo	1
+V : thêm	1
+V : thí nghiệm	1
+V : thấy	3
+V : thổ lộ	1
+V : thực hiện	1
+V : tiếc	1
+V : tiếp cận	1
+V : tranh thủ	1
+V : trinh sát	1
+V : truy	1
+V : trả lời	2
+V : trấn an	1
+V : trị giá	1
+V : tuần tra	1
+V : tâm sự	1
+V : tìm	1
+V : tấn công	1
+V : tốt nghiệp	1
+V : từ chối	1
+V : tự hào	2
+V : tự nguyện	1
+V : uống	1
+V : vay	1
+V : vui	2
+V : vào	7
+V : ví	1
+V : vướng	1
+V : vỡ	2
+V : xuống	1
+V : xài	1
+V : xé	1
+V : xông	1
+V : xúc động	1
+V : xảy	1
+V : Ăn	1
+V : ăn chơi	1
+V : đe dọa	1
+V : đi	8
+V : điều tra	1
+V : đuổi	1
+V : đáng	1
+V : đưa	1
+V : được	5
+V : đấu trí	1
+V : đập	1
+V : đặt	1
+V : đến	3
+V : đối diện	2
+V : đồng hành	1
+V : động viên	2
+V : ở	2
+X : hết mình	1
+X : làm sao	1
+X : nghĩa là	1
+X : như thế	1
+X : thập tử nhất sinh	1
+X : vì sao	1

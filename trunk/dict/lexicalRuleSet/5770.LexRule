@@ -1,0 +1,519 @@
+" : "	58
+, : ,	52
+- : -	2
+. : .	57
+... : ...	8
+: : :	2
+A : Gần	1
+A : Thông thường	1
+A : bét	1
+A : bình thường	1
+A : cay đắng	1
+A : chuyên nghiệp	3
+A : chí tử	1
+A : chính xác	1
+A : chật	1
+A : chột	1
+A : công khai	1
+A : cắt cổ	1
+A : cụ thể	1
+A : cụt	6
+A : gan	1
+A : già	1
+A : gần	1
+A : hiền lành	1
+A : hiểm hóc	1
+A : hơn	3
+A : hẳn hoi	1
+A : khó	1
+A : khắp	1
+A : khốc liệt	1
+A : kín	2
+A : linh hoạt	1
+A : liên tục	1
+A : liền	1
+A : lành mạnh	1
+A : lão luyện	2
+A : lén lút	1
+A : lì	1
+A : lộ liễu	1
+A : lớn	1
+A : ngang nhiên	1
+A : rầm rộ	1
+A : rộng	1
+A : sâu	1
+A : sớm	2
+A : thường	1
+A : thứ thiệt	1
+A : tiêu biểu	1
+A : trọc	1
+A : tía	1
+A : vui	1
+A : vững	1
+A : ít	3
+A : Đỏ	1
+A : đen	3
+A : điềm tĩnh	1
+A : đê tiện	1
+A : đông	1
+A : đậm	1
+A : đỏ	2
+A : độc	1
+A : đủ	1
+C : Nếu	1
+C : chứ	1
+C : hay	1
+C : hoặc	1
+C : là	4
+C : mà	3
+C : như	4
+C : nhưng	3
+C : nếu	3
+C : thì	2
+C : và	6
+C : vì thế	1
+E : Vì	1
+E : bằng	2
+E : bởi	1
+E : cho	6
+E : của	12
+E : lên	1
+E : theo	2
+E : trong	4
+E : trên	2
+E : tại	1
+E : tức	1
+E : từ	4
+E : vào	3
+E : vì	2
+E : với	5
+E : đến	3
+E : để	3
+E : ở	3
+L : Các	1
+L : Những	1
+L : Phần nhiều	1
+L : Vài	1
+L : bao	1
+L : các	5
+L : khắp	1
+L : mấy	1
+L : những	12
+L : vài	4
+L : ít	1
+LBKT : LBKT	5
+M : 1.001	1
+M : 10	1
+M : 100 . 000	1
+M : 15	1
+M : 2	1
+M : 200	1
+M : 30	2
+M : 41	1
+M : 5 triệu	1
+M : 50	1
+M : Mỗi	1
+M : chục	3
+M : cặp	2
+M : hai	2
+M : mỗi	5
+M : một	11
+M : ngàn	1
+M : năm	5
+M : sáu	1
+M : triệu	5
+M : trăm	1
+M : đôi	1
+N : Bãi	1
+N : Chân dung	1
+N : Cách	1
+N : Dân	1
+N : Loại	1
+N : Lúc	1
+N : Lượng	1
+N : Nói	1
+N : Nơi	1
+N : Phường	1
+N : Phần đông	1
+N : Sau	1
+N : Sới	1
+N : Trận	1
+N : an ninh	1
+N : ban ngày ban mặt	1
+N : biển	1
+N : bài học	1
+N : bạc	8
+N : bả	1
+N : bản địa	1
+N : bằng phân	1
+N : chuyện	1
+N : chân dung	1
+N : chợ	1
+N : chủ	2
+N : chủ nhật	1
+N : chừng	1
+N : con bạc	1
+N : cuộc đời	1
+N : cách	1
+N : cảm giác	1
+N : cọc	1
+N : cốp	1
+N : cổ	1
+N : cờ bạc	2
+N : cửa	1
+N : da	1
+N : dân	7
+N : dưới	2
+N : dịch vụ	1
+N : gia đình	2
+N : giá	1
+N : giữa	1
+N : gà	47
+N : gà chọi	4
+N : hiệp	1
+N : hiệu	1
+N : hôm	1
+N : hạng	1
+N : hồ	5
+N : hộ khẩu	1
+N : khi	3
+N : khách	1
+N : kim	1
+N : kẻ	3
+N : lai lịch	1
+N : lòng	1
+N : lúc	3
+N : lượng	1
+N : lịch	1
+N : lối	1
+N : lời	1
+N : lửa	1
+N : minh chứng	1
+N : miền	2
+N : màu	2
+N : máu mặt	1
+N : mình	1
+N : mắt	1
+N : mức	1
+N : mức độ	1
+N : nghề	4
+N : ngày	3
+N : ngõ	1
+N : người	3
+N : nhau	3
+N : năm	3
+N : nước	1
+N : nạn nhân	1
+N : nợ đời	2
+N : phong độ	1
+N : phân	1
+N : phí	2
+N : phút	1
+N : phường	4
+N : qui mô	1
+N : sau	1
+N : sàn	1
+N : sân chơi	1
+N : số	2
+N : sới	21
+N : tay	5
+N : thuốc mê	1
+N : thành phần	1
+N : thú	1
+N : thần khí	1
+N : thị xã	2
+N : thời	1
+N : thủ đoạn	2
+N : thủ đô	1
+N : thứ	2
+N : thứ ba	1
+N : thứ bảy	1
+N : thứ năm	1
+N : tiếng	1
+N : tiền	5
+N : triết lý	2
+N : trong	1
+N : trung tâm	1
+N : trên	1
+N : trước	1
+N : trận	8
+N : tuần	2
+N : tuổi	1
+N : tài tử	1
+N : tín đồ	1
+N : tính	1
+N : tỉ lệ	2
+N : tờ	1
+N : vùng	1
+N : vườn	1
+N : xe	3
+N : ô	9
+N : ôtô	1
+N : Điều	2
+N : đòn	5
+N : đường	3
+N : đạo	1
+N : đất	1
+N : đấu thủ	1
+N : đầu	1
+N : đặc điểm	1
+N : đền	1
+N : địa phương	1
+N : đối phương	1
+N : đồng tiền	1
+N : độc chiêu	1
+NP : *E*	5
+NP : *T*-1	1
+Nc : Con	2
+Nc : chiếc	1
+Nc : con	9
+Nc : cái	3
+Nc : cú	1
+Nc : loại	1
+Nc : mảnh	1
+Nc : sự	2
+Nc : trận	1
+Np : Bắc	2
+Np : Bắc Ninh	4
+Np : Bắc bộ	1
+Np : Camry	1
+Np : Hà Nội	5
+Np : Hà Đông	1
+Np : Hải Dương	1
+Np : Hậu	1
+Np : Ninh Xá	2
+Np : Quảng Ninh	1
+Np : Sự	1
+Np : Thái Bình	2
+Np : Tuấn	6
+Np : Tây Hồ	1
+Np : Từ Sơn	1
+Np : Vạn Phúc	1
+Np : Yên Sở	1
+Np : Đô	1
+Np : Đọ	1
+Nu : USD	1
+Nu : km	1
+Nu : m2	1
+Nu : phút	1
+Nu : đồng	3
+P : Hắn	4
+P : Họ	2
+P : Nó	2
+P : Tôi	1
+P : ai	1
+P : chúng	1
+P : gì	1
+P : hắn	6
+P : họ	2
+P : mình	2
+P : nay	1
+P : nào	2
+P : này	10
+P : nó	6
+P : thằng	1
+P : thế nào	1
+P : tôi	2
+P : tất cả	1
+P : tự	1
+P : Đây	1
+P : Đó	1
+P : đó	1
+P : ấy	2
+R : Chưa	1
+R : Lại	1
+R : bỗng	1
+R : chưa	6
+R : chắc	1
+R : chẳng	1
+R : chỉ	6
+R : còn	2
+R : có thể	1
+R : cũng	3
+R : cốt	1
+R : cứ	1
+R : gí	1
+R : hay	1
+R : hàng	1
+R : hơn	1
+R : hẳn	1
+R : không	8
+R : không thể	1
+R : liền	2
+R : luôn	1
+R : lên	1
+R : lại	2
+R : mãi	1
+R : mới	1
+R : phải	5
+R : ra	5
+R : rất	3
+R : sắp	1
+R : thường	2
+R : thậm chí	2
+R : thật	1
+R : tạm	1
+R : từng	2
+R : vẫn	4
+R : Đã	1
+R : đang	1
+R : đáng	1
+R : đã	15
+R : được	4
+R : đến	1
+R : đều	3
+R : đồng thời	1
+RBKT : RBKT	5
+T : Chính	1
+T : Chỉ	1
+T : Cả	2
+T : Cứ	1
+T : Thế	2
+T : cái	1
+T : cả	4
+T : gì	1
+T : ngay	2
+T : nào	3
+T : nữa	2
+T : rồi	1
+T : trời	1
+T : tới	1
+T : vốn	1
+T : đó	1
+V : Chơi	1
+V : Có	1
+V : Dính	1
+V : Nhập	1
+V : Phải	1
+V : Tính	1
+V : bao gồm	1
+V : biết	3
+V : buông	1
+V : bám	1
+V : bê	1
+V : bình phẩm	1
+V : bắt	2
+V : bắt đầu	1
+V : bị	1
+V : bỏ	1
+V : cho	1
+V : châm	1
+V : chóng mặt	1
+V : chơi	10
+V : chạy	1
+V : chầu giời	1
+V : chọi	1
+V : cá cược	4
+V : cá độ	2
+V : cách	1
+V : còn	3
+V : có	10
+V : cược	2
+V : dán	1
+V : dâng	1
+V : dính	1
+V : dùng	1
+V : dẫn	1
+V : dốc	1
+V : giữ	1
+V : ham	1
+V : hết	1
+V : hồi sức	1
+V : khiến	4
+V : khích bác	1
+V : kinh doanh	1
+V : kèm	1
+V : kết	1
+V : kể	1
+V : liên lạc	1
+V : là	15
+V : làm	2
+V : lâm trận	1
+V : lên	1
+V : lăn lộn	1
+V : lấp liếm	1
+V : lầm	1
+V : lập	1
+V : lừa	1
+V : mang	1
+V : mê	1
+V : mở	2
+V : nghỉ	1
+V : ngạc nhiên	1
+V : ngồi	1
+V : nhao	1
+V : nhẩm	1
+V : nhẵn mặt	1
+V : nhớ	1
+V : náo động	1
+V : nắm	1
+V : nằm	1
+V : nằm bẹp	1
+V : nổ	1
+V : phân	1
+V : phải	1
+V : phản	1
+V : quên	2
+V : ra	1
+V : rút	1
+V : rụt	5
+V : so	2
+V : sơ ý	2
+V : sống	1
+V : sợ	1
+V : tan vỡ	1
+V : thay đổi	1
+V : theo	2
+V : thu	1
+V : thu nhập	1
+V : thua	5
+V : thường trú	1
+V : thắng bại	1
+V : thắng thế	1
+V : thủ thế	1
+V : thử	1
+V : tong	1
+V : trả	1
+V : trị giá	1
+V : trở thành	2
+V : tung	2
+V : tung hoành	1
+V : tìm	1
+V : tính	1
+V : tăng	2
+V : tưởng	1
+V : tạo	1
+V : tản	1
+V : tẩm	1
+V : tỏ	1
+V : tồn tại	3
+V : tổ chức	1
+V : từ	1
+V : uống	1
+V : vào	1
+V : vây	1
+V : về	1
+V : xem	2
+V : xuýt xoa	1
+V : ăn	4
+V : ăn thua	1
+V : ăn uống	1
+V : đam mê	1
+V : đi	2
+V : đá	16
+V : đáng	1
+V : đánh	4
+V : đấu	2
+V : đặt	1
+V : đặt cược	2
+V : đến	1
+V : để	1
+V : đủ	1
+V : ẩn	1
+X : Có khi	1
+X : Có lẽ	2
+X : có vẻ	1
+X : khuynh gia bại sản	1
+X : ngày một	2
+X : như thế nào	1
+X : thò lò mũi xanh	1

@@ -1,0 +1,547 @@
+! : !	2
+" : "	34
+, : ,	67
+- : -	5
+. : .	56
+... : ...	13
+/ : /	4
+: : :	13
+A : Cao tay	1
+A : Nhiều	2
+A : Suốt	2
+A : buồn	1
+A : bằng	1
+A : cay đắng	1
+A : chênh lệch	1
+A : chặt chẽ	1
+A : chững chạc	1
+A : cùng	2
+A : dài	1
+A : dễ	1
+A : dễ dàng	1
+A : giận dữ	1
+A : giỏi	1
+A : hơn	4
+A : khoảng	1
+A : khác	2
+A : khó khăn	2
+A : khập khiễng	1
+A : khốc liệt	1
+A : khốn khó	1
+A : kiên quyết	2
+A : kỹ	1
+A : liệt	1
+A : lạ	1
+A : lớn lao	1
+A : may mắn	2
+A : mù	1
+A : ngẫu nhiên	1
+A : nhiều	11
+A : nhân đạo	1
+A : nhất	5
+A : nhỏ	2
+A : nổi tiếng	1
+A : quan trọng	2
+A : quyết định	1
+A : ráo hoảnh	1
+A : rộng	1
+A : thật	1
+A : thẳng tay	1
+A : trực tiếp	3
+A : tò mò	1
+A : tận tình	1
+A : tủi nhục	1
+A : từ thiện	1
+A : vị thành niên	1
+A : xanh	1
+A : ít	2
+A : Đơn giản	1
+A : đàng hoàng	1
+A : đầu tiên	1
+A : đặc biệt	1
+A : đủ	2
+A : đủ đầy	1
+A : ổn định	2
+C : Nhưng	2
+C : Nhờ	1
+C : Rồi	2
+C : Và	3
+C : Vì vậy	1
+C : hoặc	1
+C : là	2
+C : lẫn	2
+C : mà	6
+C : mặc dù	1
+C : như	2
+C : nhưng	8
+C : nên	2
+C : rằng	1
+C : rồi	3
+C : thì	1
+C : và	10
+C : vì vậy	1
+E : Nhờ	1
+E : Trong	3
+E : Từ	1
+E : cho	7
+E : của	13
+E : do	2
+E : giữa	1
+E : sau	2
+E : trong	7
+E : trên	1
+E : tại	2
+E : tận	1
+E : tới	1
+E : từ	1
+E : vào	4
+E : vì	2
+E : về	5
+E : với	9
+E : xuống	1
+E : Đến	1
+E : đến	3
+E : để	13
+E : đối với	1
+E : ở	4
+L : Những	1
+L : các	6
+L : mấy	2
+L : mọi	3
+L : những	14
+L : toàn bộ	1
+LBKT : LBKT	1
+M : 10.000	1
+M : 18	1
+M : 1999	2
+M : 2	1
+M : 200	2
+M : 2000	1
+M : 300	1
+M : 4.000	1
+M : 400.000	1
+M : 50	1
+M : 6	1
+M : 60	1
+M : 600.000	2
+M : 61	1
+M : Ba	1
+M : chục	1
+M : hai	5
+M : mỗi	5
+M : một	20
+M : năm	1
+M : nửa	1
+M : triệu	1
+M : trăm	1
+N : Anh	3
+N : Em	1
+N : Giá	1
+N : Khi	3
+N : Lần	1
+N : Trung tâm	3
+N : Việt kiều	1
+N : anh	13
+N : biệt danh	1
+N : buổi	1
+N : bà	1
+N : bà mẹ	1
+N : bánh sandwich	1
+N : bé	2
+N : bên	5
+N : bạn	1
+N : bệnh viện	1
+N : bố	1
+N : bụi bặm	2
+N : bữa	1
+N : chuyện	1
+N : chân	1
+N : chương trình	1
+N : chất lượng	1
+N : chỗ	1
+N : con thoi	1
+N : cuộc sống	1
+N : cuộc đời	3
+N : cà phê	1
+N : cách	1
+N : cái	1
+N : cám dỗ	1
+N : cót	1
+N : cơ sở	1
+N : cảm giác	1
+N : cảnh	1
+N : cố hương	1
+N : em	14
+N : gia đình	2
+N : giây phút	1
+N : giới tính	2
+N : giữa	1
+N : gái	1
+N : hiện tại	1
+N : hoàn cảnh	1
+N : hướng dẫn viên	2
+N : hạnh phúc	2
+N : học bổng	1
+N : học viên	1
+N : khi	12
+N : khoản	1
+N : khung cảnh	1
+N : khách	8
+N : khách sạn	2
+N : khóa	1
+N : kênh	1
+N : lòng	1
+N : lúc	2
+N : lưng	1
+N : lương	2
+N : lần	4
+N : lẽ	1
+N : mái	1
+N : mánh	1
+N : máu	1
+N : mô hình	1
+N : môn	1
+N : mẹ	2
+N : mẹ con	1
+N : mức	1
+N : nam	1
+N : nghề	10
+N : ngoại ngữ	1
+N : nguồn	2
+N : ngày	1
+N : ngân sách	1
+N : người	4
+N : nhu cầu	1
+N : nhà	3
+N : nhà hàng	3
+N : nhóm	1
+N : năm	3
+N : nơi	1
+N : nước	2
+N : nước ngoài	2
+N : nữ	1
+N : phiếu	1
+N : phố	1
+N : phở	2
+N : quán	2
+N : quần áo	2
+N : quầy	1
+N : sảnh	1
+N : số	2
+N : số phận	1
+N : sốc	2
+N : tay	1
+N : thu nhập	2
+N : thuốc	1
+N : thành phố	1
+N : tháng	6
+N : thân thể	1
+N : thầy	1
+N : thẻ	1
+N : thời gian	1
+N : thứ	1
+N : tim	1
+N : tiền	13
+N : tiểu xảo	1
+N : tiệm	1
+N : trong	1
+N : trung tâm	3
+N : trên	1
+N : trưa	1
+N : trước tiên	1
+N : trẻ	22
+N : trẻ em	1
+N : tuần	1
+N : tuổi	1
+N : tình dục	1
+N : tình huống	1
+N : tóc	1
+N : tùy tùng	1
+N : túi	1
+N : tường	1
+N : tổ chức	2
+N : tổng thống	3
+N : việc	1
+N : việc làm	1
+N : vị	1
+N : xe đạp	2
+N : áo	1
+N : ông	2
+N : ý tưởng	2
+N : ý định	1
+N : Điều	1
+N : Đại ca	2
+N : điều	2
+N : đoàn	1
+N : đêm	1
+N : đường	3
+N : đường phố	8
+N : đại ca	3
+N : đất nước	1
+N : đấu tranh	1
+N : đầu	2
+N : đầu tiên	1
+N : đời	1
+N : đứa	2
+N : ước mơ	2
+N : ảnh	2
+NP : *E*	8
+NP : *T*	7
+NP : Phạm	2
+Nb : bar	1
+Nc : bờ	1
+Nc : bức	1
+Nc : chiếc	1
+Nc : chú	1
+Nc : con	1
+Nc : cú	1
+Nc : cơn	1
+Nc : sự	4
+Nc : tấm	1
+Nc : vị	1
+Nc : ông	1
+Nc : Đứa	2
+Nc : đoàn	1
+Nc : đám	1
+Nc : đứa	13
+Np : Bill Clinton	2
+Np : Cần Thơ	1
+Np : Huế	1
+Np : Hà Nội	1
+Np : Jimmy	2
+Np : Jimmy Phạm	3
+Np : Koto	8
+Np : Mediterraneo	1
+Np : Mỹ	1
+Np : Phạm	12
+Np : Quang Trung	1
+Np : Sofitel Metropole	1
+Np : Tây	2
+Np : Việt	1
+Np : Văn Miếu	1
+Np : Úc	1
+Nu : USD	3
+Nu : kilômet	1
+Nu : tiếng	1
+Nu : đ	2
+Nu : đồng	3
+Ny : TP.HCM	2
+Ny : VN	4
+Ny : đ	1
+P : Chúng	1
+P : Mình	4
+P : Tôi	1
+P : ai	1
+P : chúng	14
+P : cả	4
+P : gì	1
+P : kia	1
+P : mình	3
+P : nay	2
+P : nào	2
+P : này	3
+P : sao	1
+P : thế	1
+P : tôi	1
+P : tất cả	3
+P : từng	1
+P : đó	6
+R : Không	1
+R : Từng	1
+R : Vẫn	1
+R : chưa	3
+R : chỉ	9
+R : còn	1
+R : có	1
+R : có thể	2
+R : cũng	8
+R : hay	1
+R : hàng	1
+R : hơi	1
+R : hẳn	1
+R : hề	1
+R : không	17
+R : không thể	2
+R : khỏi	2
+R : lên	2
+R : lại	7
+R : lắm	1
+R : mới	3
+R : ngay	2
+R : nữa	1
+R : quá	2
+R : ra	2
+R : rất	6
+R : rồi	1
+R : sẽ	7
+R : từng	6
+R : vẫn	1
+R : vừa	6
+R : đang	1
+R : đi	1
+R : đã	25
+R : được	2
+R : đều	1
+RBKT : RBKT	1
+T : Chính	1
+T : Ngay	1
+T : Thế	1
+T : chính	3
+T : cái	1
+T : có	1
+T : cả	1
+T : gì	1
+T : vậy	1
+T : đâu	1
+V : *E*	1
+V : Biết	1
+V : Có	3
+V : Lăn lộn	1
+V : Muốn	1
+V : So	1
+V : Thay	1
+V : Xong	1
+V : biết	8
+V : bám	2
+V : bán	2
+V : bảo	3
+V : bắt chuyện	1
+V : bắt tay	1
+V : bị	5
+V : bỏ	1
+V : cho	4
+V : chu cấp	1
+V : chuyến	1
+V : chăn	1
+V : chơi	2
+V : chạy	1
+V : chấp nhận	2
+V : chết	1
+V : chọn	2
+V : chớm	1
+V : chữa	1
+V : còn	1
+V : có	22
+V : cười	1
+V : cảm động	2
+V : cảm ơn	1
+V : cấp	1
+V : cần	1
+V : day dứt	1
+V : du lịch	2
+V : dành dụm	1
+V : dè	1
+V : dạy	6
+V : dẫn	4
+V : dứt	1
+V : giáo dục	1
+V : giúp	6
+V : giúp đỡ	1
+V : giữ	1
+V : gặp	2
+V : gộp	1
+V : gửi	1
+V : hoàn thiện	1
+V : hoán đổi	1
+V : học	9
+V : hỏi	2
+V : hỗ trợ	1
+V : khai trương	1
+V : khiến	1
+V : khóc	1
+V : kiếm	1
+V : kể	2
+V : lang thang	8
+V : liên hệ	1
+V : liên kết	1
+V : lo	1
+V : là	12
+V : làm	4
+V : làm bếp	1
+V : làm thân	1
+V : lân la	1
+V : lăn lộn	1
+V : lạm dụng	1
+V : lấy	5
+V : lớn	1
+V : lừa	1
+V : mua	3
+V : muốn	4
+V : mất	2
+V : mời	2
+V : mở	2
+V : mở rộng	1
+V : nghe	3
+V : nghĩ	1
+V : ngồi	3
+V : nhìn	1
+V : nhận	1
+V : nuôi	1
+V : nói	5
+V : phân tích	1
+V : phải	8
+V : phỏng vấn	1
+V : phục vụ	2
+V : quan tâm	1
+V : quay	1
+V : ra	3
+V : rũ	1
+V : rớm	1
+V : sang	1
+V : sinh ra	1
+V : so sánh	1
+V : sống	2
+V : sốt	1
+V : theo	1
+V : thoát	1
+V : thu nhận	1
+V : thua	1
+V : thuê	1
+V : thèm	1
+V : thôi	1
+V : thú thật	1
+V : thăm	1
+V : thấy	2
+V : thắt	1
+V : thủ thỉ	1
+V : thực hành	3
+V : tin	2
+V : tiêu	1
+V : tiết lộ	1
+V : trao	1
+V : trân trọng	1
+V : trả lời	3
+V : trắc ẩn	1
+V : tuyển	1
+V : tài trợ	1
+V : tâm niệm	1
+V : tâm đắc	1
+V : tìm	2
+V : tình nguyện	1
+V : tính	1
+V : túm	1
+V : tưởng	1
+V : tắm	1
+V : văng tục	1
+V : về	4
+V : xin	1
+V : xuất thân	1
+V : xác minh	1
+V : xấu hổ	1
+V : xối	1
+V : ăn	6
+V : ăn xin	1
+V : Đi	1
+V : Được	1
+V : Đổi đời	1
+V : đem	1
+V : đi	9
+V : đào tạo	1
+V : được	13
+V : đập	1
+V : đặt	2
+V : đến	3
+V : đứng	1
+V : ở	2
+X : có lẽ	1
+X : nghĩa là	1

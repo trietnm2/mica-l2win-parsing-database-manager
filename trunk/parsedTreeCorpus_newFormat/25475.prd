@@ -1,0 +1,523 @@
+<s id = "1">
+S
+	NP(SUB)
+		Ny(H)
+			 TP . HCM
+	:
+		 :
+	VP
+		V(H)
+			 vay
+		NP(DOB)
+			M
+				 500 tỉ
+			Nu(H)
+				 đồng
+			VP(PRP)
+				V(H)
+					 triển khai
+				A
+					 gấp
+				NP(DOB)
+					L
+						 các
+					N(H)
+						 dự án
+					VP
+						V(H)
+							 cấp
+						NP(DOB)
+							N(H)
+								 nước
+	.
+		 .
+</s>
+<s id = "2">
+S
+	NP(SUB)
+		Ny(H)
+			 UBND
+		Np
+			 TP.HCM
+	VP
+		R
+			 vừa
+		V(H)
+			 đề nghị
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 Quĩ
+					VP
+						V(H)
+							 hỗ trợ
+						VP
+							V(H)
+								 phát triển
+				VP
+					V(H)
+						 cho
+					NP(DOB)
+						Ny(H)
+							 TP
+						VP
+							V(H)
+								 vay
+							NP(DOB)
+								M
+									 500 tỉ
+								Nu(H)
+									 đồng
+							PP
+								E(H)
+									 với
+								NP
+									N(H)
+										 lãi suất
+									QP
+										M(H)
+											 7 , 5%
+										/
+											 /
+										NP
+											N(H)
+												 năm
+							PP(PRP)
+								E(H)
+									 để
+								VP
+									V(H)
+										 triển khai
+									AP
+										A(H)
+											 gấp
+									NP(DOB)
+										L
+											 các
+										N(H)
+											 dự án
+										VP
+											V(H)
+												 cấp
+											NP(DOB)
+												N(H)
+													 nước
+										VP
+											R
+												 đang
+											V(H)
+												 thực hiện
+										VP
+											V(H)
+												 gồm
+											:
+												 :
+											NP(DOB)
+												N(H)
+													 hệ thống
+												VP
+													V(H)
+														 cấp
+													NP(DOB)
+														N(H)
+															 nước
+														NP
+															NP
+																N(H)
+																	 sông
+																Np
+																	 Sài Gòn
+																NP
+																	N(H)
+																		 giai đoạn
+																	M
+																		 1
+															C
+																 và
+															NP
+																L
+																	 các
+																S
+																	 tiểu
+																N(H)
+																	 dự án
+																NP
+																	N(H)
+																		 mạng
+																	VP
+																		V(H)
+																			 cấp
+																		NP(DOB)
+																			N(H)
+																				 nước
+																	NP
+																		N(H)
+																			 cấp
+																		QP
+																			M(H)
+																				 1
+																			,
+																				 ,
+																			M(H)
+																				 2
+																			,
+																				 ,
+																			M(H)
+																				 3
+	.
+		 .
+</s>
+<s id = "3">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Hạn
+			N
+				 chót
+			VP
+				V(H)
+					 hoàn trả
+				NP(DOB)
+					NP
+						N(H)
+							 vốn
+						AP
+							A(H)
+								 gốc
+					C
+						 và
+					NP
+						N(H)
+							 lãi
+		VP
+			V(H)
+				 là
+			NP(TMP)
+				N(H)
+					 ngày
+				M
+					 31
+				-
+					 -
+				M
+					 12
+				-
+					 –
+				M
+					 2004
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 Công ty
+			VP
+				V(H)
+					 Cấp
+				NP(DOB)
+					N(H)
+						 nước
+					NP
+						Ny(H)
+							 TP
+		VP
+			V(H)
+				 được
+			VP
+				V(H)
+					 ủy quyền
+				VP
+					V(H)
+						 ký
+					NP(DOB)
+						N(H)
+							 hợp đồng
+						N
+							 tín dụng
+				VP
+					V(H)
+						 nhận
+					NP(DOB)
+						N(H)
+							 vốn
+						V
+							 vay
+	.
+		 .
+</s>
+<s id = "4">
+S
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Được
+		V
+			 biết
+		,
+			 ,
+		SBAR
+			S
+				NP(TMP)
+					N(H)
+						 hiện
+				NP(SUB)
+					Ny(H)
+						 UBND
+					Ny
+						 TP
+				VP
+					VP
+						R
+							 đang
+						V(H)
+							 chỉ đạo
+						SBAR
+							S
+								NP(SUB)
+									L
+										 các
+									N(H)
+										 cơ quan
+									VP
+										V(H)
+											 liên quan
+								VP
+									V(H)
+										 tập trung
+									NP(DOB)
+										A
+											 nhiều
+										N(H)
+											 biện pháp
+									PP(PRP)
+										E(H)
+											 để
+										VP
+											V(H)
+												 hoàn thành
+											NP(DOB)
+												N(H)
+													 dự án
+												NP
+													N(H)
+														 hệ thống
+													VP
+														V(H)
+															 cấp
+														NP(DOB)
+															N(H)
+																 nước
+													NP
+														N(H)
+															 sông
+														Np
+															 Sài Gòn
+														NP
+															N(H)
+																 giai đoạn
+															M
+																 1
+														NP
+															N(H)
+																 công suất
+															NP
+																M
+																	 300.000
+																Nu(H)
+																	 m3
+																/
+																	 /
+																NP
+																	N(H)
+																		 ngày
+					C
+						 và
+					VP
+						V(H)
+							 dự kiến
+						VP
+							V(H)
+								 cấp
+							NP(DOB)
+								N(H)
+									 nước
+							PP(TMP)
+								E(H)
+									 trước
+								NP
+									N(H)
+										 ngày
+									M
+										 30
+									-
+										 -
+									M
+										 4
+									-
+										 –
+									M
+										 2004
+	.
+		 .
+</s>
+<s id = "5">
+S
+	NP(ADV)
+		N(H)
+			 Bên
+		N
+			 cạnh
+		P
+			 đó
+	NP(SUB)
+		Ny(H)
+			 TP
+	VP
+		R
+			 cũng
+		R
+			 đang
+		V(H)
+			 khẩn trương
+		VP
+			V(H)
+				 đầu tư
+			NP(DOB)
+				L
+					 các
+				N(H)
+					 dự án
+				NP
+					N(H)
+						 mạng
+					VP
+						V(H)
+							 cấp
+						NP(DOB)
+							N(H)
+								 nước
+							NP
+								N(H)
+									 cấp
+								QP
+									M(H)
+										 1
+									,
+										 ,
+									M(H)
+										 2
+									,
+										 ,
+									M(H)
+										 3
+				VP
+					V(H)
+						 gồm
+					NP(DOB)
+						NP
+							M
+								 10
+							N(H)
+								 dự án
+							NP
+								N(H)
+									 mạng
+								VP
+									V(H)
+										 cấp
+									NP(DOB)
+										N(H)
+											 nước
+								NP(LOC)
+									N(H)
+										 phía
+									N
+										 tây
+						C
+							 và
+						NP
+							M
+								 năm
+							N(H)
+								 dự án
+							NP
+								N(H)
+									 mạng
+								VP
+									V(H)
+										 cấp
+									NP(DOB)
+										N(H)
+											 nước
+								NP(LOC)
+									N(H)
+										 phía
+									N
+										 đông
+				PP(PRP)
+					E(H)
+						 để
+					VP
+						VP
+							V(H)
+								 tiếp nhận
+							V
+								 thêm
+							NP(DOB)
+								M
+									 600.000
+								Nu(H)
+									 m3
+								/
+									 /
+								NP
+									N(H)
+										 ngày
+						,
+							 ,
+						VP
+							V(H)
+								 nâng
+							NP(DOB)
+								N(H)
+									 tổng số
+								N
+									 nước
+								VP
+									V(H)
+										 cấp
+									PP
+										PP
+											E(H)
+												 từ
+											NP
+												M
+													 980.000
+												Nu(H)
+													 m3
+												/
+													 /
+												NP
+													N(H)
+														 ngày
+										PP
+											E(H)
+												 lên
+											NP
+												M
+													 1,58
+												M
+													 triệu
+												Nu(H)
+													 m3
+												/
+													 /
+												NP
+													N(H)
+														 ngày
+	.
+		 .
+</s>

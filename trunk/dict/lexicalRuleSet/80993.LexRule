@@ -1,0 +1,679 @@
+! : !	14
+" : "	18
+, : ,	62
+- : -	8
+. : .	55
+... : ...	3
+... : …	1
+: : :	11
+? : ?	4
+A : Gần	1
+A : Nhiều	1
+A : Nổi tiếng	1
+A : Thật tình	1
+A : bàng hoàng	1
+A : bình đẳng	1
+A : bất ngờ	1
+A : bất động	1
+A : bằng	1
+A : cao	1
+A : chuyên	1
+A : chính	2
+A : chính thức	1
+A : chút ít	1
+A : cuối cùng	1
+A : căng tròn	1
+A : cường tráng	1
+A : duy nhất	1
+A : dài	1
+A : dễ	1
+A : gian ác	1
+A : gần	2
+A : gợi cảm	1
+A : hơn	2
+A : katoey	1
+A : khoảng	1
+A : khác	3
+A : khó	1
+A : khó lòng	1
+A : khắp	3
+A : khỏe mạnh	1
+A : khủng khiếp	2
+A : kém	1
+A : kịp	1
+A : lạ thường	2
+A : lạnh lùng	1
+A : lừng danh	1
+A : man dại	1
+A : may mắn	1
+A : mềm nhũn	1
+A : mới	1
+A : nghèo	7
+A : nguy hiểm	1
+A : nhiều	6
+A : như	1
+A : nhỏ	1
+A : nổi tiếng	2
+A : phải	1
+A : sai lầm	1
+A : sau	2
+A : sung sức	1
+A : sáng	1
+A : sâu	1
+A : thầm kín	2
+A : trái xoan	1
+A : trực tiếp	1
+A : tình tứ	1
+A : tối kỵ	1
+A : vinh quang	4
+A : vô địch	4
+A : xinh đẹp	2
+A : xôn xao	1
+A : yêu thương	1
+A : âm thầm	1
+A : ít	4
+A : õng ẹo	1
+A : đau đớn	3
+A : đen nhánh	1
+A : đói	1
+A : đúng	2
+A : đầu tiên	5
+A : đầy	4
+A : đẫm	1
+A : đổi đời	1
+C : Do	1
+C : Dù	1
+C : Không chỉ	1
+C : Nhưng	4
+C : Nếu	2
+C : hay	1
+C : hoặc	1
+C : không chỉ	1
+C : là	2
+C : mà	3
+C : mà còn	2
+C : như	6
+C : nhưng	10
+C : nhất là	1
+C : nên	2
+C : nếu	1
+C : rằng	1
+C : thì	2
+C : thậm chí	1
+C : và	19
+C : vì	1
+C : đồng thời	1
+E : Sau	4
+E : Theo	1
+E : Trên	1
+E : Với	2
+E : bằng	1
+E : cho	5
+E : cho dù	1
+E : của	28
+E : dưới	2
+E : giữa	3
+E : lên	3
+E : qua	2
+E : sau	1
+E : theo	1
+E : trong	9
+E : trên	7
+E : trước	2
+E : tại	3
+E : tới	1
+E : từ	6
+E : vào	3
+E : vì	5
+E : về	5
+E : với	10
+E : Đến	1
+E : Để	1
+E : đến	3
+E : để	6
+E : Ở	1
+E : ở	10
+I : ư	1
+L : Các	3
+L : Những	3
+L : bao nhiêu	1
+L : các	7
+L : mọi	1
+L : những	19
+LBKT : LBKT	5
+M : 100	1
+M : 109	1
+M : 12	1
+M : 1999	1
+M : 20	1
+M : 2005	1
+M : 3	2
+M : 4	1
+M : 4 . 000	1
+M : 50	1
+M : 6	1
+M : 60	2
+M : 7	1
+M : Một	2
+M : chục	1
+M : chục ngàn	1
+M : hai	4
+M : mười	1
+M : mỗi	2
+M : một	23
+M : năm	2
+N : Bangkok	1
+N : Bộ	2
+N : Chính phủ	1
+N : Chủ tịch	1
+N : Câu chuyện	2
+N : Cô	2
+N : Cơ thể	1
+N : Cảnh	1
+N : Họ	1
+N : Hội đồng	1
+N : Ngày	1
+N : Nhiệm vụ	1
+N : Năm	1
+N : Nụ	1
+N : Nụ hôn	1
+N : Nữ	1
+N : Olympic	1
+N : Phong cách	1
+N : Quân đội	1
+N : Quả đấm	1
+N : Tiền	1
+N : anh	2
+N : ban	2
+N : bao	1
+N : bài bản	1
+N : bác sĩ	2
+N : báo chí	1
+N : bé	2
+N : bé con	1
+N : bên	1
+N : bạn	1
+N : bản năng	1
+N : bầu trời	1
+N : bắp thịt	1
+N : bệnh viện	1
+N : bộ	4
+N : cha mẹ	1
+N : chuẩn mực	1
+N : chàng trai	2
+N : châu lục	1
+N : chú	1
+N : chấn thương	1
+N : chủ	1
+N : chủ tịch	1
+N : con gái	2
+N : con người	1
+N : con trai	1
+N : cuộc	4
+N : cuộc sống	2
+N : cuộc đời	2
+N : cách	1
+N : cái	1
+N : câu chuyện	1
+N : cô	3
+N : công nghiệp	1
+N : cú	1
+N : cơ thể	1
+N : cậu	1
+N : cậu bé	1
+N : danh	1
+N : danh dự	1
+N : dao	1
+N : du lịch	1
+N : dân tộc	1
+N : dư luận	1
+N : dự kiến	1
+N : gia đình	1
+N : giác đấu	1
+N : giác đấu sĩ	1
+N : giấc	1
+N : giấc mơ	1
+N : giấy	1
+N : giới tính	5
+N : găng	1
+N : gương mặt	4
+N : hiện tại	1
+N : hiệp	2
+N : hiệp hội	1
+N : hoàng gia	2
+N : huyền thoại	2
+N : hàng xóm	1
+N : hãng	1
+N : hình hài	1
+N : hình sự	1
+N : hình ảnh	1
+N : hôm	1
+N : hôm nay	3
+N : hôn	1
+N : họ	1
+N : hội đồng	1
+N : hợp đồng	1
+N : katoey	1
+N : khi	3
+N : kiếp	2
+N : kênh truyền hình	1
+N : ký ức	2
+N : kẻ	2
+N : kỳ	1
+N : liên đoàn	1
+N : làng	1
+N : lò	2
+N : lòng	1
+N : lúc	4
+N : lưỡi	1
+N : lần	6
+N : lối	1
+N : lời	2
+N : miệng	1
+N : miệt	1
+N : má	1
+N : mái tóc	1
+N : máu	4
+N : máu me	1
+N : mãnh hổ	3
+N : mãnh thú	1
+N : môn	2
+N : mặt	1
+N : nam	3
+N : nghiệp	1
+N : nghệ thuật	1
+N : ngoại ô	1
+N : ngày	3
+N : ngày xưa	1
+N : ngân hàng	1
+N : ngôi sao	2
+N : người	10
+N : người thân	1
+N : nhau	1
+N : nhà	7
+N : nhà vô địch	4
+N : nhân vật	1
+N : nông thôn	2
+N : núi	1
+N : năm	5
+N : nơi	1
+N : nước	3
+N : nền	1
+N : nỗi	1
+N : nội dung	1
+N : nụ	5
+N : nửa	1
+N : nữ	5
+N : nữ giới	1
+N : phim	5
+N : phân nửa	1
+N : quan chức	1
+N : quê	1
+N : quốc gia	1
+N : sau	2
+N : show	1
+N : siêu sao	1
+N : suốt	1
+N : sàn	7
+N : số	2
+N : sức	1
+N : sức mạnh	1
+N : sự	2
+N : sự thật	1
+N : tay	1
+N : thanh thiếu niên	1
+N : thiếu niên	1
+N : thu nhập	1
+N : thuốc	2
+N : thành tích	1
+N : thành viên	3
+N : tháng	2
+N : thân xác	1
+N : thép	1
+N : thần tượng	2
+N : thế giới	4
+N : thịt	1
+N : thời	2
+N : thủ đô	1
+N : thứ	1
+N : thứ ba	1
+N : tim	2
+N : tiếng	1
+N : tiền	3
+N : tiền túi	1
+N : trái tim	2
+N : trò	1
+N : trước mắt	1
+N : trại	1
+N : trận	8
+N : trẻ	1
+N : trọng tài	1
+N : tuần lễ	2
+N : tuổi	1
+N : tuổi thơ	1
+N : tâm hồn	1
+N : tâm lý	1
+N : tâm nguyện	1
+N : tên	2
+N : tên tuổi	1
+N : tính mạng	2
+N : tướng lĩnh	1
+N : tập	1
+N : vai	1
+N : vô địch	1
+N : võ	3
+N : võ sĩ	4
+N : võ đài	1
+N : vườn	1
+N : xã hội	1
+N : ý chí	2
+N : ý nguyện	1
+N : Điều	1
+N : Đường	1
+N : Đầu	1
+N : điều	2
+N : đàn ông	3
+N : đêm	1
+N : đòn	2
+N : đường	3
+N : đấu sĩ	1
+N : đỉnh	2
+N : địa phương	1
+N : đối phương	2
+N : đối thủ	8
+N : đời	2
+N : đứa	1
+N : ước nguyện	2
+N : Ủy ban	1
+NP : *E*	6
+NP : *T*	2
+Nb : Beautiful boxer	1
+Nb : hormon	2
+Nc : Cậu	1
+Nc : Người	1
+Nc : bọn	2
+Nc : con	4
+Nc : cái	6
+Nc : cô	1
+Nc : người	3
+Nc : việc	1
+Nc : ông	1
+Np : Bangkok	2
+Np : Channel	1
+Np : Chetta Thanajaro	1
+Np : Chiang Mai	2
+Np : Hàn Quốc	1
+Np : Muay Thái	17
+Np : Mỹ	2
+Np : Nhật	1
+Np : Nong Tum	32
+Np : Parinya Jaroenphon-Nong Tum	1
+Np : Singapore	1
+Np : Thái	4
+Np : Thái Lan	8
+Nu : USD	1
+Nu : baht	2
+Nu : tuổi	1
+Ny : CLB	1
+Ny : TDTT	1
+Ny : VN	1
+Ny : WMC	7
+P : Chúng tôi	4
+P : Cả	1
+P : Mình	1
+P : Người ta	1
+P : Tôi	4
+P : ai	1
+P : chúng	1
+P : chúng tôi	3
+P : cả	2
+P : gì	2
+P : họ	1
+P : mình	10
+P : nay	1
+P : nào	6
+P : này	5
+P : nó	1
+P : thế	1
+P : tôi	17
+P : tự	1
+P : đây	1
+P : đó	5
+P : ấy	1
+R : Cứ	1
+R : Không thể	1
+R : chẳng	1
+R : chỉ	4
+R : chợt	1
+R : càng	1
+R : còn	2
+R : có lẽ	1
+R : có thể	2
+R : cũng	6
+R : cứ	2
+R : dần	1
+R : hàng	2
+R : hằng	3
+R : khá	1
+R : không	17
+R : không thể	2
+R : khỏi	1
+R : luôn	2
+R : lên	1
+R : lại	4
+R : mới	2
+R : nổi	1
+R : qua	1
+R : quá	2
+R : ra	10
+R : rất	6
+R : sẽ	4
+R : thường	3
+R : tới	1
+R : từng	1
+R : vẫn	5
+R : về	2
+R : vừa	3
+R : xuống	1
+R : Đã	2
+R : đang	2
+R : đi	1
+R : đã	20
+R : được	2
+R : đến	1
+RBKT : RBKT	5
+T : Chính	1
+T : Ngay	1
+T : chính	1
+T : cả	1
+T : ngay	1
+T : thật	3
+T : đến	3
+V : *E*	1
+V : *T*	1
+V : Có	2
+V : Kiên trì	1
+V : biến	1
+V : biết	6
+V : biểu diễn	1
+V : bước	1
+V : bạo lực	1
+V : bảo	3
+V : bất động	1
+V : bầu	1
+V : bắt đầu	3
+V : bằng	1
+V : bỏ	1
+V : bổ sung	1
+V : can thiệp	1
+V : chiến thắng	1
+V : cho	3
+V : chuyển	1
+V : chú ý	1
+V : chạm mặt	1
+V : chắc	1
+V : chọn	1
+V : chờ đợi	1
+V : cá cược	2
+V : còn	1
+V : có	15
+V : có mặt	2
+V : công chiếu	1
+V : cúi	1
+V : cười	1
+V : cười chê	1
+V : cảm thông	1
+V : cấp cứu	1
+V : dành	1
+V : dạy	1
+V : dỗ dành	1
+V : email	1
+V : giày vò	1
+V : giác đấu	1
+V : giã từ	2
+V : giúp	1
+V : giúp đỡ	1
+V : giải trí	1
+V : gào thét	1
+V : gây	1
+V : gặp	1
+V : gọi	1
+V : gục	1
+V : gửi	2
+V : hiểu	1
+V : hoạt động	1
+V : huấn luyện	1
+V : hy sinh	1
+V : hôn	5
+V : hạ	3
+V : hẹn	1
+V : học	1
+V : hỏi	1
+V : khóc	1
+V : khỏi	1
+V : kiểm soát	1
+V : kéo dài	1
+V : ký	2
+V : kể	4
+V : lao	1
+V : liên lạc	1
+V : luyện	1
+V : là	25
+V : làm	2
+V : lên	2
+V : lôi	1
+V : lập	2
+V : lớn	1
+V : mang	3
+V : miễn phí	2
+V : muốn	3
+V : mê man	1
+V : mất	1
+V : mộng mị	1
+V : mời	2
+V : mở rộng	1
+V : nghe	3
+V : nghĩ	2
+V : ngã	2
+V : ngồi	1
+V : nhóm họp	1
+V : nhận	1
+V : nhắc	1
+V : nhờ cậy	1
+V : nuôi	2
+V : nằm	1
+V : nể	1
+V : nở	1
+V : phải	2
+V : phản đối	1
+V : phẫu thuật	3
+V : phỏng vấn	1
+V : quyến rũ	1
+V : quyết chiến	1
+V : quyết định	3
+V : quên	1
+V : ra	1
+V : reo hò	1
+V : sinh	1
+V : sưu tập	1
+V : sẵn sàng	1
+V : sống	3
+V : sợ	1
+V : sụp đổ	1
+V : tham gia	1
+V : thay đổi	1
+V : theo	4
+V : thoát	1
+V : thu nhận	1
+V : thuộc	1
+V : thành	2
+V : thành lập	1
+V : thách	1
+V : thích	1
+V : thù lao	1
+V : thượng đài	3
+V : thổ lộ	1
+V : thủ	1
+V : thực hiện	2
+V : tin	1
+V : tiêu diệt	1
+V : tiếp	1
+V : tiếp cận	1
+V : tiếp tục	2
+V : tranh	1
+V : treo	1
+V : trình chiếu	1
+V : trải	1
+V : trở lại	1
+V : trở nên	1
+V : trở thành	2
+V : trở về	1
+V : trợ lý	1
+V : trụ	1
+V : tuân thủ	1
+V : tái hiện	1
+V : tâm sự	1
+V : tìm	3
+V : tăng	1
+V : tư vấn	1
+V : tỏ	1
+V : từ chối	1
+V : tự hào	1
+V : uống	2
+V : vang	1
+V : về	1
+V : xem	1
+V : xin lỗi	1
+V : xác nhận	1
+V : yêu thương	2
+V : ám ảnh	1
+V : ùa	1
+V : Được	1
+V : đam mê	1
+V : đi	3
+V : điều hành	2
+V : điện thoại	2
+V : đào tạo	2
+V : đá	1
+V : đáng	1
+V : đánh	1
+V : đánh cược	1
+V : đói	1
+V : đóng	1
+V : đưa	2
+V : được	12
+V : đấm	1
+V : đấm đá	1
+V : đấu	7
+V : đầu thai	1
+V : đặt	2
+V : đến	6
+V : đọ	1
+V : ước	1
+V : ẩn	1
+Vb : knock-out	3
+X : có lẽ	1
+X : cựu	1
+X : sau cùng	1
+“ : “	4
+… : ...	1

@@ -1,0 +1,548 @@
+! : !	1
+" : "	21
+, : ,	70
+- : -	13
+. : .	62
+... : ...	6
+: : :	15
+; : ;	2
+? : ?	4
+A : Kiên quyết	1
+A : Lạ	1
+A : Nhiều	1
+A : To	1
+A : bền vững	2
+A : cao	6
+A : chính	1
+A : chậm	3
+A : chủ lực	1
+A : chủ yếu	1
+A : cùng	1
+A : cửa quyền	1
+A : hách dịch	1
+A : hơn	1
+A : khác	3
+A : khách quan	1
+A : khó	1
+A : khả quan	1
+A : khỏe	2
+A : kiên quyết	1
+A : lâu	1
+A : lớn	3
+A : mạnh	2
+A : mạnh mẽ	1
+A : mới	1
+A : nghiêm minh	1
+A : nhanh	2
+A : nhanh chóng	1
+A : nhiêu khê	1
+A : nhiều	2
+A : phấn khởi	1
+A : quan liêu	1
+A : quan trọng	2
+A : rõ	2
+A : rộng	1
+A : sai trái	1
+A : sẵn sàng	1
+A : sớm	1
+A : thiệt	1
+A : thấp	1
+A : thẳng	1
+A : tiêu cực	1
+A : to	1
+A : trên	1
+A : trì trệ	1
+A : tương đối	1
+A : tốt	1
+A : đặc biệt	1
+A : ưu tiên	1
+A : ưu đãi	1
+C : Nhưng	2
+C : chứ	1
+C : còn	2
+C : do đó	1
+C : là	6
+C : mà	1
+C : như	2
+C : nhưng	4
+C : nên	2
+C : rằng	2
+C : thì	1
+C : và	15
+E : Theo	2
+E : Trước	2
+E : Về	4
+E : bằng	1
+E : cho	6
+E : của	13
+E : do	2
+E : ngoài	1
+E : nhằm	1
+E : qua	1
+E : theo	3
+E : trong	12
+E : trên	4
+E : tại	1
+E : từ	4
+E : vào	2
+E : về	3
+E : đến	6
+E : để	4
+E : đối với	2
+E : ở	4
+L : Vài	1
+L : các	16
+L : mấy	1
+L : mọi	1
+L : một số	2
+L : những	6
+L : toàn bộ	1
+LBKT : LBKT	3
+M : 1	3
+M : 109	1
+M : 12%	2
+M : 16	3
+M : 2	3
+M : 2003	1
+M : 2004	2
+M : 2005	1
+M : 24	1
+M : 25%	1
+M : 3	4
+M : 30	3
+M : 300 . 000	1
+M : 31	1
+M : 37	1
+M : 6	1
+M : 7	1
+M : 9	3
+M : Hai	1
+M : IX	2
+M : Một	1
+M : VII	1
+M : ba	4
+M : hai	1
+M : mười	1
+M : một	4
+M : nửa	1
+M : tỉ	1
+N : Anh	1
+N : Ban	1
+N : Ban Chấp hành	1
+N : Bí thư	1
+N : Chương trình	1
+N : Chỗ	1
+N : Chủ tịch	5
+N : Cơ thể	1
+N : Giao thông	1
+N : Giám đốc	1
+N : Hôm nay	1
+N : Hạ tầng cơ sở	1
+N : Hồi	1
+N : Hội nghị	4
+N : Kinh tế	2
+N : Nghị quyết	2
+N : Người ta	1
+N : Nhà nước	1
+N : Quý	1
+N : Rào cản	1
+N : Sáng	2
+N : Sở	1
+N : Thành ủy	5
+N : Thường vụ	1
+N : Thời gian	1
+N : Trung ương	1
+N : Trước	1
+N : Tốc độ	1
+N : Việc	1
+N : Viện	1
+N : Viện trưởng	1
+N : anh	1
+N : biến động	1
+N : biển	1
+N : bộ máy	4
+N : bụng	1
+N : chi phí	2
+N : chiều	1
+N : chuyên môn	1
+N : chính sách	1
+N : chương trình	7
+N : chất lượng	1
+N : cán bộ	5
+N : công chánh	1
+N : công chức	1
+N : công nghiệp	2
+N : công trình	1
+N : công tác	3
+N : cúm gia cầm	1
+N : cơ cấu	1
+N : cơ quan	1
+N : cơ sở	3
+N : cảng	2
+N : cấp	1
+N : cấp ủy	1
+N : cầu cảng	1
+N : doanh nghiệp	3
+N : dấu hiệu	1
+N : dịch	1
+N : dịch vụ	2
+N : dự án	3
+N : giao thông	1
+N : giá	3
+N : giá trị	1
+N : giải pháp	1
+N : giấy	1
+N : giờ	2
+N : gốc	3
+N : hiện	1
+N : hiệu quả	1
+N : hoạt động	1
+N : hàng hóa	1
+N : hành chính	7
+N : hành vi	1
+N : hình tượng	1
+N : hệ thống	2
+N : hội nghị	2
+N : khi	3
+N : khái niệm	1
+N : khâu	5
+N : khóa	3
+N : kinh tế	10
+N : kỷ cương	1
+N : kỷ luật	3
+N : lĩnh vực	3
+N : lượng	3
+N : lần	3
+N : mô hình	1
+N : mặt bằng	1
+N : nghị quyết	2
+N : nguyên nhân	8
+N : nguyên vật liệu	2
+N : nguồn	1
+N : nguồn lực	1
+N : ngành	4
+N : ngày	4
+N : ngân sách	2
+N : người	3
+N : nhà nước	3
+N : nhà đất	2
+N : nhà đầu tư	2
+N : năm	8
+N : năng lực	1
+N : nơi	1
+N : nước	1
+N : nước ngoài	1
+N : nước sạch	2
+N : nền	2
+N : nỗ lực	1
+N : pháp luật	1
+N : phương châm	1
+N : phương pháp	1
+N : phương thức	1
+N : phần	1
+N : phẩm chất	1
+N : qui trình	1
+N : quy mô	1
+N : quy định	1
+N : quyết định	1
+N : quá trình	2
+N : quí	1
+N : quý	4
+N : quận	1
+N : sơ hở	1
+N : sản xuất	1
+N : sức	1
+N : thuế	1
+N : tháng	1
+N : thương nghiệp	1
+N : thị trường	1
+N : thời gian	2
+N : thời điểm	1
+N : thủ tục	3
+N : tin	1
+N : tinh thần	2
+N : tiêu cực	1
+N : tiền	1
+N : toàn thân	1
+N : trung tâm	1
+N : trung ương	4
+N : trách nhiệm	1
+N : trật tự	1
+N : trọng điểm	1
+N : tài chính	1
+N : tài sản	1
+N : tình hình	2
+N : tình trạng	1
+N : tốc độ	2
+N : tổ chức	1
+N : tổng công ty	2
+N : vai trò	1
+N : việc	3
+N : vàng	1
+N : văn hóa	3
+N : vũ bão	1
+N : vốn	3
+N : vụ	1
+N : xe tải	1
+N : xã hội	2
+N : yếu tố	2
+N : Ông	4
+N : ý kiến	2
+N : ý thức	1
+N : Đảng bộ	2
+N : đơn vị	1
+N : đường	2
+N : đạo đức	1
+N : đất	2
+N : đất đai	1
+N : đầu	1
+N : địa bàn	1
+N : đội ngũ	1
+NP : *E*	38
+Nc : Cái	1
+Nc : Sở	1
+Nc : cuộc	1
+Nc : cái	1
+Nc : niềm	1
+Nc : sự	3
+Nc : Ông	5
+Nc : ông	2
+Np : Bình	2
+Np : Dũng	2
+Np : Hà Văn Dũng	1
+Np : Lịch	2
+Np : Mai Quốc Bình	3
+Np : Nguyễn Minh Triết	1
+Np : Nguyễn Thiện Nhân	1
+Np : Phú Hữu	2
+Np : Trường Chinh	1
+Np : Trần Du Lịch	2
+Np : Tài chính	1
+Np : Đảng	5
+Nu : m3	1
+Nu : đồng	1
+Ny : BCH	1
+Ny : CB	2
+Ny : CC	2
+Ny : DN	7
+Ny : GDP	1
+Ny : TP	19
+Ny : TP. HCM	2
+Ny : TP.Ny HCM	1
+P : Tôi	2
+P : Vậy	1
+P : ai	1
+P : chúng ta	1
+P : cả	1
+P : họ	1
+P : kia	1
+P : mình	1
+P : nay	2
+P : nào	2
+P : này	8
+P : ta	1
+P : thế	1
+P : tôi	2
+P : đâu	2
+P : đây	1
+P : đó	6
+R : Có khi	1
+R : Không	1
+R : chưa	1
+R : chỉ	4
+R : còn	1
+R : cũng	4
+R : cực	1
+R : hơn	1
+R : không	14
+R : lại	2
+R : mới	1
+R : nhất	1
+R : nổi	1
+R : nữa	4
+R : quá	2
+R : ra	3
+R : rất	1
+R : sắp	1
+R : sẽ	4
+R : tiếp	1
+R : từng	2
+R : vô	1
+R : vẫn	1
+R : đi	1
+R : đã	2
+R : được	5
+R : đều	1
+RBKT : RBKT	3
+S : Phó	5
+S : hóa	1
+S : tái	1
+T : chính	1
+T : hết	1
+T : thế	1
+T : tới	1
+T : được	1
+V : *E*	3
+V : Giải quyết	1
+V : Kiểm tra	1
+V : Kiện toàn	1
+V : Nâng	1
+V : Nói	1
+V : Phát triển	1
+V : Phân cấp	1
+V : Rà soát	1
+V : Thực hiện	1
+V : Tiếp tục	4
+V : Triển khai	1
+V : Tập trung	3
+V : Tổng kết	1
+V : Xây dựng	2
+V : Xử lý	1
+V : bao che	1
+V : biết	2
+V : biểu hiện	1
+V : buộc	1
+V : chiến đấu	1
+V : cho	4
+V : chuyển động	1
+V : chạy	1
+V : chấn chỉnh	2
+V : chỉ đạo	1
+V : chỉnh đốn	1
+V : cung cấp	2
+V : có	11
+V : cải cách	2
+V : cấu trúc	1
+V : cần	2
+V : cố gắng	1
+V : cổ phần hóa	5
+V : dám	1
+V : dẫn	1
+V : dẫn chứng	1
+V : dứt điểm	1
+V : gia nhập	1
+V : gia tăng	1
+V : giáo dục	1
+V : giúp	1
+V : giải quyết	2
+V : giải tỏa	2
+V : giảm	2
+V : giảm sút	2
+V : gây	1
+V : gọi	1
+V : gỡ	1
+V : hoàn thiện	1
+V : hoạt động	1
+V : huy động	1
+V : hành động	2
+V : hướng	1
+V : hấp dẫn	1
+V : học tập	1
+V : hỗ trợ	1
+V : hội nhập	1
+V : hợp tác	1
+V : khai thác	1
+V : khiến	1
+V : khiếu nại	1
+V : khắc phục	3
+V : khởi công	1
+V : kinh doanh	4
+V : kê khai	1
+V : liên quan	3
+V : là	9
+V : làm	6
+V : làm việc	1
+V : làm ăn	1
+V : lãng phí	1
+V : lãnh đạo	2
+V : lên	1
+V : lót	1
+V : lệ thuộc	1
+V : muốn	2
+V : mất	3
+V : mở	1
+V : mở rộng	2
+V : mừng	1
+V : nghe	1
+V : nghiên cứu	1
+V : nghĩ	1
+V : nhân	1
+V : nâng	2
+V : nêu	1
+V : nói	4
+V : nản lòng	1
+V : nằm	2
+V : phát triển	7
+V : phân cấp	4
+V : phân phối	2
+V : phải	1
+V : qua	2
+V : quyết toán	2
+V : quyết tâm	1
+V : quán triệt	1
+V : quản lý	2
+V : quản lý nhà nước	1
+V : rút	1
+V : sáng tỏ	1
+V : sản xuất	3
+V : sắp xếp	1
+V : sờ mó	1
+V : sợ	1
+V : sụt giảm	3
+V : sử dụng	1
+V : tham nhũng	2
+V : than	1
+V : thanh kiểm tra	1
+V : thiếu	2
+V : thành	1
+V : tháo gỡ	1
+V : thêm	3
+V : thông tin	2
+V : thúc đẩy	1
+V : thảo luận	1
+V : thất thoát	1
+V : thực hiện	5
+V : tin	1
+V : tiếp tục	4
+V : triển khai	3
+V : triệu tập	1
+V : tính	1
+V : tăng	1
+V : tăng cường	2
+V : tăng trưởng	2
+V : tạo	1
+V : tập trung	1
+V : tố cáo	1
+V : tổ chức	1
+V : tới	3
+V : tự phê	1
+V : vi phạm	1
+V : vào	1
+V : vô	1
+V : vận tải	1
+V : vận động	1
+V : xây dựng	4
+V : xã hội hóa	1
+V : xảy	1
+V : xử lý	1
+V : Đụng	1
+V : đào tạo	1
+V : đáng	1
+V : đưa	4
+V : được	4
+V : đạt	1
+V : đầu tư	7
+V : đẩy	1
+V : đẩy mạnh	1
+V : đề cập	1
+V : đề nghị	4
+V : đền bù	2
+V : để	1
+V : đồng ý	1
+V : đổi mới	2
+X : một mình	1
+X : như thế nào	1
+X : nhất là	1
+X : vì sao	1
+X : vừa qua	1
+” : “	1

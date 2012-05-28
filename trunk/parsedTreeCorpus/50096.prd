@@ -1,0 +1,985 @@
+<s>
+(S-TTL(NP(N-H Công lý)
+                      (NP(R không)(N-H biên giới)))
+(. .))
+
+
+
+</s>
+<s>
+(S 
+     (NP-SUB (M Mỗi ) (N-H người ))
+     (VP (R hãy ) (V-H góp )
+          (NP-DOB (N-H gió ))
+          (T đi ))
+     (! ! ))
+</s>
+<s>
+(S(NP-SUB(N-H Lần)(A đầu tiên)
+               (SBAR(S(NP-SUB(P-H tôi))
+                                 (VP(V-H gặp)
+                                         (NP-DOB(L các)(N-H  nạn nhân)
+                                                  (VP(V-H bị)
+                                                         (VP(V-H  nhiễm )
+                                                                 (NP-DOB(N-H chất độc)(N  da cam))))
+                                          (PP-LOC(E-H  ở)
+                                                  (NP(Ny-H  VN))))))))
+    (VP(V-H  là)
+            (NP-TMP(N-H  lúc)
+                     (SBAR(S(NP-SUB(P-H tôi))
+                                        (VP(V-H làm )
+                                                (NP-DOB(S trưởng)(N-H  phân xã)(Np Bangkok)
+                                                        (PP(E-H  của)
+                                                               (NP(M  một)(N-H  đài truyền hình)(Np  Nhật)))))))))
+(. .))
+</s>
+<s>
+(S 
+     (PP-TMP (E-H Từ )
+          (NP (P-H đó )))
+     (, , )
+     (PP-TMP (E-H trong )
+          (NP (M 15 ) (N-H năm ) (V qua ) (, , )
+               (VP (V-H bao gồm )
+                    (NP (P cả ) (M hai ) (N-H năm )
+                         (VP (V-H thường trú )
+                              (PP-LOC (E-H tại )
+                                   (NP (Np-H Hà Nội ))))))))
+     (, , )
+     (AP-MNR (A-H cùng ) (E với )
+          (NP (L một số ) (N-H bạn bè )))
+     (, , )
+     (NP-SUB (P-H tôi ))
+     (VP (A thường xuyên ) (V-H đến )
+          (VP (V-H thăm )
+               (NP-DOB (L các ) (N-H nạn nhân )
+                    (VP (V-H bị )
+                         (VP (V-H nhiễm độc )))
+                    (PP-PRP (E-H để )
+                         (VP (V-H giúp đỡ ) (C và ) (V-H khích lệ )
+                              (NP-DOB (P-H họ )))))))
+     (. . ))
+</s>
+<s>
+(S-PV 
+     (NP-SUB (L Những ) (Nc-H mẩu ) (N chuyện )
+          (AP (A-H quý ))
+          (SBAR (C mà )
+               (S 
+                    (NP-SUB (P-H tôi ))
+                    (VP (R đã ) (V-H nghe )
+                         (PP (E-H từ )
+                              (NP (L các ) (N-H nạn nhân ) (P đó )))))))
+     (VP (R sẽ ) (V-H được )
+          (SBAR 
+               (S (NP-SUB *E* )
+                    (VP (V-H kể ) (R lại )
+                         (PP-LOC (E-H trong )
+                              (NP (M một ) (Nc-H quyển ) (N sách )
+                                   (VP (R sắp ) (V-H phát hành )
+                                        (PP-LOC (E-H tại )
+                                             (NP (Np-H Nhật ))))))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-LOC 
+          (NP (Np-H A Lưới ))
+          (, , )
+          (NP (Np-H Quảng Trị ))
+          (, , )
+          (NP (Np-H Thanh Hóa ))
+          (, , )
+          (NP (Np-H Phú Thọ ))
+          (, , )
+          (NP (Np-H Bến Tre ))
+          (, , )
+          (NP (Np-H Bình Dương ))
+          (... ... ))
+     (NP-SUB (P-H tôi ))
+     (VP (R đã ) (V-H đặt chân ) (R tới )
+          (NP-LOC (L những ) (N-H nơi ) (P này ))
+          (PP-PRP (E-H để )
+               (VP (V-H thăm )
+                    (NP-DOB (L các ) (N-H nạn nhân )))))
+     (. . ))
+</s>
+<s>
+(S 
+     (PP-LOC (E-H Tại )
+          (NP (Np-H Ninh Bình )))
+     (, , )
+     (NP-SUB (P-H tôi ))
+     (VP (R đã ) (V-H nghe )
+          (NP-DOB (N-H câu chuyện ) (V cảm động )
+               (PP (E-H của )
+                    (NP (L những ) (Nc-H người ) (N lính )
+                         (VP (V-H là )
+                              (NP (N-H phụ nữ )
+                                   (VP-LOC (V-H thuộc )
+                                        (NP (N-H đơn vị ) (M 559 )))))))))
+     (. . ))
+</s>
+<s>
+(S (C Ngoài ra )
+     (NP-SUB (N-H hội ) (P chúng tôi ) (LBKT LBKT )
+          (NP (N-H Hội )
+               (NP (N-H Nạn nhân )
+                    (VP (V-H bị )
+                         (VP (V-H nhiễm )
+                              (NP-DOB (N-H chất độc ) (N da cam ))))
+                    (NP (Ny-H VN ))))
+          (RBKT RBKT ))
+     (VP (R đã ) (V-H giúp đỡ )
+          (NP-DOB (N-H chi phí ) (V phẫu thuật ))
+          (PP-IOB (E-H cho )
+               (NP (L các ) (N-H trẻ em )
+                    (VP (V-H bị ) (A tàn tật ))
+                    (, , )
+                    (PP (E-H trong ) (P đó )
+                         (VP (V-H có )
+                              (NP-DOB (M hai ) (N-H chị em )
+                                   (PP-LOC (E-H ở )
+                                        (NP (Np-H Hà Tây )))
+                                   (NP (N-H chân )
+                                        (VP (V-H bị )
+                                             (VP (V-H quặp ) (R vào )
+                                                  (PP-LOC (E-H bên )
+                                                       (NP (N-H trong ))))))))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Tai ) (P tôi ))
+     (VP (R vẫn ) (V-H nghe ) (A rõ )
+          (NP-DOB (N-H lời )
+               (AP (A-H bi thảm ))
+               (C và )
+               (AP (A-H đầy )
+                    (NP (N-H nước mắt )))
+               (PP (E-H của )
+                    (NP 
+                         (NP (A nhiều ) (N-H nạn nhân ))
+                         (C và )
+                         (NP (N-H gia đình ) (P họ )))))
+          (: : )
+          (" " )
+          (SBAR 
+               (S 
+                    (S 
+                         (NP-SUB (P-H Chúng tôi ))
+                         (VP (V-H muốn )
+                              (VP (V-H nói chuyện )
+                                   (PP (E-H với )
+                                        (NP (N-H nhau ))))))
+                    (, , )
+                    (C nhưng )
+                    (S 
+                         (NP-SUB (N-H con ) (P tôi ))
+                         (VP (R hoàn toàn ) (R không ) (V-H hiểu )
+                              (NP-DOB (N-H gì ) (T cả ))))))
+          (" " ))
+     (. . ))
+</s>
+<s>
+(S (" " )
+     (S 
+          (NP-SUB (P-H Tôi ))
+          (VP (V-H đi ) (A vắng )
+               (NP-TMP (R chỉ ) (A khoảng ) (M 15 ) (Nu-H phút ) (T thôi ))))
+     (C mà )
+     (S 
+          (NP-SUB (M hai ) (N-H con ) (P tôi ))
+          (VP 
+               (VP (V-H đến )
+                    (AP-LOC (A-H gần )
+                         (NP (N-H ao ))))
+               (C và )
+               (VP (V-H lên )
+                    (NP-DOB (Nc-H cơn ) (N động kinh )))
+               (C rồi )
+               (VP (V-H ngã )
+                    (PP-LOC (E-H xuống )
+                         (NP (N-H nước ))))))
+     (" " )
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB 
+          (NP (P Cả ) (M hai ) (N-H anh em )
+               (AP (A-H tàn tật )))
+          (C và )
+          (NP (M một ) (Nc-H người ) (N cháu )
+               (VP (V-H ra )
+                    (VP-PRP (V-H cứu giúp )))))
+     (VP (R đều ) (V-H chết đuối ) (T cả ))
+     (. . ))
+</s>
+<s>
+(S 
+     (VP-SUB (V-H Gặp )
+          (NP-DOB (M 100 ) (N-H người )))
+     (VP (V-H là )
+          (NP-DOB (M 100 ) (Nc-H mẩu ) (N chuyện ) (A bi thảm )
+               (AP (A-H khác ) (N nhau ))))
+     (. . ))
+</s>
+<s>
+(S-TTL(NP(M Một)(N-H tội phạm )(N chiến tranh))
+(. .))
+
+
+</s>
+<s>
+(S 
+     (VP-ADV (V-H Gửi )
+          (NP-DOB (N-H bài ) (V viết )
+               (PP-IOB (E-H cho )
+                    (NP (Np-H Tuổi Trẻ )))
+               (PP-LOC (E-H từ )
+                    (NP (Np-H Sydney )))))
+     (C nhưng )
+     (NP-SUB (Nc-H ông ) (Np Kitamura ))
+     (VP 
+          (VP (V-H là )
+               (NP (M một ) (Nc-H người ) (Np Nhật )))
+          (VP (V-H làm )
+               (NP-DOB (N-H báo )
+                    (NP-TMP (R đã ) (A gần ) (M 40 ) (N-H năm ) (LBKT LBKT )
+                         (NP (N-H Hãng ) (N truyền hình ) (Np Asahi ))
+                         (RBKT RBKT )))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-TMP (M Hai ) (N-H năm ) (P nay ))
+     (, , )
+     (S 
+          (PP-TMP (E-H từ )
+               (NP (N-H năm ) (M 2002 )))
+          (NP-SUB (N-H ông ))
+          (VP (V-H đến )
+               (NP-LOC (Np-H Úc ))
+               (, , )
+               (C như )
+               (SBAR 
+                    (S 
+                         (NP-SUB (N-H ông ))
+                         (VP (V-H nói ) (, , )
+                              (PP-PRP (E-H vì )
+                                   (VP (V-H muốn )
+                                        (VP (V-H chọn )
+                                             (NP-LOC (M một ) (N-H địa điểm )
+                                                  (PP-PRP (E-H để )
+                                                       (VP (V-H sống )
+                                                            (NP-TMP (N-H khi )
+                                                                 (VP (V-H về ) (V hưu ))))))))))))))
+     (, , )
+     (C nhưng )
+     (S 
+          (NP-SUB (P-H đó ))
+          (VP (R cũng ) (V-H là )
+               (NP-TMP (A khoảng ) (N-H thời gian )
+                    (SBAR 
+                         (S 
+                              (NP-SUB (N-H ông ))
+                              (VP (V-H tập trung )
+                                   (VP-PRP (V-H nghiên cứu )
+                                        (PP (E-H về )
+                                             (NP (N-H hậu quả )
+                                                  (PP (E-H của )
+                                                       (NP (N-H chất độc ) (N da cam )))
+                                                  (PP-TMP (E-H trong )
+                                                       (NP (N-H chiến tranh ) (Ny VN )))))
+                                        (PP-LOC (E-H ở )
+                                             (NP (N-H Trường ) (Ny ĐH ) (Np Tây Sydney ))))))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (PP-LOC (E-H Ở )
+          (NP (P-H đây )))
+     (NP-SUB (N-H ông ))
+     (VP 
+          (VP (R đã ) (V-H gặp ))
+          (C và )
+          (VP (V-H phỏng vấn ))
+          (NP-DOB (A nhiều ) (N-H lính ) (Np Úc )
+               (VP (R từng ) (V-H tham gia )
+                    (NP (N-H chiến tranh ) (Ny VN )))
+               (LBKT LBKT )
+               (VP (V-H có )
+                    (NP (M 500 ) (N-H lính ) (Np Úc )
+                         (VP (R đã ) (V-H chết )))
+                    (, , )
+                    (NP (N-H số )
+                         (VP (V-H tự tử )
+                              (PP-TMP (E-H sau )
+                                   (NP (N-H khi )
+                                        (VP (V-H về )
+                                             (NP (N-H nước )))))
+                              (VP (R cũng ) (V-H lên ) (R đến )
+                                   (NP (A trên ) (M 1 . 000 ) (N-H người ))))))
+               (RBKT RBKT )))
+     (. . ))
+</s>
+<s>
+(S 
+     (VP-ADV (V-H Là )
+          (NP (N-H phóng viên ) (N truyền hình )))
+     (, , )
+     (NP-SUB (Nc-H ông ) (Np Kitamura ))
+     (VP (R từng ) (V-H làm )
+          (NP-DOB 
+               (NP (S trưởng ) (N-H phân xã ) (Np Bangkok )
+                    (PP-TMP (E-H từ )
+                         (QP (M-H 1989 - 1993 ))))
+               (, , )
+               (NP (S trưởng ) (N-H phân xã ) (Np Hà Nội )
+                    (PP-TMP (E-H từ )
+                         (QP (M-H 1995 - 1997 ))))
+               (, , )
+               (NP (S trưởng ) (N-H phân xã ) (Np Sydney )
+                    (PP-TMP (E-H từ )
+                         (QP (M-H 1997 - 2001 ))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (PP-TMP (E-H Trong )
+          (NP (N-H giai đoạn ) (N đầu ) (N Thế chiến )
+               (NP (N-H thứ ) (M 2 ))))
+     (, , )
+     (NP-SUB (N-H Hội đồng ) (V nghiên cứu )
+          (NP (N-H quốc gia ) (Np Mỹ )))
+     (VP (R đã ) (V-H cho ) (N phép )
+          (VP (V-H nghiên cứu )
+               (NP-DOB (N-H chất ) (N hóa học )
+                    (VP-PRP (V-H nhằm )
+                         (VP (V-H phá hoại )
+                              (NP (N-H đồng ruộng )
+                                   (PP-LOC (E-H tại )
+                                        (NP (Np-H Nhật )))))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Kết quả ) (P đó ))
+     (VP (V-H là )
+          (NP-DOB (Nc-H sự ) (V ra đời )
+               (NP (N-H chất độc ) (N da cam )
+                    (PP-MNR (E-H với )
+                         (NP (N-H mục đích ) (N quân sự ))))))
+     (. . ))
+</s>
+<s>
+(S (C Tuy nhiên )
+     (NP-SUB (N-H tổng thống ) (Np Roosevelt ))
+     (NP-TMP (N-H lúc ) (P bấy giờ ))
+     (VP (R không ) (V-H sử dụng )
+          (NP-DOB (N-H chất ) (N hóa học ) (P này )))
+     (. . ))
+</s>
+<s>
+(S 
+     (PP-TMP (E-H Sau )
+          (NP (P-H đó )))
+     (NP-SUB (M một ) (N-H nhân viên ) (N quân đội ) (Np Mỹ ))
+     (VP (R đã ) (V-H tiết lộ )
+          (SBAR (C rằng )
+               (S 
+                    (PP-TMP (E-H vào )
+                         (NP (N-H tháng ) (M 6 - 1945 ))
+                         (, , )
+                         (NP (N-H cuối ) (N Thế chiến ) (N thứ ) (M 2 )))
+                    (PP-TMP (E-H dưới )
+                         (NP (N-H thời ) (N tổng thống ) (Np Truman )))
+                    (, , )
+                    (NP-SUB (N-H quân đội ) (Np Mỹ ))
+                    (VP (V-H chuẩn bị )
+                         (VP (V-H sử dụng )
+                              (NP-DOB (N-H thuốc ) (V diệt ) (N cỏ )
+                                   (PP-LOC (E-H ở )
+                                        (NP (N-H đồng ruộng )))
+                                   (NP-LOC (N-H quanh )
+                                        (NP (M sáu ) (N-H thành phố ) (A lớn )
+                                             (NP (Np-H Nhật ))))))))))
+     (. . ))
+</s>
+<s>
+(S (C Tuy nhiên )
+     (NP-SUB (N-H kế hoạch ) (P này ))
+     (VP (R không ) (V-H thực hiện ) (R được )
+          (SBAR-PRP (E-H vì )
+               (S 
+                    (NP-SUB (Np-H Nhật ))
+                    (VP (R đã ) (V-H đầu hàng )
+                         (AP-TMP (A-H sớm ))))))
+     (. . ))
+</s>
+<s>
+(S (T Thế ) (C nhưng )
+     (NP-SUB (T chính ) (N-H tổng thống ) (Np Truman ))
+     (VP (R đã ) (V-H ra lệnh )
+          (VP (V-H thả )
+               (NP-DOB (N-H bom nguyên tử )
+                    (AP (A-H khủng khiếp ))
+                    (PP-DIR (E-H xuống )
+                         (NP-LOC (M hai ) (N-H thành phố )
+                              (NP (Np-H Hiroshima ) (C và ) (Np-H Nagasaki )))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-TMP (M 16 ) (N-H năm )
+          (PP (E-H sau )
+               (NP (N-H sự kiện ) (P đó )))
+          (, , )
+          (PP (E-H tức )
+               (NP (N-H năm ) (M 1961 ))))
+     (, , )
+     (NP-SUB (N-H tổng thống ) (Np Kennedy ))
+     (NP-TMP (N-H lúc ) (P bấy giờ ))
+     (VP (R đã ) (V-H đưa ) (R ra )
+          (NP-DOB (M một ) (N-H quyết định )
+               (VP (V-H sử dụng )
+                    (NP-DOB 
+                         (NP (N-H vũ khí ) (N hóa học )
+                              (VP (V-H nói )
+                                   (NP (N-H trên ))))
+                         (, , )
+                         (NP (Nc-H thứ ) (N vũ khí )
+                              (SBAR (C mà )
+                                   (S 
+                                        (NP-SUB (L các ) (N-H chính quyền ) (Np Mỹ ))
+                                        (PP-TMP 
+                                             (PP (E-H từ )
+                                                  (NP (N-H trước )))
+                                             (PP (E-H đến )
+                                                  (NP (P-H nay ))))
+                                        (VP (R chưa ) (V-H dám )
+                                             (VP (V-H làm ))))))))))
+     (. . ))
+</s>
+<s>
+(S (C Còn )
+     (NP-SUB (N-H tổng thống ) (Np Nixon ))
+     (C thì )
+     (VP (V-H trao đổi )
+          (NP-DOB (N-H ý kiến ))
+          (PP (E-H với )
+               (NP (N-H phụ tá ) (Np Kissinger )))
+          (PP (E-H về )
+               (NP (N-H khả năng ) (V sử dụng )
+                    (NP (P cả ) (N-H bom nguyên tử )))))
+     (. . ))
+</s>
+<s>
+(S 
+     (S 
+          (PP-MNR (E-H Đối với )
+               (NP (Np-H Nhật )))
+          (, , )
+          (NP-SUB (Np-H Mỹ ))
+          (VP (R đã ) (V-H thả )
+               (NP-DOB (N-H bom nguyên tử )
+                    (NP 
+                         (NP (N-H kiểu ) (Nb urani )
+                              (PP-DIR (E-H xuống )
+                                   (NP-LOC (Np-H Hiroshima ))))
+                         (C và )
+                         (NP (N-H kiểu ) (Nb plutoni )
+                              (PP-DIR (E-H xuống )
+                                   (NP-LOC (Np-H Nagasaki ))))))))
+     (; ; )
+     (C còn )
+     (S 
+          (PP-MNR (E-H đối với )
+               (NP (Ny-H VN )))
+          (, , )
+          (NP-SUB (Np-H Mỹ ))
+          (VP (R đã ) (V-H rải )
+               (NP-DOB (M 15 ) (Nc-H loại ) (N thuốc ) (N hóa học ))
+               (PP (E-H với )
+                    (NP (N-H số lượng )
+                         (NP-EXT (M 80 ) (M triệu ) (Nu-H lít ) (, , )
+                              (PP (E-H trong ) (P đó )
+                                   (VP (V-H có )
+                                        (NP-EXT (A gần ) (M 400 ) (Nu-H kg )
+                                             (NP (N-H chất ) (Nb dioxin ))))))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Con số ) (P này ))
+     (VP (R gần ) (V-H trùng hợp )
+          (PP (E-H với )
+               (NP (N-H lời ) (V phát biểu )
+                    (NP (" " ) (M 500 ) (Nu-H kg ) (Nb dioxin ) (" " ))
+                    (PP (E-H của )
+                         (NP (Nc-H ông ) (Np Fokin )))
+                    (PP (E-H của )
+                         (NP (Np-H Viện Hàn lâm ) (N khoa học ) (Np Liên Xô )))
+                    (PP-TMP (E-H vào )
+                         (NP (N-H năm ) (M 1983 ))))))
+     (. . ))
+</s>
+<s>
+(S(C Tuy nhiên)
+     (NP-SUB(P-H tôi))
+     (VP(R vẫn)(V-H nghi ngờ)
+             (SBAR(S(NP-SUB(N-H con số)
+                     (SBAR(C mà)
+                               (S(NP-SUB(Nc-H ông)(Np Fokin))
+                                   (VP(V-H phát biểu)))))
+                      (AP(R cũng)(R còn)(R quá)(A-H thấp)
+                             (VP(V-H so)
+                                 (PP(E-H với)
+                                     (NP(N-H con số)(N thực tế))))))))
+(. .))
+</s>
+<s>
+(S 
+     (NP-SUB (A Nhiều ) (N-H nạn nhân ))
+     (VP 
+          (VP (R chưa ) (V-H nhận ) (R được )
+               (NP-DOB (N-H tiền ) (V bồi thường )))
+          (, , )
+          (VP (R chưa ) (V-H nghe )
+               (NP-DOB (N-H lời ) (V xin lỗi )
+                    (PP (E-H của )
+                         (NP (Np-H Mỹ )))))
+          (C mà )
+          (VP (V-H chết yểu )
+               (PP (E-H với )
+                    (NP (N-H tâm trạng ) (A oan ức )))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Người ta ))
+     (VP (V-H nói )
+          (SBAR 
+               (S 
+                    (NP-SUB (N-H tế bào ) (N con người ))
+                    (VP (R có thể ) (V-H tái sinh ) (R được )
+                         (PP-TMP (E-H cho đến )
+                              (NP (M 120 ) (N-H tuổi )))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Sách ) (Np Phật giáo ))
+     (VP (R cũng ) (V-H viết )
+          (SBAR 
+               (S 
+                    (NP-SUB (N-H con người ))
+                    (VP (R có thể ) (V-H sống ) (R được )
+                         (NP-TMP (M 120 ) (N-H tuổi ))))))
+     (. . ))
+</s>
+<s>
+(S (T Thế ) (C mà )
+     (NP-SUB (L các ) (N-H nạn nhân ))
+     (VP (R chỉ ) (V-H sống )
+          (NP-DOB (M một ) (N-H cuộc sống )
+               (AP (R quá ) (A-H ngắn ngủi ))
+               (C như )
+               (T thế )))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (T Chính ) (Nb-H dioxin ))
+     (VP (R đã ) (V-H phá hoại )
+          (NP-DOB (N-H tế bào )
+               (AP (A-H quí báu ))
+               (P đó )))
+     (. . ))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (N-H Chất ) (Nb dioxin ))
+          (VP (V-H là )
+               (NP (Nc-H loại ) (N chất ) (N hóa học )
+                    (VP (V-H có )
+                         (NP-DOB (N-H tác dụng ) (A từ từ ))))))
+     (, , )
+     (S 
+          (NP-SUB (P-H nó ))
+          (VP (R chỉ ) (V-H bộc lộ )
+               (NP-DOB (A toàn diện ) (N-H tính ) (A quái ác )
+                    (PP (E-H của )
+                         (NP (P-H nó ))))
+               (NP-TMP (M 30 ) (N-H năm )
+                    (PP-TMP (E-H sau )
+                         (NP (N-H khi )
+                              (SBAR 
+                                   (S 
+                                        (NP-SUB (N-H chiến tranh ))
+                                        (VP (V-H kết thúc )))))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (Np-H Mỹ ))
+     (VP 
+          (VP (R không ) (R chỉ ) (V-H hành động )
+               (AP (A-H vô nhân đạo )))
+          (C mà )
+          (VP (R còn ) (V-H là )
+               (NP (M một ) (N-H tội phạm ) (N chiến tranh ))))
+     (. . ))
+</s>
+<s>
+(S 
+     (VP-SUB (V-H Im lặng ))
+     (VP (V-H là )
+          (NP (N-H đồng lõa )
+               (PP (E-H với )
+                    (NP (N-H kẻ ) (A ác )))))
+     (. . ))
+</s>
+<s>
+(S 
+     (PP-LOC (E-H Tại )
+          (NP (Np-H Hiroshima ) (C và ) (Np-H Nagasaki )
+               (PP-LOC (E-H ở )
+                    (NP (Np-H Nhật )))))
+     (, , )
+     (NP-SUB (L những ) (Nc-H người ) (V sống sót ))
+     (VP 
+          (VP (R đã ) (V-H vượt ) (R qua )
+               (AP (A-H đau khổ ) (C và ) (A-H khó khăn )
+                    (PP-PRP (E-H do )
+                         (NP (N-H hậu quả )
+                              (PP (E-H của )
+                                   (NP (N-H bom nguyên tử )))))))
+          (VP (R đang ) (V-H kế tiếp ) (N nhau )
+               (VP (V-H kể ) (R lại )
+                    (NP-DOB (N-H kinh nghiệm ) (A khủng khiếp )
+                         (PP-PRP (E-H do )
+                              (NP (N-H bom nguyên tử )
+                                   (VP (V-H gây ) (R ra ))))))))
+     (. . ))
+</s>
+<s>
+(S(VP-SUB(V-H Im lặng ))
+     (NP-PRD(X tức là)(N-H  đồng lõa)
+                     (PP(E-H với)
+                             (NP(Nc-H kẻ)(V gây)(N tội ác))))
+(. .))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (P-H Chúng ta ))
+          (VP (V-H cần ) (V phải )
+               (VP 
+                    (VP (V-H nghe ))
+                    (C và )
+                    (VP (V-H tiếp tục )
+                         (VP (V-H kể ) (R lại )
+                              (NP-DOB (L những ) (Nc-H mẩu ) (N chuyện )
+                                   (PP (E-H của )
+                                        (NP (L các ) (N-H nạn nhân ) (N chất độc ) (N da cam )
+                                             (VP (R còn ) (V-H sống sót ))))))))))
+     (, , )
+     (S 
+          (NP-SUB (N-H nạn nhân )
+               (PP (E-H của )
+                    (NP (M một ) (N-H cuộc ) (N chiến tranh ) (N hóa học ))))
+          (VP (R có thể ) (V-H là )
+               (AP (A-H dai dẳng ) (R nhất )
+                    (PP-TMP (E-H trong )
+                         (NP (N-H lịch sử ))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Tiếng ) (Np Nhật ))
+     (VP (V-H có )
+          (NP-DOB (N-H câu )
+               (AP (" " ) (A-H Đồng ) (A khổ ) (" " ))))
+     (. . ))
+</s>
+<s>
+(S-SPL 
+     (VP (V-H Nói )
+          (NP (M một ) (N-H cách ) (A khác ) (C là )
+               (VP (V-H cảm nhận )
+                    (AP (A-H đau khổ )
+                         (PP (E-H của )
+                              (NP (N-H nạn nhân )))
+                         (C như là )
+                         (AP (A-H đau khổ )
+                              (PP (E-H của )
+                                   (NP (N-H bản thân ) (P mình )))))
+                    (C mà )
+                    (VP (V-H đứng )
+                         (AP (A-H cùng )
+                              (NP-LOC (N-H vị trí )
+                                   (PP (E-H của )
+                                        (NP (N-H người ) (A yếu )))))))))
+     (. . ))
+</s>
+<s>
+(S (C Còn )
+     (NP-SUB (N-H giáo sư ) (Np Nguyễn Trọng Nhân ) (, , )
+          (NP (S phó ) (N-H chủ tịch )
+               (NP (N-H Hội ) (N Nạn nhân ) (N chất độc ) (N da cam ) (Ny VN ))))
+     (, , )
+     (VP (R lại ) (V-H cho )
+          (NP-DOB (P-H tôi ))
+          (VP (V-H biết )
+               (NP-DOB (M một ) (N-H thành ngữ ) (Ny VN )
+                    (VP (V-H là )
+                         (VP (" " ) (V-H Góp )
+                              (NP (N-H gió )
+                                   (VP (V-H thành )
+                                        (NP (N-H bão ))))
+                              (" " ))))))
+     (. . ))
+</s>
+<s>
+(S (I Vâng ) (, , )
+     (NP-SUB (M mỗi ) (M một ) (N-H người ))
+     (VP (R hãy ) (V-H góp )
+          (NP-DOB (N-H gió ))
+          (R đi ))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (P-H Tôi ))
+     (VP (V-H tin tưởng )
+          (SBAR (C rằng )
+               (S 
+                    (NP-SUB (N-H trách nhiệm ) (C và ) (N-H nghĩa vụ )
+                         (PP (E-H của )
+                              (NP (P-H chúng tôi )))
+                         (NP-TMP (N-H ngày nay )))
+                    (VP (V-H là )
+                         (VP 
+                              (VP (V-H động viên )
+                                   (NP-DOB (N-H dư luận ) (N thế giới )))
+                              (, , )
+                              (VP (V-H kêu gọi )
+                                   (NP-DOB (N-H lương tâm ) (, , ) (N-H công lý ) (, , ) (N-H chính nghĩa )
+                                        (PP (E-H của )
+                                             (NP (N-H thế giới ))))))))))
+     (. . ))
+</s>
+<s>
+(S(NP-SUB(T Chính)(N-H điều)(P này))
+     (VP(R sẽ)(V-H dẫn)(R đến)
+             (NP-DOB(N-H thắng lợi)
+                     (PP-TMP(E-H trong)
+                             (NP(N-H vụ kiện)
+                                     (PP(E-H của)
+                                             (NP(N-H tập thể)(L các)(N nạn nhân)))))))
+(. .))
+</s>
+<s>
+(S 
+     (PP-ADV (E-H Theo )
+          (NP (P-H tôi )))
+     (, , )
+     (NP-SUB (Ny-H VN ))
+     (VP (C dù )
+          (VP (V-H là )
+               (NP-DOB (N-H nước ) (A nhỏ )))
+          (C nhưng )
+          (VP (R đã ) (V-H vượt ) (R qua )
+               (NP-DOB (N-H cuộc ) (N chiến tranh )
+                    (VP (V-H kéo dài )
+                         (AP (A-H ác liệt ))
+                         (VP (R chưa ) (R từng ) (V-H có )))))
+          (C nên )
+          (VP (V-H có )
+               (NP-DOB (N-H sứ mệnh ) (A to lớn )
+                    (VP (V-H là )
+                         (VP (V-H cất ) (R lên )
+                              (NP (N-H tiếng nói )
+                                   (PP (E-H của )
+                                        (NP (N-H tư tưởng ) (V yêu chuộng ) (N hòa bình )))))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Chất độc )
+          (AP (R vô cùng ) (A-H mạnh ))
+          (NP (Nb-H dioxin )))
+     (VP (R sẽ ) (V-H giảm )
+          (NP-DOB (L phân nửa ) (N-H mức ) (A độc ))
+          (PP-TMP (E-H theo )
+               (NP (N-H thời gian ))))
+     (. . ))
+</s>
+<s>
+(S 
+     (S 
+          (NP-SUB (N-H Chất ) (N hóa học ))
+          (VP (R dần dần ) (V-H mất ) (R đi )))
+     (, , )
+     (S 
+          (NP-SUB (L các ) (N-H nạn nhân ))
+          (VP (R cũng ) (V-H chết ) (R dần )))
+     (. . ))
+</s>
+<s>
+(S (C Nhưng ) (C nếu )
+     (VP-SUB (V-H nghĩ )
+          (SBAR 
+               (S 
+                    (PP-TMP (E-H theo )
+                         (NP (N-H thời gian ) (P đó )))
+                    (C mà )
+                    (NP-SUB (N-H trách nhiệm )
+                         (PP (E-H của )
+                              (NP 
+                                   (NP (N-H chính phủ ))
+                                   (, , )
+                                   (NP (N-H quân đội ))
+                                   (C và )
+                                   (NP (M 37 ) (N-H công ty ) (N hóa học )
+                                        (VP (V-H sản xuất )
+                                             (NP (N-H chất độc ) (N da cam )))
+                                        (PP (E-H của )
+                                             (NP (Np-H Mỹ )))))))
+                    (VP (R cũng ) (R sẽ ) (V-H phai nhạt )))))
+     (C thì )
+     (AP-PRD (R thật là ) (A hoàn toàn ) (A-H sai lầm ))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (N-H Hành động )
+          (PP (E-H của )
+               (NP (N-H chính phủ ) (C và ) (N-H quân đội ) (Np Mỹ ))))
+     (VP (R không thể ) (V-H giảm )
+          (PP (T ngay ) (P cả ) (E-H đến )
+               (NP (L phân nửa ) (N-H mức ) (N tội )))
+          (, , )
+          (VP (V-H trừ )
+               (NP (N-H khi )
+                    (SBAR 
+                         (S 
+                              (NP-SUB (P-H họ ))
+                              (VP 
+                                   (VP (V-H thừa nhận )
+                                        (NP-DOB (N-H trách nhiệm )
+                                             (PP (E-H của )
+                                                  (NP (P-H mình )))))
+                                   (C và )
+                                   (VP (V-H viện trợ )
+                                        (AP (A-H nhân đạo )))))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (P-H Họ ))
+     (VP (V-H là )
+          (NP (L những )
+               (NP (N-H nhà báo ))
+               (, , )
+               (NP (N-H nhà ) (V nghiên cứu ))
+               (, , )
+               (NP (N-H giáo sư ) (N đại học ))
+               (, , )
+               (NP (N-H nhà ) (V hoạt động ) (N xã hội ))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (P-H Họ ))
+     (VP (V-H quan tâm )
+          (PP (E-H tới )
+               (NP (N-H vấn đề ) (N chất độc ) (N da cam ))))
+     (C và )
+     (AP-PRD (R không ) (A-H vô cảm )
+          (PP (E-H trước )
+               (NP (N-H cuộc ) (V đấu tranh )
+                    (PP-PRP (E-H vì )
+                         (NP (N-H công lý )))
+                    (SBAR (C mà )
+                         (S 
+                              (NP-SUB (Np-H Tuổi Trẻ ))
+                              (VP (V-H phát động )))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (PP-LOC (E-H Từ )
+          (NP 
+               (NP (Np-H Hàn Quốc ))
+               (, , )
+               (NP (Np-H Mỹ ))
+               (, , )
+               (NP (Np-H Nhật ))
+               (, , )
+               (NP (Np-H Úc ))
+               (, , )
+               (NP (Np-H Nga ))))
+     (, , )
+     (NP-SUB (P-H họ ))
+     (VP (R đã ) (V-H gửi )
+          (NP-DOB 
+               (NP (N-H thư )
+                    (VP (V-H bày tỏ )
+                         (NP (Nc-H sự ) (V ủng hộ ))))
+               (C và )
+               (NP (N-H phần ) (V đóng góp )
+                    (PP (E-H của )
+                         (NP (P-H mình )))
+                    (, , )
+                    (PP-MNR (E-H dù )
+                         (AP (A-H nhỏ bé ))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (P-H Đó ))
+     (VP 
+          (VP (R có thể ) (V-H là )
+               (NP 
+                    (NP (M một ) (N-H chữ ký ))
+                    (, , )
+                    (NP (M một ) (N-H lời ) (V góp ý ))))
+          (, , )
+          (VP (R cũng ) (R có thể ) (V-H là )
+               (NP (P cả ) (M một ) (N-H cuộc ) (V đấu tranh )
+                    (AP (A-H bền bỉ ) (C như )
+                         (SBAR 
+                              (S 
+                                   (NP-SUB (Nc-H con ) (N ong ))
+                                   (VP (V-H hút )
+                                        (NP-DOB (N-H mật ))
+                                        (NP-TMP (M mỗi ) (N-H ngày ))))))
+                    (PP-PRP (E-H để ) (" " )
+                         (VP (V-H nói ) (R lên )
+                              (NP (N-H tiếng nói )
+                                   (AP (A-H đủ ) (A lớn ))))
+                         (" " )
+                         (VP (V-H thức tỉnh )
+                              (NP (N-H lương tâm ) (C và ) (N-H trách nhiệm )))))))
+     (. . ))
+</s>
+<s>
+(S 
+     (NP-SUB (Np-H Tuổi Trẻ ))
+     (VP (R sẽ ) (V-H trích ) (V-H đăng )
+          (NP-DOB (M ba ) (E trong ) (N-H số )
+               (NP (L các ) (N-H thư điện tử )
+                    (VP (V-H gửi ) (R về )
+                         (VP (V-H hưởng ứng )
+                              (NP (N-H lời ) (V kêu gọi )
+                                   (VP (V-H góp ) (N tay )
+                                        (PP-PRP (E-H vì )
+                                             (NP (N-H công lý ))))
+                                   (PP (E-H của )
+                                        (NP (Np-H Tuổi Trẻ )))))))))
+     (. . ))
+</s>

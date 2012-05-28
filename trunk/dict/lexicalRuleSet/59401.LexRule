@@ -1,0 +1,607 @@
+! : !	4
+" : "	25
+, : ,	73
+- : -	7
+. : .	46
+... : ...	9
+/ : /	1
+: : :	12
+? : ?	2
+A : Chi tiết	1
+A : chính xác	1
+A : chật chội	1
+A : có thể	1
+A : có ích	1
+A : cùng	4
+A : cũ	1
+A : cẩn thận	1
+A : hay	3
+A : hẹp	1
+A : khác	2
+A : khôn lớn	1
+A : loãng	2
+A : lâu dài	1
+A : lớn	2
+A : ngọt	1
+A : nhiều	7
+A : như	2
+A : nhỏ	2
+A : nóng hổi	1
+A : phù hợp	1
+A : riêng	1
+A : ríu ran	1
+A : rõ ràng	2
+A : sau	1
+A : song hành	1
+A : sôi động	1
+A : thú vị	1
+A : trẻ	3
+A : tình cảm	1
+A : tí	1
+A : tự nguyện	1
+A : uy tín	1
+A : vui	2
+A : vui nhộn	1
+A : yêu dấu	1
+A : đáng	1
+A : đúng	1
+A : đầu lòng	1
+A : đắc lực	1
+A : đẹp	1
+A : đủ	2
+A : ảo	1
+A : ấn tượng	1
+C : Nếu	1
+C : Và	1
+C : Ví dụ	1
+C : còn	1
+C : hay	1
+C : là	2
+C : mà	7
+C : nhân tiện	1
+C : như	5
+C : nên	1
+C : nếu như	1
+C : rằng	1
+C : thì	3
+C : và	17
+E : Qua	1
+E : Sau	1
+E : Trong	1
+E : Từ	2
+E : Vì	1
+E : Với	1
+E : bởi	1
+E : cho	10
+E : của	23
+E : lên	1
+E : qua	1
+E : sang	1
+E : sau	1
+E : trong	6
+E : trên	11
+E : trước	1
+E : tại	3
+E : từ	3
+E : vào	1
+E : vì	4
+E : về	8
+E : với	13
+E : đến	3
+E : để	7
+E : ở	4
+I : nha	1
+I : nhé	2
+I : nhỉ	1
+I : ơi	3
+L : Các	2
+L : Những	1
+L : các	15
+L : mọi	3
+L : những	17
+LBKT : LBKT	5
+M : 10 . 000	1
+M : 2003	1
+M : 2004	1
+M : 3	2
+M : 37	1
+M : 42	1
+M : 5	2
+M : 550 . 000	1
+M : 9	1
+M : Bảy	1
+M : Hai	2
+M : ba	1
+M : bốn	1
+M : hai	1
+M : một	15
+M : nghìn	1
+M : trăm	2
+M : đôi	2
+N : Bé	1
+N : Bộ	1
+N : Cha mẹ	1
+N : Cháu	1
+N : Công ty	2
+N : Em	1
+N : Giám đốc	1
+N : Khi	1
+N : Khoảng	1
+N : Ngoại thương	1
+N : Nhà	1
+N : Nước	1
+N : Sách	1
+N : Tháng	1
+N : Trường	2
+N : Website	1
+N : anh	7
+N : anh chị	3
+N : buổi	2
+N : bà	1
+N : bài	5
+N : bàn	1
+N : bé	3
+N : băng	1
+N : bạn	1
+N : bậc	1
+N : bọn	1
+N : bố	3
+N : bố mẹ	2
+N : bộ	1
+N : cam	3
+N : cha mẹ	3
+N : chi phí	1
+N : chiều	1
+N : chuyên môn	1
+N : chuyện	1
+N : cháu	2
+N : chị	6
+N : chủ đề	2
+N : con	25
+N : con cái	2
+N : cuốn	1
+N : cuộc	1
+N : cuộc sống	1
+N : cô chú	1
+N : công nghệ thông tin	1
+N : công ty	4
+N : công việc	1
+N : cơ hội	1
+N : cơm	1
+N : cơn sốt	1
+N : cộng tác viên	1
+N : củ	1
+N : cửa	1
+N : cửa sổ	1
+N : diễn đàn	4
+N : diện tích	1
+N : dịch	1
+N : gia đình	5
+N : giá	1
+N : giải	1
+N : góc	1
+N : gấu	1
+N : gỗ	1
+N : hàng	1
+N : hình	1
+N : hóa	1
+N : hạnh phúc	1
+N : hội quán	1
+N : khi	3
+N : khoa	2
+N : khoản	1
+N : khách	1
+N : khóa	2
+N : không gian	2
+N : kinh doanh	1
+N : kinh nghiệm	1
+N : kinh tế	1
+N : kiến thức	3
+N : kỹ thuật	1
+N : loại	2
+N : loạt	1
+N : lòng	1
+N : lúc	1
+N : lượt	1
+N : lần	1
+N : lợi ích	1
+N : máy chủ	1
+N : máy tính	1
+N : mùa	1
+N : mạng	7
+N : mặt	2
+N : mẹ	17
+N : mục	1
+N : nay	1
+N : net	1
+N : nguyệt san	1
+N : nguồn	2
+N : ngày	3
+N : người	7
+N : nhau	2
+N : nhà	9
+N : nhà khoa học	1
+N : nhân cách	1
+N : nhựa	1
+N : nickname	3
+N : niềm	3
+N : năm	1
+N : năm tháng	1
+N : nước	3
+N : nước ngoài	4
+N : nội dung	2
+N : phim	2
+N : phương pháp	1
+N : phường	1
+N : phần	1
+N : quyền	1
+N : quá trình	2
+N : quít	2
+N : quảng cáo	1
+N : rau	1
+N : rổ	1
+N : sinh viên	3
+N : suy nghĩ	1
+N : sách	5
+N : sáng	1
+N : sự	1
+N : thi	1
+N : thiếu sót	1
+N : thành phố	1
+N : thành viên	4
+N : tháng	3
+N : thói quen	2
+N : thông tin	5
+N : thời	1
+N : tin	3
+N : tinh thần	1
+N : tiếng	1
+N : tiền	1
+N : toán	1
+N : trang	3
+N : trái cây	1
+N : trường	4
+N : trẻ	2
+N : trẻ em	3
+N : tuổi	1
+N : tài	2
+N : tài liệu	2
+N : tài năng	4
+N : tác giả	1
+N : táo	1
+N : tâm huyết	1
+N : tên	4
+N : tù và	1
+N : tạp chí	1
+N : tổng	1
+N : việc	3
+N : việc làm	1
+N : viện	1
+N : vàng	1
+N : vật chất	1
+N : vợ	3
+N : vợ chồng	5
+N : website	2
+N : Ý tưởng	1
+N : ôtô	1
+N : ý nguyện	1
+N : ý tưởng	1
+N : Điều	1
+N : điều	1
+N : đông	1
+N : đĩa	1
+N : đường	2
+N : đầu	1
+N : địa chỉ	1
+N : đồ chơi	3
+N : đời	1
+N : đứa	3
+N : ảnh	1
+NP : *E*	7
+Nb : website	1
+Nc : Anh	4
+Nc : Bà	1
+Nc : Chàng	1
+Nc : Chị	4
+Nc : Cuốn	1
+Nc : Căn	1
+Nc : anh	5
+Nc : bà	8
+Nc : chiếc	2
+Nc : chị	14
+Nc : cuốn	1
+Nc : cái	1
+Nc : cô	1
+Nc : căn	2
+Nc : mảnh	1
+Nc : người	1
+Nc : tấm	1
+Nc : ông	3
+Np : Adam	1
+Np : Americanbaby.com	1
+Np : Babycenter.com	1
+Np : Bùi Huy Kiên	1
+Np : Bồ Đề	1
+Np : Chametainang.net	3
+Np : Chiba	1
+Np : Daddy daycare	1
+Np : Duy Anh	3
+Np : Dím	1
+Np : Eve	1
+Np : FamilyResource. com	1
+Np : FamilyResource.com	1
+Np : Gia Lâm	1
+Np : Giavi	1
+Np : Harvard	1
+Np : Hiền	12
+Np : Hà Nội	2
+Np : Hột	2
+Np : Iparenting.com	1
+Np : Khang	1
+Np : Kien Lua	1
+Np : Kim Ngọc Minh	3
+Np : Kiên	9
+Np : Lamchame.com	12
+Np : Lưu Diệc Đình	1
+Np : Minh	2
+Np : Mỹ	1
+Np : Ngô Thu Hiền	1
+Np : Nhã Trang	2
+Np : Nhật	2
+Np : Nhật Bản	1
+Np : Nicegoat	1
+Np : Selfgrowth.com	1
+Np : SuSu	1
+Np : T-Kids	2
+Np : Tamahiyo	1
+Np : Thủy Nguyên	1
+Np : Trang	5
+Np : Tranthuynguyen	2
+Np : Trung Quốc	1
+Np : Tuilatui	1
+Np : Tổng hợp	1
+Np : VN	1
+Np : Việt	2
+Np : Webtretho.com	3
+Np : website	3
+Np : www . webtretho . com	1
+Nu : tháng	2
+Nu : tuổi	2
+Nu : đồng	1
+Ny : web	2
+Ny : website	7
+Ny : www . lamchame . com	1
+Ny : ĐH	3
+P : Chúng tôi	1
+P : Mình	1
+P : Tôi	3
+P : chúng tôi	6
+P : chị	1
+P : gì	1
+P : họ	3
+P : mình	9
+P : nay	1
+P : nào	2
+P : này	7
+P : sau này	1
+P : thế	2
+P : thế nào	1
+P : tôi	2
+P : tự	1
+P : vậy	1
+P : Đây	1
+P : Đó	1
+P : đây	3
+P : đó	2
+P : đấy	1
+R : Hàng	2
+R : Không	1
+R : Vừa	2
+R : chưa	1
+R : càng	1
+R : còn	1
+R : cũng	6
+R : hay	1
+R : hàng	1
+R : hơn	2
+R : hằng	2
+R : hết sức	1
+R : khá	3
+R : không	9
+R : luôn	2
+R : lên	4
+R : lại	1
+R : ngay lập tức	1
+R : nên	2
+R : nữa	2
+R : qua	1
+R : quá	1
+R : ra	4
+R : rất	2
+R : rằng	1
+R : rồi	1
+R : sắp	2
+R : sẽ	6
+R : thường	1
+R : từng	2
+R : vào	2
+R : vẫn	2
+R : vốn	1
+R : vừa	4
+R : xong	1
+R : đang	3
+R : đi	1
+R : đã	10
+R : được	4
+R : đến	3
+R : đều	3
+RBKT : RBKT	5
+S : cựu	1
+T : chính	2
+T : ngay	1
+T : nhỉ	1
+T : thật	1
+V : Có	1
+V : Ghé	1
+V : Góp phần	1
+V : Hiểu	1
+V : Lắng nghe	1
+V : Nuôi	1
+V : Phát triển	1
+V : Sáng tạo	1
+V : Trông	1
+V : biên dịch	1
+V : biết	4
+V : bàn tán	1
+V : bán	1
+V : bảo	3
+V : bận rộn	1
+V : bỏ	1
+V : chia sẻ	4
+V : chiếm	1
+V : cho	3
+V : chuẩn bị	1
+V : chào	1
+V : chào đời	1
+V : chính thức	1
+V : chú ý	2
+V : chăm chút	1
+V : chăm sóc	1
+V : chơi	1
+V : chỉ dẫn	1
+V : cung cấp	1
+V : còn	1
+V : có	14
+V : công nhận	1
+V : cần	2
+V : duy trì	1
+V : dành	1
+V : dạy	10
+V : dẫn	1
+V : dịch	5
+V : dọa	2
+V : dồn	1
+V : ghép	1
+V : giới thiệu	3
+V : gặp	1
+V : gặp gỡ	1
+V : gửi	1
+V : hiểu	2
+V : hiện thực hóa	1
+V : hoạt động	2
+V : hình thành	2
+V : hút	1
+V : học	1
+V : học hỏi	1
+V : hỗ trợ	1
+V : khen	1
+V : khoe	1
+V : khóc	1
+V : kể	1
+V : là	11
+V : làm	2
+V : làm chủ	1
+V : làm quen	1
+V : làm việc	1
+V : lên	2
+V : lấy	2
+V : lập	3
+V : lục	1
+V : lựa	1
+V : mua bán	1
+V : muốn	4
+V : mất	1
+V : mời	1
+V : nghe	1
+V : nghi ngờ	1
+V : nghiên cứu	1
+V : ngần ngại	1
+V : ngồi	1
+V : ngừng	1
+V : nhu cầu	1
+V : nhân ái	1
+V : nhớ	1
+V : nhờ	1
+V : nuôi	13
+V : nuôi dạy	1
+V : nên	1
+V : nói	1
+V : online	1
+V : pha	2
+V : phát triển	1
+V : phải	1
+V : phản hồi	1
+V : phổ biến	1
+V : phụ trách	1
+V : qua	1
+V : quên	1
+V : quản lý	3
+V : quản trị	1
+V : ra	1
+V : ra đời	1
+V : sinh	1
+V : sưu tầm	1
+V : tham gia	1
+V : thiết kế	1
+V : thuê	1
+V : thuộc	1
+V : thành	2
+V : thành đạt	1
+V : thêm	3
+V : thích	1
+V : thôi thúc	1
+V : thông qua	1
+V : thư giãn	1
+V : thảo luận	1
+V : thấy	1
+V : tin	1
+V : trao đổi	2
+V : treo	1
+V : truy cập	1
+V : trả lời	1
+V : trở nên	1
+V : trở thành	1
+V : tác động	2
+V : tâm sự	1
+V : tìm	3
+V : tình nguyện	1
+V : tư vấn	2
+V : tạo	1
+V : tốt nghiệp	1
+V : tự hào	1
+V : tự tin	1
+V : uống	2
+V : viết	1
+V : vui	1
+V : vác	1
+V : về	1
+V : xin	2
+V : xuất hiện	2
+V : xây	1
+V : xảy	1
+V : ăn	1
+V : đem	1
+V : đi	1
+V : điểm	1
+V : đoạt	1
+V : đón	1
+V : đăng	1
+V : đưa	4
+V : được	7
+V : đặt	2
+V : đến	4
+V : để	2
+V : định cư	1
+V : đọc	1
+V : đứng	1
+V : ở	2
+Vb : best-seller	1
+Vb : chat	2
+Vb : offline	1
+Vb : post	1
+X : @	1
+X : Ngoài lề	1
+X : Vừa rồi	1
+X : càng ngày càng	1
+Y : &	1
+Y : @	2

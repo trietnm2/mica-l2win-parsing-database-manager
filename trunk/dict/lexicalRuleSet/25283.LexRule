@@ -1,0 +1,428 @@
+" : "	11
+, : ,	41
+- : -	3
+. : .	34
+... : ...	1
+/ : /	1
+: : :	4
+; : ;	4
+? : ?	2
+A : Gần	1
+A : Lận đận	1
+A : Nhiều	1
+A : bần hàn	1
+A : cùng	1
+A : cùng cực	1
+A : cọc cạch	1
+A : cực	1
+A : già	2
+A : gần	1
+A : hóp	1
+A : hơn	2
+A : khác	1
+A : khắp	1
+A : khổ	4
+A : lớn	2
+A : nghèo	1
+A : nhiều	2
+A : nhơ	1
+A : như	1
+A : nhất	1
+A : nhỏ	4
+A : oan	1
+A : phải	1
+A : quày quả	1
+A : sau	1
+A : sâu	1
+A : thiếu thốn	1
+A : thất đức	1
+A : trên	2
+A : trũng	1
+A : túng quẫn	3
+A : tạm	1
+A : tạm bợ	2
+A : vất vả	1
+A : vội	1
+A : vụn	2
+A : ít	2
+A : đau	2
+A : đạm bạc	1
+C : Và	2
+C : bằng	1
+C : cùng	2
+C : cũng	1
+C : dù	1
+C : mà	1
+C : như	2
+C : nhưng	3
+C : nên	2
+C : nếu	1
+C : rằng	2
+C : rồi	2
+C : thì	1
+C : trên hết	1
+C : và	4
+C : Để	1
+E : Trong	1
+E : bằng	2
+E : cho	5
+E : của	13
+E : mà	1
+E : ngoài	1
+E : rằng	1
+E : sau	2
+E : trong	6
+E : trên	2
+E : tận	5
+E : từ	1
+E : vào	5
+E : vì	5
+E : về	2
+E : với	6
+E : đến	3
+E : để	3
+E : đối với	1
+E : Ở	2
+E : ở	9
+L : các	2
+L : một vài	1
+L : một ít	1
+L : những	6
+LBKT : LBKT	4
+M : 100.000	1
+M : 11	1
+M : 13	1
+M : 2	1
+M : 20	2
+M : 21	1
+M : 3	2
+M : 35	1
+M : 43 tỉ	1
+M : 80	1
+M : Ba	1
+M : Một	2
+M : bốn	1
+M : hai	4
+M : mười	1
+M : một	6
+M : Đôi	1
+M : đôi	1
+N : Anh	1
+N : Chị	1
+N : Khi	1
+N : Nỗi	1
+N : Số phận	1
+N : Thân	1
+N : Tối	1
+N : Vợ chồng	1
+N : anh	10
+N : anh chị	2
+N : bao	1
+N : bao bì	1
+N : bài	4
+N : báo	6
+N : bạn bè	2
+N : bạt	1
+N : cha	2
+N : chuyện	1
+N : cháu	1
+N : chân	1
+N : chân lý	1
+N : chòi	1
+N : chị	3
+N : chồng	2
+N : chỗ	1
+N : con	9
+N : con người	1
+N : cuộc đời	1
+N : công nhân	6
+N : công trình	4
+N : công ăn việc làm	1
+N : cơm	2
+N : cảng	3
+N : cảnh	2
+N : của cải	1
+N : danh dự	3
+N : dấu	1
+N : dấu ấn	1
+N : em	1
+N : em gái	1
+N : gia đình	6
+N : giấy	1
+N : gái	3
+N : gò má	1
+N : hoàn cảnh	1
+N : huyện	2
+N : hành trình	1
+N : hè	1
+N : họ tộc	1
+N : khi	1
+N : khắp nơi	1
+N : làng	1
+N : lúc	1
+N : mắt	1
+N : nghi vấn	1
+N : ngày	2
+N : ngày trước	1
+N : ngày xưa	1
+N : người	7
+N : người thân	1
+N : nhau	4
+N : nhà	3
+N : nhà nước	1
+N : nhóm	2
+N : nilông	1
+N : năm	2
+N : nước	1
+N : nỗi	2
+N : phường	1
+N : quê	2
+N : quận	1
+N : rác	1
+N : sáng	1
+N : số	2
+N : số phận	1
+N : sự	1
+N : sự thật	2
+N : tay	1
+N : thu nhập	1
+N : tháng	1
+N : thôn	1
+N : thương binh	1
+N : thợ	1
+N : tin	2
+N : tinh thần	1
+N : tiêu cực	5
+N : tiền	2
+N : tiền bạc	2
+N : trường	1
+N : tuổi	3
+N : tên	2
+N : tôn	1
+N : tổ trưởng	1
+N : ve chai	4
+N : việc	1
+N : vôi	1
+N : vật chất	1
+N : vật dụng	1
+N : vết	1
+N : vốn	1
+N : vợ	2
+N : vợ chồng	8
+N : vụ	2
+N : vữa	1
+N : xe đạp	1
+N : xã	2
+N : xóm	1
+N : Ông	1
+N : âm mưu	4
+N : ông	1
+N : Đứa	1
+N : điều kiện	1
+N : đêm	1
+N : đơn	1
+N : đường	3
+N : đầu	1
+N : đằng	1
+NP : *T*	4
+Nc : Chị	1
+Nc : anh	9
+Nc : chiếc	1
+Nc : chị	3
+Nc : con	1
+Nc : cuộc	1
+Nc : cái	3
+Nc : căn	2
+Nc : miếng	2
+Nc : ngôi	2
+Nc : người	4
+Nc : nhóm	1
+Nc : nỗi	1
+Nc : tấm	1
+Nc : vụ	1
+Nc : Đứa	1
+Nc : đứa	3
+Np : Bình Chiểu	1
+Np : Bình Dương	1
+Np : Bắc Ninh	1
+Np : Lắm	1
+Np : Mai Văn Lắm	1
+Np : Pháp Luật	2
+Np : Quế Võ	1
+Np : Sài Gòn	2
+Np : Thuận An	1
+Np : Thủ Đức	1
+Np : Trinh	1
+Np : Trương Xuân Đào	1
+Np : Trương Xuân Đại	2
+Np : Trường	1
+Np : Trần Thị Xoan	1
+Np : Xoan	3
+Np : Đào Viên	1
+Np : Đông	1
+Np : Đại	7
+Np : Định Quán	1
+Np : Đồng Nai	1
+Nu : giờ	1
+Nu : tỉ	1
+Nu : đồng	2
+Ny : .HCM	1
+Ny : A5	2
+Ny : HCM	2
+Ny : TP	3
+Ny : TP.HCM	2
+P : Họ	1
+P : ai	2
+P : bây giờ	4
+P : chúng tôi	3
+P : họ	3
+P : mình	6
+P : này	4
+P : tôi	4
+P : tất cả	1
+P : từng	1
+P : đâu	2
+P : đây	1
+P : đó	3
+R : Chỉ	1
+R : Cũng	1
+R : Không	1
+R : chưa	1
+R : còn	3
+R : cũng	6
+R : hầu như	1
+R : không	9
+R : không thể	1
+R : lên	1
+R : lại	6
+R : lấy	1
+R : lần lượt	1
+R : mãi	1
+R : mới	1
+R : ra	1
+R : rất	3
+R : sẽ	1
+R : về	2
+R : vừa	1
+R : xong	1
+R : đang	4
+R : đi	1
+R : đã	8
+R : được	1
+R : đến	2
+RBKT : RBKT	4
+T : Thế	3
+T : chính	2
+T : cái	1
+T : vậy	1
+T : đến	1
+V : Chỉ	1
+V : Ngồi	1
+V : Nhìn	1
+V : Nhặt	1
+V : Nhớ	1
+V : biến	1
+V : biết	3
+V : bám trụ	1
+V : bước	1
+V : bị	4
+V : bỏ	1
+V : bới	1
+V : che chắn	1
+V : chen chúc	1
+V : cho	1
+V : chạnh lòng	1
+V : chịu	2
+V : chống	4
+V : coi	1
+V : còn	2
+V : có	8
+V : cứu	1
+V : dạt	1
+V : dắt	1
+V : dắt díu	2
+V : giải	1
+V : gán	1
+V : gửi	1
+V : hay	1
+V : hết	1
+V : học	1
+V : in	1
+V : khẳng định	1
+V : khỏi	1
+V : kiện	4
+V : kể	2
+V : lang thang	1
+V : lao động	1
+V : là	5
+V : làm	3
+V : làm mướn	1
+V : làm thuê	1
+V : lãnh	1
+V : lượm	1
+V : lấp	1
+V : lục đục	1
+V : muốn	1
+V : màng	1
+V : mưu sinh	1
+V : mất	2
+V : ngăn chặn	1
+V : ngờ vực	2
+V : nhận	1
+V : nhắn	1
+V : nhặt	2
+V : nuôi	1
+V : nói	2
+V : nấu	1
+V : phiêu bạt	1
+V : phải	2
+V : quen	1
+V : quyết định	1
+V : quả quyết	1
+V : quản lý	1
+V : ra	2
+V : rõ	1
+V : rút ruột	1
+V : rơi	2
+V : rảo	1
+V : so	1
+V : sánh	1
+V : sắm sửa	1
+V : sống	2
+V : theo	1
+V : thuộc	1
+V : thương	1
+V : thất nghiệp	1
+V : trọ	1
+V : trở	1
+V : trở thành	2
+V : tá túc	1
+V : tìm	2
+V : tố cáo	1
+V : tống tiền	3
+V : từ	1
+V : viết	1
+V : vào	1
+V : vùi	1
+V : về	1
+V : xin	1
+V : xuất hiện	1
+V : xây dựng	1
+V : xả thân	1
+V : Ăn	1
+V : ăn	1
+V : đeo đuổi	1
+V : đi	7
+V : đòi	1
+V : đăng	1
+V : được	2
+V : đấu tranh	3
+V : đầu tư	1
+V : đứng	1
+V : ở	2
+WHNP : Sao	1
+X : hang cùng ngõ hẻm	1
+X : liên	3
+X : vậy sao	1
+X : đội nón ra đi	1
+Y : A5	1

@@ -1,0 +1,546 @@
+! : !	1
+" : "	34
+, : ,	86
+- : -	6
+. : .	62
+... : ...	1
+: : :	12
+; : ;	5
+? : ?	2
+A : Hơn	1
+A : cao	1
+A : chung	1
+A : chậm	1
+A : chủ chốt	1
+A : cuối	1
+A : cách mạng	2
+A : cùng	1
+A : cũ	1
+A : cẩn thận	1
+A : dài	1
+A : dữ	1
+A : gần	1
+A : hăng hái	1
+A : khó khăn	1
+A : kỹ	1
+A : liền	1
+A : lâu	1
+A : lắm	1
+A : lớn tuổi	1
+A : mập	1
+A : mật	1
+A : mờ	1
+A : ngon	1
+A : nguy hiểm	1
+A : nhiều	5
+A : nhất	1
+A : nhỏ	1
+A : quyết liệt	1
+A : riêng	1
+A : ruột	1
+A : rõ	1
+A : sau	1
+A : sắt đá	1
+A : sớm	1
+A : thường xuyên	1
+A : thấp	1
+A : thật sự	2
+A : tiết kiệm	1
+A : trắng trẻo	1
+A : trẻ	1
+A : tỉnh khô	1
+A : tốt	1
+A : tự nhiên	1
+A : vất vả	1
+A : yên tâm	1
+A : Đúng	1
+A : đau đớn	3
+A : đen	1
+A : đơn giản	1
+A : ốm yếu	1
+C : Nhưng	3
+C : Rồi	2
+C : Thì	1
+C : Thế ra	1
+C : còn	1
+C : là	7
+C : mà	2
+C : mà còn	1
+C : mà lại	1
+C : như	7
+C : nhưng	3
+C : nên	4
+C : rồi	5
+C : thì	3
+C : và	8
+E : Sau	2
+E : Trong	3
+E : Trước	1
+E : Vì	1
+E : bằng	1
+E : cho	4
+E : của	16
+E : dưới	1
+E : sau	4
+E : trong	7
+E : trên	1
+E : trước	1
+E : tại	5
+E : từ	5
+E : vào	3
+E : vì	4
+E : về	2
+E : với	6
+E : đến	1
+E : để	3
+E : ở	4
+L : Các	1
+L : Mọi	1
+L : Những	1
+L : các	5
+L : mấy	1
+L : mỗi	2
+L : những	10
+LBKT : LBKT	4
+M : 11	2
+M : 18	1
+M : 19	1
+M : 1910	1
+M : 1930	1
+M : 1937	1
+M : 1961	2
+M : 2	1
+M : 2003	1
+M : 8	1
+M : 94	1
+M : Hai	2
+M : hai	4
+M : mỗi	1
+M : một	13
+M : nhì	1
+M : nhất	1
+N : Bà	2
+N : Bàn thờ	1
+N : Bên	1
+N : Bệnh viện	1
+N : Bối cảnh	1
+N : Chuyện	1
+N : Chị	1
+N : Con	1
+N : Cuộc đời	1
+N : Cách mạng	1
+N : Câu chuyện	1
+N : Cộng sản	2
+N : Danh sách	1
+N : Dì	1
+N : Giờ	1
+N : Huân chương	2
+N : Hôm	1
+N : Hồi	1
+N : Khu	1
+N : Lúc	1
+N : Má	9
+N : Thành đoàn	5
+N : Toàn bộ	1
+N : Trung tâm	1
+N : anh	3
+N : anh em	1
+N : anh hùng	2
+N : ban	1
+N : bà	1
+N : bình phong	1
+N : bệnh viện	1
+N : bữa	1
+N : cha	1
+N : chiến dịch	1
+N : chiến tranh	1
+N : chuyện	2
+N : chà	3
+N : cháu	2
+N : chân	1
+N : chính quyền	1
+N : chút	1
+N : chất đốt	1
+N : chị	1
+N : chồng	4
+N : chợ	1
+N : chủ	1
+N : con	9
+N : con cháu	4
+N : con nhỏ	1
+N : cung	1
+N : cách mạng	5
+N : cái	3
+N : cán bộ	4
+N : cô	1
+N : công ty	1
+N : công tác	2
+N : công việc	2
+N : cơm	1
+N : cần xé	1
+N : cớ	1
+N : cứ	1
+N : danh hiệu	1
+N : dao	1
+N : dân	1
+N : dâu	1
+N : dì	3
+N : dòng	2
+N : em	2
+N : gia đình	1
+N : giai đoạn	1
+N : giao liên	1
+N : giỏ	3
+N : gái	2
+N : hoạt động	2
+N : huy chương	1
+N : huân chương	1
+N : hàng xóm	1
+N : hòa bình	1
+N : hướng	2
+N : hạng	2
+N : hầm	1
+N : hố	1
+N : hồi	1
+N : khi	2
+N : kho	1
+N : khăn	2
+N : kiểu	1
+N : linh cữu	1
+N : liệt sĩ	1
+N : lúc	6
+N : lý lịch	1
+N : lần	2
+N : lời	2
+N : lực lượng	1
+N : lựu đạn	1
+N : má	42
+N : máu	1
+N : mìn	1
+N : mình	1
+N : mắt	3
+N : mẹ	3
+N : mồ hôi	1
+N : một cách	1
+N : nghĩa trang	1
+N : nguy hiểm	1
+N : ngày	3
+N : ngón	1
+N : người	8
+N : nhau	3
+N : nhà	11
+N : nhà tình nghĩa	1
+N : năm	5
+N : nước	1
+N : nước mắt	1
+N : phong trào	1
+N : phương	1
+N : phức tạp	1
+N : quê	2
+N : sam	1
+N : súng	1
+N : tang	3
+N : tang lễ	1
+N : tay	2
+N : thành phố	1
+N : tháng	2
+N : thằng	1
+N : thời gian	1
+N : thực tế	1
+N : tin	3
+N : tinh thần	1
+N : trai	2
+N : truyền đơn	1
+N : trái cây	3
+N : trầu	1
+N : trận	1
+N : trỏ	1
+N : tuổi	3
+N : tài liệu	1
+N : tá	1
+N : tù	1
+N : tướng	2
+N : tổ chức	1
+N : từ	1
+N : vai	1
+N : vai trò	1
+N : việc	1
+N : vành	1
+N : vũ khí	2
+N : vật chất	1
+N : vợ	1
+N : vựa	1
+N : xóm	1
+N : đoàn	1
+N : đường	3
+N : đầu	2
+N : địch	2
+N : đời	3
+N : đứa	3
+NP : *E*	13
+NP : *T*	2
+Nc : Anh	3
+Nc : Chị	2
+Nc : Con	1
+Nc : Tụi	1
+Nc : anh	6
+Nc : chị	2
+Nc : con	2
+Nc : cái	1
+Nc : cô	5
+Nc : căn	1
+Nc : người	1
+Nc : sự	1
+Nc : xấp	1
+Nc : đứa	2
+Np : Ba Châu	4
+Np : Ba Vạn	3
+Np : Bình Xuyên	2
+Np : Châu	1
+Np : Chợ Rẫy	1
+Np : Gia Định	2
+Np : Hóc Môn	3
+Np : Hồ Hảo Hớn	2
+Np : Lê Minh Châu	1
+Np : Lời	2
+Np : Lục Lạc	2
+Np : Mai	1
+Np : Mười Minh	5
+Np : Mậu Thân	1
+Np : Mỹ	1
+Np : Nguyễn Thị Minh Khai	1
+Np : Nguyễn Thị Tư	1
+Np : Năm	3
+Np : Năm Lời	5
+Np : Phan Chánh Tâm	1
+Np : Pháp	1
+Np : Sài Gòn	2
+Np : Thành đoàn	2
+Np : Tháng Tám	1
+Np : Thằng Mười	1
+Np : Thị Nghè	1
+Np : Tro	1
+Np : Tư Liêm	1
+Np : Tư Sử	1
+Np : Út	1
+Np : Út Sương	6
+Np : Đông Dương	1
+Np : Đảng	2
+Np : Đỗ Thị Lời	1
+Np : Đỗ Văn Mai	1
+Ny : Q.5	1
+Ny : TP.HCM	1
+Ny : VN	3
+P : Tôi	1
+P : ai	3
+P : chúng tôi	1
+P : cả	3
+P : gì	3
+P : mày	1
+P : mình	2
+P : nay	1
+P : nè	1
+P : tao	1
+P : thế	2
+P : tôi	1
+P : tất cả	1
+P : từng	1
+P : tự	1
+P : vậy	4
+P : Đây	1
+P : đâu	1
+P : đâu đó	1
+P : đây	1
+P : đó	5
+P : ấy	7
+R : Không	1
+R : Phải	1
+R : Thỉnh thoảng	1
+R : chẳng	1
+R : chỉ	3
+R : càng	3
+R : còn	3
+R : có thể	1
+R : cũng	7
+R : không	12
+R : lên	1
+R : lại	14
+R : mãi	1
+R : mới	3
+R : ra	4
+R : rất	8
+R : rồi	2
+R : sẽ	3
+R : theo	1
+R : thật	1
+R : từng	1
+R : vô	1
+R : vẫn	4
+R : đang	1
+R : đã	10
+R : được	4
+R : đến	1
+R : đều	1
+RBKT : RBKT	4
+T : hả	1
+T : lắm	1
+T : mà	1
+T : nào	1
+T : này	1
+T : nữa	3
+T : riêng	1
+T : rồi	1
+T : thôi	1
+V : *E*	1
+V : Có	2
+V : Hưởng thọ	1
+V : Kết nạp	1
+V : Mất	1
+V : Nhận thức	1
+V : Ra	1
+V : Sinh	1
+V : Tham gia	1
+V : Thôi	1
+V : Tin	1
+V : an táng	1
+V : biết	1
+V : buôn bán	1
+V : bày	1
+V : bảo	4
+V : bắt	2
+V : bị	6
+V : bỏ	1
+V : che	1
+V : cho	1
+V : chít	1
+V : chặt	1
+V : chỉ huy	1
+V : chịu	2
+V : chọn	1
+V : chống	2
+V : chở	1
+V : coi	3
+V : cãi	4
+V : cãi lộn	1
+V : có	8
+V : công tác	1
+V : cướp	1
+V : cười	3
+V : cầm	1
+V : dò la	1
+V : dưỡng bệnh	1
+V : dưỡng lão	1
+V : dạy	2
+V : dặn dò	1
+V : ghen tuông	2
+V : ghi	1
+V : giam	1
+V : giả vờ	1
+V : giải phóng	1
+V : giải thích	1
+V : giận dỗi	1
+V : giận hờn	1
+V : gắn	1
+V : gặp	1
+V : gọi	2
+V : hi sinh	2
+V : hoạt động	5
+V : hôn mê	1
+V : hỏi	2
+V : khai	1
+V : khiến	1
+V : khuyên	1
+V : kháng chiến	2
+V : khóc	3
+V : khảo	1
+V : khẳng định	1
+V : kết nạp	1
+V : liên lạc	1
+V : lo	1
+V : là	12
+V : làm	2
+V : lấy	2
+V : lộ	1
+V : lớn	1
+V : lựa chọn	1
+V : mang	2
+V : mua	1
+V : màng	1
+V : mướn	1
+V : mất mát	1
+V : mở	1
+V : nghe	2
+V : nghĩ	1
+V : ngạc nhiên	1
+V : ngả	1
+V : ngậm ngùi	1
+V : ngờ	1
+V : ngụy trang	1
+V : nhận	2
+V : nhớ	2
+V : nung nấu	1
+V : nuôi dưỡng	1
+V : nài nỉ	1
+V : nên	1
+V : nói	2
+V : nấu	1
+V : nằm	1
+V : nề	2
+V : phân vai	1
+V : phải	4
+V : phản động	1
+V : phục vụ	1
+V : quen	1
+V : quyết tâm	1
+V : ra	2
+V : rải	1
+V : sang	1
+V : say mê	1
+V : tham gia	2
+V : thay	1
+V : thay vì	1
+V : theo	2
+V : thành	2
+V : thăm	1
+V : thả	1
+V : thấy	1
+V : thắc mắc	1
+V : thừa tự	1
+V : tin	1
+V : tiếp tục	2
+V : toát	1
+V : tra tấn	2
+V : trở	2
+V : trở thành	3
+V : tìm	1
+V : tảo tần	1
+V : tổ chức	2
+V : tới	1
+V : tới lui	1
+V : vào	2
+V : vẽ	1
+V : về	5
+V : xách	1
+V : xáp	1
+V : xây	1
+V : ăn	2
+V : Đi	1
+V : đau buồn	1
+V : đau yếu	1
+V : đeo	1
+V : đi	4
+V : đoạn tuyệt	1
+V : đành	2
+V : đòi hỏi	1
+V : đóng	1
+V : được	3
+V : đặt	1
+V : để	1
+V : đồng ý	2
+V : đổ bộ	1
+V : đứng	2
+V : đứt	2
+V : ở	3
+X : Năm lần bảy lượt	1
+X : từng li từng tí	1
+… : ...	7

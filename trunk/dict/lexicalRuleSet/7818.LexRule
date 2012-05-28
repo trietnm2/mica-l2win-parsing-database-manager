@@ -1,0 +1,501 @@
+! : !	3
+" : "	56
+, : ,	61
+- : -	9
+. : .	51
+... : ...	11
+/ : /	2
+: : :	19
+; : ;	4
+? : ?	6
+A : Khó	2
+A : Yên tâm	1
+A : bằng	1
+A : bội	1
+A : chuyên	1
+A : chính	1
+A : chặt chẽ	2
+A : chủ yếu	2
+A : cụ thể	1
+A : gần	2
+A : hiếm	1
+A : hoang dã	1
+A : hơn	1
+A : khoảng	1
+A : khác	2
+A : khét	1
+A : khẩn	1
+A : khắp	1
+A : lâu	1
+A : lớn	4
+A : ngon	1
+A : ngào ngạt	1
+A : nhanh chóng	1
+A : nhanh nhẩu	1
+A : nhiều	2
+A : nhất	1
+A : nhỏ	1
+A : nổi tiếng	1
+A : quen mặt	1
+A : quí hiếm	2
+A : riêng	1
+A : sau	2
+A : sống	1
+A : thơm	1
+A : thỉnh thoảng	1
+A : trước	2
+A : trực tiếp	1
+A : tươi sống	1
+A : tương tự	2
+A : vồn vã	1
+A : yên tâm	1
+A : âm thầm	1
+A : ít	1
+A : đen	4
+A : đầy	1
+A : đầy đủ	1
+A : đừ	1
+A : ướp lạnh	1
+C : Nhưng	1
+C : Nếu	1
+C : Tuy nhiên	3
+C : Và	1
+C : còn	2
+C : dù	1
+C : hay	1
+C : hoặc	1
+C : là	1
+C : lẫn	1
+C : mà	4
+C : như	4
+C : nhưng	9
+C : nên	1
+C : rằng	1
+C : rồi	2
+C : thì	5
+C : và	4
+E : Theo	1
+E : Trong	1
+E : Trước	1
+E : Tại	1
+E : Từ	1
+E : bằng	1
+E : cho	7
+E : của	14
+E : qua	1
+E : sang	1
+E : sau	2
+E : theo	2
+E : trong	6
+E : trên	1
+E : tại	6
+E : tận	2
+E : từ	10
+E : vào	3
+E : vì	1
+E : về	4
+E : với	3
+E : đến	6
+E : Ở	2
+E : ở	12
+L : Các	4
+L : Những	1
+L : các	23
+L : mỗi	1
+L : một số	1
+L : những	2
+LBKT : LBKT	8
+M : 091386315…	1
+M : 1	2
+M : 1,8	1
+M : 10	3
+M : 100.000	1
+M : 11	1
+M : 14	1
+M : 160.000	1
+M : 2	1
+M : 20	1
+M : 28	1
+M : 29	1
+M : 3	1
+M : 3,7 triệu	1
+M : 30	1
+M : 4	1
+M : 5.000	1
+M : 50	1
+M : 50.000	2
+M : 500.000	1
+M : 55.000	1
+M : ba	1
+M : bảy	1
+M : chục	1
+M : hai	2
+M : một	9
+N : Bà	2
+N : Chi cục	2
+N : Chiều	1
+N : Chân dung	1
+N : Chính phủ	1
+N : Chính quyền	1
+N : Chủ	2
+N : Hiện	1
+N : Hàng	1
+N : Khi	1
+N : Kiểm lâm	1
+N : Kỳ	1
+N : Lát	1
+N : Mùi	1
+N : Nguồn	1
+N : Phóng sự	1
+N : Quán	1
+N : Số	1
+N : Thú	3
+N : Trùm	1
+N : Trưa	1
+N : Tỉnh	1
+N : Tối	1
+N : Vợ	1
+N : anh	6
+N : bà	3
+N : bình	1
+N : bút	1
+N : bảng	1
+N : bếp	1
+N : bọc	1
+N : bộ	1
+N : cheo	4
+N : chiến dịch	1
+N : chính quyền	1
+N : chỉ dẫn	1
+N : chỉ thị	1
+N : chồn	2
+N : chồn hương	1
+N : chợ	1
+N : chủ	1
+N : cá	1
+N : công an	3
+N : cúi	1
+N : cửa hàng	1
+N : danh sách	1
+N : em	1
+N : giá	1
+N : giấy	1
+N : giọng	1
+N : giới	1
+N : gấu	4
+N : heo	2
+N : hàng	10
+N : hàng quán	1
+N : hành chính	1
+N : hình sự	1
+N : hôm	1
+N : hẻm	1
+N : hồi	1
+N : khu vực	1
+N : kiểu	1
+N : kỳ đà	1
+N : loại	4
+N : lần	1
+N : lời	1
+N : lửa	1
+N : miền	1
+N : món	1
+N : mùi	1
+N : mật	1
+N : nai	1
+N : nghề	1
+N : nguồn	4
+N : ngày	2
+N : người	3
+N : người nhà	1
+N : nhà	12
+N : nhà hàng	6
+N : nhân viên	2
+N : nhím	2
+N : năm	1
+N : nơi	2
+N : pháp chế	1
+N : phường	3
+N : quán	7
+N : quốc lộ	1
+N : rừng	25
+N : số	4
+N : số lượng	2
+N : sớm	1
+N : tay	2
+N : thành phố	2
+N : thâm niên	1
+N : thú	7
+N : thị trấn	1
+N : thị xã	4
+N : thịt	4
+N : thỏ	1
+N : thực đơn	2
+N : tiền	1
+N : trung tâm	1
+N : trùm	4
+N : trước	2
+N : trưởng phòng	1
+N : tên	1
+N : tên tuổi	1
+N : tình cảnh	2
+N : tạp hóa	1
+N : tỉnh	2
+N : tỉnh thành	1
+N : tối	1
+N : tủ lạnh	1
+N : việc	1
+N : vườn quốc gia	1
+N : vệ tinh	1
+N : vợ	1
+N : vợ chồng	1
+N : vụ	2
+N : vựa	1
+N : xe hơi	1
+N : xương	1
+N : Ông	4
+N : ông	2
+N : điểm	2
+N : điện thoại	2
+N : điện thoại di động	1
+N : đường	4
+N : đầu mối	2
+N : đầu nậu	14
+N : đặc sản	6
+N : địa bàn	1
+N : địa phương	3
+N : đối tượng	1
+N : động vật	9
+NP : *E*	21
+NP : *T*	3
+Nb : gas	1
+Nc : Bà	1
+Nc : bà	2
+Nc : con	4
+Nc : cô	2
+Nc : căn	1
+Nc : loại	2
+Nc : ngành	1
+Nc : sự	1
+Nc : Ông	1
+Nc : ông	8
+Np : Ba	6
+Np : Biên Hòa	1
+Np : Bình	4
+Np : Bình Chánh	1
+Np : Bình Dương	5
+Np : Bình Phước	10
+Np : Campuchia	3
+Np : Cát Tiên	1
+Np : HCM	1
+Np : Hoa	6
+Np : Kiều Oanh	1
+Np : Lâm Đồng	2
+Np : Nguyễn Huệ	1
+Np : Nguyễn Đình Chiểu	1
+Np : Như Ý	1
+Np : Phú Giáo	1
+Np : TP	1
+Np : Trúc	2
+Np : Tám Nhiều	4
+Np : Tám Xáng	5
+Np : Tân Bình	1
+Np : Tân Xuân	2
+Np : Tây	1
+Np : Vũ Đình Trúc	1
+Np : Đồng Nai	3
+Np : Đồng Xoài	6
+Nu : cc	1
+Nu : kg	3
+Nu : ký	1
+Nu : m	1
+Nu : đ	7
+Nu : đồng	1
+Ny : HCM	2
+Ny : TP	2
+P : Ai	1
+P : Chúng tôi	6
+P : Tôi	3
+P : bao giờ	1
+P : bây giờ	1
+P : chúng tôi	16
+P : cả	2
+P : họ	1
+P : nay	2
+P : nào	3
+P : ta	1
+P : tui	2
+P : tôi	2
+P : ông ta	1
+P : đâu	1
+P : đây	3
+P : đó	2
+R : Mới	1
+R : Thường	1
+R : bội phần	1
+R : chưa	4
+R : chỉ	3
+R : còn	1
+R : cũng	6
+R : cả	1
+R : cứ	1
+R : hết	1
+R : khá	2
+R : không	10
+R : không thể	2
+R : liền	1
+R : lên	1
+R : lại	5
+R : mới	3
+R : ra	4
+R : rất	2
+R : thêm	1
+R : vẫn	3
+R : về	3
+R : vốn	1
+R : vừa	2
+R : xuống	1
+R : Đang	1
+R : đang	5
+R : đã	5
+R : được	4
+R : đều	1
+R : đồng thời	1
+RBKR : RBKT	1
+RBKT : RBKT	7
+T : Riêng	1
+T : Thế	1
+T : lắm	2
+T : mỗi	1
+T : ngay	2
+T : rồi	1
+T : vậy	1
+T : đây	1
+V : *T*	1
+V : Có	3
+V : Cần	1
+V : Hỏi	2
+V : Kiểm tra	1
+V : Rời	1
+V : ban hành	1
+V : biết	3
+V : buôn bán	3
+V : buộc	1
+V : bán	5
+V : báo	1
+V : bước	1
+V : bảo	2
+V : bảo đảm	1
+V : bẫy	1
+V : bật mí	1
+V : bắt	1
+V : bị	1
+V : bỏ	2
+V : bỏ mối	1
+V : bố trí	1
+V : bốc	1
+V : cam kết	1
+V : cho	6
+V : chuẩn bị	1
+V : chảy	1
+V : chảy máu	1
+V : chặn	1
+V : chỉ	1
+V : chỉ đạo	1
+V : chốt	1
+V : chở	2
+V : cung cấp	4
+V : cách	1
+V : còn	2
+V : có	16
+V : cảnh giác	1
+V : cần	1
+V : dám	1
+V : ghi	2
+V : ghé	3
+V : giao	1
+V : giải thích	1
+V : giới thiệu	5
+V : gặp	2
+V : gọi	2
+V : gồm	1
+V : hạ	1
+V : hết	1
+V : hỏi	4
+V : khai trương	1
+V : kinh doanh	1
+V : kiểm lâm	2
+V : kiểm soát	1
+V : kiểm tra	1
+V : lo	1
+V : loay hoay	1
+V : lui cui	1
+V : ly dị	1
+V : là	4
+V : làm bộ	1
+V : làm ăn	1
+V : lâm	1
+V : lên	2
+V : lóc	1
+V : lôi	1
+V : lấy	4
+V : mang	2
+V : mua	8
+V : mua bán	2
+V : muốn	3
+V : nghe	2
+V : nghi hoặc	1
+V : ngăn chặn	1
+V : ngạc nhiên	1
+V : nhìn	1
+V : nhậu	2
+V : nhốt	1
+V : nhớ	1
+V : nói	3
+V : nắm	1
+V : nằm	2
+V : phát hiện	1
+V : phải	3
+V : phối hợp	2
+V : qua	1
+V : quay	1
+V : quản lý	1
+V : ra	2
+V : săn bắn	1
+V : sắm	1
+V : sống	1
+V : than thở	1
+V : thu gom	2
+V : thu mua	1
+V : thui	1
+V : thêm	1
+V : thấy	2
+V : tiếp thị	1
+V : trông	1
+V : trở thành	1
+V : tìm	4
+V : tìm hiểu	1
+V : tươi cười	1
+V : tỏa	1
+V : tổ chức	1
+V : viết	2
+V : vào	2
+V : vận chuyển	2
+V : về	6
+V : xẻ	1
+V : xử lý	3
+V : ăn	1
+V : đem	1
+V : đi	1
+V : điều tra	1
+V : điện thoại	1
+V : đưa	1
+V : được	1
+V : đặt hàng	1
+V : đến	1
+V : để	1
+V : đứng	1
+V : ướp lạnh	1
+V : ở	1
+X : giẫm chân tại chỗ	1
+X : như vậy	1

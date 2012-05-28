@@ -1,0 +1,533 @@
+! : !	2
+" : "	18
+, : ,	58
+- : -	7
+. : .	59
+... : ...	8
+: : :	4
+A : Cuối cùng	1
+A : Dọc	1
+A : Hòa nhã	1
+A : Lâu	2
+A : Thông thường	1
+A : bình tĩnh	1
+A : bí	1
+A : bạt mạng	1
+A : bất ngờ	1
+A : bất tỉnh	1
+A : chặt	1
+A : cóc	1
+A : cùng	1
+A : dài ngoằng	1
+A : dễ	1
+A : dễ chịu	1
+A : dịu dàng	1
+A : già	3
+A : gấp	1
+A : gập ghềnh	1
+A : hừ hừ	1
+A : khác	1
+A : khó	4
+A : khó chịu	1
+A : kịp	2
+A : kịp thời	3
+A : liên hồi	1
+A : luống cuống	1
+A : lâu	1
+A : lớn tuổi	1
+A : mệt	1
+A : ngang	1
+A : nguy kịch	2
+A : ngược	1
+A : nhanh chóng	2
+A : nhanh trí	1
+A : nhiều	1
+A : nóng lòng	1
+A : nồng	1
+A : nồng nặc	1
+A : quen	2
+A : quên	1
+A : rõ	1
+A : sẵn	1
+A : tanh	1
+A : thật sự	2
+A : thẳng	1
+A : toáng	1
+A : trễ	1
+A : tôt	1
+A : vang	1
+A : vô cớ	1
+A : ít	1
+A : đau	1
+A : đầy	1
+A : đột ngột	1
+A : ổn	1
+C : Hoặc	1
+C : Ngoài ra	1
+C : Nhưng	1
+C : Số là	1
+C : Thế là	1
+C : Và	1
+C : còn	1
+C : cùng	1
+C : hoặc	1
+C : là	2
+C : mà	1
+C : mặc dù	1
+C : như	5
+C : nhưng	4
+C : nên	3
+C : rằng	2
+C : rồi	5
+C : thì	1
+C : tuy	1
+C : và	6
+C : với	2
+E : Sau	2
+E : Trên	2
+E : cho	4
+E : của	11
+E : dưới	1
+E : lên	2
+E : qua	2
+E : ra	1
+E : sang	1
+E : sau	1
+E : theo	1
+E : trong	1
+E : trên	3
+E : trước	2
+E : tại	1
+E : từ	2
+E : vào	3
+E : vì	4
+E : về	2
+E : với	5
+E : xuống	1
+E : đến	3
+E : để	2
+E : ở	3
+I : Ồ	1
+L : Các	1
+L : Những	1
+L : bao nhiêu	1
+L : các	2
+L : mỗi	3
+L : những	16
+LBKT : LBKT	4
+M : 1	1
+M : 10	4
+M : 11	2
+M : 115	4
+M : 12	1
+M : 14	1
+M : 17	1
+M : 2003	4
+M : 22	1
+M : 5	1
+M : 56	1
+M : 8	2
+M : Một	3
+M : ba	1
+M : bốn	1
+M : hai	2
+M : mươi	1
+M : một	14
+M : ngàn	1
+M : năm	1
+M : sáu	1
+N : Anh	1
+N : Buổi	2
+N : Bệnh viện	2
+N : Chuyện	1
+N : Còi	1
+N : Cụ	1
+N : Lái xe	1
+N : Mùi	1
+N : Người bệnh	1
+N : Nhiệm vụ	1
+N : Sau	1
+N : Sáng	1
+N : Tiếng	1
+N : Xe	2
+N : Y tá	1
+N : anh chị	1
+N : anh chị em	2
+N : bao	1
+N : ben	1
+N : bà	1
+N : bà cụ	3
+N : bài	1
+N : bàn	2
+N : bác sĩ	1
+N : bánh	1
+N : băng ca	4
+N : bạn	1
+N : bản thân	1
+N : bệnh	2
+N : bệnh nhân	5
+N : bệnh trạng	1
+N : bệnh viện	4
+N : bộ đàm	1
+N : bụng	2
+N : ca	5
+N : chiều	1
+N : chuông	1
+N : chầu	1
+N : chị	3
+N : chồng	1
+N : chừng	1
+N : cuống	1
+N : cà phê	1
+N : còi	1
+N : cú	1
+N : cấp cứu viên	1
+N : cổng	1
+N : cụ	2
+N : dân phòng	1
+N : gia đình	1
+N : giao thông	1
+N : giờ	1
+N : gã	1
+N : hiện trường	1
+N : huyết áp	2
+N : hàng xóm	1
+N : hôm kia	1
+N : hẻm	1
+N : hồi	1
+N : hộ	1
+N : khi	8
+N : khoa	4
+N : không	1
+N : kẻ	1
+N : lái xe	6
+N : lúc	1
+N : lưới	1
+N : lần	2
+N : lửa	1
+N : máu	1
+N : mùi	1
+N : mũi	1
+N : mưa	1
+N : mạng	1
+N : mắt	3
+N : ngoại viện	1
+N : ngày	1
+N : ngã	1
+N : người	4
+N : người nhà	3
+N : người thân	1
+N : ngả	1
+N : nhà	4
+N : nơi	2
+N : nước	1
+N : nước ối	1
+N : nạn nhân	3
+N : nội tình	1
+N : phòng	1
+N : phương châm	1
+N : phố	1
+N : phụ nữ	1
+N : quán	1
+N : quận	4
+N : rượu	1
+N : sàn	1
+N : sáng	2
+N : sản phụ	1
+N : sắt	1
+N : số	4
+N : tai nạn	1
+N : tay chân	1
+N : thanh niên	1
+N : thuốc	3
+N : thác	1
+N : thái độ	1
+N : tháng	1
+N : thép	2
+N : thư	2
+N : thủ tục	1
+N : tinh thần	2
+N : tiếng	1
+N : tiểu	1
+N : trưa	1
+N : trước	1
+N : trường hợp	1
+N : trưởng	1
+N : trống chầu	1
+N : tuổi	1
+N : tên	1
+N : tình cảnh	1
+N : tình huống	2
+N : tốc độ	1
+N : việc	1
+N : vòng	3
+N : vùng sâu	1
+N : vợ	1
+N : xe	17
+N : xã	1
+N : xích lô	1
+N : y cụ	2
+N : ánh	1
+N : êkip	1
+N : ông	3
+N : điều dưỡng viên	1
+N : điện	1
+N : điện báo	1
+N : điện thoại	4
+N : điệp khúc	1
+N : đoạn	1
+N : đàm	1
+N : đèn	1
+N : đường	10
+N : đường đất	1
+N : đầu	1
+N : địa bàn	1
+N : địa chỉ	1
+N : đồ	1
+N : đời	1
+N : ống nghe	1
+NC : bức	1
+NP : *E*	8
+NP : *T*	3
+Nb : nilông	1
+Nb : vali	1
+Nb : êkip	2
+Nc : Anh	2
+Nc : Chiếc	2
+Nc : anh	1
+Nc : bác	1
+Nc : ca	1
+Nc : chiếc	3
+Nc : chị	1
+Nc : con	1
+Nc : cái	2
+Nc : cơn	4
+Nc : ngôi	1
+Nc : người	1
+Nc : ngọn	1
+Np : Chợ Rẫy	1
+Np : Củ Chi	1
+Np : Huê	1
+Np : Huệ	3
+Np : Hà	2
+Np : Hà Thanh Hà	1
+Np : Kha Vạn Cân	1
+Np : Kim Chi	2
+Np : Liêu Văn Trường	1
+Np : Mai Thanh Hoàng	1
+Np : Nghĩa	1
+Np : Nguyễn Thị Kim Chi	1
+Np : Nguyễn Thị Tuyết Mai	2
+Np : Nguyễn Văn Huệ	1
+Np : Nguyễn Văn Nghĩa	1
+Np : Phan Thế Minh Hùng	1
+Np : Spacy	1
+Np : Thủ Đức	1
+Np : Trưng Vương	1
+Np : Trường	2
+Np : Tuyết Mai	1
+Np : Tô Hiến Thành	1
+Np : Âu Dương Lân	1
+Nu : giờ	1
+Nu : phút	1
+Ny : BS	8
+Ny : CCNV	2
+Ny : CCV	7
+Ny : DV	1
+Ny : TP.HCM	1
+Ny : y BS	1
+Ny : ĐDV	10
+P : Chú mày	1
+P : Cả	1
+P : Họ	1
+P : Tôi	1
+P : ai	2
+P : chúng tôi	4
+P : cả	2
+P : gì	1
+P : họ	3
+P : mình	2
+P : nay	1
+P : này	1
+P : tôi	7
+P : Đó	2
+P : ấy	3
+R : bỗng	2
+R : chưa	1
+R : chỉ	3
+R : càng	1
+R : có vẻ	1
+R : cũng	5
+R : cứ	1
+R : hay	1
+R : hàng	1
+R : hơn	1
+R : không	13
+R : khỏi	1
+R : liền	1
+R : lên	3
+R : lại	4
+R : mới	1
+R : qua	1
+R : ra	3
+R : rồi	1
+R : sẽ	2
+R : theo	1
+R : thật	1
+R : thỉnh thoảng	1
+R : tức tốc	1
+R : từng	1
+R : vừa	2
+R : Đang	1
+R : đang	2
+R : đáng	1
+R : đã	8
+R : được	4
+R : đều	1
+RBKT : RBKT	4
+T : chính	1
+T : mà	1
+T : nào	1
+T : nữa	1
+T : đâu	1
+V : *E*	2
+V : Có	1
+V : Lăn	1
+V : Lường	1
+V : Ngồi	1
+V : Quay	1
+V : Theo	1
+V : Thấy	2
+V : Trò chuyện	1
+V : an ủi	2
+V : biết	6
+V : biết ơn	1
+V : bình phục	2
+V : bó	1
+V : băng	1
+V : băng băng	1
+V : bắt đầu	1
+V : bị	6
+V : cho	6
+V : choáng	1
+V : chuyển	2
+V : chuẩn bị	2
+V : chích	2
+V : chóng mặt	1
+V : chẩn đoán	2
+V : chịu	1
+V : chịu đựng	1
+V : chờ	1
+V : chở	4
+V : chừa	1
+V : chửi	1
+V : chực	1
+V : cáu gắt	1
+V : có	7
+V : căng	2
+V : cảm ơn	3
+V : cấp cứu	28
+V : cầm	1
+V : cứu thương	1
+V : dừng	2
+V : giả danh	1
+V : giảm	1
+V : gọi	5
+V : gồm	3
+V : hiểu	2
+V : ho	1
+V : hoàn thành	1
+V : hoạt động	1
+V : hành hạ	1
+V : hét	1
+V : hú	1
+V : hồi sức	2
+V : hụ	1
+V : khám	1
+V : kiềm chế	1
+V : kể	2
+V : lao	1
+V : len lỏi	1
+V : là	8
+V : làm việc	1
+V : lên	1
+V : lên đường	1
+V : lăn	1
+V : lưu động	2
+V : lấy	2
+V : mang	1
+V : muốn	1
+V : mặc	1
+V : mửa	1
+V : nghe	2
+V : ngất	1
+V : ngồi	3
+V : nhơi nhơi	1
+V : nhận	1
+V : nhập viện	1
+V : nhậu	1
+V : nhờ	2
+V : nói	1
+V : nói chuyện	1
+V : nổi nóng	1
+V : phân tích	1
+V : phóng	2
+V : phải	2
+V : phục vụ	1
+V : qua	2
+V : qua lại	1
+V : quen	1
+V : quất	1
+V : reo	1
+V : rên	1
+V : say	2
+V : sinh	1
+V : sơ cứu	2
+V : tan tầm	1
+V : thông	1
+V : thắng	1
+V : thề	1
+V : thở	1
+V : tin cậy	1
+V : tiêm	1
+V : tiểu	1
+V : tràn	2
+V : trúng thực	1
+V : trở	2
+V : trở thành	2
+V : trực	2
+V : trực ban	1
+V : tâm sự	1
+V : tìm	1
+V : tăng	1
+V : tới	2
+V : viết	1
+V : văng tục	1
+V : về	3
+V : xin	1
+V : xong	2
+V : xách	1
+V : xóc	1
+V : xót	1
+V : xông	1
+V : xử lý	1
+V : ói	3
+V : ý thức	1
+V : Được	1
+V : đan	1
+V : đau	2
+V : đem	1
+V : đi	3
+V : đo	1
+V : đòi	1
+V : đón	1
+V : đưa	2
+V : được	2
+V : đảm nhiệm	1
+V : đẩy	1
+V : đến	1
+V : đốt	1
+V : động viên	1
+X : Mới đây	1
+X : như thế	2
+X : vừa qua	1

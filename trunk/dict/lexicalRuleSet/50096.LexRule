@@ -1,0 +1,523 @@
+! : !	1
+" : "	12
+, : ,	54
+. : .	54
+... : ...	1
+: : :	1
+; : ;	1
+A : Nhiều	1
+A : bi thảm	2
+A : bền bỉ	1
+A : cùng	2
+A : dai dẳng	1
+A : gần	3
+A : hoàn toàn	1
+A : khoảng	2
+A : khác	2
+A : khó khăn	1
+A : khổ	1
+A : khủng khiếp	2
+A : lớn	2
+A : mạnh	1
+A : ngắn ngủi	1
+A : nhiều	2
+A : nhân đạo	1
+A : nhỏ	1
+A : nhỏ bé	1
+A : oan ức	1
+A : quái ác	1
+A : quí báu	1
+A : quý	1
+A : rõ	1
+A : sai lầm	1
+A : sớm	1
+A : thường xuyên	1
+A : thấp	1
+A : to lớn	1
+A : toàn diện	1
+A : trên	1
+A : tàn tật	2
+A : từ từ	1
+A : vô cảm	1
+A : vô nhân đạo	1
+A : vắng	1
+A : yếu	1
+A : ác	1
+A : ác liệt	1
+A : Đồng	1
+A : đau khổ	3
+A : đầu tiên	1
+A : đầy	1
+A : độc	1
+A : đủ	1
+C : Còn	2
+C : Ngoài ra	1
+C : Nhưng	1
+C : Tuy nhiên	3
+C : còn	1
+C : dù	1
+C : là	1
+C : mà	10
+C : như	3
+C : như là	1
+C : nhưng	5
+C : nên	1
+C : nếu	1
+C : rằng	2
+C : rồi	1
+C : thì	2
+C : và	18
+E : Sau	1
+E : Theo	1
+E : Trong	1
+E : Tại	2
+E : Từ	2
+E : bên	1
+E : cho	2
+E : cho đến	1
+E : của	24
+E : do	2
+E : dù	1
+E : dưới	1
+E : sau	3
+E : theo	2
+E : trong	8
+E : trước	1
+E : tại	3
+E : tới	1
+E : tức	1
+E : từ	7
+E : vào	2
+E : vì	4
+E : về	2
+E : với	10
+E : xuống	4
+E : Đối với	1
+E : đến	2
+E : để	4
+E : đối với	1
+E : Ở	1
+E : ở	5
+I : Vâng	1
+L : Những	1
+L : các	11
+L : một số	1
+L : những	5
+L : phân nửa	2
+LBKT : LBKT	3
+M : 1 . 000	1
+M : 100	2
+M : 120	2
+M : 15	3
+M : 16	1
+M : 1961	1
+M : 1983	1
+M : 1989 - 1993	1
+M : 1995 - 1997	1
+M : 1997 - 2001	1
+M : 2	2
+M : 2002	1
+M : 30	1
+M : 37	1
+M : 40	1
+M : 400	1
+M : 500	2
+M : 559	1
+M : 6 - 1945	1
+M : 80	1
+M : Hai	1
+M : Mỗi	1
+M : Một	1
+M : ba	1
+M : hai	5
+M : mỗi	2
+M : một	16
+M : sáu	1
+M : triệu	1
+N : Chất	2
+N : Chất độc	1
+N : Con số	1
+N : Công lý	1
+N : Hành động	1
+N : Hãng	1
+N : Hội	2
+N : Hội đồng	1
+N : Kết quả	1
+N : Lần	1
+N : Người ta	1
+N : Nạn nhân	2
+N : Sách	1
+N : Tai	1
+N : Thế chiến	2
+N : Tiếng	1
+N : Trường	1
+N : anh em	1
+N : ao	1
+N : biên giới	1
+N : bom nguyên tử	5
+N : bài	1
+N : báo	1
+N : bão	1
+N : bạn bè	1
+N : bản thân	1
+N : chi phí	1
+N : chiến tranh	7
+N : chuyện	3
+N : cháu	1
+N : chân	1
+N : chính nghĩa	1
+N : chính phủ	2
+N : chính quyền	1
+N : chất	4
+N : chất độc	8
+N : chị em	1
+N : chủ tịch	1
+N : chữ ký	1
+N : con	2
+N : con người	2
+N : con số	2
+N : cuối	1
+N : cuộc	4
+N : cuộc sống	1
+N : cách	1
+N : câu	1
+N : câu chuyện	1
+N : công lý	3
+N : công ty	1
+N : cỏ	1
+N : da cam	8
+N : dư luận	1
+N : gia đình	1
+N : giai đoạn	1
+N : giáo sư	2
+N : gió	3
+N : gì	1
+N : hòa bình	1
+N : hóa học	8
+N : hậu quả	2
+N : hội	1
+N : khi	4
+N : khoa học	1
+N : khả năng	1
+N : kinh nghiệm	1
+N : kiểu	2
+N : kẻ	1
+N : kế hoạch	1
+N : lính	3
+N : lúc	3
+N : lương tâm	2
+N : lịch sử	1
+N : lời	5
+N : mật	1
+N : mục đích	1
+N : mức	2
+N : nghĩa vụ	1
+N : ngày	1
+N : ngày nay	1
+N : người	5
+N : nhau	3
+N : nhà	2
+N : nhà báo	1
+N : nhân viên	1
+N : năm	9
+N : nơi	1
+N : nước	3
+N : nước mắt	1
+N : nạn nhân	12
+N : ong	1
+N : phân xã	4
+N : phép	1
+N : phóng viên	1
+N : phần	1
+N : phụ nữ	1
+N : phụ tá	1
+N : quanh	1
+N : quyết định	1
+N : quân sự	1
+N : quân đội	4
+N : quốc gia	1
+N : sách	1
+N : số	2
+N : số lượng	1
+N : sứ mệnh	1
+N : sự kiện	1
+N : tay	1
+N : thuốc	2
+N : thành ngữ	1
+N : thành phố	2
+N : tháng	1
+N : thư	1
+N : thư điện tử	1
+N : thắng lợi	1
+N : thế giới	2
+N : thời	1
+N : thời gian	3
+N : thứ	2
+N : thực tế	1
+N : tiếng nói	2
+N : tiền	1
+N : trong	1
+N : truyền hình	2
+N : trách nhiệm	4
+N : trên	1
+N : trước	1
+N : trẻ em	1
+N : tuổi	2
+N : tác dụng	1
+N : tâm trạng	1
+N : tính	1
+N : tư tưởng	1
+N : tập thể	1
+N : tế bào	2
+N : tổng thống	5
+N : tội	1
+N : tội phạm	2
+N : tội ác	1
+N : vũ khí	2
+N : vấn đề	1
+N : vị trí	1
+N : vụ kiện	1
+N : xã hội	1
+N : ông	4
+N : ý kiến	1
+N : điều	1
+N : đài truyền hình	1
+N : đơn vị	1
+N : đại học	1
+N : đầu	1
+N : địa điểm	1
+N : đồng lõa	2
+N : đồng ruộng	2
+N : động kinh	1
+NP : *E*	1
+Nb : dioxin	5
+Nb : plutoni	1
+Nb : urani	1
+Nc : con	1
+Nc : cơn	1
+Nc : kẻ	1
+Nc : loại	2
+Nc : mẩu	3
+Nc : người	4
+Nc : quyển	1
+Nc : sự	2
+Nc : thứ	1
+Nc : ông	4
+Np : A Lưới	1
+Np : Asahi	1
+Np : Bangkok	2
+Np : Bình Dương	1
+Np : Bến Tre	1
+Np : Fokin	2
+Np : Hiroshima	3
+Np : Hà Nội	2
+Np : Hà Tây	1
+Np : Hàn Quốc	1
+Np : Kennedy	1
+Np : Kissinger	1
+Np : Kitamura	2
+Np : Liên Xô	1
+Np : Mỹ	11
+Np : Nagasaki	3
+Np : Nga	1
+Np : Nguyễn Trọng Nhân	1
+Np : Nhật	10
+Np : Ninh Bình	1
+Np : Nixon	1
+Np : Phú Thọ	1
+Np : Phật giáo	1
+Np : Quảng Trị	1
+Np : Roosevelt	1
+Np : Sydney	2
+Np : Thanh Hóa	1
+Np : Truman	2
+Np : Tuổi Trẻ	4
+Np : Tây Sydney	1
+Np : Viện Hàn lâm	1
+Np : Úc	4
+Nu : kg	2
+Nu : lít	1
+Nu : phút	1
+Ny : VN	8
+Ny : ĐH	1
+P : Chúng ta	1
+P : Chúng tôi	1
+P : Cả	1
+P : Họ	2
+P : Tôi	2
+P : bấy giờ	2
+P : chúng tôi	2
+P : cả	4
+P : họ	4
+P : mình	3
+P : nay	2
+P : này	5
+P : nó	2
+P : tôi	12
+P : Đó	1
+P : đây	1
+P : đó	10
+R : chưa	4
+R : chỉ	4
+R : còn	3
+R : có thể	5
+R : cũng	7
+R : dần	1
+R : dần dần	1
+R : gần	1
+R : hoàn toàn	1
+R : hãy	2
+R : không	6
+R : không thể	1
+R : lên	2
+R : lại	4
+R : nhất	1
+R : qua	2
+R : quá	2
+R : ra	2
+R : sắp	1
+R : sẽ	5
+R : thật là	1
+R : tới	1
+R : từng	3
+R : vào	1
+R : vô cùng	1
+R : vẫn	2
+R : về	1
+R : đang	1
+R : đi	2
+R : đã	18
+R : được	4
+R : đến	2
+R : đều	1
+RBKT : RBKT	3
+S : phó	1
+S : trưởng	4
+T : Chính	2
+T : Thế	2
+T : chính	1
+T : cả	2
+T : ngay	1
+T : thôi	1
+T : thế	1
+T : đi	1
+V : Góp	1
+V : Gặp	1
+V : Gửi	1
+V : Im lặng	2
+V : Là	1
+V : Nói	1
+V : bao gồm	1
+V : biết	1
+V : bày tỏ	1
+V : bị	5
+V : bồi thường	1
+V : bộc lộ	1
+V : cho	2
+V : chuẩn bị	1
+V : chết	2
+V : chết yểu	1
+V : chết đuối	1
+V : chọn	1
+V : có	7
+V : cảm nhận	1
+V : cảm động	1
+V : cất	1
+V : cần	1
+V : cứu giúp	1
+V : diệt	1
+V : dám	1
+V : dẫn	1
+V : giúp đỡ	2
+V : giảm	2
+V : gây	2
+V : góp	3
+V : góp ý	1
+V : gặp	2
+V : gửi	2
+V : hiểu	1
+V : hoạt động	1
+V : hành động	1
+V : hút	1
+V : hưu	1
+V : hưởng ứng	1
+V : khích lệ	1
+V : kéo dài	1
+V : kêu gọi	2
+V : kế tiếp	1
+V : kết thúc	1
+V : kể	3
+V : là	17
+V : làm	4
+V : lên	2
+V : muốn	2
+V : mất	1
+V : nghe	5
+V : nghi ngờ	1
+V : nghiên cứu	4
+V : nghĩ	1
+V : ngã	1
+V : nhiễm	2
+V : nhiễm độc	1
+V : nhận	1
+V : nhằm	1
+V : nói	4
+V : nói chuyện	1
+V : phai nhạt	1
+V : phá hoại	2
+V : phát biểu	2
+V : phát hành	1
+V : phát động	1
+V : phải	1
+V : phẫu thuật	1
+V : phỏng vấn	1
+V : qua	1
+V : quan tâm	1
+V : quặp	1
+V : ra	1
+V : ra lệnh	1
+V : ra đời	1
+V : rải	1
+V : so	1
+V : sản xuất	1
+V : sống	3
+V : sống sót	2
+V : sử dụng	4
+V : tham gia	1
+V : thuộc	1
+V : thành	1
+V : thăm	2
+V : thường trú	1
+V : thả	2
+V : thức tỉnh	1
+V : thừa nhận	1
+V : thực hiện	1
+V : tin tưởng	1
+V : tiếp tục	1
+V : tiết lộ	1
+V : trao đổi	1
+V : trích	1
+V : trùng hợp	1
+V : trừ	1
+V : tái sinh	1
+V : tập trung	1
+V : tự tử	1
+V : viết	2
+V : viện trợ	1
+V : vượt	2
+V : về	2
+V : xin lỗi	1
+V : yêu chuộng	1
+V : đi	1
+V : đóng góp	1
+V : đăng	1
+V : đưa	1
+V : được	1
+V : đấu tranh	2
+V : đầu hàng	1
+V : đặt chân	1
+V : đến	3
+V : động viên	1
+V : đứng	1
+V : ủng hộ	1
+X : tức là	1

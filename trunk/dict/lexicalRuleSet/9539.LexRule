@@ -1,0 +1,311 @@
+" : "	5
+, : ,	37
+- : -	2
+. : .	14
+... : ...	7
+: : :	1
+A : bạc	1
+A : bập bềnh	1
+A : cao	1
+A : cao ráo	1
+A : chắc	1
+A : chắc chắn	1
+A : cần cù	1
+A : cứng	1
+A : giàu	1
+A : gần	2
+A : im	1
+A : kín	1
+A : lố nhố	1
+A : may	1
+A : miệt mài	1
+A : mênh mông	1
+A : nghèo	1
+A : nghèo khổ	1
+A : ngăm ngăm	1
+A : nhanh	1
+A : nhiều	3
+A : nhỏ nhắn	1
+A : rõ	1
+A : rộng	2
+A : thấp	1
+A : thầm	1
+A : trên	4
+A : trắng	1
+A : xa xôi	1
+A : xót xa	1
+C : hay	1
+C : là	2
+C : mà	4
+C : nhưng	4
+C : nếu	1
+C : rồi	1
+C : và	5
+E : Tại	1
+E : bên	1
+E : bằng	1
+E : bởi	1
+E : cho	3
+E : của	8
+E : dưới	1
+E : giữa	1
+E : lên	1
+E : theo	1
+E : trong	1
+E : trên	1
+E : từ	2
+E : ven	1
+E : vào	1
+E : về	1
+E : với	2
+E : xuống	1
+E : đến	2
+E : để	5
+E : ở	1
+L : Tất cả	1
+L : chục	2
+L : mấy	3
+L : những	1
+LBKT : LBKT	3
+M : 1	2
+M : 1.634	1
+M : 2,5	1
+M : 2.000	1
+M : 3 tỉ	1
+M : 600.000	1
+M : 7.000	1
+M : 70	1
+M : một	2
+N : Chú	3
+N : Cách	1
+N : Cái	1
+N : Khi	1
+N : Lúc	1
+N : Mai	1
+N : Mùa	1
+N : Người	1
+N : Người ta	1
+N : bà con	1
+N : bàn tay	1
+N : bạc	1
+N : chuyện	1
+N : chú	1
+N : chỗ	4
+N : chủ tịch	1
+N : con cháu	1
+N : cuối	1
+N : cuộc đời	1
+N : cá	1
+N : cá tra	2
+N : cách	1
+N : cái	1
+N : cánh tay	1
+N : công	1
+N : công nhân	1
+N : công sức	1
+N : cơ nghiệp	3
+N : cơ sở	1
+N : cảnh	1
+N : của	1
+N : da	1
+N : doanh nghiệp	1
+N : dân nghèo	1
+N : dịp	1
+N : gia đình	2
+N : giàn	1
+N : giọng	1
+N : giờ đây	1
+N : gò	1
+N : gỗ	1
+N : hiện	1
+N : huyện	1
+N : huyệt	1
+N : hôm nay	1
+N : hướng	1
+N : hầm	2
+N : hội đồng quản trị	1
+N : khi	1
+N : khoảng	1
+N : kênh xáng	1
+N : làng	1
+N : lũ	2
+N : mùa	3
+N : mặt	1
+N : nghĩa địa	3
+N : nguồn gốc	1
+N : ngày tháng	1
+N : người	5
+N : người ta	3
+N : người thân	2
+N : nhà	3
+N : nhà kho	1
+N : nhị tì	1
+N : nét	1
+N : nông dân	1
+N : năm	1
+N : nơi	1
+N : nước	9
+N : nước mắm	4
+N : quan tài	3
+N : tiểu học	1
+N : trước kia	1
+N : trường	1
+N : tuổi	1
+N : tài sản	1
+N : tên	1
+N : tóc	1
+N : tư nhân	1
+N : từ	1
+N : ván	1
+N : vóc	1
+N : vùng	3
+N : xã	2
+N : xóc chéo	2
+N : xứ	1
+N : Ông	1
+N : ông	7
+N : ông già	1
+N : đất	6
+N : đồng	1
+N : đời	1
+N : ấp	2
+NP : *E*	4
+NP : *T*	1
+Nc : con	2
+Nc : cái	2
+Nc : căn	1
+Nc : dãy	1
+Nc : mùa	1
+Nc : người	1
+Nc : Ông	2
+Nc : ông	3
+Np : An Giang	2
+Np : Ba Phước	6
+Np : Bảy Núi	1
+Np : Châu Phú	2
+Np : Long Châu	2
+Np : Nguyễn Văn Tâm	1
+Np : Phước Hương	2
+Np : Thạnh Mỹ Tây	2
+Np : Trần Văn Minh	1
+Np : Từ Thiện	1
+Np : Vịnh Tre	1
+Nu : m	1
+Nu : m2	2
+Nu : tấn	1
+P : Tôi	1
+P : chúng	1
+P : cả	3
+P : mình	1
+P : này	4
+P : tui	3
+P : tôi	3
+P : đây	1
+P : đó	5
+R : Không	1
+R : biết bao	1
+R : chi	1
+R : chẳng	3
+R : chỉ	3
+R : còn	2
+R : cứ	1
+R : hơi	1
+R : không	4
+R : lên	2
+R : lại	2
+R : mới	5
+R : nên	2
+R : nổi	1
+R : qua	1
+R : ra	2
+R : rồi	1
+R : sẽ	3
+R : theo	1
+R : thường	2
+R : xuống	2
+R : đang	3
+R : đã	6
+R : được	1
+RBKT : RBKT	3
+T : Thế	1
+T : lắm	1
+T : nữa	1
+T : quá	1
+V : Nghe	1
+V : an nghỉ	1
+V : an táng	2
+V : biết	2
+V : bơm	1
+V : bảo	1
+V : bỏ	1
+V : chia	1
+V : cho phép	1
+V : chôn	2
+V : chôn cất	2
+V : chết	3
+V : chỉ	1
+V : chịu	1
+V : chờ	1
+V : còn	2
+V : có	8
+V : cất	1
+V : cắm	1
+V : dâng	1
+V : ghép	1
+V : gặp	1
+V : gọi	3
+V : hiện	1
+V : hình thành	1
+V : khâm phục	1
+V : kinh doanh	1
+V : kể	1
+V : lao động	1
+V : lo	2
+V : là	4
+V : làm	1
+V : làm việc	1
+V : lấp	1
+V : mang	2
+V : mất	1
+V : nghe	1
+V : ngập	1
+V : nhìn	1
+V : nuôi	2
+V : nói	3
+V : nằm	2
+V : nổi	5
+V : phát triển	2
+V : phải	4
+V : qua đời	1
+V : ra công	1
+V : rút	1
+V : sản xuất	3
+V : thương tâm	1
+V : thấy	2
+V : trực tiếp	1
+V : tâm sự	1
+V : tạo lập	2
+V : tốn	1
+V : tốn kém	1
+V : tốt nghiệp	1
+V : tồn tại	2
+V : tổ chức	1
+V : từng trải	1
+V : tự hào	1
+V : vòng	1
+V : về	1
+V : xem	1
+V : xây dựng	1
+V : xóa	1
+V : ém	1
+V : đào	1
+V : đè	1
+V : đúc	1
+V : được	1
+V : đặt	1
+V : để	1
+V : đổ	1
+V : đứng	1
+V : ở	1
+V : ủ	1
+c : là	1

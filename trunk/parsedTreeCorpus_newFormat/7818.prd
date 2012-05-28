@@ -1,0 +1,3574 @@
+<s id = "1">
+S(TTL)
+	NP
+		N(H)
+			 Phóng sự
+		V
+			 điều tra
+		:
+			 :
+		SBAR
+			S
+				NP(SUB)
+					N(H)
+						 Thú
+					N
+						 rừng
+				VP
+					R
+						 vẫn
+					"
+						 "
+					V(H)
+						 chảy máu
+					"
+						 "
+		:
+			 :
+		NP
+			L
+				 Những
+			N(H)
+				 trùm
+			N
+				 đầu nậu
+	.
+		 .
+</s>
+<s id = "2">
+S
+	NP(TMP)
+		N(H)
+			 Trưa
+		M
+			 28
+		-
+			 -
+		M
+			 10
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		V(H)
+			 ghé
+		PP(LOC)
+			E(H)
+				 vào
+			NP
+				N(H)
+					 nhà hàng
+				Np
+					 Kiều Oanh
+				VP
+					V(H)
+						 nằm
+					NP(LOC)
+						T
+							 ngay
+						N(H)
+							 trung tâm
+						NP
+							N(H)
+								 thị xã
+							Np
+								 Đồng Xoài
+							LBKT
+								 LBKT
+							NP
+								Np(H)
+									 Bình Phước
+							RBKT
+								 RBKT
+	.
+		 .
+</s>
+<s id = "3">
+S
+	NP(SUB)
+		N(H)
+			 Chủ
+		N
+			 quán
+	VP
+		VP
+			V(H)
+				 đưa
+			R
+				 ra
+			NP(DOB)
+				M
+					 một
+				N(H)
+					 thực đơn
+				VP
+					V(H)
+						 gồm
+					NP
+						L
+							 các
+						N(H)
+							 món
+						N
+							 cá
+						PP
+							E(H)
+								 của
+							NP
+								N(H)
+									 miền
+								Np
+									 Tây
+		C
+			 nhưng
+		VP
+			R
+				 lại
+			V(H)
+				 giới thiệu
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					S
+						NP(SUB)
+							 *E*
+						VP
+							V(H)
+								 Có
+							NP(DOB)
+								NP
+									N(H)
+										 chồn
+								,
+									 ,
+								NP
+									N(H)
+										 nhím
+								,
+									 ,
+								NP
+									N(H)
+										 heo
+									N
+										 rừng
+								,
+									 ,
+								NP
+									N(H)
+										 cúi
+									N
+										 rừng
+					...
+						 ...
+					SQ
+						NP(SUB)
+							L
+								 các
+							N(H)
+								 anh
+						VP
+							V(H)
+								 có
+							VP
+								V(H)
+									 nhậu
+							R
+								 không
+						?
+							 ?
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "4">
+S
+	NP(SUB)
+		N(H)
+			 Chủ
+		N
+			 quán
+	VP
+		V(H)
+			 tươi cười
+		VP
+			V(H)
+				 giải thích
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					VP(PRP)
+						R
+							 Đang
+						V(H)
+							 có
+						NP(DOB)
+							N(H)
+								 chiến dịch
+					C
+						 nên
+					NP(SUB)
+						 *E*
+					VP
+						R
+							 không
+						V(H)
+							 dám
+						VP
+							V(H)
+								 ghi
+							PP(LOC)
+								E(H)
+									 trong
+								NP
+									N(H)
+										 thực đơn
+					...
+						 ...
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "5">
+S
+	PP(LOC)
+		E(H)
+			 Tại
+		NP
+			L
+				 các
+			N(H)
+				 nhà hàng
+			AP
+				A(H)
+					 khác
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					N(H)
+						 thị xã
+					Np
+						 Đồng Xoài
+					LBKT
+						 LBKT
+					NP
+						Np(H)
+							 Bình Phước
+					RBKT
+						 RBKT
+			,
+				 ,
+			AP
+				R
+					 vốn
+				A(H)
+					 nổi tiếng
+				PP
+					E(H)
+						 về
+					NP
+						N(H)
+							 đặc sản
+						NP
+							N(H)
+								 thú
+							N
+								 rừng
+				NP(TMP)
+					N(H)
+						 trước
+					P
+						 đây
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		R
+			 cũng
+		R
+			 đều
+		V(H)
+			 gặp
+		NP(DOB)
+			N(H)
+				 tình cảnh
+			AP
+				A(H)
+					 tương tự
+	...
+		 ...
+</s>
+<s id = "6">
+S(TTL)
+	NP
+		N(H)
+			 Chân dung
+		NP
+			L
+				 các
+			"
+				 "
+			N(H)
+				 trùm
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "7">
+S
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		V(H)
+			 tìm
+		PP(DIR)
+			E(H)
+				 đến
+			NP
+				N(H)
+					 nhà
+				NP
+					Nc(H)
+						 ông
+					Np
+						 Bình
+				PP(LOC)
+					E(H)
+						 ở
+					NP
+						N(H)
+							 đường
+						Np
+							 Nguyễn Huệ
+						,
+							 ,
+						NP
+							N(H)
+								 phường
+							Np
+								 Tân Xuân
+				-
+					 -
+				NP
+					M
+						 một
+					E
+						 trong
+					M
+						 ba
+					N(H)
+						 trùm
+					N
+						 đầu nậu
+					VP
+						V(H)
+							 cung cấp
+						NP(DOB)
+							N(H)
+								 thú
+							N
+								 rừng
+						PP
+							E(H)
+								 cho
+							NP
+								L
+									 các
+								N(H)
+									 nhà hàng
+								NP
+									N(H)
+										 đặc sản
+								PP(LOC)
+									E(H)
+										 tại
+									NP
+										N(H)
+											 thị xã
+										Np
+											 Đồng Xoài
+	.
+		 .
+</s>
+<s id = "8">
+S
+	NP(TMP)
+		N(H)
+			 Khi
+		VP
+			V(H)
+				 bước
+			PP(DIR)
+				E(H)
+					 vào
+				NP
+					N(H)
+						 nhà
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		V(H)
+			 thấy
+		SBAR
+			S
+				NP(SUB)
+					P(H)
+						 ông ta
+				VP
+					R
+						 đang
+					V(H)
+						 loay hoay
+					PP
+						E(H)
+							 với
+						NP
+							M
+								 bảy
+							Nc(H)
+								 con
+							N
+								 cheo
+	.
+		 .
+</s>
+<s id = "9">
+S
+	NP(SUB)
+		N(H)
+			 Ông
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					R
+						 đang
+					V(H)
+						 chuẩn bị
+					VP
+						V(H)
+							 đem
+						VP
+							V(H)
+								 bỏ mối
+							PP
+								E(H)
+									 cho
+								NP
+									M
+										 một
+									N(H)
+										 quán
+									N
+										 đặc sản
+									PP(LOC)
+										E(H)
+											 ở
+										NP
+											Np(H)
+												 Bình Chánh
+											,
+												 ,
+											NP
+												Ny(H)
+													 TP
+												Ny
+													 HCM
+	.
+		 .
+</s>
+<s id = "10">
+S
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		V(H)
+			 giới thiệu
+		SBAR
+			S
+				NP(SUB)
+					 *T*
+				PP(LOC)
+					E(H)
+						 ở
+					NP
+						Ny(H)
+							 TP
+						Ny
+							 HCM
+				VP
+					V(H)
+						 lên
+					VP(PRP)
+						V(H)
+							 tìm
+						NP(DOB)
+							N(H)
+								 nguồn
+							N
+								 hàng
+						VP(PRP)
+							V(H)
+								 về
+							VP
+								V(H)
+									 bán
+								PP
+									E(H)
+										 cho
+									NP
+										M
+											 một
+										N(H)
+											 nhà hàng
+										VP
+											R
+												 mới
+											V(H)
+												 khai trương
+										PP(LOC)
+											E(H)
+												 tại
+											NP
+												N(H)
+													 thành phố
+	.
+		 .
+</s>
+<s id = "11">
+S
+	NP(SUB)
+		N(H)
+			 Ông
+	VP
+		A
+			 vồn vã
+		"
+			 "
+		V(H)
+			 tiếp thị
+		"
+			 "
+		:
+			 :
+		SBAR
+			S
+				S
+					NP(SUB)
+						N(H)
+							 chồn hương
+						A
+							 sống
+					NP(PRD)
+						M
+							 160.000
+						Nu(H)
+							 đ
+						/
+							 /
+						NP
+							Nu(H)
+								 kg
+				;
+					 ;
+				S
+					NP(SUB)
+						N(H)
+							 cheo
+					NP(PRD)
+						M
+							 50.000
+						Nu(H)
+							 đ
+				;
+					 ;
+				S
+					NP(SUB)
+						N(H)
+							 thỏ
+					NP(PRD)
+						M
+							 50.000
+						Nu(H)
+							 đ
+				;
+					 ;
+				S
+					NP(SUB)
+						N(H)
+							 nai
+					NP(PRD)
+						M
+							 55.000
+						Nu(H)
+							 đ
+	...
+		 ...
+</s>
+<s id = "12">
+S
+	NP(SUB)
+		N(H)
+			 Ông
+	VP
+		V(H)
+			 nói
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				C
+					 Nếu
+				S
+					NP(SUB)
+						L
+							 các
+						N(H)
+							 anh
+					VP
+						V(H)
+							 muốn
+						SBAR
+							S
+								NP(SUB)
+									P(H)
+										 chúng tôi
+								VP
+									V(H)
+										 mang
+									R
+										 xuống
+									PP(LOC)
+										E(H)
+											 tận
+										NP
+											N(H)
+												 nhà hàng
+				C
+					 thì
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 thêm
+						NP(DOB)
+							L
+								 mỗi
+							Nu(H)
+								 ký
+							NP
+								M
+									 5.000
+								Nu(H)
+									 đ
+								NP
+									N(H)
+										 tiền
+									VP
+										V(H)
+											 vận chuyển
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "13">
+SQ
+	"
+		 "
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Có
+		NP(DOB)
+			N(H)
+				 gấu
+		R
+			 không
+	?
+		 ?
+	"
+		 "
+</s>
+<s id = "14">
+S
+	"
+		 "
+	NP(SUB)
+		 *E*
+	VP
+		V(H)
+			 Có
+		,
+			 ,
+		NP(DOB)
+			M
+				 500.000
+			Nu(H)
+				 đ
+			/
+				 /
+			NP
+				Nu(H)
+					 kg
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "15">
+S
+	NP(SUB)
+		N(H)
+			 Ông
+	VP
+		V(H)
+			 giới thiệu
+		R
+			 thêm
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				NP(SUB)
+					P(H)
+						 Tôi
+				VP
+					V(H)
+						 có
+					SBAR
+						S
+							NP(SUB)
+								M
+									 3
+								-
+									 -
+								M
+									 4
+								N(H)
+									 nhân viên
+							NP(TMP)
+								N(H)
+									 ngày
+								P
+									 nào
+							VP
+								R
+									 cũng
+								V(H)
+									 chở
+								NP(DOB)
+									N(H)
+										 hàng
+								PP(DIR)
+									E(H)
+										 về
+									NP
+										NP
+											Np(H)
+												 Biên Hòa
+											LBKT
+												 LBKT
+											NP
+												Np(H)
+													 Đồng Nai
+											RBKT
+												 RBKT
+										C
+											 và
+										NP
+											Np(H)
+												 TP
+											Np
+												 HCM
+							C
+								 nhưng
+							NP(PRD)
+								R
+									 chưa
+								P(H)
+									 bao giờ
+								VP
+									V(H)
+										 bị
+									SBAR
+										S
+											NP(SUB)
+												 *E*
+											VP
+												V(H)
+													 bắt
+	.
+		 .
+</s>
+<s id = "16">
+S
+	NP(SUB)
+		L
+			 Các
+		N(H)
+			 anh
+	AP(PRD)
+		A(H)
+			 yên tâm
+	.
+		 .
+</s>
+<s id = "17">
+S
+	NP(SUB)
+		P(H)
+			 Tôi
+	VP
+		V(H)
+			 lo
+		R
+			 được
+		R
+			 hết
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "18">
+S
+	NP(SUB)
+		N(H)
+			 Trùm
+		Np
+			 Bình
+	VP
+		VP
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 thâm niên
+				VP
+					V(H)
+						 cung cấp
+					NP(DOB)
+						L
+							 các
+						N(H)
+							 loại
+						N
+							 động vật
+						N
+							 rừng
+						AP
+							A(H)
+								 quí hiếm
+				PP(TMP)
+					E(H)
+						 từ
+					NP
+						A
+							 hơn
+						M
+							 chục
+						N(H)
+							 năm
+						P
+							 nay
+		,
+			 ,
+		VP
+			V(H)
+				 sắm
+			R
+				 được
+			NP(DOB)
+				P
+					 cả
+				N(H)
+					 xe hơi
+	.
+		 .
+</s>
+<s id = "19">
+S
+	S
+		PP(TMP)
+			E(H)
+				 Trước
+			NP
+				P(H)
+					 đây
+		,
+			 ,
+		NP(SUB)
+			NP
+				N(H)
+					 ông
+			C
+				 và
+			NP
+				N(H)
+					 vợ
+				NP
+					N(H)
+						 tên
+					VP
+						V(H)
+							 là
+						NP
+							Np(H)
+								 Hoa
+		VP
+			VP
+				R
+					 vừa
+				V(H)
+					 đứng
+				R
+					 ra
+				VP
+					V(H)
+						 thu gom
+					NP(DOB)
+						N(H)
+							 hàng
+			VP
+				R
+					 vừa
+				A
+					 trực tiếp
+				V(H)
+					 đi
+				VP
+					V(H)
+						 bỏ
+					NP(DOB)
+						N(H)
+							 hàng
+					PP
+						E(H)
+							 cho
+						NP
+							L
+								 các
+							N(H)
+								 tỉnh thành
+	,
+		 ,
+	C
+		 nhưng
+	S
+		PP(TMP)
+			E(H)
+				 sau
+			NP
+				P(H)
+					 đó
+		NP(SUB)
+			M
+				 hai
+			N(H)
+				 người
+		VP
+			VP
+				V(H)
+					 ly dị
+			C
+				 rồi
+			VP
+				V(H)
+					 ra
+				VP
+					V(H)
+						 làm ăn
+					A
+						 riêng
+	.
+		 .
+</s>
+<s id = "20">
+S
+	NP(SUB)
+		Nc(H)
+			 Bà
+		Np
+			 Hoa
+	VP
+		R
+			 cũng
+		V(H)
+			 trở thành
+		NP(DOB)
+			M
+				 một
+			"
+				 "
+			N(H)
+				 đầu nậu
+			"
+				 "
+			NP
+				R
+					 khá
+				N(H)
+					 tên tuổi
+			PP(LOC)
+				E(H)
+					 trong
+				NP
+					N(H)
+						 giới
+					VP
+						V(H)
+							 mua bán
+						NP(DOB)
+							N(H)
+								 động vật
+							N
+								 rừng
+					PP(LOC)
+						E(H)
+							 tại
+						NP
+							Np(H)
+								 Bình Phước
+	.
+		 .
+</s>
+<s id = "21">
+S
+	VP(ADV)
+		V(H)
+			 Rời
+		NP(LOC)
+			N(H)
+				 nhà
+			Np
+				 Bình
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		V(H)
+			 tìm
+		PP(DIR)
+			E(H)
+				 đến
+			NP
+				N(H)
+					 nhà
+				NP
+					N(H)
+						 trùm
+					Np
+						 Hoa
+				VP
+					V(H)
+						 nằm
+					PP(LOC)
+						E(H)
+							 trong
+						NP
+							Nc(H)
+								 con
+							N
+								 hẻm
+							AP
+								A(H)
+									 nhỏ
+							NP
+								N(H)
+									 đường
+								Np
+									 Nguyễn Đình Chiểu
+								,
+									 ,
+								NP
+									N(H)
+										 phường
+									Np
+										 Tân Xuân
+	.
+		 .
+</s>
+<s id = "22">
+S
+	PP(SUB)
+		E(H)
+			 Trong
+		NP
+			N(H)
+				 nhà
+			NP
+				Nc(H)
+					 bà
+				Np
+					 Hoa
+	VP
+		V(H)
+			 có
+		VP
+			V(H)
+				 nhốt
+			NP(DOB)
+				L
+					 một số
+				N(H)
+					 thú
+				N
+					 rừng
+				VP
+					V(H)
+						 còn
+					V
+						 sống
+				C
+					 như
+				NP
+					N(H)
+						 kỳ đà
+					,
+						 ,
+					N(H)
+						 nhím
+	.
+		 .
+</s>
+<s id = "23">
+S
+	S
+		NP(TMP)
+			N(H)
+				 Lát
+			A
+				 sau
+		NP(SUB)
+			Nc(H)
+				 bà
+			Np
+				 Hoa
+		VP
+			VP
+				V(H)
+					 về
+			,
+				 ,
+			VP
+				V(H)
+					 nghe
+				SBAR
+					S
+						NP(SUB)
+							P(H)
+								 chúng tôi
+						VP
+							V(H)
+								 muốn
+							VP
+								V(H)
+									 đặt hàng
+								VP(PRP)
+									V(H)
+										 mua
+									PP
+										E(H)
+											 với
+										NP
+											N(H)
+												 số lượng
+											A
+												 lớn
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 bà
+		VP
+			VP
+				R
+					 liền
+				V(H)
+					 lấy
+				NP(DOB)
+					N(H)
+						 giấy
+					N(H)
+						 bút
+			VP
+				V(H)
+					 ghi
+				PP
+					E(H)
+						 cho
+					NP
+						P(H)
+							 chúng tôi
+				NP(DOB)
+					M
+						 một
+					N(H)
+						 bảng
+					N
+						 giá
+					AP
+						A(H)
+							 cụ thể
+					NP
+						L
+							 các
+						Nc(H)
+							 loại
+						N
+							 động vật
+						N
+							 rừng
+	.
+		 .
+</s>
+<s id = "24">
+S
+	NP(SUB)
+		N(H)
+			 Bà
+	VP
+		"
+			 "
+		V(H)
+			 bật mí
+		"
+			 "
+		:
+			 :
+		SBAR
+			S
+				S
+					VP(ADV)
+						V(H)
+							 có
+						NP
+							N(H)
+								 loại
+					NP(SUB)
+						 *T*
+					VP(2)
+						V(H)
+							 mua
+						R
+							 về
+						PP(LOC)
+							E(H)
+								 từ
+							NP
+								N(H)
+									 đường
+								NP
+									Np(H)
+										 Campuchia
+				,
+					 ,
+				S
+					VP(ADV)
+						V(H)
+							 có
+						NP
+							N(H)
+								 loại
+					NP(SUB)
+						 *T*
+					VP
+						V(H)
+							 *T*
+						PP(LOC)
+							E(H)
+								 từ
+							NP
+								N(H)
+									 rừng
+								Np
+									 Bình Phước
+	.
+		 .
+</s>
+<s id = "25">
+S
+	NP(TPC)
+		N(H)
+			 Thú
+		PP(LOC)
+			E(H)
+				 từ
+			NP
+				Np(H)
+					 Campuchia
+		VP
+			V(H)
+				 về
+	NP(SUB)
+		 *E*
+	VP
+		VP
+			V(H)
+				 trông
+			AP
+				"
+					 "
+				A(H)
+					 đừ
+				"
+					 "
+				T
+					 lắm
+		,
+			 ,
+		VP
+			V(H)
+				 ăn
+			AP
+				R
+					 không
+				A(H)
+					 ngon
+				AP
+					A(H)
+						 bằng
+					PP(LOC)
+						E(H)
+							 từ
+						NP
+							N(H)
+								 rừng
+							Np
+								 Bình Phước
+	...
+		 ...
+</s>
+<s id = "26">
+S
+	"
+		 "
+	S(SUB)
+		NP(SUB)
+			L
+				 Các
+			N(H)
+				 anh
+		VP
+			V(H)
+				 muốn
+			NP(DOB)
+				N(H)
+					 loại
+				P
+					 nào
+	VP
+		VP
+			R
+				 cũng
+			V(H)
+				 có
+		,
+			 ,
+		VP
+			R
+				 chỉ
+			V(H)
+				 cần
+			VP
+				V(H)
+					 điện thoại
+				SBAR
+					C
+						 là
+					S
+						NP(SUB)
+							P(H)
+								 tôi
+						VP
+							V(H)
+								 cho
+							VP
+								V(H)
+									 chở
+								PP(DIR)
+									E(H)
+										 đến
+									PP
+										E(H)
+											 tận
+										NP
+											N(H)
+												 nơi
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "27">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Nguồn
+			N
+				 hàng
+			PP
+				E(H)
+					 của
+				NP
+					Np(H)
+						 Hoa
+		VP
+			A
+				 chủ yếu
+			V(H)
+				 cung cấp
+			PP
+				E(H)
+					 cho
+				NP
+					L
+						 các
+					N(H)
+						 nhà hàng
+					N
+						 đặc sản
+					PP(LOC)
+						E(H)
+							 ở
+						NP
+							Np(H)
+								 Bình Dương
+	,
+		 ,
+	S
+		"
+			 "
+		NP(SUB)
+			T
+				 ngay
+			P
+				 cả
+			N(H)
+				 đầu nậu
+			A
+				 lớn
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					Np(H)
+						 Bình Dương
+			C
+				 như
+			NP
+				Np(H)
+					 Ba
+				"
+					 "
+				A
+					 đen
+				"
+					 "
+		VP
+			R
+				 cũng
+			V(H)
+				 phải
+			VP
+				V(H)
+					 lấy
+				NP(DOB)
+					N(H)
+						 hàng
+					PP
+						E(H)
+							 của
+						NP
+							P(H)
+								 tui
+	"
+		 "
+	-
+		 -
+	SBAR
+		S
+			NP(SUB)
+				N(H)
+					 bà
+			VP
+				V(H)
+					 nói
+	.
+		 .
+</s>
+<s id = "28">
+S
+	S
+		NP(SUB)
+			P(H)
+				 Chúng tôi
+		VP
+			V(H)
+				 hỏi
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 có
+						NP(DOB)
+							N(H)
+								 tay
+							N
+								 gấu
+						R
+							 không
+	,
+		 ,
+	S
+		NP(SUB)
+			N(H)
+				 bà
+		VP
+			V(H)
+				 hạ
+			N
+				 giọng
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					S
+						NP(SUB)
+							L
+								 Các
+							N(H)
+								 đầu mối
+							A
+								 khác
+						VP
+							R
+								 không
+							V(H)
+								 có
+					C
+						 nhưng
+					S
+						NP(SUB)
+							P(H)
+								 tui
+						VP
+							V(H)
+								 bảo đảm
+							VP
+								V(H)
+									 có
+					,
+						 ,
+					S
+						NP(SUB)
+							M
+								 một
+							N(H)
+								 bộ
+							NP
+								N(H)
+									 tay
+								N
+									 gấu
+						NP(PRD)
+							M
+								 3,7 triệu
+							Nu(H)
+								 đồng
+					;
+						 ;
+					C
+						 còn
+					S
+						NP(SUB)
+							M
+								 1
+							Nu(H)
+								 cc
+							NP
+								N(H)
+									 mật
+								N
+									 gấu
+						NP(PRD)
+							M
+								 100.000
+							Nu(H)
+								 đ
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "29">
+S
+	NP(SUB)
+		N(H)
+			 Bà
+	VP
+		VP
+			V(H)
+				 viết
+			PP
+				E(H)
+					 cho
+				NP
+					P(H)
+						 chúng tôi
+			NP(DOB)
+				N(H)
+					 số
+				N
+					 điện thoại di động
+				LBKT
+					 LBKT
+				QP
+					M(H)
+						 091386315…
+				RBKT
+					 RBKT
+		VP
+			V(H)
+				 bảo
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					VP
+						VP
+							V(H)
+								 Cần
+						VP
+							R
+								 cứ
+							V(H)
+								 gọi
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "30">
+S
+	C
+		 Nhưng
+	NP(SUB)
+		N(H)
+			 đầu nậu
+		SBAR
+			C
+				 mà
+			S
+				NP(SUB)
+					P(H)
+						 chúng tôi
+				VP
+					V(H)
+						 nghe
+					V
+						 giới thiệu
+					AP
+						A(H)
+							 nhiều
+						A
+							 nhất
+					PP(TMP)
+						E(H)
+							 trong
+						NP
+							L
+								 những
+							N(H)
+								 ngày
+							VP
+								V(H)
+									 ở
+								NP
+									Np(H)
+										 Bình Phước
+	VP
+		R
+			 lại
+		V(H)
+			 là
+		NP(DOB)
+			Np(H)
+				 Tám Xáng
+	.
+		 .
+</s>
+<s id = "31">
+S
+	NP(TMP)
+		N(H)
+			 Tối
+		M
+			 29
+		-
+			 -
+		M
+			 10
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		V(H)
+			 đến
+		VP(PRP)
+			V(H)
+				 hỏi
+			V
+				 mua
+			NP(DOB)
+				N(H)
+					 thịt
+				N
+					 rừng
+			PP(LOC)
+				E(H)
+					 tại
+				NP
+					N(H)
+						 nhà
+					Np
+						 Tám Xáng
+					PP(LOC)
+						E(H)
+							 trên
+						NP
+							N(H)
+								 quốc lộ
+							M
+								 14
+							,
+								 ,
+							NP
+								N(H)
+									 phường
+								Np
+									 Tân Bình
+								LBKT
+									 LBKT
+								NP
+									N(H)
+										 thị xã
+									Np
+										 Đồng Xoài
+								RBKT
+									 RBKT
+	.
+		 .
+</s>
+<s id = "32">
+S
+	NP(SUB)
+		Np(H)
+			 Tám Xáng
+	VP
+		VP
+			V(H)
+				 nhìn
+			NP(DOB)
+				P(H)
+					 chúng tôi
+			AP
+				A(H)
+					 đầy
+				VP
+					V(H)
+						 nghi hoặc
+		C
+			 rồi
+		VP
+			V(H)
+				 làm bộ
+			VP
+				V(H)
+					 ngạc nhiên
+				:
+					 :
+				"
+					 "
+				SBAR
+					SQ
+						WHNP(SUB)
+							P(H)
+								 Ai
+						VP
+							V(H)
+								 giới thiệu
+							NP(DOB)
+								L
+									 các
+								N(H)
+									 anh
+							T
+								 vậy
+	?
+		 ?
+</s>
+<s id = "33">
+S
+	S
+		NP(SUB)
+			P(H)
+				 Tôi
+		VP
+			V(H)
+				 bỏ
+			NP(DOB)
+				N(H)
+					 nghề
+			PP(TMP)
+				E(H)
+					 từ
+				AP
+					A(H)
+						 lâu
+			T
+				 rồi
+	,
+		 ,
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 qua
+			NP(DOB)
+				Nc(H)
+					 ông
+				Np
+					 Bình
+			C
+				 mà
+			VP
+				V(H)
+					 mua
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "34">
+S
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		VP
+			V(H)
+				 ra
+			R
+				 về
+		,
+			 ,
+		VP
+			V(H)
+				 nhớ
+			R
+				 lại
+			NP(DOB)
+				N(H)
+					 lời
+				NP
+					Nc(H)
+						 ông
+					N
+						 chủ
+					NP
+						N(H)
+							 quán
+						N
+							 đặc sản
+						NP
+							Np
+								 Như Ý
+						PP(LOC)
+							E(H)
+								 tại
+							NP
+								Np(H)
+									 Đồng Xoài
+				:
+					 :
+				"
+					 "
+				SBAR
+					S
+						R
+							 Thường
+						C
+							 thì
+						VP(PRP)
+							V(H)
+								 phải
+							AP
+								A(H)
+									 quen mặt
+						NP(SUB)
+							N(H)
+								 đầu nậu
+						VP
+							R
+								 mới
+							V(H)
+								 giao
+							NP(DOB)
+								N(H)
+									 hàng
+	"
+		 "
+	.
+		 .
+</s>
+<s id = "35">
+S
+	C
+		 Tuy nhiên
+	,
+		 ,
+	NP(TMP)
+		N(H)
+			 sớm
+		NP
+			N(H)
+				 hôm
+			A
+				 sau
+			LBKT
+				 LBKT
+			NP
+				M
+					 30
+				-
+					 -
+				M
+					 10
+			RBKT
+				 RBKT
+	,
+		 ,
+	S
+		NP(SUB)
+			P(H)
+				 chúng tôi
+		VP
+			V(H)
+				 ghé
+			NP(DOB)
+				N(H)
+					 cửa hàng
+				VP
+					V(H)
+						 bán
+					NP
+						N(H)
+							 tạp hóa
+				PP
+					E(H)
+						 của
+					NP
+						Np(H)
+							 Tám Xáng
+				PP(LOC)
+					E(H)
+						 ở
+					NP
+						N(H)
+							 số
+						M
+							 20
+					,
+						 ,
+					NP
+						N(H)
+							 đường
+						N
+							 số
+						M
+							 1
+						NP
+							N(H)
+								 chợ
+							Np
+								 Đồng Xoài
+			VP(PRP)
+				V(H)
+					 hỏi
+				VP
+					V(H)
+						 mua
+					NP(DOB)
+						N(H)
+							 thú
+						N
+							 rừng
+	C
+		 thì
+	S
+		NP(SUB)
+			N(H)
+				 người nhà
+			PP
+				E(H)
+					 của
+				NP
+					Np(H)
+						 Tám Xáng
+		AP(PRD)
+			A(H)
+				 nhanh nhẩu
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					NP(SUB)
+						N(H)
+							 Hàng
+					VP
+						R
+							 mới
+						V(H)
+							 về
+						NP(TMP)
+							N(H)
+								 hồi
+							N
+								 tối
+				,
+					 ,
+				S
+					NP(SUB)
+						 *E*
+					VP
+						V(H)
+							 vào
+						NP(DOB)
+							N(H)
+								 nhà
+						C
+							 mà
+						VP
+							V(H)
+								 mua
+				,
+					 ,
+				VP
+					V(H)
+						 để
+					NP(DOB)
+						P(H)
+							 tôi
+					VP
+						V(H)
+							 gọi
+						N
+							 điện thoại
+						VP(PRP)
+							V(H)
+								 báo
+							A
+								 trước
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "36">
+S
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		VP
+			V(H)
+				 quay
+			R
+				 lại
+			NP(DOB)
+				N(H)
+					 nhà
+		C
+			 và
+		VP
+			V(H)
+				 gặp
+			NP(DOB)
+				N(H)
+					 vợ chồng
+				N
+					 người
+				N
+					 em
+				PP
+					E(H)
+						 của
+					NP
+						N(H)
+							 ông
+						P
+							 ta
+				VP
+					V(H)
+						 là
+					NP
+						Np(H)
+							 Tám Nhiều
+				VP
+					R
+						 đang
+					V(H)
+						 lui cui
+					PP(LOC)
+						E(H)
+							 trong
+						NP
+							N(H)
+								 bếp
+	.
+		 .
+</s>
+<s id = "37">
+S
+	NP(SUB)
+		NP
+			N(H)
+				 Mùi
+			A
+				 khét
+		C
+			 lẫn
+		NP
+			N(H)
+				 mùi
+			A
+				 thơm
+		PP
+			E(H)
+				 của
+			NP
+				N(H)
+					 động vật
+				N
+					 rừng
+	VP
+		VP
+			V(H)
+				 bốc
+			R
+				 lên
+			AP
+				A(H)
+					 ngào ngạt
+		,
+			 ,
+		VP
+			V(H)
+				 tỏa
+			AP(LOC)
+				A(H)
+					 khắp
+				NP
+					Nc(H)
+						 căn
+					N
+						 nhà
+	.
+		 .
+</s>
+<s id = "38">
+S
+	NP(SUB)
+		Np(H)
+			 Tám Nhiều
+	VP
+		R
+			 đang
+		V(H)
+			 thui
+		NP(DOB)
+			Nc(H)
+				 con
+			N
+				 heo
+			N
+				 rừng
+		PP(MNR)
+			E(H)
+				 bằng
+			NP
+				N(H)
+					 lửa
+				PP
+					E(H)
+						 của
+					NP
+						N(H)
+							 bình
+						Nb
+							 gas
+	.
+		 .
+</s>
+<s id = "39">
+S
+	NP(SUB)
+		Np(H)
+			 Tám Nhiều
+	VP
+		V(H)
+			 nói
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				S
+					NP(SUB)
+						 *E*
+					VP
+						R
+							 Mới
+						V(H)
+							 bẫy
+						T
+							 đây
+				!
+					 !
+				SQ
+					NP(SUB)
+						L
+							 Các
+						N(H)
+							 anh
+					VP
+						V(H)
+							 mua
+						NP(DOB)
+							NP
+								N(H)
+									 thịt
+								VP
+									V(H)
+										 lóc
+							C
+								 hay
+							NP
+								N(H)
+									 thịt
+								NP
+									N(H)
+										 xương
+					?
+						 ?
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "40">
+SQ
+	NP(SUB)
+		P(H)
+			 Chúng tôi
+	VP
+		V(H)
+			 hỏi
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					V(H)
+						 có
+					NP(DOB)
+						N(H)
+							 chồn
+						,
+							 ,
+						N(H)
+							 cheo
+					R
+						 không
+	?
+		 ?
+</s>
+<s id = "41">
+S
+	NP(SUB)
+		N(H)
+			 Vợ
+		PP
+			E(H)
+				 của
+			NP
+				Np(H)
+					 Tám Nhiều
+	VP
+		VP
+			V(H)
+				 lôi
+			R
+				 ra
+			NP(DOB)
+				M
+					 hai
+				N(H)
+					 bọc
+			PP(LOC)
+				E(H)
+					 từ
+				NP
+					N(H)
+						 tủ lạnh
+		,
+			 ,
+		VP
+			V(H)
+				 bảo
+			:
+				 :
+			"
+				 "
+			SBAR
+				S
+					NP(SUB)
+						 *E*
+					AP(PRD)
+						A(H)
+							 Yên tâm
+				,
+					 ,
+				S
+					NP(SUB)
+						N(H)
+							 hàng
+					AP(PRD)
+						A(H)
+							 tươi sống
+						R
+							 cả
+				,
+					 ,
+				S
+					NP(SUB)
+						 *E*
+					VP
+						VP
+							V(H)
+								 mang
+							R
+								 về
+						VP
+							V(H)
+								 xẻ
+							R
+								 ra
+						VP
+							V(H)
+								 ướp lạnh
+			...
+				 ...
+			"
+				 "
+	.
+		 .
+</s>
+<s id = "42">
+S
+	NP(TMP)
+		N(H)
+			 Chiều
+		M
+			 2
+		-
+			 -
+		M
+			 11
+	VP(ADV)
+		V(H)
+			 về
+		NP(LOC)
+			Np(H)
+				 Bình Dương
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		V(H)
+			 ghé
+		NP(DOB)
+			N(H)
+				 quán
+			N
+				 đặc sản
+			AP(LOC)
+				A(H)
+					 gần
+				NP
+					N(H)
+						 khu vực
+					NP
+						N(H)
+							 thị trấn
+						Np
+							 Phú Giáo
+						LBKT
+							 LBKT
+						NP
+							Np(H)
+								 Bình Dương
+						RBKT
+							 RBKT
+	.
+		 .
+</s>
+<s id = "43">
+S
+	NP(SUB)
+		N(H)
+			 Quán
+	VP
+		V(H)
+			 bán
+		AP
+			A(H)
+				 đầy đủ
+			NP(DOB)
+				L
+					 các
+				Nc(H)
+					 loại
+				N
+					 thú
+				N
+					 rừng
+				AP
+					A(H)
+						 ướp lạnh
+	.
+		 .
+</s>
+<s id = "44">
+S
+	VP(ADV)
+		V(H)
+			 Hỏi
+		NP
+			N(H)
+				 nguồn
+			N
+				 hàng
+			PP(LOC)
+				E(H)
+					 ở
+				NP
+					P(H)
+						 đâu
+	,
+		 ,
+	NP(SUB)
+		Nc(H)
+			 cô
+		N
+			 nhân viên
+		VP
+			V(H)
+				 bán
+			NP
+				N(H)
+					 hàng
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				VP
+					VP
+						V(H)
+							 lấy
+						PP
+							E(H)
+								 từ
+							NP
+								L
+									 các
+								N(H)
+									 đầu nậu
+								PP(LOC)
+									E(H)
+										 ở
+									NP
+										Np(H)
+											 Bình Phước
+					,
+						 ,
+					C
+						 nhưng
+					VP
+						A
+							 thỉnh thoảng
+						V(H)
+							 lấy
+						PP(LOC)
+							E(H)
+								 ở
+							NP
+								N(H)
+									 nhà
+								NP
+									Nc(H)
+										 ông
+									Np
+										 Ba
+									AP
+										"
+											 "
+										A(H)
+											 đen
+										"
+											 "
+									-
+										 -
+									NP
+										M
+											 một
+										N(H)
+											 đầu mối
+										AP
+											R
+												 khá
+											A(H)
+												 lớn
+										VP
+											V(H)
+												 cách
+											NP(LOC)
+												P(H)
+													 đây
+											NP(EXT)
+												R
+													 chỉ
+												M
+													 50
+												Nu(H)
+													 m
+	.
+		 .
+</s>
+<s id = "45">
+S
+	PP(ADV)
+		E(H)
+			 Theo
+		NP
+			N(H)
+				 chỉ dẫn
+			PP
+				E(H)
+					 của
+				NP
+					Nc(H)
+						 cô
+					V
+						 bán
+					N
+						 quán
+	,
+		 ,
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		V(H)
+			 tìm
+		PP(DIR)
+			E(H)
+				 đến
+			NP
+				N(H)
+					 nhà
+				NP
+					Np(H)
+						 Ba
+					"
+						 "
+					A
+						 đen
+					"
+						 "
+	.
+		 .
+</s>
+<s id = "46">
+S
+	C
+		 Tuy nhiên
+	NP(SUB)
+		Nc(H)
+			 ông
+		Np
+			 Ba
+	VP
+		V(H)
+			 cảnh giác
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				S
+					NP(SUB)
+						N(H)
+							 Thú
+						N
+							 rừng
+					NP(TMP)
+						P(H)
+							 bây giờ
+					AP(PRD)
+						A(H)
+							 hiếm
+						T
+							 lắm
+				,
+					 ,
+				S
+					NP(SUB)
+						N(H)
+							 nhà
+					VP
+						R
+							 chỉ
+						V(H)
+							 còn
+						NP
+							T
+								 mỗi
+							M
+								 một
+							Nc(H)
+								 con
+							N
+								 cheo
+							NP
+								A
+									 khoảng
+								M
+									 1,8
+								Nu(H)
+									 kg
+				...
+					 ...
+		"
+			 "
+	.
+		 .
+</s>
+<s id = "47">
+S
+	S
+		NP(SUB)
+			 *E*
+		VP
+			V(H)
+				 Hỏi
+			VP
+				V(H)
+					 mua
+				PP
+					E(H)
+						 với
+					NP
+						N(H)
+							 số lượng
+						AP
+							A(H)
+								 lớn
+	C
+		 thì
+	S
+		NP(SUB)
+			Nc(H)
+				 ông
+			Np
+				 Ba
+		VP
+			R
+				 lại
+			V(H)
+				 chỉ
+			PP
+				E(H)
+					 sang
+				NP
+					L
+						 các
+					N(H)
+						 đầu nậu
+					PP(LOC)
+						E(H)
+							 ở
+						NP
+							Np(H)
+								 Lâm Đồng
+						,
+							 ,
+						NP
+							Np(H)
+								 Đồng Nai
+	...
+		 ...
+</s>
+<s id = "48">
+S
+	T
+		 Thế
+	C
+		 nhưng
+	,
+		 ,
+	PP(ADV)
+		E(H)
+			 theo
+		VP
+			V(H)
+				 tìm hiểu
+			PP
+				E(H)
+					 của
+				NP
+					P(H)
+						 chúng tôi
+	,
+		 ,
+	NP(SUB)
+		Np(H)
+			 Ba
+		"
+			 "
+		A
+			 đen
+		"
+			 "
+	VP
+		V(H)
+			 là
+		NP(DOB)
+			N(H)
+				 đầu nậu
+			PP
+				E(H)
+					 theo
+				NP
+					N(H)
+						 kiểu
+					NP
+						N(H)
+							 vệ tinh
+						PP
+							E(H)
+								 của
+							NP
+								L
+									 các
+								N(H)
+									 đầu nậu
+								AP
+									A(H)
+										 chính
+								PP(LOC)
+									E(H)
+										 ở
+									NP
+										Np(H)
+											 Bình Phước
+	.
+		 .
+</s>
+<s id = "49">
+S(TTL)
+	VP
+		V(H)
+			 Kiểm tra
+		,
+			 ,
+		V(H)
+			 xử lý
+		:
+			 :
+		"
+			 "
+		AP
+			A(H)
+				 Khó
+			AP
+				A(H)
+					 bội
+				NP
+					N(H)
+						 lần
+		"
+			 "
+	...
+		 ...
+</s>
+<s id = "50">
+S
+	NP(SUB)
+		Nc(H)
+			 Ông
+		Np
+			 Vũ Đình Trúc
+		,
+			 ,
+		NP
+			N(H)
+				 trưởng phòng
+			N
+				 pháp chế
+			NP
+				N(H)
+					 Chi cục
+				N
+					 Kiểm lâm
+				NP
+					Np(H)
+						 Bình Phước
+	,
+		 ,
+	VP
+		V(H)
+			 cho
+		V
+			 biết
+		SBAR
+			S
+				NP(SUB)
+					Nc(H)
+						 ngành
+					V
+						 kiểm lâm
+					NP
+						N(H)
+							 tỉnh
+				VP
+					VP
+						R
+							 đã
+						V(H)
+							 kiểm tra
+						NP(DOB)
+							L
+								 những
+							N(H)
+								 điểm
+							VP
+								V(H)
+									 buôn bán
+								NP
+									N(H)
+										 động vật
+									A
+										 hoang dã
+					C
+						 nhưng
+					VP
+						R
+							 không thể
+						V(H)
+							 kiểm soát
+						V
+							 hết
+						R
+							 được
+	.
+		 .
+</s>
+<s id = "51">
+S
+	NP(TMP)
+		N(H)
+			 Hiện
+	VP
+		V(H)
+			 có
+		SBAR
+			S
+				NP(SUB)
+					L
+						 các
+					N(H)
+						 nguồn
+					NP
+						N(H)
+							 thịt
+						N
+							 rừng
+						PP(LOC)
+							PP
+								E(H)
+									 từ
+								NP
+									Np(H)
+										 Campuchia
+							,
+								 ,
+							PP
+								E(H)
+									 từ
+								NP
+									N(H)
+										 vườn quốc gia
+									Np
+										 Cát Tiên
+				VP
+					V(H)
+						 về
+					AP
+						R
+							 rất
+						A(H)
+							 nhiều
+	.
+		 .
+</s>
+<s id = "52">
+S
+	NP(SUB)
+		N(H)
+			 Chi cục
+		VP
+			V(H)
+				 kiểm lâm
+	VP
+		VP
+			R
+				 đã
+			V(H)
+				 bố trí
+			VP
+				V(H)
+					 chốt
+				V(H)
+					 chặn
+				VP(PRP)
+					R
+						 không
+					V(H)
+						 cho
+					NP(DOB)
+						N(H)
+							 người
+					VP
+						V(H)
+							 vào
+						NP(LOC)
+							N(H)
+								 rừng
+						VP(PRP)
+							V(H)
+								 săn bắn
+							C
+								 hoặc
+							V(H)
+								 thu gom
+		,
+			 ,
+		VP
+			R
+				 đồng thời
+			V(H)
+				 buộc
+			NP(DOB)
+				L
+					 các
+				N(H)
+					 hàng quán
+				VP
+					V(H)
+						 kinh doanh
+					NP(DOB)
+						N(H)
+							 động vật
+						N
+							 rừng
+			VP(IOB)
+				V(H)
+					 viết
+				VP
+					V(H)
+						 cam kết
+	.
+		 .
+</s>
+<s id = "53">
+S
+	NP(TPC)
+		T
+			 Riêng
+		L
+			 các
+		N(H)
+			 đầu nậu
+	,
+		 ,
+	NP(SUB)
+		Nc(H)
+			 ông
+		Np
+			 Trúc
+	VP
+		V(H)
+			 than thở
+		:
+			 :
+		"
+			 "
+		SBAR
+			S
+				NP(SUB)
+					 *E*
+				AP
+					A(H)
+						 Khó
+					R
+						 bội phần
+					SBAR(PRP)
+						E(H)
+							 vì
+						S
+							NP(SUB)
+								P(H)
+									 họ
+							VP
+								VP
+									R
+										 không
+									V(H)
+										 tổ chức
+									NP(DOB)
+										L
+											 các
+										N(H)
+											 điểm
+										VP
+											V(H)
+												 thu mua
+									C
+										 như
+									NP(TMP)
+										N(H)
+											 trước
+								C
+									 mà
+								VP
+									A
+										 chủ yếu
+									V(H)
+										 mua bán
+									PP(MNR)
+										E(H)
+											 qua
+										NP
+											N(H)
+												 điện thoại
+								,
+									 ,
+								PP(TMP)
+									E(H)
+										 sau
+									NP
+										P(H)
+											 đó
+								VP
+									V(H)
+										 vận chuyển
+									AP
+										R
+											 rất
+										A(H)
+											 nhanh chóng
+	.
+		 .
+</s>
+<s id = "54">
+S
+	PP(LOC)
+		E(H)
+			 Ở
+		NP
+			Np(H)
+				 Bình Phước
+	NP(SUB)
+		P(H)
+			 chúng tôi
+	VP
+		R
+			 chưa
+		V(H)
+			 thấy
+		VP
+			V(H)
+				 có
+			NP(DOB)
+				N(H)
+					 đầu nậu
+				P
+					 nào
+	"
+		 "
+	LBKT
+		 LBKT
+	!
+		 !
+	?
+		 ?
+	RBKR
+		 RBKT
+	.
+		 .
+</s>
+<s id = "55">
+S
+	C
+		 Tuy nhiên
+	,
+		 ,
+	NP(SUB)
+		Nc(H)
+			 ông
+		Np
+			 Trúc
+	VP
+		V(H)
+			 cho
+		SBAR
+			C
+				 rằng
+			S
+				VP(SUB)
+					V(H)
+						 ngăn chặn
+					NP(DOB)
+						L
+							 các
+						N(H)
+							 đầu nậu
+						VP
+							A
+								 chuyên
+							V(H)
+								 cung cấp
+							NP
+								N(H)
+									 thú
+								N
+									 rừng
+				VP
+					R
+						 còn
+					V(H)
+						 phải
+					VP
+						V(H)
+							 có
+						NP(DOB)
+							Nc(H)
+								 sự
+							V
+								 phối hợp
+							AP
+								A(H)
+									 chặt chẽ
+							PP
+								E(H)
+									 của
+								NP
+									N(H)
+										 chính quyền
+									N
+										 địa phương
+								C
+									 và
+								NP
+									N(H)
+										 công an
+	.
+		 .
+</s>
+<s id = "56">
+S
+	S
+		NP(SUB)
+			NP
+				N(H)
+					 Chính quyền
+			,
+				 ,
+			NP
+				N(H)
+					 công an
+				N
+					 địa phương
+			-
+				 -
+			NP(LOC)
+				N(H)
+					 nơi
+				VP
+					V(H)
+						 quản lý
+					NP
+						N(H)
+							 địa bàn
+		,
+			 ,
+		VP
+			R
+				 không thể
+			R
+				 không
+			V(H)
+				 nắm
+			R
+				 được
+			NP(DOB)
+				L
+					 các
+				N(H)
+					 đối tượng
+				VP
+					V(H)
+						 buôn bán
+					NP(DOB)
+						N(H)
+							 động vật
+						N
+							 rừng
+	,
+		 ,
+	C
+		 nhưng
+	S
+		NP(SUB)
+			N(H)
+				 việc
+			VP
+				V(H)
+					 phối hợp
+		VP
+			R
+				 chưa
+			V(H)
+				 được
+			AP
+				A(H)
+					 chặt chẽ
+	.
+		 .
+</s>
+<s id = "57">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Tỉnh
+		VP
+			R
+				 đã
+			V(H)
+				 chỉ đạo
+			NP(DOB)
+				N(H)
+					 công an
+			VP
+				V(H)
+					 lên
+				NP(DOB)
+					N(H)
+						 danh sách
+					NP
+						L
+							 các
+						N(H)
+							 đầu nậu
+						PP(LOC)
+							E(H)
+								 tại
+							NP
+								N(H)
+									 địa phương
+	C
+		 nhưng
+	S
+		PP(TMP)
+			E(H)
+				 đến
+			NP
+				P(H)
+					 nay
+		NP(SUB)
+			 *E*
+		XP(PRD)
+			R
+				 vẫn
+			...
+				 ...
+			X(H)
+				 giẫm chân tại chỗ
+	!
+		 !
+</s>
+<s id = "58">
+S
+	PP(LOC)
+		E(H)
+			 Ở
+		NP
+			L
+				 các
+			N(H)
+				 tỉnh
+			NP
+				Np(H)
+					 Đồng Nai
+			,
+				 ,
+			NP
+				Np(H)
+					 Lâm Đồng
+			,
+				 ,
+			NP
+				Np(H)
+					 Bình Dương
+	NP(SUB)
+		 *E*
+	VP
+		R
+			 cũng
+		R
+			 đang
+		V(H)
+			 lâm
+		PP
+			E(H)
+				 vào
+			NP(DOB)
+				N(H)
+					 tình cảnh
+				A
+					 tương tự
+	.
+		 .
+</s>
+<s id = "59">
+S
+	S
+		NP(SUB)
+			N(H)
+				 Số
+			N
+				 vụ
+			VP
+				V(H)
+					 phát hiện
+			VP
+				V(H)
+					 xử lý
+				NP
+					N(H)
+						 hành chính
+		AP(PRD)
+			R
+				 đã
+			A(H)
+				 ít
+	,
+		 ,
+	C
+		 còn
+	S
+		NP(SUB)
+			N(H)
+				 số
+			N
+				 vụ
+			VP
+				V(H)
+					 xử lý
+				NP
+					N(H)
+						 hình sự
+				PP
+					E(H)
+						 về
+					VP
+						V(H)
+							 buôn bán
+						NP(DOB)
+							N(H)
+								 động vật
+							N
+								 rừng
+							AP
+								A(H)
+									 quí hiếm
+		C
+			 thì
+		AP(PRD)
+			A(H)
+				 gần
+			C
+				 như
+			VP
+				R
+					 chưa
+				V(H)
+					 có
+	.
+		 .
+</s>
+<s id = "60">
+S
+	S
+		C
+			 Và
+		X
+			 như vậy
+		NP(SUB)
+			N(H)
+				 nguồn
+			NP
+				N(H)
+					 động vật
+				N
+					 rừng
+		VP
+			R
+				 vẫn
+			A
+				 âm thầm
+			V(H)
+				 chảy
+			PP(DIR)
+				E(H)
+					 về
+				NP
+					N(H)
+						 thành phố
+	,
+		 ,
+	C
+		 dù
+	S
+		NP(SUB)
+			N(H)
+				 chỉ thị
+			AP
+				A(H)
+					 khẩn
+			PP
+				E(H)
+					 của
+				NP
+					N(H)
+						 Chính phủ
+		VP
+			R
+				 đã
+			V(H)
+				 ban hành
+	...
+		 ...
+</s>
+<s id = "61">
+S(SPL)
+	NP
+		N(H)
+			 Kỳ
+		A
+			 trước
+		:
+			 :
+		PP
+			PP
+				E(H)
+					 Từ
+				NP
+					N(H)
+						 quán
+					V
+						 nhậu
+			PP
+				E(H)
+					 đến
+				NP
+					N(H)
+						 vựa
+					NP
+						N(H)
+							 thú
+						N
+							 rừng
+	.
+		 .
+</s>

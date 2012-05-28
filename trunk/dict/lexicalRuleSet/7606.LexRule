@@ -1,0 +1,568 @@
+! : !	5
+" : "	30
+, : ,	70
+- : -	5
+. : .	59
+... : ...	9
+/ : /	7
+: : :	9
+? : ?	3
+A : bé nhỏ	1
+A : bình dân	1
+A : bình quân	2
+A : bóng	1
+A : bất ngờ	1
+A : bằng	2
+A : cao cấp	2
+A : chuyên	1
+A : chình ình	1
+A : chặt	1
+A : có thể	1
+A : cùng	1
+A : cụt	1
+A : dài	1
+A : dễ dàng	1
+A : giống	1
+A : gần	2
+A : hay	1
+A : hoang dã	1
+A : hơn	3
+A : hụt	1
+A : khoảng	2
+A : khác	4
+A : khô cứng	1
+A : kế	1
+A : lanh lợi	1
+A : lâu	1
+A : lặng lẽ	1
+A : lọt thỏm	1
+A : lớn	1
+A : ngan ngát	1
+A : ngon	1
+A : ngon miệng	1
+A : nguyên	2
+A : nhanh nhảu	1
+A : nhiều	6
+A : nhá nhem	1
+A : nhất	5
+A : nhẹ nhàng	1
+A : nhỏ	4
+A : nhỏ lẻ	1
+A : nổi tiếng	1
+A : phong kiến	1
+A : phải	1
+A : quí hiếm	2
+A : rõ	1
+A : rõ ràng	1
+A : rầm rộ	1
+A : rẻ	2
+A : rủng rỉnh	1
+A : sang	1
+A : sang trọng	1
+A : sau	2
+A : sinh động	1
+A : sạch	1
+A : sống	2
+A : tinh vi	1
+A : to	2
+A : trước	1
+A : trực tiếp	1
+A : tấp nập	1
+A : tối	1
+A : tội nghiệp	1
+A : vanh vách	1
+A : xa	1
+A : xịn	1
+A : âm thầm	1
+A : ít	2
+A : đen	2
+A : đen nháy	1
+A : đông	1
+A : đông đúc	1
+A : đúng	1
+A : đơn sơ	1
+A : đầu tiên	2
+A : độc	3
+C : Hay là	1
+C : Như vậy	1
+C : Nếu	2
+C : Thế thì	1
+C : Tuy nhiên	1
+C : Và	1
+C : do	1
+C : là	2
+C : mà	5
+C : như	2
+C : nhưng	5
+C : nếu	1
+C : rằng	1
+C : thì	6
+C : và	8
+E : Ngoài	1
+E : Sau	2
+E : Theo	1
+E : Từ	1
+E : Với	1
+E : bằng	1
+E : bởi	1
+E : cho	5
+E : của	5
+E : giữa	3
+E : ngoài	2
+E : qua	1
+E : ra	2
+E : sau	1
+E : theo	1
+E : trong	10
+E : trên	6
+E : tại	3
+E : từ	3
+E : vào	2
+E : về	5
+E : với	10
+E : Để	1
+E : đến	7
+E : để	2
+E : Ở	2
+E : ở	11
+L : Các	3
+L : Những	3
+L : các	10
+L : mấy	4
+L : mọi	1
+L : mỗi	4
+L : những	3
+L : vài	1
+L : đôi	1
+LBKT : LBKT	3
+M : 1	2
+M : 1,2	1
+M : 1.500	1
+M : 1/2	1
+M : 10	3
+M : 100	2
+M : 11	1
+M : 120.000	1
+M : 15	1
+M : 18.000	1
+M : 180.000	2
+M : 2	2
+M : 20	1
+M : 20.000	1
+M : 3	1
+M : 30	2
+M : 31	1
+M : 380.000	1
+M : 4	1
+M : 45.000	1
+M : 50	1
+M : 50.000	1
+M : 500.000	1
+M : 80.000	1
+M : Hai	1
+M : ba	2
+M : bốn	1
+M : chục	2
+M : hai	2
+M : một	18
+M : ngàn	1
+M : trăm	2
+M : tạ	1
+N : *T*	1
+N : Anh	2
+N : Chiều	1
+N : Chuyện	2
+N : Dân	1
+N : Hương	1
+N : Khi	1
+N : Khách	1
+N : Kỳ	1
+N : Lúc	1
+N : Nhà	1
+N : Phóng sự	1
+N : Phóng viên	1
+N : Quán	4
+N : Thú	2
+N : Trời	1
+N : Tên	1
+N : Vợ	1
+N : anh	11
+N : bao	1
+N : bàn	3
+N : bào thai	1
+N : bé	1
+N : bên	1
+N : bò sát	1
+N : bún	1
+N : bắp vế	1
+N : bồn	1
+N : bụng	1
+N : cheo	6
+N : chuyện	1
+N : chuôt	1
+N : chuồng	1
+N : chân	1
+N : chồn	6
+N : chủ	4
+N : chức năng	1
+N : con người	1
+N : con số	1
+N : câu	1
+N : cảnh	1
+N : cống	1
+N : cổ	1
+N : dúi	3
+N : em	5
+N : giá	5
+N : giá cả	1
+N : giọng	1
+N : góc	1
+N : gấu	2
+N : gỗ	1
+N : heo	2
+N : huyết	2
+N : hàng	7
+N : hàng quán	1
+N : hôm nay	1
+N : hạng	1
+N : hầm	2
+N : hệ thống	1
+N : hổ	1
+N : hủ tiếu	1
+N : khi	2
+N : khuya	1
+N : khách	5
+N : khách khứa	1
+N : khỉ	1
+N : kiểm lâm	1
+N : kỳ đà	1
+N : loại	5
+N : làng	5
+N : lông	3
+N : lẩu	1
+N : lồng	2
+N : lời	1
+N : lực lượng	1
+N : min	1
+N : màu	1
+N : máu	1
+N : mép	1
+N : món	4
+N : mùi	1
+N : mưa	1
+N : mật	1
+N : mắt	1
+N : mễn	1
+N : mỏ	1
+N : mối hàng	1
+N : nai	1
+N : nghề	1
+N : ngoài	1
+N : ngoại thành	1
+N : ngày	3
+N : ngã	1
+N : người	3
+N : nhau	2
+N : nhà	5
+N : nhà nước	1
+N : nhân viên	2
+N : nhím	1
+N : núi rừng	1
+N : năm	2
+N : nơi	3
+N : nền	1
+N : nội thành	1
+N : phép tính	1
+N : phía	1
+N : phòng	1
+N : phương thức	1
+N : quan chức	1
+N : quán	16
+N : quận	3
+N : ria	1
+N : rượu	2
+N : rắn	1
+N : rừng	25
+N : sau	1
+N : sắt	2
+N : số	1
+N : sừng	1
+N : tay chân	1
+N : thành phố	5
+N : tháng	1
+N : thú	22
+N : thị trấn	8
+N : thịt	9
+N : thủ đoạn	1
+N : thực đơn	2
+N : tiếng	1
+N : tiếp viên	2
+N : tiền	1
+N : trùm	1
+N : trưa	1
+N : trạm	1
+N : tuổi	1
+N : tài	2
+N : tên	6
+N : túi tiền	1
+N : tầng	1
+N : tỉnh	1
+N : tối	1
+N : tụi	1
+N : tủ lạnh	1
+N : vấn đề	3
+N : vật	2
+N : vợ	1
+N : vợ chồng	1
+N : vựa	1
+N : xe ôm	1
+N : ánh sáng	1
+N : Đêm	2
+N : Động vật	1
+N : đoạn	1
+N : đàn ông	4
+N : đèn néon	1
+N : đêm	2
+N : đùi	1
+N : đĩa	2
+N : đường	5
+N : đường dây	1
+N : đất	1
+N : đầu	1
+N : đầu mối	2
+N : đầu nậu	2
+N : đặc sản	1
+N : địa bàn	1
+N : địa chỉ	1
+N : địa điểm	1
+N : động vật	2
+N : đứa	1
+N : ấn tượng	1
+NP : *E*	21
+NP : *T*	1
+Nc : Anh	1
+Nc : Con	1
+Nc : Người	1
+Nc : anh	3
+Nc : bàn	1
+Nc : bác	2
+Nc : bồn	1
+Nc : chiếc	1
+Nc : con	18
+Nc : cái	3
+Nc : loại	2
+Nc : người	5
+Nc : sự	1
+Nc : trạm	1
+Np : Bắc	1
+Np : Hai Bà Trưng	1
+Np : Hương Rừng	5
+Np : Lâm Đồng	2
+Np : Lê Ngô Cát	1
+Np : Mađagui	2
+Np : Miền Tây	1
+Np : Mười	11
+Np : Nam Bộ	1
+Np : Nguyễn Trãi	1
+Np : Nguyễn Đình Chiểu	1
+Np : Sài Gòn	3
+Np : TP	1
+Np : Tuổi Trẻ	1
+Np : Tây Nam Bộ	1
+Np : Vương Tửu	1
+Np : Vương Tửu quán	2
+Np : Đạ Tẻ	3
+Np : Đức	5
+Nu : gam	1
+Nu : kg	13
+Nu : m	1
+Nu : phút	1
+Nu : đ	7
+Nu : đồng	2
+Ny : A	1
+Ny : HCM	2
+Ny : TP	2
+P : Chúng tôi	3
+P : Người ta	1
+P : Nó	1
+P : Tất cả	1
+P : ai	1
+P : bao giờ	1
+P : bao nhiêu	1
+P : chúng tôi	9
+P : cả	3
+P : gì	1
+P : họ	1
+P : mình	2
+P : nào	2
+P : này	9
+P : sao	1
+P : ta	4
+P : tự	1
+P : Đây	1
+P : đây	3
+P : đó	5
+P : ấy	1
+R : Hằng	1
+R : Không	2
+R : Vừa	2
+R : chưa	2
+R : chỉ	6
+R : còn	2
+R : cũng	5
+R : cả	1
+R : cứ	2
+R : giùm	1
+R : hàng	5
+R : hơn	1
+R : hết	1
+R : không	9
+R : không thể	1
+R : khỏi	2
+R : liền	1
+R : luôn	1
+R : lên	2
+R : lại	1
+R : mới	1
+R : ngay	1
+R : qua	1
+R : quá	1
+R : ra	4
+R : rất	4
+R : sẽ	2
+R : thường	2
+R : trên	1
+R : vẫn	3
+R : về	4
+R : vừa	1
+R : xuống	1
+R : Đâu	1
+R : đang	2
+R : đi	4
+R : đã	10
+R : được	3
+R : đến	4
+R : đều	3
+RBKT : RBKT	3
+T : hết	1
+T : riêng	1
+T : đâu	1
+T : đến	1
+V : *E*	2
+V : Chắc chắn	1
+V : Muốn	1
+V : Thấy	1
+V : Thử	1
+V : Tính	1
+V : bao	1
+V : biết	5
+V : buôn	1
+V : buôn bán	1
+V : bán	10
+V : báo	1
+V : bảo	2
+V : bẫy	1
+V : bắt đầu	1
+V : bị	6
+V : bỏ	1
+V : bỏ mối	1
+V : cho	5
+V : chào bán	1
+V : chào giá	1
+V : chạy	2
+V : chảy	1
+V : chết	2
+V : chỉ	1
+V : chọn	1
+V : chứng minh	1
+V : cung cấp	2
+V : cân	1
+V : còn	3
+V : có	25
+V : có mặt	1
+V : cất	1
+V : cột	1
+V : dùng	2
+V : dẫn	1
+V : giúp	1
+V : giới thiệu	2
+V : gom	2
+V : gọi	3
+V : gửi	2
+V : hỏi	2
+V : khỏi	1
+V : kiểm lâm	2
+V : kiểm soát	1
+V : kêu	2
+V : kể	2
+V : lo	1
+V : là	8
+V : làm	4
+V : làm thịt	1
+V : lên	1
+V : lấy	4
+V : mang	7
+V : mua	3
+V : mua bán	1
+V : muốn	5
+V : ngâm	1
+V : người	1
+V : nhìn	2
+V : nhận	1
+V : nhậu	10
+V : nhắc	1
+V : nhốt	1
+V : nhờ	1
+V : nuôi	3
+V : nên	1
+V : nói	5
+V : nói chuyện	1
+V : nướng	7
+V : nằm	8
+V : phải	3
+V : qua	2
+V : ra	2
+V : siết	1
+V : sống	1
+V : sợ	2
+V : thu hút	1
+V : thâm nhập	1
+V : thêm bớt	1
+V : thưởng thức	1
+V : thấy	2
+V : thọc	2
+V : thốt	1
+V : tiêu thụ	1
+V : tiếp tân	1
+V : tiết lộ	1
+V : trông	1
+V : trở	1
+V : tàn sát	1
+V : tìm	2
+V : tóm cổ	1
+V : tập trung	1
+V : vào	4
+V : về	1
+V : xem	1
+V : xuất	1
+V : xuất hiện	1
+V : xơi	1
+V : yên chí	1
+V : yên trí	2
+V : yên vị	1
+V : ăn	2
+V : ăn nhậu	1
+V : Đặt	1
+V : điều tra	1
+V : đáng	1
+V : đón	1
+V : đưa	3
+V : được	5
+V : đặt	4
+V : đến	1
+V : đội	1
+V : đợi	1
+V : đứng	1
+V : ước tính	1
+X : có lẽ	1
+Y : A	1

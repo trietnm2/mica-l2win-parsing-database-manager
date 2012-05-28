@@ -1,0 +1,451 @@
+" : "	86
+, : ,	66
+- : -	6
+- : –	2
+. : .	48
+... : ...	10
+: : :	11
+? : ?	9
+A : Tối cao	1
+A : chuyên môn	1
+A : chuyên sâu	1
+A : chính thức	1
+A : chủ quản	1
+A : công khai	1
+A : cũ	2
+A : cơ bản	1
+A : cần thiết	3
+A : cụ thể	1
+A : dưới	1
+A : gần	2
+A : hành chính	2
+A : kịp	1
+A : nghiêm trọng	1
+A : nhanh	1
+A : phải	1
+A : riêng	1
+A : rõ	5
+A : sai	1
+A : sau	1
+A : trên	1
+A : tương tự	1
+A : vắng	1
+A : vội vã	2
+A : đúng	3
+A : đặc biệt	2
+C : Dù	1
+C : Nếu	1
+C : Tuy nhiên	1
+C : còn	1
+C : hay	1
+C : hoặc	1
+C : mà	2
+C : như	6
+C : như vậy	1
+C : nhưng	7
+C : nếu	1
+C : rằng	1
+C : thì	5
+C : và	8
+C : với	1
+E : Trước	1
+E : cho	4
+E : của	26
+E : do	1
+E : dưới	2
+E : giữa	1
+E : sau	2
+E : theo	5
+E : trong	11
+E : trên	2
+E : tại	2
+E : từ	1
+E : vào	2
+E : về	6
+E : với	7
+E : Đến	1
+E : để	9
+E : đối với	2
+E : ở	5
+L : các	6
+L : một số	1
+L : những	2
+L : vài	1
+LBKT : LBKT	7
+M : 1	1
+M : 10	1
+M : 18	1
+M : 1997	1
+M : 1998	3
+M : 2	3
+M : 24	1
+M : 26	1
+M : 3	2
+M : 327	2
+M : 400	1
+M : 5	1
+M : 6	3
+M : 999	3
+M : ba	2
+M : hai	3
+M : một	4
+N : Bị cáo	5
+N : Bộ	10
+N : Bộ trưởng	1
+N : Chiều	1
+N : Chính phủ	6
+N : Công ty	6
+N : Công văn	1
+N : Hội đồng	1
+N : Khi	1
+N : Lê Huy Ngọ	1
+N : Ngày	1
+N : Ngân hàng	2
+N : Nhà nước	1
+N : Nhân chứng	1
+N : Nhân dân	1
+N : Nông nghiệp	1
+N : Tiền	1
+N : Tài chính	1
+N : Tòa án	1
+N : Việc	1
+N : Viện Kiểm sát	1
+N : Vụ	1
+N : anh em	1
+N : biên bản	1
+N : báo chí	1
+N : bên	3
+N : bút tích	1
+N : băng	1
+N : bị cáo	14
+N : bối cảnh	1
+N : bộ	8
+N : bộ trưởng	16
+N : chế độ	1
+N : chủ trương	9
+N : chủ tọa	1
+N : cái	1
+N : cán bộ	1
+N : câu	1
+N : câu hỏi	1
+N : công trình	1
+N : công ty	1
+N : công việc	2
+N : công văn	9
+N : cơ quan	1
+N : cấp	2
+N : cầu thang	1
+N : cổng	1
+N : cột	1
+N : cử tọa	1
+N : dự án	2
+N : ghế	1
+N : giai đoạn	1
+N : hoàn cảnh	1
+N : hoạt động	1
+N : hậu quả	1
+N : hội đồng	2
+N : khi	6
+N : khu	2
+N : khó khăn	1
+N : khả năng	1
+N : khối lượng	1
+N : kế hoạch	2
+N : kế toán	1
+N : luật gia	1
+N : luật sư	2
+N : lãnh đạo	1
+N : lúc	1
+N : lĩnh vực	1
+N : lối	1
+N : lời	1
+N : máy ảnh	1
+N : ngày	1
+N : ngân hàng	1
+N : ngân sách	1
+N : người	2
+N : nhiệm vụ	1
+N : nhà	1
+N : nhà nước	2
+N : nhân chứng	6
+N : nhóm	1
+N : nông nghiệp	1
+N : nông thôn	1
+N : năm	4
+N : nội dung	1
+N : phiên	1
+N : phiên tòa	1
+N : pháp nhân	1
+N : phòng	2
+N : phóng viên	1
+N : quy chế	1
+N : quy định	1
+N : quyết định	1
+N : sự việc	2
+N : thiếu sót	4
+N : tháng	2
+N : thẩm quyền	1
+N : thời	2
+N : thời gian	1
+N : thứ	1
+N : thứ trưởng	7
+N : tiền	2
+N : trong	1
+N : trách nhiệm	8
+N : trường hợp	1
+N : trụ sở	1
+N : tình hình	1
+N : tín dụng	4
+N : tòa	3
+N : tòa án	1
+N : tư cách	1
+N : tổ chức	1
+N : tổng	1
+N : việc	2
+N : văn bản	3
+N : vấn đề	1
+N : vốn	11
+N : vụ	2
+N : vụ trưởng	1
+N : vụ án	2
+N : xuất xứ	1
+N : xác nhận	1
+N : Ông	4
+N : ông	3
+N : ý	1
+N : ý kiến	2
+N : đinh	1
+N : đây	1
+N : đó	1
+N : đơn vị	1
+N : đại diện	2
+N : đầu	1
+N : đề nghị	2
+N : đệm	1
+N : đồng nghiệp	1
+N : đồng phạm	1
+N : ống kính	1
+NP : *E*	19
+NP : *T*	1
+Nc : Anh	1
+Nc : Cái	1
+Nc : Vị	1
+Nc : anh	1
+Nc : cuộc	1
+Nc : cấp	1
+Nc : hàng	1
+Nc : sự	2
+Nc : việc	5
+Nc : Ông	2
+Nc : ông	9
+Np : Bộ	1
+Np : Công ty Tiếp thị	1
+Np : Hà	4
+Np : Hà Nội	1
+Np : Luân	7
+Np : Lâm nghiệp	1
+Np : Lã Thị Kim Oanh	5
+Np : Lê Huy Ngọ	7
+Np : Nguyễn Công Tạn	1
+Np : Nguyễn Hùng Cường	1
+Np : Nguyễn Quang Hà	2
+Np : Nguyễn Thiện Luân	3
+Np : Ngọ	8
+Np : Nông nghiệp	1
+Np : Phan Văn Quán	2
+Np : Phạm Hồng Giang	1
+Np : Thủy lợi	1
+Np : Tiếp thị	5
+Np : Trần Đình Triển	1
+Np : Tạn	1
+Np : Viện Kiểm sát	2
+Np : tiếp thị	1
+Ny : &	6
+Ny : A	1
+Ny : DN	7
+Ny : HĐXX	14
+Ny : KHĐT	1
+Ny : NN	7
+Ny : PTNT	7
+P : Tôi	2
+P : Vậy	1
+P : gì	5
+P : mình	2
+P : này	7
+P : tôi	4
+P : Đây	1
+P : Đó	2
+P : đâu	2
+P : đây	3
+P : đó	3
+R : Có	1
+R : Không	2
+R : Vẫn	2
+R : chưa	2
+R : chỉ	3
+R : có	3
+R : có thể	2
+R : cũng	7
+R : cứ	1
+R : hơn	1
+R : không	16
+R : không thể nào	1
+R : lại	3
+R : mới	3
+R : ra	2
+R : rất	1
+R : rồi	1
+R : tiếp	2
+R : từng	1
+R : vẫn	2
+R : về	1
+R : vừa	2
+R : đang	1
+R : đã	5
+R : được	3
+RBKT : RBKT	7
+S : nguyên	3
+S : phi	1
+T : Ngay	1
+T : hết	1
+T : tới	1
+V : *E*	6
+V : Có	1
+V : Là	1
+V : Mong	1
+V : Muốn	2
+V : Tháp tùng	1
+V : Thưa	1
+V : Xây dựng	1
+V : biết	3
+V : buông lỏng	1
+V : bàn giao	1
+V : bào chữa	1
+V : báo cáo	1
+V : bị	1
+V : chi trả	1
+V : chia sẻ	1
+V : cho	8
+V : cho phép	2
+V : chấp thuận	1
+V : chịu	1
+V : chờ	1
+V : chủ trương	1
+V : còn	1
+V : có	15
+V : công bố	2
+V : cấp	1
+V : cấp phát	1
+V : diễn	1
+V : ghi	1
+V : ghi hình	1
+V : giao	1
+V : giúp	1
+V : giải thích	1
+V : giải trình	1
+V : gợi ý	1
+V : hay	1
+V : hiểu	1
+V : hoàn thành	2
+V : hỏi	5
+V : khai	1
+V : khẳng định	3
+V : kinh doanh	1
+V : kiểm tra	3
+V : ký	10
+V : kết thúc	1
+V : là	18
+V : làm	3
+V : làm chứng	1
+V : làm việc	2
+V : lên	1
+V : lúng túng	1
+V : lật	1
+V : muốn	2
+V : mất	1
+V : nháy	1
+V : nhận thức	1
+V : nhớ	1
+V : nhờ	1
+V : nói	2
+V : nại	1
+V : phát biểu	1
+V : phát sinh	1
+V : phát triển	2
+V : phân định	1
+V : phúc thẩm	2
+V : phải	4
+V : phụ trách	2
+V : quyết toán	1
+V : quyết định	2
+V : quản lý	2
+V : ra	2
+V : rời	1
+V : sáp nhập	1
+V : sản xuất	1
+V : sử dụng	1
+V : thanh toán	2
+V : thay	1
+V : theo dõi	2
+V : thi công	1
+V : thiếu	4
+V : thu hồi	1
+V : thành	1
+V : tháo gỡ	1
+V : thêm	1
+V : thường trực	1
+V : thất thoát	1
+V : thấy	2
+V : thẩm vấn	2
+V : thẩm định	3
+V : thắc mắc	1
+V : thể hiện	2
+V : thực hiện	2
+V : tiếp tục	2
+V : tranh thủ	1
+V : triển khai	1
+V : triển lãm	2
+V : truy	1
+V : tránh	1
+V : tránh mặt	1
+V : trình	1
+V : trình bày	3
+V : trả lời	3
+V : trở lại	1
+V : tìm	1
+V : tăng	1
+V : tự chủ	1
+V : vay	6
+V : vào	1
+V : về	1
+V : xem xét	2
+V : xin	5
+V : xoay	1
+V : xong	1
+V : xuất hiện	1
+V : xác nhận	10
+V : xét xử	2
+V : xảy	1
+V : xử	2
+V : Đầu tư	1
+V : đi	2
+V : đánh giá	1
+V : đóng	1
+V : được	3
+V : đặt	1
+V : đề nghị	2
+V : để	2
+V : đối chất	4
+V : đồng tình	1
+V : đồng ý	2
+V : ưu đãi	2
+V : ở	1
+X : Lẽ ra	1
+X : Như vậy	1
+X : dường như	1
+X : mặt khác	1
+X : một mặt	1
+X : như thế	1
+X : thế nào	1
+Y : &	1
+” : “	1

@@ -1,0 +1,559 @@
+! : !	7
+" : "	10
+, : ,	61
+- : -	8
+. : .	30
+... : ...	11
+: : :	4
+? : ?	2
+A : Hơn	1
+A : Nhiều	1
+A : cao	1
+A : chính thức	1
+A : cuối	1
+A : có thể	3
+A : dài	1
+A : dễ dàng	1
+A : dọc	1
+A : gần	4
+A : gốc	1
+A : hoang	1
+A : hoàn toàn	1
+A : hơn	2
+A : hợp pháp	1
+A : khác	2
+A : kịp	1
+A : lèo tèo	1
+A : nghịch	2
+A : ngoài	1
+A : ngắn	1
+A : nhanh	3
+A : nhanh chóng	1
+A : nhiều	8
+A : như	4
+A : phải	1
+A : phổ thông	1
+A : quốc tế	1
+A : rộng	1
+A : sâu	1
+A : sầm uất	1
+A : thuận lợi	1
+A : thân yêu	1
+A : thơ ấu	2
+A : trung ương	1
+A : trái	1
+A : trên	1
+A : xa	2
+A : xa xôi	1
+A : xưa	1
+A : ít	1
+A : đau đáu	1
+A : đông	1
+A : đông đúc	1
+A : đúng	1
+A : đầy	1
+A : đẹp	1
+C : Dĩ nhiên	1
+C : Nhưng	1
+C : Nếu	1
+C : Tuy nhiên	1
+C : Và	1
+C : còn	1
+C : dù	1
+C : hay	1
+C : hay là	1
+C : huống nữa	1
+C : là	5
+C : mà	6
+C : như	4
+C : nhưng	5
+C : nên	1
+C : nếu	2
+C : rồi	4
+C : song	1
+C : thành ra	2
+C : thì	11
+C : thế là	1
+C : tuy	2
+C : và	12
+C : với	1
+E : Theo	1
+E : Trong	1
+E : Trước	1
+E : Tại	1
+E : Từ	1
+E : bằng	2
+E : cho	3
+E : của	9
+E : giữa	1
+E : lên	1
+E : qua	2
+E : sang	1
+E : sau	4
+E : theo	4
+E : trong	7
+E : trên	5
+E : trước	2
+E : tại	2
+E : tới	1
+E : từ	15
+E : vào	4
+E : về	8
+E : với	5
+E : đến	4
+E : để	7
+E : ở	13
+I : Chao ôi	1
+I : nhé	1
+L : Mấy	1
+L : Những	1
+L : các	4
+L : mấy	5
+L : mọi	1
+L : những	8
+L : vài	1
+LBKT : LBKT	11
+M : 1	1
+M : 12	2
+M : 1947	1
+M : 1960	2
+M : 1963	1
+M : 2	2
+M : 2 , 5	1
+M : 2006	1
+M : 23	1
+M : 250	2
+M : 30	1
+M : 40	1
+M : 41	1
+M : 8	1
+M : 9	4
+M : Hai	1
+M : ba	1
+M : bốn	1
+M : chín	2
+M : chục	1
+M : hai	1
+M : mười	1
+M : một	13
+M : năm	1
+M : sáu	1
+M : vạn	1
+N : Chị	1
+N : Cuối	1
+N : Hôm	1
+N : Hạ tầng	1
+N : Hồi	2
+N : Khi	1
+N : Mạn	1
+N : Nhúm	1
+N : Năm	1
+N : Quê	1
+N : Tổ quốc	1
+N : anh	1
+N : anh em	1
+N : bao	1
+N : biển	1
+N : buổi	2
+N : bà con	8
+N : bên	10
+N : bắc	7
+N : bộ	1
+N : bộ phận	1
+N : bờ	2
+N : caravan	2
+N : cha	1
+N : chiều	1
+N : chuyện	4
+N : chuông	1
+N : chùa	3
+N : chùa chiền	1
+N : chị	5
+N : cuối	3
+N : cuộc	3
+N : cá	1
+N : cách	2
+N : cách thức	1
+N : công nghệ	1
+N : cảng	1
+N : cảnh	1
+N : cầu	4
+N : cố hương	1
+N : cố xứ	1
+N : cửa khẩu	3
+N : di sản	1
+N : du khách	1
+N : dáng vóc	1
+N : dân cư	1
+N : dòng	4
+N : em	1
+N : gia đình	3
+N : giao thông	2
+N : giấc	1
+N : giấy	2
+N : giọng	1
+N : giữa	2
+N : hiện nay	2
+N : huyện lỵ	1
+N : hành lang	2
+N : hành trình	1
+N : hôm	1
+N : hướng dẫn viên	1
+N : hồi	1
+N : hộ chiếu	3
+N : khi	2
+N : khách	3
+N : kinh tế	1
+N : kỳ	1
+N : kỷ lục	1
+N : luật	1
+N : luật pháp	1
+N : lúc	1
+N : lượng	1
+N : lộ trình	1
+N : lữ hành	1
+N : miền	7
+N : máy	1
+N : móng	1
+N : mộ	1
+N : một chút	1
+N : ngoại kiều	1
+N : ngành	2
+N : ngày	4
+N : ngày đêm	1
+N : người	4
+N : ngả	4
+N : nhau	2
+N : nhà	9
+N : nhạc	1
+N : nhựa	1
+N : năm	8
+N : nơi	1
+N : nước	5
+N : nỗi niềm	1
+N : phà	1
+N : phía	2
+N : phần	1
+N : phố	1
+N : quan san	1
+N : quê nhà	2
+N : quốc ca	2
+N : quốc lộ	3
+N : quốc tịch	1
+N : ruột	1
+N : rừng	1
+N : sáng	1
+N : sông	1
+N : số	3
+N : sự	1
+N : tay	1
+N : tay lái	4
+N : tháng	2
+N : tháp	1
+N : thảm	1
+N : thập niên	1
+N : thắng cảnh	1
+N : thế giới	1
+N : thị thực	1
+N : thị trấn	2
+N : thời gian	2
+N : thủ phủ	3
+N : thủ tục	3
+N : tiếng	1
+N : tour	2
+N : trung tuần	1
+N : trưa	1
+N : trở ngại	1
+N : trụ	1
+N : trục	1
+N : tuyến	1
+N : tuần	3
+N : tàng	1
+N : tàu	2
+N : tòa	1
+N : tấm	1
+N : tầm	1
+N : tầng	1
+N : tỉnh	1
+N : việc	1
+N : ví như	1
+N : vùng	4
+N : vùng đất	1
+N : văn bản	1
+N : vấn đề	1
+N : xe	3
+N : yếu tố	1
+N : ôtô	4
+N : Đường	1
+N : Đường xá	1
+N : điều	3
+N : điện	1
+N : đoàn	3
+N : đông	8
+N : đông bắc	1
+N : đường	12
+N : đường bộ	2
+N : đạo	1
+N : đất	6
+N : đồ đạc	1
+N : đồng	1
+N : đỗi	1
+N : động thái	1
+N : đợt	2
+NP : *E*	20
+NP : *T*	2
+Nc : Chị	1
+Nc : Con	2
+Nc : chiếc	1
+Nc : chàng	1
+Nc : chị	1
+Nc : con	1
+Nc : cái	1
+Nc : cây	1
+Nc : ngôi	1
+Nc : người	1
+Nc : sự	1
+Np : ASEAN	2
+Np : Bangkok	2
+Np : Hà Nội	1
+Np : Hà Tĩnh	1
+Np : Hàng Bài	1
+Np : Hạ Long	1
+Np : Hải Phòng	1
+Np : Hữu Nghị	2
+Np : Isan	1
+Np : Khonkaen	2
+Np : Lao Bảo	2
+Np : Liên	2
+Np : Lào	7
+Np : Lại Thị Liên	1
+Np : Maesot	1
+Np : Maulayaing	1
+Np : Mekong	3
+Np : Mittafab	1
+Np : Muk	1
+Np : Mukdahan	2
+Np : Myanmar	2
+Np : Mường Phìn	1
+Np : Mỹ Sơn	1
+Np : Nam Định	1
+Np : Nongwaeng	1
+Np : Noong Khai	3
+Np : Phitsanulok	1
+Np : Quảng Nam	1
+Np : Savanakhet	1
+Np : Savẳn	3
+Np : Sepol Travel	1
+Np : Sênô	1
+Np : Sêpôn	1
+Np : Thabo	1
+Np : Thái	19
+Np : Thái Lan	1
+Np : Trung	1
+Np : Trần Hữu Phước	1
+Np : Udon	1
+Np : VN	16
+Np : Vientiane	1
+Np : Vinh	1
+Np : Việt	7
+Np : Việt kiều	8
+Np : Yên Tiến	1
+Np : Á	1
+Np : Ý Yên	1
+Np : Đà Nẵng	1
+Np : Đông Hà	1
+Np : Đông Tây	2
+Np : Ấn Độ	2
+Np : Ấn Độ Dương	1
+Nu : km	1
+Nu : phút	1
+P : Bây giờ	2
+P : Chúng tôi	1
+P : Nay	1
+P : Tôi	1
+P : bao giờ	1
+P : bao nhiêu	1
+P : bây giờ	3
+P : chúng tôi	5
+P : cả	1
+P : giờ	1
+P : gì	1
+P : mình	5
+P : nào	1
+P : này	8
+P : sao	1
+P : tay	1
+P : thế	3
+P : tôi	1
+P : tất cả	3
+P : vậy	1
+P : đây	6
+P : đó	2
+P : đấy	1
+P : ấy	3
+R : Chưa	1
+R : Không	3
+R : Rất	1
+R : bỗng	1
+R : chưa	5
+R : chả	1
+R : chỉ	8
+R : chợt	1
+R : còn	3
+R : cũng	5
+R : cứ việc	1
+R : hơn	2
+R : khá	2
+R : không	3
+R : luôn	1
+R : lên	5
+R : lại	6
+R : lấy	1
+R : mãi	1
+R : mới	3
+R : nhất	1
+R : nữa	2
+R : phải	1
+R : quá	3
+R : quá ư	1
+R : ra	3
+R : rất	4
+R : rồi	1
+R : sang	1
+R : sẽ	2
+R : vẫn	3
+R : về	1
+R : vừa	2
+R : đang	7
+R : đã	12
+R : được	1
+RBKT : RBKT	11
+T : cái	1
+T : này	1
+T : thôi	1
+T : thật	1
+T : thế	1
+T : tận	3
+T : đến	2
+V : Cứ	1
+V : biết	2
+V : bàn	2
+V : bảo	2
+V : bỏ	3
+V : cho	1
+V : chuyển giao	1
+V : chuyển động	1
+V : chuẩn bị	1
+V : chạm	1
+V : chạy	3
+V : chảy	1
+V : chất	1
+V : chịu	1
+V : chờ	1
+V : chứng kiến	1
+V : coi	1
+V : cài	1
+V : cách	1
+V : còn	1
+V : có	4
+V : công nhận	1
+V : cất	2
+V : cầm	1
+V : cần	2
+V : cập	1
+V : cố gắng	1
+V : di động	1
+V : diễu hành	1
+V : du lịch	2
+V : dự định	1
+V : giới thiệu	1
+V : gặp	2
+V : gọi	1
+V : hiểu	2
+V : hoàn thành	2
+V : hành nghề	1
+V : hết	1
+V : họp	2
+V : hỏi	1
+V : hồi hương	4
+V : khai thác	1
+V : khắc khoải	1
+V : khởi hành	1
+V : kiếm	1
+V : ký	1
+V : kỳ vọng	1
+V : lo lắng	1
+V : loại trừ	1
+V : là	9
+V : làm	4
+V : làm ăn	1
+V : láng	1
+V : lên	2
+V : lênh đênh	1
+V : mang	1
+V : muốn	1
+V : mơ	1
+V : nghe	2
+V : nghịch	1
+V : ngược	2
+V : ngồi	2
+V : nhìn	1
+V : nhô	1
+V : nhập	1
+V : nhập cư	1
+V : nhập cảnh	1
+V : nhớ nhung	1
+V : nâng cấp	2
+V : nướng	1
+V : nối	1
+V : o	1
+V : phải	1
+V : phụ trách	1
+V : qua	1
+V : quay	1
+V : ráng	1
+V : rút	2
+V : rời	1
+V : rủ	1
+V : sang	8
+V : sinh	1
+V : sung sướng	1
+V : sống	1
+V : theo	2
+V : thi công	1
+V : thuận	1
+V : thêm	4
+V : thăm	9
+V : thương nhớ	2
+V : thấy	3
+V : trò chuyện	2
+V : trở lại	2
+V : trừ	1
+V : tùy thân	1
+V : tự do	2
+V : vui vẻ	1
+V : vào	3
+V : vãn cảnh	1
+V : vắng vẻ	1
+V : về	15
+V : xa cách	1
+V : xuyên	1
+V : xuất phát	1
+V : xuống	1
+V : xúc động	1
+V : ăn	1
+V : đi	8
+V : đi lại	4
+V : đưa	1
+V : được	7
+V : đầu tư	1
+V : đặt chân	1
+V : đợi	1
+X : Có lẽ	1
+X : chôn nhau cắt rốn	1
+X : có lẽ	1
+X : làm sao	1
+X : nghĩa là	1
+X : quê cha đất tổ	1
+X : rồi đây	1
+X : vừa rồi	1

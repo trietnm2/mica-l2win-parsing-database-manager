@@ -1,0 +1,451 @@
+! : !	2
+" : "	34
+, : ,	66
+- : -	6
+. : .	43
+... : ...	3
+/ : /	5
+: : :	8
+; : ;	2
+? : ?	1
+A : cuối cùng	1
+A : duy nhất	1
+A : dài	1
+A : dọc	1
+A : gần	2
+A : hơn	4
+A : hẳn	1
+A : hẻo lánh	1
+A : khoảng	2
+A : khắp	1
+A : kịp	1
+A : lớn	2
+A : mới	1
+A : ngây thơ	1
+A : nhanh	1
+A : nhiều	3
+A : nhất	1
+A : phải	1
+A : quen thuộc	1
+A : rắn chắc	1
+A : sang trọng	1
+A : sau	2
+A : sướng	1
+A : sầm uất	1
+A : thường xuyên	1
+A : trên	2
+A : tơ	1
+A : tấp nập	1
+A : ít	1
+A : Đúng	1
+A : điên	1
+A : đông	1
+A : đẹp	1
+A : đủ	2
+C : Mặc dù	1
+C : hay	1
+C : là	3
+C : mà	2
+C : mặc dù	1
+C : như	1
+C : nhưng	4
+C : rồi	1
+C : tức là	2
+C : và	6
+E : Sau	2
+E : Theo	1
+E : Trong	1
+E : Từ	2
+E : bởi	3
+E : cho	6
+E : của	10
+E : do	1
+E : ra	4
+E : sang	1
+E : sau	3
+E : theo	2
+E : trong	9
+E : trên	1
+E : trước	1
+E : tại	3
+E : từ	4
+E : vào	5
+E : vì	1
+E : về	4
+E : với	5
+E : đến	2
+E : để	8
+E : ở	7
+L : Những	2
+L : Vài	1
+L : các	7
+L : những	6
+L : nửa	1
+LBKT : LBKT	4
+M : 1	1
+M : 1 triệu	1
+M : 10	2
+M : 10.000	1
+M : 100.000	1
+M : 12	3
+M : 12.500	1
+M : 120	1
+M : 13.500	1
+M : 15	2
+M : 16	2
+M : 17	4
+M : 18	2
+M : 2	1
+M : 2,5 triệu	1
+M : 20	3
+M : 30	2
+M : 4	1
+M : 400	1
+M : 6	1
+M : 80	1
+M : Hai	1
+M : Mỗi	1
+M : Một	2
+M : ba	3
+M : bốn	3
+M : chục	1
+M : hai	4
+M : một	13
+M : năm	2
+M : nửa	1
+M : tám	1
+M : đôi	1
+N : Anh em	2
+N : Bé	1
+N : Bên	1
+N : Bữa	2
+N : Chó	2
+N : Giá	2
+N : Hành trình	1
+N : Phiên	4
+N : Thanh Hóa	1
+N : Thời gian	1
+N : anh	1
+N : anh em	3
+N : ba	2
+N : bà	1
+N : bàn tay	2
+N : bé	1
+N : bên	1
+N : bình quân	1
+N : bạn	1
+N : bạn hàng	1
+N : bả	1
+N : chuyến	1
+N : cháu	2
+N : chân	1
+N : chó	47
+N : chớp	1
+N : chợ	8
+N : chủ	3
+N : con	9
+N : cá	1
+N : công an	1
+N : công việc	1
+N : cơm	1
+N : cẩu	1
+N : cổ	1
+N : cụ	1
+N : dân	2
+N : dấu	1
+N : giá	1
+N : giá cả	1
+N : giọng	1
+N : heo	1
+N : huyện	4
+N : hành trình	1
+N : hôm	1
+N : hướng	4
+N : hồi	1
+N : khi	3
+N : kho	2
+N : khoảng	1
+N : khu	1
+N : kẹp	1
+N : kẻ	1
+N : lái	1
+N : lái buôn	4
+N : lão	1
+N : lúc	2
+N : lần	2
+N : lẽ	1
+N : lễ	1
+N : miền	1
+N : mình	1
+N : mối	1
+N : nghề	2
+N : ngày	11
+N : người	8
+N : ngả	1
+N : nhà	8
+N : nhà hàng	2
+N : nói	1
+N : nông thôn	1
+N : núi	1
+N : năm	6
+N : nạn	1
+N : nội địa	1
+N : phiên	1
+N : phía	1
+N : phương	1
+N : quà	1
+N : quê	1
+N : quốc lộ	3
+N : ruột	1
+N : rọ	4
+N : sắt	2
+N : số	1
+N : tay	4
+N : tay lái	1
+N : thu nhập	1
+N : thuốc	1
+N : tháng	2
+N : thâm niên	1
+N : thương lái	1
+N : thương vụ	1
+N : thị trấn	2
+N : thị xã	1
+N : thịt	3
+N : thời điểm	2
+N : tiếng	1
+N : tiền	3
+N : trai	2
+N : tri âm	1
+N : trường hợp	1
+N : trẻ	1
+N : tuổi	2
+N : tài xế	1
+N : tình hình	1
+N : tặc	1
+N : tết	1
+N : tỉnh	1
+N : từ	1
+N : vùng	1
+N : xe	2
+N : xe tải	1
+N : xã	4
+N : ông	3
+N : điểm	4
+N : điện	1
+N : đà	1
+N : đàn ông	1
+N : đường	2
+N : đại gia	1
+N : đại lý	4
+N : địa phương	2
+N : địa điểm	2
+N : đồng nghiệp	1
+N : độ	1
+N : đợt	1
+NP : *E*	7
+NP : *T*	3
+Nc : Anh	2
+Nc : Bọn	1
+Nc : Chiếc	1
+Nc : Con	2
+Nc : chiếc	3
+Nc : chú	6
+Nc : con	4
+Nc : cuộc	1
+Nc : cái	1
+Nc : cụ	1
+Nc : ngôi	1
+Nc : người	4
+Nc : sự	2
+Nc : Ông	5
+Nc : ông	19
+Nc : đứa	2
+Np : Bùi A	5
+Np : Bùi B	3
+Np : Bắc	2
+Np : Chính	4
+Np : Duy Phước	1
+Np : Duy Xuyên	2
+Np : Dũng	1
+Np : Honda	1
+Np : Hà Nội	3
+Np : Hạt	3
+Np : Hội An	1
+Np : Nam Phước	1
+Np : Nguyễn Minh Phụng	1
+Np : Nguyễn Đình Mạnh	1
+Np : Phạm Tuấn	1
+Np : Phạm Yên	1
+Np : Phụng	2
+Np : Quảng Nam	4
+Np : Quốc	3
+Np : Thanh Hóa	3
+Np : Thành	6
+Np : Thăng Bình	2
+Np : Tiên Phước	1
+Np : Trung Quốc	1
+Np : Trần Văn Lang	1
+Np : Tuấn	2
+Np : Vàng	6
+Np : Yên	1
+Np : Điện Bàn	1
+Np : Điện Minh	1
+Np : Điện Phương	2
+Nu : g	10
+Nu : kg	3
+Nu : m	1
+Nu : tạ	1
+Nu : tấn	1
+Nu : đồng	7
+Ny : U17	1
+Ny : g	1
+P : Tôi	1
+P : bây giờ	1
+P : cả	4
+P : gì	1
+P : hôm nay	2
+P : kia	1
+P : mình	1
+P : nay	2
+P : người ta	2
+P : này	4
+P : Đó	1
+P : đây	5
+P : đích thân	1
+R : Không	1
+R : chưa	2
+R : chỉ	3
+R : càng	3
+R : còn	2
+R : cũng	3
+R : dần	1
+R : hàng	1
+R : hằng	1
+R : không	10
+R : lại	1
+R : lấy	1
+R : lần lượt	2
+R : lắm	1
+R : nhất	1
+R : ra	5
+R : rất	1
+R : sẽ	1
+R : thường	2
+R : vẫn	2
+R : về	1
+R : đã	1
+R : được	3
+R : đều	1
+RBKT : RBKT	4
+T : nhé	1
+V : *E*	1
+V : *T*	3
+V : Có	1
+V : Lên đường	1
+V : Tổng kết	1
+V : Vào	1
+V : biết	3
+V : buôn	1
+V : bán	11
+V : bắt	4
+V : bắt giữ	1
+V : bắt đầu	2
+V : bắt đầu từ	1
+V : bỏ	1
+V : cho	4
+V : chung	1
+V : chuyển	1
+V : chào	1
+V : chạm trán	1
+V : chạy	1
+V : chở	2
+V : chứa	1
+V : cách	1
+V : còn	2
+V : có	4
+V : cất	1
+V : cầm	1
+V : cử	1
+V : dành	1
+V : dùng	2
+V : dắt	1
+V : dừng	1
+V : giảm	1
+V : giữ	1
+V : gom	1
+V : gắn bó	1
+V : gọi	3
+V : gồm	1
+V : hái	1
+V : hình thành	1
+V : hô	1
+V : khuất	1
+V : khóc lóc	1
+V : khỏi	1
+V : kẹp	1
+V : kết thúc	2
+V : liên hệ	1
+V : loại trừ	1
+V : là	6
+V : làm	1
+V : lên	1
+V : lấy	1
+V : lời	1
+V : mang	1
+V : mua	12
+V : nhìn	2
+V : nhốt	1
+V : nuôi	1
+V : nuối tiếc	1
+V : nói	4
+V : nằm	1
+V : phải	1
+V : sôi động	2
+V : sống	1
+V : thiếu	1
+V : thu gom	1
+V : thu mua	2
+V : thuộc	1
+V : thêm	1
+V : thò	1
+V : thông báo	1
+V : thương lượng	1
+V : thả	1
+V : thỏa thuận	1
+V : thống nhất	1
+V : tiêu thụ	2
+V : tiễn	1
+V : trung thành	1
+V : trộm	3
+V : tăng	2
+V : tập trung	2
+V : tặng	1
+V : tỏa	1
+V : vào	4
+V : vẫy	1
+V : về	3
+V : xuất khẩu	2
+V : xuống	1
+V : xảy	1
+V : xẻ	1
+V : xử lý	1
+V : yêu quí	1
+V : ăn	2
+V : Đổi	1
+V : đem	2
+V : đi	12
+V : đành	1
+V : đánh	2
+V : đáp	1
+V : đưa	2
+V : được	6
+V : đậu	1
+V : đến	2
+V : đổ	1
+V : đổi	11
+V : đứng	2
+V : ủy thác	1
+X : không chừng	1
+X : thay vì	1
+X : vào khoảng	1
+Y : 1A	3

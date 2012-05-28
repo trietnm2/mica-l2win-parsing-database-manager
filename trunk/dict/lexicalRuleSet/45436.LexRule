@@ -1,0 +1,538 @@
+! : !	2
+" : "	20
+, : ,	48
+- : -	2
+. : .	66
+... : ...	9
+: : :	6
+; : ;	1
+? : ?	4
+A : Chắc	1
+A : Cuối cùng	1
+A : bất hạnh	1
+A : bủng beo	1
+A : can đảm	1
+A : cao thượng	1
+A : chân thành	1
+A : chắc	2
+A : chắc chắn	1
+A : chặt	1
+A : cùng	1
+A : dài	1
+A : gần	1
+A : hoàn toàn	1
+A : héo	1
+A : hạnh phúc	1
+A : hồ hởi	1
+A : khác	3
+A : khôn khéo	1
+A : lú lẫn	1
+A : lạnh	1
+A : lớn	1
+A : mưu lược	1
+A : nanh nọc	1
+A : ngột ngạt	1
+A : phải	1
+A : sai	1
+A : sáng	1
+A : sâu	1
+A : sòng phẳng	1
+A : thiệt hơn	1
+A : thâm	1
+A : thông minh	1
+A : thượng thặng	1
+A : thảm hại	1
+A : to	1
+A : triệt để	1
+A : trong sạch	1
+A : trũng	1
+A : trẻ	1
+A : tuyệt đối	1
+A : tàn nhẫn	1
+A : tệ hại	1
+A : tủi nhục	1
+A : vô tình	1
+A : vô ích	1
+A : âm thầm	1
+A : đau đớn	1
+A : đàng hoàng	1
+A : đúng	1
+A : đầm đìa	1
+A : đẫy đà	1
+A : đậm	1
+A : đủ	1
+A : ổn	1
+AP : *T*	1
+C : Còn	1
+C : Hoặc	1
+C : Nhưng	2
+C : Nếu	4
+C : Tuy	1
+C : Và	1
+C : Ví dụ	1
+C : dù	2
+C : hay	2
+C : hay là	1
+C : là	1
+C : mà	4
+C : như	7
+C : nhưng	6
+C : nên	1
+C : rằng	1
+C : rồi	3
+C : thì	8
+C : tuy	1
+C : và	18
+E : Phía	1
+E : Trong	1
+E : Với	2
+E : cho	3
+E : của	17
+E : dưới	1
+E : qua	1
+E : sau	1
+E : trong	2
+E : trước	3
+E : tới	1
+E : từ	3
+E : vào	2
+E : vì	2
+E : về	4
+E : với	4
+E : Đến	1
+E : Để	2
+E : đến	8
+E : để	2
+E : ở	2
+L : Các	1
+L : Mọi	1
+L : các	2
+L : mọi	4
+L : một số	2
+L : những	5
+M : 10	2
+M : 18	1
+M : 600 . 000	1
+M : Cặp	1
+M : hai	3
+M : một	13
+M : tư	1
+M : đôi	2
+N : Chị	2
+N : Chồng chưa cưới	1
+N : Cuộc đời	1
+N : Cô	2
+N : Hàng phố	1
+N : Khi	1
+N : Khóe	1
+N : Lương	1
+N : Nhan đề	1
+N : Sau	1
+N : anh	7
+N : biên bản	1
+N : bom	2
+N : bánh	1
+N : báo	2
+N : bé	1
+N : bưu điện	1
+N : bạn bè	1
+N : bổn phận	1
+N : cam	1
+N : cao thủ	1
+N : cha mẹ	1
+N : chi phí	1
+N : chuyện	3
+N : chuẩn mực	1
+N : chân dung	1
+N : chính cung	1
+N : chú rể	1
+N : chú thích	1
+N : chị	18
+N : chồng	4
+N : chủ nhật	1
+N : chữ ký	1
+N : con	2
+N : con gái	1
+N : cách	1
+N : cô	2
+N : cô dâu	2
+N : công an	1
+N : công chức	1
+N : cơ bắp	1
+N : cơ quan	3
+N : cơ sở	1
+N : cấu tạo	1
+N : cửa hàng	2
+N : dung nhan	1
+N : dây	1
+N : dư luận	1
+N : dưới	2
+N : gia đình	1
+N : giày	1
+N : giấy	7
+N : hàng	4
+N : hàng xóm	1
+N : họ hàng	1
+N : khi	3
+N : khu	1
+N : khuôn khổ	1
+N : khách	1
+N : khăn	1
+N : khổ	1
+N : kim	1
+N : kinh nghiệm	1
+N : kẹo cao su	1
+N : kẻ	1
+N : kế hoạch	4
+N : lòng	2
+N : lúc	1
+N : lý	1
+N : lần	2
+N : lễ	1
+N : lịch trình	1
+N : lời	1
+N : lời lẽ	1
+N : muối	1
+N : mép	1
+N : móng vuốt	1
+N : môi	1
+N : mũ	1
+N : mướp	1
+N : mắt	1
+N : một cách	2
+N : mức	2
+N : nghi vấn	1
+N : nguyên nhân	1
+N : nguyên văn	1
+N : ngày	4
+N : ngày giờ	1
+N : ngày kia	1
+N : ngòi nổ	1
+N : người	7
+N : người yêu	1
+N : nhau	1
+N : nhiệm vụ	1
+N : nhiệt	1
+N : nhu cầu	1
+N : nhà	6
+N : nhà nghỉ	1
+N : nhà trai	1
+N : nhân phẩm	1
+N : nhân tình	1
+N : nơi	1
+N : nước	2
+N : nước mắt	1
+N : nạn nhân	1
+N : phe	1
+N : photo	1
+N : pháp luật	2
+N : phía	1
+N : phần	1
+N : quyền	1
+N : quầng	1
+N : răng	1
+N : siêu thị	1
+N : sư tử	1
+N : số	1
+N : số lượng	1
+N : sức mạnh	1
+N : thu nhập	1
+N : thám tử	3
+N : tháng	2
+N : thầy cô	1
+N : thủ phạm	1
+N : thứ	2
+N : tinh thần	1
+N : toàn quyền	1
+N : trình độ	1
+N : trăng hoa	1
+N : tâm can	1
+N : tên tuổi	1
+N : tình	1
+N : tình địch	1
+N : tư cách	1
+N : tội	6
+N : uy tín	1
+N : việc	4
+N : vành	1
+N : vợ	3
+N : xe	1
+N : xuân sắc	1
+N : xà phòng	1
+N : xăng	1
+N : xương sống	1
+N : ý nghĩa	1
+N : Độc kế	1
+N : điểm chỉ	1
+N : điện	1
+N : điện thoại	1
+N : đàn bà	2
+N : đàn ông	1
+N : đám cưới	2
+N : đĩ	1
+N : đạo đức	1
+N : đầu	1
+N : đầu tiên	1
+N : địa chỉ	1
+N : đồng minh	1
+N : đồng nghiệp	1
+N : độc kế	1
+N : đời	1
+N : ảnh	2
+N : ấn tượng	1
+NP : *E*	4
+NP : *T*	2
+NP : Thư	2
+Nc : Con	1
+Nc : Kẻ	1
+Nc : Người	3
+Nc : Tờ	1
+Nc : Việc	1
+Nc : anh	1
+Nc : bản	2
+Nc : cái	1
+Nc : cơn	1
+Nc : gã	1
+Nc : loạt	1
+Nc : người	1
+Nc : phong	2
+Nc : quả	3
+Nc : sự	4
+Nc : tia	1
+Nc : tờ	4
+Nc : đứa	1
+Np : Hoạn Thư	2
+Np : Hà Đông	1
+Np : Liên	17
+Np : Nhu	18
+Np : Thư	35
+Np : Toàn	15
+Np : hoạn thư	1
+Nu : g	1
+Nu : đồng	1
+P : Chúng ta	1
+P : Cả	2
+P : Nay	1
+P : ai	1
+P : bao giờ	1
+P : cô	1
+P : cả	1
+P : gì	2
+P : họ	5
+P : kia	2
+P : mình	3
+P : nay	4
+P : nào	1
+P : này	4
+P : nó	1
+P : ta	4
+P : tất cả	1
+P : từng	1
+P : vậy	1
+P : Đó	2
+P : đó	1
+P : ấy	1
+R : Có thể	1
+R : bất cứ	1
+R : chưa	2
+R : chỉ	1
+R : có thể	3
+R : cũng	6
+R : gần	1
+R : không	14
+R : không thể	1
+R : luôn	1
+R : lên	1
+R : lại	2
+R : lập tức	1
+R : nữa	2
+R : quá	1
+R : rất	1
+R : rồi	2
+R : sắp	2
+R : sẽ	12
+R : thậm chí	1
+R : vẫn	2
+R : vốn dĩ	1
+R : vừa	2
+R : xem	1
+R : đang	3
+R : đã	10
+R : được	5
+R : đều	2
+S : tổng	1
+T : Ngay	1
+T : Thế	1
+T : chính	1
+T : cả	1
+T : là	1
+T : thế	1
+T : trời	1
+T : đến	3
+V : Dùng	1
+V : Hóa giải	1
+V : Liệu	2
+V : Muốn	1
+V : Nghe	1
+V : Tháo	1
+V : Vờ	1
+V : Xét	3
+V : biến	2
+V : biết	4
+V : biếu	1
+V : buột miệng	1
+V : bày tỏ	1
+V : bán	1
+V : bênh vực	1
+V : bất khả kháng	1
+V : bị	2
+V : bỏ	3
+V : can ngăn	1
+V : chia sẻ	1
+V : cho	2
+V : chăm sóc	1
+V : chạm mặt	1
+V : chạy	1
+V : chấm dứt	1
+V : chấp hành	1
+V : chấp nhận	3
+V : chết	1
+V : chờ	1
+V : chứng minh	1
+V : có	12
+V : có mặt	1
+V : cưới	1
+V : cần	2
+V : cầu xin	1
+V : cắn	1
+V : dùng	1
+V : dạo	1
+V : ghen tuông	1
+V : ghé	1
+V : gian dâm	1
+V : giao	1
+V : giáng	1
+V : giải trí	1
+V : giới thiệu	1
+V : gánh chịu	1
+V : gặp	5
+V : gọi	1
+V : gửi	2
+V : hành động	1
+V : héo mòn	1
+V : hạ	1
+V : hạ nhục	1
+V : hại	1
+V : hằn	1
+V : hẹn	1
+V : hết	1
+V : hối cải	1
+V : hứng chịu	1
+V : in	1
+V : khai báo	1
+V : khai thác	1
+V : khiến	2
+V : khuyên	1
+V : khuyên can	1
+V : khuất phục	1
+V : khống chế	1
+V : kinh ngạc	1
+V : kèm	2
+V : kể	1
+V : liên quan	2
+V : liếc	1
+V : là	11
+V : làm	2
+V : làm chứng	1
+V : lại	1
+V : lấy	1
+V : mang	1
+V : muốn	1
+V : mặc	2
+V : mở	1
+V : nghe	1
+V : nghiến	1
+V : nghĩ	1
+V : nguôi ngoai	1
+V : ngăn	1
+V : ngờ	1
+V : ngủ	1
+V : nhận	4
+V : ném	1
+V : nói	3
+V : nắm	1
+V : phá bỏ	2
+V : phán đoán	1
+V : phát tán	1
+V : phân tích	1
+V : phải	11
+V : phản bội	1
+V : quan tâm	1
+V : quay	2
+V : quá	1
+V : ra	2
+V : sa ngã	1
+V : san	1
+V : sang	2
+V : sám hối	1
+V : sống	1
+V : sụp đổ	1
+V : theo	2
+V : thuê	1
+V : thuần hóa	1
+V : thành	2
+V : thành hôn	1
+V : thông báo	1
+V : thông cảm	1
+V : thưởng	1
+V : thấy	4
+V : thịnh nộ	1
+V : tiếp	1
+V : tiếp theo	1
+V : tiếp tục	1
+V : tiết lộ	1
+V : trình bày	1
+V : trích	1
+V : trả thù	1
+V : trở thành	1
+V : tâm sự	1
+V : tìm	1
+V : tỏ vẻ	1
+V : tổ chức	3
+V : tự nguyện	1
+V : tự vẫn	1
+V : viết	1
+V : vào	3
+V : về	4
+V : vỡ lở	1
+V : xong	1
+V : xuống	1
+V : xát	1
+V : xưng	1
+V : xấu hổ	1
+V : xử lý	1
+V : ép	1
+V : ăn	2
+V : ăn hỏi	1
+V : Đổi	1
+V : đem	1
+V : đoạn tuyệt	2
+V : đày đọa	1
+V : đánh	2
+V : đâm	1
+V : đòi hỏi	1
+V : đưa	3
+V : được	1
+V : đạt	1
+V : đến	3
+V : để	1
+V : đợi	1
+V : ở	3
+VP : *T*	1
+Vb : photo	3
+X : dường như	1
+X : hết mình	1
+X : như thế nào	1
+X : như vậy	1
+X : tại sao	1
+X : xứng đôi vừa lứa	1

@@ -1,0 +1,525 @@
+! : !	1
+" : "	26
+, : ,	42
+- : -	5
+. : .	68
+... : ...	8
+: : :	8
+; : ;	1
+? : ?	3
+A : Nhiều	1
+A : Xôm tụ	1
+A : bóng	1
+A : bằng	1
+A : chuyên nghiệp	1
+A : chính	1
+A : chóng vánh	1
+A : cùng	1
+A : căng thẳng	1
+A : cũ	1
+A : dễ dàng	1
+A : gay cấn	1
+A : gần	3
+A : hiếm	2
+A : hoàn toàn	1
+A : hăng	1
+A : hơn	2
+A : hừng hực	1
+A : inh ỏi	1
+A : khoảng	1
+A : khác	4
+A : khít khao	1
+A : kinh khủng	1
+A : lâu dài	1
+A : lớn	1
+A : mới	2
+A : ngược	1
+A : nhanh chóng	1
+A : nhiều	9
+A : nhấp nháy	1
+A : nóng	2
+A : nóng hổi	1
+A : quan trọng	1
+A : quen thuộc	1
+A : riêng	1
+A : rủi ro	1
+A : suốt	1
+A : sôi động	2
+A : sơ	1
+A : sẵn sàng	1
+A : thường xuyên	1
+A : thẳng	1
+A : trước	2
+A : trọn	1
+A : trực tiếp	1
+A : xa	1
+A : xoàng	1
+A : đông	1
+A : đầy	1
+A : đầy đủ	1
+A : đắc ý	1
+A : đắt	1
+A : đủ	2
+A : ồn ào	2
+C : Bởi vậy	1
+C : Còn	1
+C : Do	1
+C : Vậy	1
+C : chứ	1
+C : còn	1
+C : hay	4
+C : hoặc	3
+C : là	2
+C : mà	5
+C : như	1
+C : nhưng	2
+C : nên	2
+C : nếu	3
+C : thì	5
+C : và	14
+C : vì	1
+C : với	1
+E : Ngoài	1
+E : Sau	5
+E : Trong	1
+E : Trước	1
+E : Tại	1
+E : Vào	1
+E : Với	1
+E : bằng	1
+E : bởi	1
+E : cho	7
+E : của	10
+E : giữa	3
+E : qua	4
+E : sang	1
+E : sau	2
+E : trong	7
+E : trên	3
+E : trước	1
+E : tại	3
+E : từ	3
+E : vào	2
+E : về	4
+E : với	10
+E : xuống	1
+E : đến	3
+E : để	10
+E : Ở	1
+E : ở	12
+L : Mỗi	2
+L : Những	2
+L : các	4
+L : mấy	2
+L : mỗi	1
+L : một vài	2
+L : những	20
+LBKT : LBKT	7
+M : 0903	1
+M : 0903...	1
+M : 1 triệu	1
+M : 1 tỉ	1
+M : 10	2
+M : 10 triệu	1
+M : 15	1
+M : 2	1
+M : 2,5%	2
+M : 20.000	1
+M : 3 triệu	2
+M : 340...	1
+M : 4	1
+M : 40	1
+M : 5	1
+M : 5 triệu	1
+M : 5%	1
+M : 50.000	1
+M : 500.000	1
+M : 53	1
+M : Ba	1
+M : Một	1
+M : hai	4
+M : một	13
+M : ngàn	1
+M : năm	2
+M : triệu	1
+M : trăm	2
+M : tỉ	1
+N : Bên	1
+N : Chủ	1
+N : Cuộc	1
+N : Cà phê	1
+N : Dân	1
+N : Em	1
+N : Khi	3
+N : Khách	1
+N : Khắp nơi	1
+N : Kèo	2
+N : Người	2
+N : Trước	1
+N : Trận	3
+N : Tổng	1
+N : Việc	1
+N : Xung quanh	2
+N : Z	1
+N : ban đầu	1
+N : biên	1
+N : biển	1
+N : buổi	1
+N : bàn	4
+N : bãi	1
+N : bên	5
+N : bóng	8
+N : bóng đá	8
+N : bạn	1
+N : chai	2
+N : chung cư	1
+N : chân rết	1
+N : chủ	1
+N : con bạc	6
+N : cuộc	1
+N : cà phê	9
+N : cách	1
+N : công việc	1
+N : cư xá	2
+N : cấp	3
+N : cấp độ	1
+N : cổ động viên	1
+N : cửa	1
+N : dưới	3
+N : giá trị	1
+N : giải	1
+N : giờ	2
+N : góc	1
+N : hiệp	2
+N : hôm	1
+N : hệ thống	1
+N : khi	8
+N : khoảng	2
+N : khu	2
+N : khu vực	7
+N : khách	5
+N : không khí	2
+N : kèo	17
+N : ly	1
+N : lòng	1
+N : lề đường	1
+N : lời lẽ	1
+N : màn hình	1
+N : máu	1
+N : máy	1
+N : mắt	1
+N : mặt	2
+N : mặt mày	1
+N : mức độ	1
+N : ngoài	1
+N : ngoại hạng	1
+N : ngã	1
+N : người	12
+N : nhau	4
+N : nhiệm vụ	1
+N : nhà	2
+N : nhà cái	5
+N : nhân viên	1
+N : nhóm	3
+N : nắm	1
+N : phần	1
+N : phần trăm	1
+N : quán	16
+N : quả	1
+N : quận	4
+N : sáng	1
+N : sân	1
+N : số	13
+N : sự	1
+N : tay	11
+N : thanh niên	2
+N : thành viên	2
+N : thái độ	1
+N : thằng	1
+N : thẻ	1
+N : thời gian	2
+N : thực chất	1
+N : tivi	1
+N : tiếng	2
+N : tiếng lóng	1
+N : tiền	21
+N : trong	1
+N : trên	1
+N : trùm	1
+N : trận	15
+N : tình huống	1
+N : tính chất	1
+N : tư	1
+N : tổng	2
+N : tổng số	2
+N : uy tín	1
+N : vai trò	1
+N : việc	3
+N : vị	2
+N : xe	3
+N : xung quanh	1
+N : xị	1
+N : ông	1
+N : ĐT di động	1
+N : Điện thoại	1
+N : Đường dây	2
+N : điểm	1
+N : đàn em	1
+N : đèn	1
+N : đêm	1
+N : đôi	1
+N : đường	9
+N : đường dây	7
+N : đất	1
+N : đầu	2
+N : đỏ đen	1
+N : đối phương	1
+N : đối thủ	1
+N : độ	10
+N : đội	8
+NP : *E*	6
+NP : *T*	1
+Nc : Sự	1
+Nc : cái	1
+Nc : người	1
+Nc : niềm	1
+Nc : vị	3
+Nc : ông	7
+Nc : đám	1
+Np : AC Milan	1
+Np : Anh	1
+Np : Attila	1
+Np : Bàu Cát	1
+Np : Bình Thạnh	1
+Np : Bùi Đình Túy	1
+Np : Bắc Hải	2
+Np : Fulham	1
+Np : Juventus	1
+Np : Lê Hồng Phong	1
+Np : Lạc Long Quân	1
+Np : Lữ Gia	1
+Np : Nguyễn Tất Thành	1
+Np : Triệu Đà	1
+Np : Tôn Đản	3
+Np : Võ Văn Tần	1
+Np : Đinh Bộ Lĩnh	1
+Np : Đoàn Văn Bơ	3
+Np : Đầm Sen	1
+Nu : ký	1
+Nu : m	1
+Nu : phút	2
+Nu : đ	1
+Nu : đồng	7
+Ny : A	1
+Ny : AM	2
+Ny : B	1
+Ny : C	2
+Ny : C.	5
+Ny : H.	1
+Ny : M.U	3
+Ny : ND	1
+Ny : Q.3	1
+Ny : T.	5
+Ny : TG	1
+Ny : TP . HCM	1
+Ny : TP.HCM	3
+Ny : TT	2
+Ny : Tôn Đản	1
+Ny : ĐT	11
+Ny : ĐT di động	1
+Ny : Đoàn Văn Bơ	1
+P : Chúng tôi	2
+P : Họ	2
+P : Mày	1
+P : Tui	1
+P : Tất cả	1
+P : ai	4
+P : bao giờ	1
+P : chúng tôi	6
+P : cả	1
+P : dây	1
+P : gì	2
+P : họ	5
+P : kia	1
+P : mình	2
+P : nào	2
+P : này	17
+P : sao	1
+P : tôi	1
+P : tất cả	1
+P : từng	1
+P : đây	2
+R : Bất kỳ	1
+R : Chỉ	2
+R : Hàng	1
+R : Không	2
+R : Vẫn	1
+R : chỉ	3
+R : càng	2
+R : còn	1
+R : có thể	4
+R : cũng	4
+R : cứ	1
+R : dần	1
+R : gần	2
+R : hàng	2
+R : hơn	1
+R : hết sức	1
+R : khá	1
+R : không	9
+R : liền	1
+R : luôn	2
+R : lên	3
+R : lại	4
+R : ngay	1
+R : ngay lập tức	1
+R : qua	1
+R : ra	12
+R : rất	4
+R : sắp	1
+R : sẽ	8
+R : theo	3
+R : thêm	1
+R : thường	2
+R : tiếp	1
+R : từng	1
+R : vào	2
+R : vừa	2
+R : đang	4
+R : đã	4
+R : được	4
+R : đến	4
+R : đều	4
+RBKT : RBKT	7
+T : Thế	1
+T : chính	1
+T : hả	2
+T : hết	1
+T : ngay	1
+T : nè	1
+V : *E*	1
+V : Cá độ	1
+V : Cách	2
+V : Còn	1
+V : Kết thúc	1
+V : Nhìn	1
+V : Nhận	1
+V : Theo	1
+V : Thành	1
+V : Tùy	2
+V : biết	1
+V : bàn giao	1
+V : bàn tán	1
+V : báo cáo	2
+V : bắt	8
+V : bắt đầu	2
+V : bị	1
+V : bỏ	2
+V : bỏ túi	1
+V : chi	2
+V : chia	2
+V : chiếm	1
+V : chiến thắng	1
+V : chung	4
+V : chuyển	2
+V : chăm chú	1
+V : chơi	1
+V : chọn	1
+V : chửi	2
+V : coi	1
+V : cá	1
+V : cá độ	32
+V : cáp	1
+V : còn	1
+V : có	17
+V : cười	1
+V : cược	1
+V : cảm nhận	1
+V : cầm	2
+V : cần	3
+V : cầu may	1
+V : di động	1
+V : diễn	5
+V : dùng	1
+V : dồn	1
+V : ghi	2
+V : giao	1
+V : giáp	1
+V : giấu	1
+V : giữ	1
+V : gấp	1
+V : gặp	3
+V : gọi	8
+V : gỡ	1
+V : hoàn thành	1
+V : hét	2
+V : hòng	1
+V : hướng	1
+V : hưởng	2
+V : hỏi	1
+V : khai cuộc	1
+V : kèm	1
+V : kết thúc	4
+V : kể	1
+V : là	6
+V : lên	1
+V : lăn	1
+V : lựa	1
+V : mang	1
+V : muốn	3
+V : mê	1
+V : móc	2
+V : nghe	2
+V : nghiêng	1
+V : nghĩ	1
+V : ngồi	2
+V : ngồi chồm hổm	1
+V : nhìn	1
+V : nhận	4
+V : nhận biết	1
+V : nâng	1
+V : ném	2
+V : nói	4
+V : nằm	1
+V : phân chia	1
+V : phạt	1
+V : phạt góc	1
+V : phải	3
+V : phản ứng	1
+V : phấn khích	1
+V : quen biết	1
+V : ra	5
+V : tham gia	4
+V : thay đổi	2
+V : theo	3
+V : theo dõi	2
+V : thoại	1
+V : thu	1
+V : thua	3
+V : thấy	1
+V : thắng	7
+V : thề	2
+V : tranh luận	1
+V : trêu chọc	1
+V : tìm	2
+V : túa	1
+V : tổ chức	4
+V : tụ tập	2
+V : vào	2
+V : về	1
+V : xong	1
+V : xầm xì	1
+V : ăn mặc	1
+V : đi	2
+V : điều phối	1
+V : đá	3
+V : đánh	2
+V : đưa	2
+V : được	5
+V : đấu	16
+V : đếm	1
+V : đến	4
+V : đổ	1
+V : độ	4
+V : đứng	1
+X : vào khoảng	1
