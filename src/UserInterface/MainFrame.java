@@ -723,19 +723,19 @@ private void ruleSaveMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//
         count = 0;
         int fileCount = 0;
         try {
-            writer = factory.createXMLStreamWriter(new FileOutputStream(System.getProperty("user.dir") + "/vlspXMLCorpus/All.xml"), "utf-8");
+            writer = factory.createXMLStreamWriter(new FileOutputStream(System.getProperty("user.dir") + "/vlspXMLCorpus/All_part00_rude.xml"), "utf-8");
             writer.writeStartDocument();
             writer.writeStartElement("root");
             for (int i = 0; i < nodes.size(); i++) {
                 DefaultMutableTreeNode node = nodes.get(i);
-                writer.writeStartElement("file");
-                writer.writeAttribute("name", inputPRDFiles[i].getName());
+//                writer.writeStartElement("file");
+//                writer.writeAttribute("name", inputPRDFiles[i].getName());
 
                 for (int j = 0; j < node.getChildCount(); j++) {
                     count++;
                     DefaultMutableTreeNode jNode = (DefaultMutableTreeNode) node.getChildAt(j);
                     extractInformation(true, jNode, writer);
-                    if (count % 40000 == 0) {
+                    if (count % 250 == 0) {
                         // <editor-fold desc="limit! change file!">
                         fileCount++;
                         writer.writeEndElement();
@@ -749,12 +749,12 @@ private void ruleSaveMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//
                         writer = factory.createXMLStreamWriter(new FileOutputStream(System.getProperty("user.dir") + "/vlspXMLCorpus/All_part" + number + "_rude.xml"), "utf-8");
                         writer.writeStartDocument();
                         writer.writeStartElement("root");
-                        writer.writeStartElement("file");
-                        writer.writeAttribute("name", inputPRDFiles[i].getName());
+//                        writer.writeStartElement("file");
+//                        writer.writeAttribute("name", inputPRDFiles[i].getName());
                         // </editor-fold>
                     }
                 }
-                writer.writeEndElement();
+//                writer.writeEndElement();
             }
             writer.writeEndElement();
             writer.writeEndDocument();
