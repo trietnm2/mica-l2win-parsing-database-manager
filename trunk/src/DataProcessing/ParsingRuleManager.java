@@ -12,6 +12,7 @@ import javax.swing.tree.DefaultMutableTreeNode;
  *
  * @author lelightwin
  */
+
 class StringAnalyze {
 
     private String rulePart;

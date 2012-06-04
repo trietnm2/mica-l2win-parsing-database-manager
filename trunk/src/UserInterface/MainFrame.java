@@ -11,7 +11,8 @@
 package UserInterface;
 
 import DataProcessing.ParsingRuleManager;
-import DataProcessing.ParsingTreeDataManager;
+import DataProcessing.ReadPRDCorpus;
+import DataProcessing.ReadXMLCorpus;
 import DataProcessing.supportElement.ParsingRule;
 import com.sun.org.apache.xerces.internal.dom.AttributeMap;
 import java.io.*;
@@ -50,7 +51,7 @@ public class MainFrame extends javax.swing.JFrame {
     private ArrayList<String> lexicalRules;
     private ArrayList<Integer> lexicalRuleQuantity;
     private ArrayList<DefaultMutableTreeNode> nodes;
-    private File[] inputPRDFiles;
+    private File[] inputFiles;
     private HashMap<String, String> punctuation;
 
     /**
@@ -486,24 +487,29 @@ public class MainFrame extends javax.swing.JFrame {
 
     private void setFileListIndex(int index) {
         displayNode.removeAllChildren();
-        displayNode.setUserObject("các cây dữ liệu có trong file " + inputPRDFiles[index].getName());
+        displayNode.setUserObject("các cây dữ liệu có trong file " + inputFiles[index].getName());
         displayNode.add(nodes.get(index));
 
         displayTree.updateUI();
     }
 
 private void openButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_openButtonActionPerformed
+    fileChooser1.showOpenDialog(null);
+    inputFiles = fileChooser1.getSelectedFiles();
+    fileListModel.clear();
+    nodes.clear();
     try {
-        fileChooser1.showOpenDialog(null);
-        inputPRDFiles = fileChooser1.getSelectedFiles();
-        fileListModel.clear();
-        nodes.clear();
-        for (int i = 0; i < inputPRDFiles.length; i++) {
-            File inputPRDFile = inputPRDFiles[i];
-            if (inputPRDFile != null) {
-                fileListModel.addElement(inputPRDFile.getName());
-                ParsingTreeDataManager ptdm = new ParsingTreeDataManager(inputPRDFile);
-                nodes.add(ptdm.getFullExtractedTreeNode());
+        for (int i = 0; i < inputFiles.length; i++) {
+            File inputFile = inputFiles[i];
+            if (inputFile != null) {
+                fileListModel.addElement(inputFile.getName());
+                if (inputFile.getName().endsWith("prd")) {
+                    ReadPRDCorpus rpc = new ReadPRDCorpus(inputFile);
+                    nodes.add(rpc.getFullExtractedTreeNode());
+                } else if (inputFile.getName().endsWith("xml")){
+                    ReadXMLCorpus rxc = new ReadXMLCorpus(inputFile);
+                    nodes.add(rxc.getFullExtractedTreeNode());
+                }
             }
         }
         setFileListIndex(0);
@@ -729,7 +735,7 @@ private void ruleSaveMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//
             for (int i = 0; i < nodes.size(); i++) {
                 DefaultMutableTreeNode node = nodes.get(i);
 //                writer.writeStartElement("file");
-//                writer.writeAttribute("name", inputPRDFiles[i].getName());
+//                writer.writeAttribute("name", inputFiles[i].getName());
 
                 for (int j = 0; j < node.getChildCount(); j++) {
                     count++;
@@ -750,7 +756,7 @@ private void ruleSaveMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//
                         writer.writeStartDocument();
                         writer.writeStartElement("root");
 //                        writer.writeStartElement("file");
-//                        writer.writeAttribute("name", inputPRDFiles[i].getName());
+//                        writer.writeAttribute("name", inputFiles[i].getName());
                         // </editor-fold>
                     }
                 }
