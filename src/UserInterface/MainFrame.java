@@ -506,7 +506,7 @@ private void openButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FI
                 if (inputFile.getName().endsWith("prd")) {
                     ReadPRDCorpus rpc = new ReadPRDCorpus(inputFile);
                     nodes.add(rpc.getFullExtractedTreeNode());
-                } else if (inputFile.getName().endsWith("xml")){
+                } else if (inputFile.getName().endsWith("xml")) {
                     ReadXMLCorpus rxc = new ReadXMLCorpus(inputFile);
                     nodes.add(rxc.getFullExtractedTreeNode());
                 }
@@ -514,6 +514,10 @@ private void openButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FI
         }
         setFileListIndex(0);
         fileList.setSelectedIndex(0);
+    } catch (SAXException ex) {
+        Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+    } catch (ParserConfigurationException ex) {
+        Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
     } catch (IOException ex) {
         Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
     }

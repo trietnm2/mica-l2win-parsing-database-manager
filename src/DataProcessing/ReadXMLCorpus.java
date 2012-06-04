@@ -46,6 +46,30 @@ public class ReadXMLCorpus {
     }
 
     /**
+     * @function create treeNode from xmlNode (recursively)
+     *
+     * @param treeNode
+     * @param xmlNode
+     */
+    private void generate(DefaultMutableTreeNode treeNode, Node xmlNode) {
+        NodeList children = xmlNode.getChildNodes();
+        for (int i = 0; i < children.getLength(); i++) {
+            Node child = children.item(i);
+            if (child.getNodeType() == Node.ELEMENT_NODE) {
+                DefaultMutableTreeNode childTreeNode = new DefaultMutableTreeNode(child.getNodeName());
+                treeNode.add(childTreeNode);
+
+                String data = getValueOfNode(child);
+                if (!data.equals("")) {
+                    DefaultMutableTreeNode text = new DefaultMutableTreeNode(data);
+                    childTreeNode.add(text);
+                }
+                generate(childTreeNode, child);
+            }
+        }
+    }
+
+    /**
      *
      * @return the node include all the Parsing Tree Node of all sentences which
      * has been extracted from inputFile
@@ -60,8 +84,14 @@ public class ReadXMLCorpus {
         Document doc = dBuilder.parse(inputFile);
         Node node = doc.getFirstChild();
         NodeList listSentences = node.getChildNodes();
-        for (int i = 0; i < listSentences.getLength();i++){
+        for (int i = 0; i < listSentences.getLength(); i++) {
             Node iSentence = listSentences.item(i);
+            if (iSentence.getNodeType() == Node.ELEMENT_NODE) {
+                String text = getValueOfNode(iSentence);
+                DefaultMutableTreeNode iNode = new DefaultMutableTreeNode(iSentence.getNodeName() + " - " + text);
+                root.add(iNode);
+                generate(iNode, iSentence);
+            }
         }
         return root;
     }
