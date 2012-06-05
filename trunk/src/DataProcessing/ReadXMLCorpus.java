@@ -4,6 +4,7 @@
  */
 package DataProcessing;
 
+import com.sun.org.apache.xerces.internal.dom.AttributeMap;
 import java.io.File;
 import java.io.IOException;
 import javax.swing.tree.DefaultMutableTreeNode;
@@ -56,9 +57,20 @@ public class ReadXMLCorpus {
         for (int i = 0; i < children.getLength(); i++) {
             Node child = children.item(i);
             if (child.getNodeType() == Node.ELEMENT_NODE) {
-                DefaultMutableTreeNode childTreeNode = new DefaultMutableTreeNode(child.getNodeName());
-                treeNode.add(childTreeNode);
+                String str = child.getNodeName();
 
+                AttributeMap atts = (AttributeMap) child.getAttributes();
+                if (atts != null) {
+                    Node syntaxAtt = atts.item(0);
+                    if (syntaxAtt != null) {
+                        if (!"".equals(syntaxAtt.getNodeValue())) {
+                            str += "(" + syntaxAtt.getNodeValue() + ")";
+                        }
+                    }
+                }
+
+                DefaultMutableTreeNode childTreeNode = new DefaultMutableTreeNode(str);
+                treeNode.add(childTreeNode);
                 String data = getValueOfNode(child);
                 if (!data.equals("")) {
                     DefaultMutableTreeNode text = new DefaultMutableTreeNode(data);
@@ -67,6 +79,26 @@ public class ReadXMLCorpus {
                 generate(childTreeNode, child);
             }
         }
+    }
+
+    /**
+     * @return text for each node
+     * @param node
+     */
+    private String addText(DefaultMutableTreeNode node) {
+        String str = "";
+        if (node.isLeaf()) {
+            str = node.toString();
+        } else {
+            for (int i = 0; i < node.getChildCount(); i++) {
+                str += addText((DefaultMutableTreeNode) node.getChildAt(i)) + " ";
+            }
+            str = str.trim();
+            if (!node.toString().contains(" - ")) {
+                node.setUserObject(node.toString() + " - " + str);
+            }
+        }
+        return str;
     }
 
     /**
@@ -91,6 +123,7 @@ public class ReadXMLCorpus {
                 DefaultMutableTreeNode iNode = new DefaultMutableTreeNode(iSentence.getNodeName() + " - " + text);
                 root.add(iNode);
                 generate(iNode, iSentence);
+                addText(iNode);
             }
         }
         return root;

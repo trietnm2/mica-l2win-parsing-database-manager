@@ -113,7 +113,7 @@ public class MainFrame extends javax.swing.JFrame {
         displayNode = new DefaultMutableTreeNode("");
         displayTree = new JTree(displayNode);
         displayScrollPane.setViewportView(displayTree);
-        fileChooser1.setCurrentDirectory(new File(System.getProperty("user.dir") + "/parsedTreeCorpus_newFormat"));
+        fileChooser1.setCurrentDirectory(new File(System.getProperty("user.dir") + "/vlspXMLCorpus_Refined"));
         fileChooser1.setMultiSelectionEnabled(true);
         fileListModel = new DefaultListModel();
         ruleListModel = new DefaultListModel();
