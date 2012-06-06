@@ -12,12 +12,16 @@ public class ParsingRule {
 
     private String left;                // left side of a parsing rule
     private String right;               // right side of a parsing rule
+    private String leftSyntax;          // syntax function of left side
+    private String rightSyntax;         // syntax function of right side
     private String leftIllustration;    // a example which illustrate for left side 
     private String rightIllustration;   // a example which illustrate for right side
 
-    public ParsingRule(String left, String right, String leftIllustration, String rightIllustration) {
+    public ParsingRule(String left, String right, String leftSyntax, String rightSyntax,String leftIllustration, String rightIllustration) {
         this.left = left;
         this.right = right;
+        this.leftSyntax = leftSyntax;
+        this.rightSyntax = rightSyntax;
         this.leftIllustration = leftIllustration;
         this.rightIllustration = rightIllustration;
     }
@@ -48,5 +52,19 @@ public class ParsingRule {
      */
     public String getRightIllustration() {
         return rightIllustration;
+    }
+
+    /**
+     * @return the leftSyntax
+     */
+    public String getLeftSyntax() {
+        return leftSyntax;
+    }
+
+    /**
+     * @return the rightSyntax
+     */
+    public String getRightSyntax() {
+        return rightSyntax;
     }
 }
