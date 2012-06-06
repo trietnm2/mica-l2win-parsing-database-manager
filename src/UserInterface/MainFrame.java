@@ -48,6 +48,7 @@ public class MainFrame extends javax.swing.JFrame {
     private ArrayList<String> ruleListStr;
     private ArrayList<Integer> ruleQuantity;
     private ArrayList<ArrayList<String>> ruleIllustrationListStr;
+    private ArrayList<String> syntaxFunctions;
     private ArrayList<String> lexicalRules;
     private ArrayList<Integer> lexicalRuleQuantity;
     private ArrayList<DefaultMutableTreeNode> nodes;
@@ -124,6 +125,7 @@ public class MainFrame extends javax.swing.JFrame {
         ruleListStr = new ArrayList<String>();
         ruleQuantity = new ArrayList<Integer>();
         ruleIllustrationListStr = new ArrayList<ArrayList<String>>();
+        syntaxFunctions = new ArrayList<String>();
         lexicalRules = new ArrayList<String>();
         lexicalRuleQuantity = new ArrayList<Integer>();
         nodes = new ArrayList<DefaultMutableTreeNode>();
