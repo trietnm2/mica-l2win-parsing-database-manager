@@ -656,7 +656,6 @@ private void ruleSaveMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//
     BufferedWriter nbfr = null;
     BufferedWriter lbfr = null;
     try {
-        // TODO add your handling code here:
         String nRulesPath = System.getProperty("user.dir") + "/vietnameseParsingRule/vnRule.nr";
         String lRulesPath = System.getProperty("user.dir") + "/vietnameseParsingRule/vnRule.lr";
         nbfr = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(nRulesPath), "utf-8"));;
