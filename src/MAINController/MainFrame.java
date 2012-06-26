@@ -1,0 +1,948 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/*
+ * MainFrame.java
+ *
+ * Created on 16-Nov-2011, 11:08:04
+ */
+package MAINController;
+
+import DataProcessing.ParsingRuleManager;
+import DataProcessing.ReadPRDCorpus;
+import DataProcessing.ReadXMLCorpus;
+import DataProcessing.supportElement.ParsingRule;
+import com.sun.org.apache.xerces.internal.dom.AttributeMap;
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javax.swing.DefaultListModel;
+import javax.swing.JTree;
+import javax.swing.filechooser.FileFilter;
+import javax.swing.tree.DefaultMutableTreeNode;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.stream.XMLOutputFactory;
+import javax.xml.stream.XMLStreamException;
+import javax.xml.stream.XMLStreamWriter;
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+import org.xml.sax.SAXException;
+
+/**
+ *
+ * @author lelightwin
+ */
+public class MainFrame extends javax.swing.JFrame {
+
+    private DefaultMutableTreeNode displayNode;
+    private DefaultListModel fileListModel;
+    private DefaultListModel ruleListModel;
+    private DefaultListModel lexicalRuleListModel;
+    private ArrayList<String> ruleListStr;
+    private ArrayList<Integer> ruleQuantity;
+    private ArrayList<ArrayList<String>> ruleIllustrationListStr;
+    private ArrayList<String> syntaxFunctions;
+    private ArrayList<String> lexicalRules;
+    private ArrayList<Integer> lexicalRuleQuantity;
+    private ArrayList<DefaultMutableTreeNode> nodes;
+    private File[] inputFiles;
+    private HashMap<String, String> punctuation;
+
+    /**
+     * Creates new form MainFrame
+     */
+    public MainFrame() throws IOException, SAXException, ParserConfigurationException {
+        initComponents();
+        setUpInit();
+    }
+
+    /**
+     * @param node
+     * @return the label value of node
+     */
+    private String getValueOfNode(Node node) {
+        Node target = node.getFirstChild();
+        if (target != null) {
+            if (target.getNodeType() == Node.TEXT_NODE) {
+                String result = target.getTextContent().trim();
+                return result;
+            } else {
+                return "";
+            }
+        } else {
+            return "";
+        }
+    }
+
+    /**
+     * @function load punctuation from file
+     *
+     * @throws IOException
+     * @throws SAXException
+     * @throws ParserConfigurationException
+     */
+    private void puncLoad() throws IOException, SAXException, ParserConfigurationException {
+        String puncDir = System.getProperty("user.dir") + "/vietnameseParsingRule/punctuation.xml";
+        File fXmlFile = new File(puncDir);
+        DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+        DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+        Document doc = dBuilder.parse(fXmlFile);
+        Node node = doc.getFirstChild();
+        NodeList list = node.getChildNodes();
+        for (int i = 0; i < list.getLength(); i++) {
+            Node iNode = list.item(i);
+            if (iNode.getNodeType() == Node.ELEMENT_NODE) {
+                AttributeMap att = (AttributeMap) iNode.getAttributes();
+                String abb = att.item(0).getNodeValue();
+                String value = getValueOfNode(iNode);
+                punctuation.put(value, abb);
+            }
+        }
+    }
+
+    /**
+     * initial set-up for the system
+     */
+    private void setUpInit() throws IOException, SAXException, ParserConfigurationException {
+        displayNode = new DefaultMutableTreeNode("");
+        displayTree = new JTree(displayNode);
+        displayScrollPane.setViewportView(displayTree);
+        fileChooser1.setCurrentDirectory(new File(System.getProperty("user.dir") + "/vlspXMLCorpus_Refined"));
+        fileChooser1.setMultiSelectionEnabled(true);
+        fileListModel = new DefaultListModel();
+        ruleListModel = new DefaultListModel();
+        lexicalRuleListModel = new DefaultListModel();
+        fileList.setModel(fileListModel);
+        ruleList.setModel(ruleListModel);
+        lexicalRuleList.setModel(lexicalRuleListModel);
+        ruleListStr = new ArrayList<String>();
+        ruleQuantity = new ArrayList<Integer>();
+        ruleIllustrationListStr = new ArrayList<ArrayList<String>>();
+        syntaxFunctions = new ArrayList<String>();
+        lexicalRules = new ArrayList<String>();
+        lexicalRuleQuantity = new ArrayList<Integer>();
+        nodes = new ArrayList<DefaultMutableTreeNode>();
+        punctuation = new HashMap<String, String>();
+        puncLoad();
+    }
+
+    /**
+     * This method is called from within the constructor to initialize the form.
+     * WARNING: Do NOT modify this code. The content of this method is always
+     * regenerated by the Form Editor.
+     */
+    @SuppressWarnings("unchecked")
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    private void initComponents() {
+
+        fileOpenChooserDialog = new javax.swing.JDialog();
+        fileChooser1 = new javax.swing.JFileChooser();
+        parsingRuleManagerFrame = new javax.swing.JFrame();
+        tabbedPane = new javax.swing.JTabbedPane();
+        nonLexicalRuleSplitPane = new javax.swing.JSplitPane();
+        ruleListScrollPane = new javax.swing.JScrollPane();
+        ruleList = new javax.swing.JList();
+        splitPane11 = new javax.swing.JSplitPane();
+        panel111 = new javax.swing.JPanel();
+        ruleScrollPane = new javax.swing.JScrollPane();
+        ruleTextArea = new javax.swing.JTextArea();
+        panel112 = new javax.swing.JPanel();
+        ruleDemonstrationScrollPane = new javax.swing.JScrollPane();
+        ruleDemonstrationTextArea = new javax.swing.JTextArea();
+        lexicalRulePanel = new javax.swing.JPanel();
+        lexicalRuleEditButton = new javax.swing.JButton();
+        lexicalRuleSaveButton = new javax.swing.JButton();
+        lexicalRuleScrollPane = new javax.swing.JScrollPane();
+        lexicalRuleList = new javax.swing.JList();
+        jMenuBar1 = new javax.swing.JMenuBar();
+        jMenu1 = new javax.swing.JMenu();
+        ruleSaveMenuItem = new javax.swing.JMenuItem();
+        jMenuItem2 = new javax.swing.JMenuItem();
+        jMenu3 = new javax.swing.JMenu();
+        jMenuItem3 = new javax.swing.JMenuItem();
+        displayPanel = new javax.swing.JPanel();
+        displaySplitPane = new javax.swing.JSplitPane();
+        fileListScrollPane = new javax.swing.JScrollPane();
+        fileList = new javax.swing.JList();
+        displayScrollPane = new javax.swing.JScrollPane();
+        displayTree = new javax.swing.JTree();
+        openButton = new javax.swing.JButton();
+        saveButton = new javax.swing.JButton();
+        createRuleButton = new javax.swing.JButton();
+        menuBar = new javax.swing.JMenuBar();
+        fileMenu = new javax.swing.JMenu();
+        openMenuItem = new javax.swing.JMenuItem();
+        saveMenuItem = new javax.swing.JMenuItem();
+        saveXMLFileMenuItem = new javax.swing.JMenuItem();
+        jSeparator1 = new javax.swing.JPopupMenu.Separator();
+        exitMenuItem = new javax.swing.JMenuItem();
+        jMenu2 = new javax.swing.JMenu();
+
+        fileChooser1.setCurrentDirectory(new java.io.File("C:/Users/lelightwin/Desktop/mica-l2win-parsing-database-manager/vlspXMLCorpus/"));
+        FileFilter filter1 = new MyFilter();
+        fileChooser1.setFileFilter(filter1);
+
+        javax.swing.GroupLayout fileOpenChooserDialogLayout = new javax.swing.GroupLayout(fileOpenChooserDialog.getContentPane());
+        fileOpenChooserDialog.getContentPane().setLayout(fileOpenChooserDialogLayout);
+        fileOpenChooserDialogLayout.setHorizontalGroup(
+            fileOpenChooserDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(fileChooser1, javax.swing.GroupLayout.DEFAULT_SIZE, 615, Short.MAX_VALUE)
+        );
+        fileOpenChooserDialogLayout.setVerticalGroup(
+            fileOpenChooserDialogLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(fileChooser1, javax.swing.GroupLayout.DEFAULT_SIZE, 426, Short.MAX_VALUE)
+        );
+
+        parsingRuleManagerFrame.setSize(800,600);
+        parsingRuleManagerFrame.setTitle("parsing rule manager");
+
+        tabbedPane.setBorder(javax.swing.BorderFactory.createEtchedBorder());
+
+        nonLexicalRuleSplitPane.setBorder(javax.swing.BorderFactory.createEtchedBorder());
+        nonLexicalRuleSplitPane.setDividerLocation(300);
+
+        ruleList.setBorder(javax.swing.BorderFactory.createEtchedBorder());
+        ruleList.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        ruleList.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                ruleListMouseClicked(evt);
+            }
+        });
+        ruleListScrollPane.setViewportView(ruleList);
+
+        nonLexicalRuleSplitPane.setLeftComponent(ruleListScrollPane);
+
+        splitPane11.setDividerLocation(150);
+        splitPane11.setOrientation(javax.swing.JSplitPane.VERTICAL_SPLIT);
+
+        ruleTextArea.setColumns(20);
+        ruleTextArea.setEditable(false);
+        ruleTextArea.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        ruleTextArea.setLineWrap(true);
+        ruleTextArea.setRows(5);
+        ruleTextArea.setWrapStyleWord(true);
+        ruleScrollPane.setViewportView(ruleTextArea);
+
+        javax.swing.GroupLayout panel111Layout = new javax.swing.GroupLayout(panel111);
+        panel111.setLayout(panel111Layout);
+        panel111Layout.setHorizontalGroup(
+            panel111Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(panel111Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(ruleScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 438, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        panel111Layout.setVerticalGroup(
+            panel111Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(panel111Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(ruleScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 127, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        splitPane11.setTopComponent(panel111);
+
+        ruleDemonstrationTextArea.setColumns(20);
+        ruleDemonstrationTextArea.setEditable(false);
+        ruleDemonstrationTextArea.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        ruleDemonstrationTextArea.setLineWrap(true);
+        ruleDemonstrationTextArea.setRows(5);
+        ruleDemonstrationTextArea.setWrapStyleWord(true);
+        ruleDemonstrationScrollPane.setViewportView(ruleDemonstrationTextArea);
+
+        javax.swing.GroupLayout panel112Layout = new javax.swing.GroupLayout(panel112);
+        panel112.setLayout(panel112Layout);
+        panel112Layout.setHorizontalGroup(
+            panel112Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(panel112Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(ruleDemonstrationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 438, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        panel112Layout.setVerticalGroup(
+            panel112Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, panel112Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(ruleDemonstrationScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 358, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        splitPane11.setRightComponent(panel112);
+
+        nonLexicalRuleSplitPane.setRightComponent(splitPane11);
+
+        tabbedPane.addTab("Non-lexical rules", nonLexicalRuleSplitPane);
+
+        lexicalRuleEditButton.setText("Edit");
+
+        lexicalRuleSaveButton.setText("Save");
+
+        lexicalRuleList.setBorder(javax.swing.BorderFactory.createEtchedBorder());
+        lexicalRuleList.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        lexicalRuleScrollPane.setViewportView(lexicalRuleList);
+
+        javax.swing.GroupLayout lexicalRulePanelLayout = new javax.swing.GroupLayout(lexicalRulePanel);
+        lexicalRulePanel.setLayout(lexicalRulePanelLayout);
+        lexicalRulePanelLayout.setHorizontalGroup(
+            lexicalRulePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(lexicalRulePanelLayout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(lexicalRulePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, lexicalRulePanelLayout.createSequentialGroup()
+                        .addComponent(lexicalRuleSaveButton, javax.swing.GroupLayout.PREFERRED_SIZE, 77, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(lexicalRuleEditButton))
+                    .addComponent(lexicalRuleScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 747, Short.MAX_VALUE))
+                .addContainerGap())
+        );
+
+        lexicalRulePanelLayout.linkSize(javax.swing.SwingConstants.HORIZONTAL, new java.awt.Component[] {lexicalRuleEditButton, lexicalRuleSaveButton});
+
+        lexicalRulePanelLayout.setVerticalGroup(
+            lexicalRulePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, lexicalRulePanelLayout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(lexicalRuleScrollPane, javax.swing.GroupLayout.DEFAULT_SIZE, 475, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(lexicalRulePanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(lexicalRuleEditButton, javax.swing.GroupLayout.PREFERRED_SIZE, 37, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(lexicalRuleSaveButton, javax.swing.GroupLayout.PREFERRED_SIZE, 37, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap())
+        );
+
+        lexicalRulePanelLayout.linkSize(javax.swing.SwingConstants.VERTICAL, new java.awt.Component[] {lexicalRuleEditButton, lexicalRuleSaveButton});
+
+        tabbedPane.addTab("Lexical Rules", lexicalRulePanel);
+
+        jMenu1.setText("File");
+
+        ruleSaveMenuItem.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_S, java.awt.event.InputEvent.CTRL_MASK));
+        ruleSaveMenuItem.setText("Save Rules");
+        ruleSaveMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ruleSaveMenuItemActionPerformed(evt);
+            }
+        });
+        jMenu1.add(ruleSaveMenuItem);
+
+        jMenuItem2.setText("Exit");
+        jMenu1.add(jMenuItem2);
+
+        jMenuBar1.add(jMenu1);
+
+        jMenu3.setText("Edit");
+
+        jMenuItem3.setText("Modify rule");
+        jMenu3.add(jMenuItem3);
+
+        jMenuBar1.add(jMenu3);
+
+        parsingRuleManagerFrame.setJMenuBar(jMenuBar1);
+
+        javax.swing.GroupLayout parsingRuleManagerFrameLayout = new javax.swing.GroupLayout(parsingRuleManagerFrame.getContentPane());
+        parsingRuleManagerFrame.getContentPane().setLayout(parsingRuleManagerFrameLayout);
+        parsingRuleManagerFrameLayout.setHorizontalGroup(
+            parsingRuleManagerFrameLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, parsingRuleManagerFrameLayout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(tabbedPane)
+                .addContainerGap())
+        );
+        parsingRuleManagerFrameLayout.setVerticalGroup(
+            parsingRuleManagerFrameLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(parsingRuleManagerFrameLayout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(tabbedPane, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Parsing Tree Data Manager - written by lelightwin");
+
+        displayPanel.setBorder(javax.swing.BorderFactory.createEtchedBorder());
+
+        displaySplitPane.setDividerLocation(150);
+
+        fileList.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        fileList.setModel(new javax.swing.AbstractListModel() {
+            String[] strings = { "Item 1", "Item 2", "Item 3", "Item 4", "Item 5" };
+            public int getSize() { return strings.length; }
+            public Object getElementAt(int i) { return strings[i]; }
+        });
+        fileList.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                fileListMouseClicked(evt);
+            }
+        });
+        fileListScrollPane.setViewportView(fileList);
+
+        displaySplitPane.setLeftComponent(fileListScrollPane);
+
+        displayTree.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
+        displayScrollPane.setViewportView(displayTree);
+
+        displaySplitPane.setRightComponent(displayScrollPane);
+
+        javax.swing.GroupLayout displayPanelLayout = new javax.swing.GroupLayout(displayPanel);
+        displayPanel.setLayout(displayPanelLayout);
+        displayPanelLayout.setHorizontalGroup(
+            displayPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(displayPanelLayout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(displaySplitPane, javax.swing.GroupLayout.DEFAULT_SIZE, 736, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        displayPanelLayout.setVerticalGroup(
+            displayPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(displayPanelLayout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(displaySplitPane, javax.swing.GroupLayout.DEFAULT_SIZE, 399, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        openButton.setText("Open");
+        openButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                openButtonActionPerformed(evt);
+            }
+        });
+
+        saveButton.setText("Save");
+
+        createRuleButton.setText("Create Parsing Rule");
+        createRuleButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                createRuleButtonActionPerformed(evt);
+            }
+        });
+
+        fileMenu.setText("File");
+
+        openMenuItem.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_O, java.awt.event.InputEvent.CTRL_MASK));
+        openMenuItem.setText("Open");
+        fileMenu.add(openMenuItem);
+
+        saveMenuItem.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_S, java.awt.event.InputEvent.CTRL_MASK));
+        saveMenuItem.setText("Save");
+        fileMenu.add(saveMenuItem);
+
+        saveXMLFileMenuItem.setText("Save XML File");
+        saveXMLFileMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                saveXMLFileMenuItemActionPerformed(evt);
+            }
+        });
+        fileMenu.add(saveXMLFileMenuItem);
+        fileMenu.add(jSeparator1);
+
+        exitMenuItem.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_E, java.awt.event.InputEvent.CTRL_MASK));
+        exitMenuItem.setText("Exit");
+        fileMenu.add(exitMenuItem);
+
+        menuBar.add(fileMenu);
+
+        jMenu2.setText("Edit");
+        menuBar.add(jMenu2);
+
+        setJMenuBar(menuBar);
+
+        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+        getContentPane().setLayout(layout);
+        layout.setHorizontalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(displayPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(openButton)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(saveButton)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(createRuleButton)))
+                .addContainerGap())
+        );
+        layout.setVerticalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(openButton, javax.swing.GroupLayout.DEFAULT_SIZE, 47, Short.MAX_VALUE)
+                    .addComponent(saveButton, javax.swing.GroupLayout.DEFAULT_SIZE, 45, Short.MAX_VALUE)
+                    .addComponent(createRuleButton, javax.swing.GroupLayout.PREFERRED_SIZE, 45, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(displayPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        pack();
+    }// </editor-fold>//GEN-END:initComponents
+
+    private void setFileListIndex(int index) {
+        displayNode.removeAllChildren();
+        displayNode.setUserObject("các cây dữ liệu có trong file " + inputFiles[index].getName());
+        displayNode.add(nodes.get(index));
+
+        displayTree.updateUI();
+    }
+
+private void openButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_openButtonActionPerformed
+    fileChooser1.showOpenDialog(null);
+    inputFiles = fileChooser1.getSelectedFiles();
+    fileListModel.clear();
+    nodes.clear();
+    try {
+        for (int i = 0; i < inputFiles.length; i++) {
+            File inputFile = inputFiles[i];
+            if (inputFile != null) {
+                fileListModel.addElement(inputFile.getName());
+                if (inputFile.getName().endsWith("prd")) {
+                    ReadPRDCorpus rpc = new ReadPRDCorpus(inputFile);
+                    nodes.add(rpc.getFullExtractedTreeNode());
+                } else if (inputFile.getName().endsWith("xml")) {
+                    ReadXMLCorpus rxc = new ReadXMLCorpus(inputFile);
+                    nodes.add(rxc.getFullExtractedTreeNode());
+                }
+            }
+        }
+        setFileListIndex(0);
+        fileList.setSelectedIndex(0);
+    } catch (SAXException ex) {
+        Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+    } catch (ParserConfigurationException ex) {
+        Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+    } catch (IOException ex) {
+        Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+    }
+}//GEN-LAST:event_openButtonActionPerformed
+
+    /**
+     * @function solve the case when the index is selected
+     *
+     * @param index
+     */
+    private void setRuleListIndex(int index) {
+        ruleList.setSelectedIndex(index);
+        ruleTextArea.setText((String) ruleListModel.get(index));
+        ruleTextArea.append("\nQuantity     :   " + ruleQuantity.get(index));
+        ArrayList<String> strArr = ruleIllustrationListStr.get(index);
+        ruleDemonstrationTextArea.setText("");
+        for (int i = 0; i < strArr.size(); i++) {
+            String string = strArr.get(i);
+            int indx = i + 1;
+            ruleDemonstrationTextArea.append("CASE " + indx + ":\n" + string + "\n");
+        }
+    }
+
+    /**
+     * set up for the parsing rule manager frame
+     *
+     * @param ruleSet
+     * @param lexRules
+     */
+    // <editor-fold desc="set up parsing rule manager frame">
+    private void setUpParsingRuleManagerFrame(ArrayList<ParsingRule> ruleSet, ArrayList<String> lexRules) {
+        for (int i = 0; i < ruleSet.size(); i++) {
+            // <editor-fold desc="processing the non-lexical rules">
+            ParsingRule iRule = ruleSet.get(i);
+            String rule = iRule.getLeft() + "   -->   " + iRule.getRight();
+            if (!ruleListStr.contains(rule)) {
+                // <editor-fold>
+                ruleListStr.add(rule);
+                ruleQuantity.add(1);
+                String illu = iRule.getLeftIllustration() + "\n------------\n" + iRule.getRightIllustration() + "__________________";
+                ArrayList<String> a = new ArrayList<String>();
+                a.add(illu);
+                ruleIllustrationListStr.add(a);
+                // </editor-fold>
+            } else {
+                // <editor-fold>
+                int index = ruleListStr.indexOf(rule);
+                ruleQuantity.set(index, ruleQuantity.get(index) + 1);
+                String illu = iRule.getLeftIllustration() + "\n------------\n" + iRule.getRightIllustration() + "__________________";
+                ruleIllustrationListStr.get(index).add(illu);
+                // </editor-fold>
+            }
+            // </editor-fold>
+        }
+
+        for (int i = 0; i < lexRules.size(); i++) {
+            // <editor-fold desc="processing the lexical rules">
+            String string = lexRules.get(i);
+            if (!lexicalRules.contains(string)) {
+                // <editor-fold>
+                lexicalRules.add(string);
+                lexicalRuleQuantity.add(1);
+                // </editor-fold>
+            } else {
+                // <editor-fold>
+                int index = lexicalRules.indexOf(string);
+                lexicalRuleQuantity.set(index, lexicalRuleQuantity.get(index) + 1);
+                // </editor-fold>
+            }
+            // </editor-fold>
+        }
+    }
+    // </editor-fold>
+
+private void createRuleButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_createRuleButtonActionPerformed
+    if (!displayNode.isLeaf()) {
+        ruleListModel.removeAllElements();
+        lexicalRuleListModel.removeAllElements();
+        ruleListStr.clear();
+        ruleIllustrationListStr.clear();
+        ruleQuantity.clear();
+        lexicalRules.clear();
+        lexicalRuleQuantity.clear();
+
+        int[] indxs = fileList.getSelectedIndices();
+
+        if (indxs.length > 0) {
+            for (int i = 0; i < indxs.length; i++) {
+                // <editor-fold>
+                DefaultMutableTreeNode root = (DefaultMutableTreeNode) nodes.get(indxs[i]);
+                for (int j = 0; j < root.getChildCount(); j++) {
+                    DefaultMutableTreeNode node = (DefaultMutableTreeNode) root.getChildAt(j);
+                    ParsingRuleManager ruleManager = new ParsingRuleManager(node);
+                    ArrayList<ParsingRule> ruleSet = ruleManager.getRules();
+                    ArrayList<String> lexRules = ruleManager.getLexicalRules();
+
+                    setUpParsingRuleManagerFrame(ruleSet, lexRules);
+
+                }
+                // </editor-fold>
+            }
+
+            // <editor-fold desc="describe what is in here">
+            for (int i = 0; i < ruleListStr.size(); i++) {
+                String string = ruleListStr.get(i);
+                ruleListModel.addElement(i + 1 + ".    " + string);
+            }
+            for (int i = 0; i < lexicalRules.size(); i++) {
+                String string = i + 1 + ".  " + lexicalRules.get(i) + "     quantity:   " + lexicalRuleQuantity.get(i);
+                lexicalRuleListModel.addElement(string);
+            }
+            setRuleListIndex(0);
+            // </editor-fold>
+            parsingRuleManagerFrame.setVisible(true);
+        }
+    }
+}//GEN-LAST:event_createRuleButtonActionPerformed
+
+private void ruleListMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_ruleListMouseClicked
+    if (!ruleListModel.isEmpty()) {
+        int index = ruleList.getSelectedIndex();
+        if (index != -1) {
+            setRuleListIndex(index);
+        }
+    }
+}//GEN-LAST:event_ruleListMouseClicked
+
+private void fileListMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_fileListMouseClicked
+    int index = fileList.getSelectedIndex();
+    setFileListIndex(index);
+}//GEN-LAST:event_fileListMouseClicked
+
+private void ruleSaveMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ruleSaveMenuItemActionPerformed
+    BufferedWriter nbfw = null;
+    BufferedWriter lbfw = null;
+    BufferedWriter posw = null;
+    try {
+        String nRulesPath = System.getProperty("user.dir") + "/vietnameseParsingRule/vnRule.nr";
+        String lRulesPath = System.getProperty("user.dir") + "/vietnameseParsingRule/vnRule.lr";
+        String POSFilePath = System.getProperty("user.dir") + "/vietnameseParsingRule/POS.dat";
+        nbfw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(nRulesPath), "utf-8"));
+        lbfw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(lRulesPath), "utf-8"));
+        posw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(POSFilePath), "utf-8"));
+
+
+        ArrayList<String> parsingRule = new ArrayList<String>();
+        ArrayList<String> lexicalRule = new ArrayList<String>();
+        ArrayList<String> POS = new ArrayList<String>();
+
+        for (int i = 0; i < ruleListModel.size(); i++) {
+            // <editor-fold desc="for parsing rule">
+            String str1 = (String) ruleListModel.get(i);
+            String str2 = str1.substring(str1.indexOf(" ")).trim().replaceAll("   -->  ", "");
+
+            // <editor-fold desc="for POS">
+            String[] strs = str2.split(" ");
+            for (int j = 0; j < strs.length; j++) {
+                String string = strs[j];
+                if (!POS.contains(string)) {
+                    POS.add(string);
+                }
+            }
+            // </editor-fold>
+
+            String str3 = str2 + " " + ruleQuantity.get(i);
+            parsingRule.add(str3);
+            // </editor-fold>
+        }
+
+        // <editor-fold desc="save POS to file">
+        Collections.sort(POS);
+        for (int i = 0; i < POS.size(); i++) {
+            String string = POS.get(i);
+            posw.write(string);
+            posw.newLine();
+        }
+        // </editor-fold>
+
+        // <editor-fold desc="save the parsing rule to file">
+        Collections.sort(parsingRule);
+        for (int i = 0; i < parsingRule.size(); i++) {
+            String string = parsingRule.get(i);
+            nbfw.write(string);
+            nbfw.newLine();
+        }
+        // </editor-fold>
+
+        for (int i = 0; i < lexicalRuleListModel.size(); i++) {
+            // <editor-fold desc="for lexical rule">
+            String str1 = (String) lexicalRuleListModel.get(i);
+            String str2 = str1.substring(str1.indexOf(" ")).trim().replaceAll("     quantity:  ", "").replaceAll(" ->", "");
+            lexicalRule.add(str2);
+            // </editor-fold>
+        }
+
+        // <editor-fold desc="save the lexical rule to file">
+        Collections.sort(lexicalRule);
+        for (int i = 0; i < lexicalRule.size(); i++) {
+            String string = lexicalRule.get(i);
+            lbfw.write(string);
+            lbfw.newLine();
+        }
+        // </editor-fold>
+    } catch (IOException ex) {
+        Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+    } finally {
+        try {
+            nbfw.close();
+            lbfw.close();
+            posw.close();
+        } catch (IOException ex) {
+            Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+}//GEN-LAST:event_ruleSaveMenuItemActionPerformed
+    private int count;
+
+    /**
+     * @function write the information from node to writer
+     *
+     * @param node
+     * @param writer
+     */
+    private void extractInformation(boolean sentence, DefaultMutableTreeNode node, XMLStreamWriter writer) throws XMLStreamException {
+        String data = node.toString();
+        if (data.indexOf(" - ") != -1) {
+            String label = data.substring(0, data.indexOf(" - "));
+            String text = data.substring(data.indexOf(" - ") + 3);
+
+            int LBKTIndex = label.indexOf("(");
+            int RBKTIndex = label.indexOf(")");
+
+            if (LBKTIndex != -1) {
+                String lexicalLabel = label.substring(0, LBKTIndex);
+                String syntaxLabel = label.substring(LBKTIndex + 1, RBKTIndex);
+                writer.writeStartElement(lexicalLabel);
+                if (sentence) {
+                    writer.writeAttribute("id", count + "");
+                }
+
+                writer.writeAttribute("syntax", syntaxLabel);
+            } else {
+                if (!punctuation.containsKey(label)) {
+                    writer.writeStartElement(label);
+                    if (sentence) {
+                        writer.writeAttribute("id", count + "");
+                    }
+                } else {
+                    String abb = punctuation.get(label);
+                    writer.writeStartElement(abb);
+                }
+            }
+            writer.writeCharacters(text);
+
+            for (int i = 0; i < node.getChildCount(); i++) {
+                extractInformation(false, (DefaultMutableTreeNode) node.getChildAt(i), writer);
+            }
+            writer.writeEndElement();
+        }
+    }
+
+    private void saveXMLFileMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_saveXMLFileMenuItemActionPerformed
+        XMLOutputFactory factory = XMLOutputFactory.newInstance();
+        XMLStreamWriter writer;
+        count = 0;
+        int fileCount = 0;
+        try {
+            writer = factory.createXMLStreamWriter(new FileOutputStream(System.getProperty("user.dir") + "/vlspXMLCorpus/All_part00_rude.xml"), "utf-8");
+            writer.writeStartDocument();
+            writer.writeStartElement("root");
+            for (int i = 0; i < nodes.size(); i++) {
+                DefaultMutableTreeNode node = nodes.get(i);
+//                writer.writeStartElement("file");
+//                writer.writeAttribute("name", inputFiles[i].getName());
+
+                for (int j = 0; j < node.getChildCount(); j++) {
+                    count++;
+                    DefaultMutableTreeNode jNode = (DefaultMutableTreeNode) node.getChildAt(j);
+                    extractInformation(true, jNode, writer);
+                    if (count % 250 == 0) {
+                        // <editor-fold desc="limit! change file!">
+                        fileCount++;
+                        writer.writeEndElement();
+                        writer.writeEndDocument();
+                        writer.close();
+
+                        String number = fileCount + "";
+                        if (fileCount < 10) {
+                            number = "0" + number;
+                        }
+                        writer = factory.createXMLStreamWriter(new FileOutputStream(System.getProperty("user.dir") + "/vlspXMLCorpus/All_part" + number + "_rude.xml"), "utf-8");
+                        writer.writeStartDocument();
+                        writer.writeStartElement("root");
+//                        writer.writeStartElement("file");
+//                        writer.writeAttribute("name", inputFiles[i].getName());
+                        // </editor-fold>
+                    }
+                }
+//                writer.writeEndElement();
+            }
+            writer.writeEndElement();
+            writer.writeEndDocument();
+            writer.close();
+        } catch (XMLStreamException ex) {
+            Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }//GEN-LAST:event_saveXMLFileMenuItemActionPerformed
+    /**
+     * @function print ArrayList on screen
+     *
+     * @param ruleSet
+     * @param lexRules
+     */
+// <editor-fold desc="projectIntoScreen">
+    private void projectIntoScreen(ArrayList<ParsingRule> ruleSet, ArrayList<String> lexRules) {
+        for (int j = 0; j < ruleSet.size(); j++) {
+            ParsingRule pRule = ruleSet.get(j);
+            System.out.println(pRule.getLeft() + "\t->\t" + pRule.getRight());
+            System.out.println(pRule.getLeftIllustration());
+            System.out.println(pRule.getRightIllustration());
+            System.out.println("------------------------------------------");
+        }
+        for (int j = 0; j < lexRules.size(); j++) {
+            String string = lexRules.get(j);
+            System.out.println(string);
+        }
+    }
+    // </editor-fold>
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String args[]) {
+        /*
+         * Set the Nimbus look and feel
+         */
+        //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
+        /*
+         * If Nimbus (introduced in Java SE 6) is not available, stay with the
+         * default look and feel. For details see
+         * http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html
+         */
+        try {
+            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+                if ("Nimbus".equals(info.getName())) {
+                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
+                    break;
+
+
+                }
+            }
+        } catch (ClassNotFoundException ex) {
+            java.util.logging.Logger.getLogger(MainFrame.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (InstantiationException ex) {
+            java.util.logging.Logger.getLogger(MainFrame.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (IllegalAccessException ex) {
+            java.util.logging.Logger.getLogger(MainFrame.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+            java.util.logging.Logger.getLogger(MainFrame.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        }
+        //</editor-fold>
+
+        /*
+         * Create and display the form
+         */
+        java.awt.EventQueue.invokeLater(new Runnable() {
+
+            public void run() {
+                try {
+                    new MainFrame().setVisible(true);
+                } catch (IOException ex) {
+                    Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+                } catch (SAXException ex) {
+                    Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+                } catch (ParserConfigurationException ex) {
+                    Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+        });
+    }
+    // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton createRuleButton;
+    private javax.swing.JPanel displayPanel;
+    private javax.swing.JScrollPane displayScrollPane;
+    private javax.swing.JSplitPane displaySplitPane;
+    private javax.swing.JTree displayTree;
+    private javax.swing.JMenuItem exitMenuItem;
+    private javax.swing.JFileChooser fileChooser1;
+    private javax.swing.JList fileList;
+    private javax.swing.JScrollPane fileListScrollPane;
+    private javax.swing.JMenu fileMenu;
+    private javax.swing.JDialog fileOpenChooserDialog;
+    private javax.swing.JMenu jMenu1;
+    private javax.swing.JMenu jMenu2;
+    private javax.swing.JMenu jMenu3;
+    private javax.swing.JMenuBar jMenuBar1;
+    private javax.swing.JMenuItem jMenuItem2;
+    private javax.swing.JMenuItem jMenuItem3;
+    private javax.swing.JPopupMenu.Separator jSeparator1;
+    private javax.swing.JButton lexicalRuleEditButton;
+    private javax.swing.JList lexicalRuleList;
+    private javax.swing.JPanel lexicalRulePanel;
+    private javax.swing.JButton lexicalRuleSaveButton;
+    private javax.swing.JScrollPane lexicalRuleScrollPane;
+    private javax.swing.JMenuBar menuBar;
+    private javax.swing.JSplitPane nonLexicalRuleSplitPane;
+    private javax.swing.JButton openButton;
+    private javax.swing.JMenuItem openMenuItem;
+    private javax.swing.JPanel panel111;
+    private javax.swing.JPanel panel112;
+    private javax.swing.JFrame parsingRuleManagerFrame;
+    private javax.swing.JScrollPane ruleDemonstrationScrollPane;
+    private javax.swing.JTextArea ruleDemonstrationTextArea;
+    private javax.swing.JList ruleList;
+    private javax.swing.JScrollPane ruleListScrollPane;
+    private javax.swing.JMenuItem ruleSaveMenuItem;
+    private javax.swing.JScrollPane ruleScrollPane;
+    private javax.swing.JTextArea ruleTextArea;
+    private javax.swing.JButton saveButton;
+    private javax.swing.JMenuItem saveMenuItem;
+    private javax.swing.JMenuItem saveXMLFileMenuItem;
+    private javax.swing.JSplitPane splitPane11;
+    private javax.swing.JTabbedPane tabbedPane;
+    // End of variables declaration//GEN-END:variables
+}
