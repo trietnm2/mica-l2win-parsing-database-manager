@@ -671,7 +671,7 @@ private void ruleSaveMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//
         for (int i = 0; i < ruleListModel.size(); i++) {
             // <editor-fold desc="for parsing rule">
             String str1 = (String) ruleListModel.get(i);
-            String str2 = str1.substring(str1.indexOf(" ")).trim().replaceAll("   -->  ", "");
+            String str2 = str1.substring(str1.indexOf(" ")).trim().replaceAll("   -->   ", "");
 
             // <editor-fold desc="for POS">
             String[] strs = str2.split(" ");
